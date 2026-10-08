@@ -6,10 +6,6 @@ _The Broken Heart of Greenrest · Status: played 2026-08-31_
 the site that reads his grief back to him and prices it. Every other thread in the session bends
 around that.
 
-**Teaching session:** two mechanics get taught by play tonight — **opposed
-Stealth vs Perception in obscurement** (§2: fog, camouflage, and who sees whom first) and
-**difficult terrain + forced movement near hazards** (§3: root-islets, shoves, and black water).
-
 ## 0 · The shape of the night
 
 > **The Widow Fen** — two grieving sisters keep house over a drowning bog, their dead sister's
@@ -291,7 +287,7 @@ Graveheart exactly — same structure, same vision, no attunement:
 
 - **Fog + camouflage opener:** one group Stealth (advantage) vs individual Perceptions;
   sight-only Perception at disadvantage beyond 30 ft in the fen's fog; loser of the contest rolls
-  **initiative at disadvantage** (2024 surprise). Teach it by name after it resolves.
+  **initiative at disadvantage** (2024 surprise). Name the rule after it resolves.
 - **Black water:** difficult terrain to swim, and the fen's theme — bullywugs shove, toads
   swallow. A PC under black water is in trouble the table can see.
 - **The furniture holds** unless looted/vandalized — first grab animates that room's set only;

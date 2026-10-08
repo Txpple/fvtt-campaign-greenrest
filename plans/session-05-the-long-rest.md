@@ -6,9 +6,6 @@ The whole session is Greenrest: recovery, investigation, roleplay, and the choic
 with the Hollowing as the thing that finally drags them into the town they've been avoiding. One
 fight, at the very end, as the flex item.
 
-**Teaching session:** two mechanics get taught by play tonight — the **Exhaustion**
-condition (Thomas's arc, §1–3) and the **Ready action** against flyers (§7).
-
 ## 1 · Open — the walk out, and Thomas failing
 
 - Montage the exit: the tunnels are silent — the sobbing has stopped. The Hollow does not restock;
@@ -147,11 +144,11 @@ know what the coven will cover.
   then on first blood the peryton lands on that prey and commits: Gore + Talons every round, no
   retreat until it or the meal is finished. The tree line denies dive lanes — hugging it forces them
   in low and slow. Jetten's brand-new arrows earn their keep.
-- **TEACHING BEAT — the Ready action.** The melee martials learn to ready attacks against swooping
-  attackers ("when it comes at me, I swing"). Teach the tradeoff honestly: a readied attack is one
-  attack (your reaction), **not** Extra Attack — readying vs repositioning is a real choice. Thrown
-  javelins are the companion lesson. Let round 1 flail at the sky; prompt or let Jetten model it;
-  round 2 the readied greatsword connects mid-swoop.
+- **The Ready action.** The melee martials' answer to swooping attackers is to ready attacks
+  ("when it comes at me, I swing"), and the tradeoff is real: a readied attack is one attack (your
+  reaction), **not** Extra Attack — readying vs repositioning is a choice. Thrown javelins are the
+  other answer. Expect round 1 to flail at the sky and round 2's readied greatsword to connect
+  mid-swoop.
 - **Budget honesty.** The party is **level 4**; level is decoupled from shards. Longshadow + 2
   perytons is ≈1,550–1,700 XP, which crowds the high end for four at level 4, so the default is to
   **drop the second peryton** (≈1,150 XP, a solid moderate fight).
