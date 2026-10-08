@@ -6,7 +6,7 @@ _The Broken Heart of Greenrest · Status: played 2026-08-31_
 the site that reads his grief back to him and prices it. Every other thread in the session bends
 around that.
 
-**Teaching session** (beginner table): two mechanics get taught by play tonight — **opposed
+**Teaching session:** two mechanics get taught by play tonight — **opposed
 Stealth vs Perception in obscurement** (§2: fog, camouflage, and who sees whom first) and
 **difficult terrain + forced movement near hazards** (§3: root-islets, shoves, and black water).
 
@@ -74,7 +74,7 @@ turned out); a wrecked boat on the southeast islet. The great tree's trunk-stair
 **The guard tokens are already placed and hidden**: the Bog Sage enthroned on the north-center
 islet, warriors north, west, and two south by the docks.
 
-**The opener — the perception contest** ("who sees who first," kept simple for a beginner table,
+**The opener — the perception contest** ("who sees who first," kept simple,
 taught out loud after it resolves):
 
 - The bullywugs are **guards, and they attack on sight — no parley, no toll**. They are **not hiding from the party; they live

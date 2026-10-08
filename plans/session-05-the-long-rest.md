@@ -6,7 +6,7 @@ The whole session is Greenrest: recovery, investigation, roleplay, and the choic
 with the Hollowing as the thing that finally drags them into the town they've been avoiding. One
 fight, at the very end, as the flex item.
 
-**Teaching session** (beginner table): two mechanics get taught by play tonight — the **Exhaustion**
+**Teaching session:** two mechanics get taught by play tonight — the **Exhaustion**
 condition (Thomas's arc, §1–3) and the **Ready action** against flyers (§7).
 
 ## 1 · Open — the walk out, and Thomas failing

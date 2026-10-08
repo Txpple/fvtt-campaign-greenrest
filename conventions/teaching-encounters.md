@@ -1,7 +1,7 @@
-# A beginner campaign: encounters as lesson plans
+# Encounters as lesson plans
 
-Greenrest is a **beginner campaign for two players**, who between them run the four PCs (Gren,
-Jetten, Morgash, Thomas). Teaching D&D mechanics through play is an explicit goal of the campaign.
+Greenrest was played by four players, one PC each (Gren, Jetten, Morgash, Thomas). Teaching a
+D&D mechanic through play, rather than by explaining it, was a standing prep goal.
 
 **Rule:** design each fight or arc to put **one mechanic** in the spotlight, cleanly learned.
 Spectacle matters less than the lesson.
