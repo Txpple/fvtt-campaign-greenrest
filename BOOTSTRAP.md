@@ -5,8 +5,8 @@ for restoring the world, or for using the layout as a starting point. There are 
 wire.
 
 ```powershell
-git clone https://github.com/Txpple/fvtt-campaign-greenrest.git "D:\Workbench\FVTT\Repos\fvtt-campaign-greenrest"
-cd "D:\Workbench\FVTT\Repos\fvtt-campaign-greenrest"; npm install
+git clone https://github.com/Txpple/fvtt-campaign-greenrest.git "<repos>\fvtt-campaign-greenrest"
+cd "<repos>\fvtt-campaign-greenrest"; npm install
 npm run check
 ```
 

@@ -8,7 +8,7 @@
 #     387 node_modules files, stray art crops. Here, an untracked path whose top-level entry is not
 #     already tracked (a new root file or folder) is left unstaged and named, so it gets filed or
 #     committed on purpose. Everything under an existing folder syncs as before.
-#   - THE COMMIT MESSAGE SAYS WHAT CHANGED ("sync (DESKTOP-NY): plans, world/npcs - 3 files")
+#   - THE COMMIT MESSAGE SAYS WHAT CHANGED ("sync (<machine>): plans, world/npcs - 3 files")
 #     instead of 56 identical "notes sync" commits.
 #
 # Location-independent: everything resolves from $PSScriptRoot, so this file works from any repo

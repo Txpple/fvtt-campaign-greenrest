@@ -27,7 +27,7 @@ legible.
 | --- | --- |
 | **fvtt-mcp-dnd5e** · `foundry-greenrest5e` (the live table world) / `foundry-local5e` (a stale mirror) | The Foundry bridge for world `the-broken-heart-of-greenrest`. `plot-drift-check`, `session-audit`, `bestiary-builder`, `tom-cartos-import` and the build skills read `plot/`, `plans/`, `sessions/`, `campaign.json` and `conventions/`. |
 | **fvtt-mcp-sessionscribe** · `scribe` | `session-scribe`: Craig recording + Foundry chat → `sessions/<date>/` and `party-snapshots/`, per `campaign.json` and `STYLE.md`. |
-| **fvtt-mcp-imagegen** · `artificer` | `illustration-builder`: read `art/SHELF.md`; approved pieces are in `art/`. |
+| **fvtt-mcp-imagegen** · `imagegen` | `illustration-builder`: read `art/SHELF.md`; approved pieces are in `art/`. |
 
 Two scripts are this repo's own: `scripts/public-scrub.mjs` (what was removed for publication,
 re-runnable) and `scripts/render-session-docs.mjs` (the session PDFs the scribe never made,
