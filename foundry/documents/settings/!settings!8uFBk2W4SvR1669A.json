@@ -1,0 +1,18 @@
+{
+  "key": "fvtt-mod-combatplus.combatMusic",
+  "user": null,
+  "value": "true",
+  "_id": "8uFBk2W4SvR1669A",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783694343498,
+    "modifiedTime": 1783696520425,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!8uFBk2W4SvR1669A"
+}

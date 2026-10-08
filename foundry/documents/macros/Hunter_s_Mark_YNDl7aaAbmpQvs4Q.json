@@ -1,0 +1,32 @@
+{
+  "type": "script",
+  "scope": "actor",
+  "name": "Hunter's Mark",
+  "img": "icons/skills/targeting/crosshair-scope-sniper-green.webp",
+  "command": "dnd5e.documents.macro.rollItem(\"Hunter's Mark\", { event })",
+  "flags": {
+    "dnd5e": {
+      "itemMacro": true
+    }
+  },
+  "_id": "YNDl7aaAbmpQvs4Q",
+  "author": "LVDVg5n3IGEBCWns",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "LVDVg5n3IGEBCWns": 3
+  },
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1787100616562,
+    "modifiedTime": 1787100616563,
+    "lastModifiedBy": "LVDVg5n3IGEBCWns",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!macros!YNDl7aaAbmpQvs4Q"
+}

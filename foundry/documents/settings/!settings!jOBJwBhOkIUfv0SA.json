@@ -1,0 +1,18 @@
+{
+  "key": "core.moduleConfiguration",
+  "value": "{\"dnd-arcana-unleashed\":true,\"fvtt-mod-autoexplore\":true,\"fvtt-mod-battleflow\":true,\"combat-tracker-dock\":true,\"fvtt-mod-combatplus\":true,\"dice-so-nice\":true,\"dice-calculator\":true,\"dnd-dungeon-masters-guide\":true,\"dnd-monster-manual\":true,\"dnd-players-handbook\":true,\"dnd-heroes-faerun\":true,\"fvtt-mod-fxstudio\":true,\"gm-vision\":true,\"jb2a_patreon\":true,\"fvtt-mod-lootshelf\":true,\"fvtt-mod-miscpatches\":false,\"fvtt-mod-openserver\":true,\"tomcartos-ostenwold\":true,\"fvtt-mod-partystash\":true,\"psfx-patreon\":true,\"dnd-ravenloft-horrors-within\":false,\"sequencer\":true,\"fvtt-mod-soundscape\":true,\"torch\":true,\"fvtt-mod-vendorfixes\":true}",
+  "_id": "jOBJwBhOkIUfv0SA",
+  "user": null,
+  "_stats": {
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1782928364033,
+    "modifiedTime": 1790340914639,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!jOBJwBhOkIUfv0SA"
+}

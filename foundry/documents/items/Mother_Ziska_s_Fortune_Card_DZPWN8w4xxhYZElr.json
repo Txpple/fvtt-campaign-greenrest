@@ -1,0 +1,57 @@
+{
+  "name": "Mother Ziska's Fortune Card",
+  "type": "loot",
+  "img": "icons/sundries/gaming/playing-cards.webp",
+  "system": {
+    "description": {
+      "value": "<p>A single hand-painted card from Mother Ziska's fortune-deck, left in the party's keeping after a reading. Its image is strange and specific: a green road winding into mist, and at the end of it a figure asleep in the grass. The old woman wouldn't say what it meant — only smiled, and told them they'd know it when they saw it.</p>",
+      "chat": ""
+    },
+    "quantity": 1,
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "rarity": "",
+    "identified": true,
+    "properties": [],
+    "type": {
+      "value": "junk",
+      "subtype": ""
+    },
+    "identifier": "mother-ziskas-fortune-card",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "container": null
+  },
+  "folder": "d0YzQsbDfWa7x4kj",
+  "_id": "DZPWN8w4xxhYZElr",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783036247575,
+    "modifiedTime": 1783036247576,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!DZPWN8w4xxhYZElr"
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Bolt of Fine Cloth",
+  "type": "loot",
+  "img": "icons/equipment/chest/coat-collared-red-gold.webp",
+  "system": {
+    "description": {
+      "value": "<p>Dyed southern wool from the caravan's cargo, still folded and clean — worth good coin at any market.</p>",
+      "chat": ""
+    },
+    "quantity": 1,
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "rarity": "",
+    "identified": true,
+    "properties": [],
+    "type": {
+      "value": "trade",
+      "subtype": ""
+    },
+    "identifier": "bolt-of-fine-cloth",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "container": null
+  },
+  "folder": "IRI8Gfz0uA2I8cID",
+  "_id": "1xfkjhhovQJEXEHz",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783040221649,
+    "modifiedTime": 1783040718496,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!1xfkjhhovQJEXEHz"
+}

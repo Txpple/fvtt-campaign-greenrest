@@ -1,0 +1,18 @@
+{
+  "key": "core.time",
+  "value": "414",
+  "_id": "TmgqKWcOx9BorWFD",
+  "user": null,
+  "_stats": {
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1782928364016,
+    "modifiedTime": 1790729694080,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!TmgqKWcOx9BorWFD"
+}

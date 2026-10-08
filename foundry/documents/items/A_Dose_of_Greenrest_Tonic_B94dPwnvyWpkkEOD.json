@@ -1,0 +1,79 @@
+{
+  "name": "A Dose of Greenrest Tonic",
+  "type": "consumable",
+  "img": "icons/consumables/potions/vial-cork-green.webp",
+  "system": {
+    "description": {
+      "value": "<p>A stoppered clay vial of bitter green cordial, brewed behind the counter and sealed by hand. The label is written in Selma's tidy, careful hand: <em>“One swallow at bedtime.”</em></p><p>A swallow brings deep and dreamless sleep — a common enough remedy in a town where the nights are long and the forest is close.</p>",
+      "chat": ""
+    },
+    "type": {
+      "value": "potion",
+      "subtype": ""
+    },
+    "quantity": 1,
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "rarity": "",
+    "identified": true,
+    "uses": {
+      "max": "1",
+      "spent": 0,
+      "recovery": [],
+      "autoDestroy": false
+    },
+    "source": {
+      "rules": "2024",
+      "revision": 1
+    },
+    "activities": {},
+    "identifier": "a-dose-of-greenrest-tonic",
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "damage": {
+      "base": {
+        "types": [],
+        "custom": {
+          "enabled": false
+        },
+        "scaling": {
+          "number": 1
+        }
+      },
+      "replace": false
+    },
+    "properties": []
+  },
+  "folder": "zTwpr0BeGkGPUNqw",
+  "_id": "B94dPwnvyWpkkEOD",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1786193903222,
+    "modifiedTime": 1786202492271,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!B94dPwnvyWpkkEOD"
+}

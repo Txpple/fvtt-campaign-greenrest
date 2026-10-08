@@ -1,0 +1,28 @@
+{
+  "name": "01 - Daggerford",
+  "type": "Actor",
+  "folder": null,
+  "flags": {
+    "world": {
+      "mcpGenerated": true,
+      "createdAt": "2026-07-02T19:41:20.223Z"
+    }
+  },
+  "_id": "9Yje8kA4aaTXCP78",
+  "description": "",
+  "sorting": "a",
+  "sort": 0,
+  "color": "#c2913f",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783021278067,
+    "modifiedTime": 1786552782515,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!9Yje8kA4aaTXCP78"
+}

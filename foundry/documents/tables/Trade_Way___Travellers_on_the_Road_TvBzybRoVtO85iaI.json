@@ -1,0 +1,342 @@
+{
+  "name": "Trade Way — Travellers on the Road",
+  "description": "Roadside strangers on the Trade Way, south of Daggerford toward the Misty Forest — non-combat, roleplay travel encounters. NONE of these travellers know the village of Greenrest or the party's true quest. Two entries — the trapper (05) and the minstrel's ballad (07) — carry a very nascent, deniable clue to the hidden plot; let them pass as woodsman's superstition and an old sad song. Rollable on any leg of the journey.",
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "type": "text",
+      "description": "<strong>Ordella Vance &amp; caravan</strong> — a northbound merchant train, three wagons of Daggerford cloth and tin, guards riding drag. The master, a broad, tired woman, hails the party for road-news and to warn them off the southern stretches: <em>“Not bandit-quiet down there. Empty-quiet. Didn't pass a living soul in two days. You mind yourselves.”</em> Glad to trade rations or gossip.",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "LkTYlpzSpUkRuxwF",
+      "name": "",
+      "img": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783041187366,
+        "modifiedTime": 1783041187366,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!TvBzybRoVtO85iaI.LkTYlpzSpUkRuxwF"
+    },
+    {
+      "type": "text",
+      "description": "<strong>Brother Tobin</strong> — a barefoot hedge-priest of Chauntea, sunburned and dusty, walking a circuit of roadside shrines. He blesses the party's journey unasked and lingers to talk weather and crops. <em>“The Lady's been strange with her gifts of late — some fields simply cannot fail, others starve a mile off. She doesn't usually play favourites.”</em> He means nothing by it.<br><em>GM — gives the party: @UUID[Item.pHpBTpv3LIbYBaq7]{Chauntea's Barley-Token} — a Chauntea blessing-token he presses on them as he goes.</em>",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "1SlDNQckwmlRF3xM",
+      "name": "",
+      "img": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783041187368,
+        "modifiedTime": 1783041187368,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!TvBzybRoVtO85iaI.1SlDNQckwmlRF3xM"
+    },
+    {
+      "type": "text",
+      "description": "<strong>Denby Cobble</strong> — a peddler and his put-upon mule, cart jangling with pans, ribbons, and dubious charms. Relentlessly cheerful; he'll try to sell the party a <em>“genuine feywood luck-knot, blessed and everything”</em> for a silver, and throw in three tall tales for free. Utterly harmless.<br><em>GM — gives the party: @UUID[Item.H98ptfXZplBOFX25]{Feywood Luck-Knot} — if they buy it (a silver) or just humour him, the charm is a real keepsake.</em>",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "hi9sEyJsnCmFcP5G",
+      "name": "",
+      "img": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783041187369,
+        "modifiedTime": 1783041187369,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!TvBzybRoVtO85iaI.hi9sEyJsnCmFcP5G"
+    },
+    {
+      "type": "text",
+      "description": "<strong>Corwin Vale</strong> — a traveller in mourning grey, carrying a small wrapped bundle he will not set down. Courteous and quiet, bound south to bury his wife where the two were wed. If the party is kind he says, softly: <em>“They tell you grief passes. It doesn't. It just learns to walk beside you.”</em> Then he tips his head and walks on.",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "l42NrU2oC0bmDRRF",
+      "name": "",
+      "img": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783041187370,
+        "modifiedTime": 1783041187370,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!TvBzybRoVtO85iaI.l42NrU2oC0bmDRRF"
+    },
+    {
+      "type": "text",
+      "description": "<strong>Halgar Vos</strong> — a trapper coming out of the deep woods; furs, a bad limp, eyes on everything. He'll swap pelts for salt and steel. The warn-you-off sort: <em>“That old wood's fey country, and fey country don't keep our clock. A thing down there'll wait a hundred years for someone who's never coming back — they don't understand <em>ending</em>. Don't stay long enough to catch it.”</em><br><em>GM — nascent clue: the fey inability to accept a death. To him it's pure woodsman's superstition; let it pass unremarked.</em>",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "3RXIfeOgr90scvHY",
+      "name": "",
+      "img": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783041187371,
+        "modifiedTime": 1783041187371,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!TvBzybRoVtO85iaI.3RXIfeOgr90scvHY"
+    },
+    {
+      "type": "text",
+      "description": "<strong>Pib &amp; Josk</strong> — two couriers on lathered horses, racing the same sealed letter to two rival lords, each loudly certain the other is a forger and a scoundrel. They'll actually pay the party to arbitrate — then gallop off still bellowing, the argument entirely unresolved.",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "803ua4d8FdfhOBzl",
+      "name": "",
+      "img": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783041187372,
+        "modifiedTime": 1783041187372,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!TvBzybRoVtO85iaI.803ua4d8FdfhOBzl"
+    },
+    {
+      "type": "text",
+      "description": "<strong>Marisel</strong> — a wandering minstrel with a road-worn lute, glad of any audience; she plays for a coin or a hot meal. Deep in her repertoire is a very old, half-forgotten ballad — <em>“The Green and the Grey”</em> — about a deathless green thing that loved a mortal youth and could not let him go when his years ran out. A sad old tune, she thinks, nothing more. Asked the youth's name, the oldest verse gives only <em>“Corin.”</em><br><em>GM — nascent clue: a garbled folk-memory of the Dreamer and Corin. The minstrel has no idea it's true; don't let her tie it to any place.</em><br><em>GM — gives the party: @UUID[Item.R8Ht21MSdnajwZKw]{Ballad Sheet: The Green and the Grey} — for a coin or a kindness she'll write the ballad's words out (the handout that names Corin).</em>",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_id": "6kQXteF2kEGPbi7o",
+      "name": "",
+      "img": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783041187373,
+        "modifiedTime": 1783083612041,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!TvBzybRoVtO85iaI.6kQXteF2kEGPbi7o"
+    },
+    {
+      "type": "text",
+      "description": "<strong>Weslo Crane</strong> — a self-appointed “road-warden” at a rickety poled barrier, a weaselly man in a too-large tabard who insists the Trade Way now carries a toll, payable to him, for <em>“upkeep and protection.”</em> There is no upkeep and no protection; he folds the instant he's challenged. <em>(Quiet foreshadowing: the next thing on this road that wants a toll won't be bluffing.)</em>",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_id": "6hpDf1l6fDF86KAU",
+      "name": "",
+      "img": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783041187374,
+        "modifiedTime": 1783041187374,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!TvBzybRoVtO85iaI.6hpDf1l6fDF86KAU"
+    },
+    {
+      "type": "text",
+      "description": "<strong>Rurik Dunn</strong> — a lone survivor of another expedition, gear half-gone and flinching at shadows, hurrying <em>north</em>. Whatever they went south for, he won't say — only: <em>“Whatever's on your map, it isn't worth the crossing. We were six.”</em> Can't be talked into turning back. A ready drop-in ally, or a grim omen — GM's choice.",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_id": "QHfdIOyiiRB95Mco",
+      "name": "",
+      "img": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783041187375,
+        "modifiedTime": 1783041187375,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!TvBzybRoVtO85iaI.QHfdIOyiiRB95Mco"
+    },
+    {
+      "type": "text",
+      "description": "<strong>Mother Ziska</strong> — an old fortune-teller in a mule-drawn wagon strung with charms, who offers to read the party's road for a coin. Her patter is cold-reading and cheap mystery — but she's uncannily good at it. She sends them off with something that sounds like a warning and means nothing yet: <em>“Green roads ahead of you. Mind you don't fall asleep on them.”</em><br><em>GM — gives the party: @UUID[Item.DZPWN8w4xxhYZElr]{Mother Ziska's Fortune Card} — the card she deals them at the end of the reading.</em>",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_id": "5io7HtGWIB7RP7Mn",
+      "name": "",
+      "img": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783041187376,
+        "modifiedTime": 1783041187376,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!TvBzybRoVtO85iaI.5io7HtGWIB7RP7Mn"
+    },
+    {
+      "type": "text",
+      "description": "<strong>The Harrow family</strong> — settlers heading north (father Tam, a laden handcart, a lean dog, three quiet children), giving up on a southern holding that never quite took. Weary but decent; they'll share a fire and a thin stew. <em>“Land looked fine. Just never felt like ours. Some places don't want keeping.”</em>",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_id": "gVPbfWcRXLqSXSVO",
+      "name": "",
+      "img": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783041187377,
+        "modifiedTime": 1783041187377,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!TvBzybRoVtO85iaI.gVPbfWcRXLqSXSVO"
+    },
+    {
+      "type": "text",
+      "description": "<strong>Nell &amp; Gorm Alder</strong> — two old pilgrims married some forty years, walking a shrine circuit hand in hand and finishing each other's sentences. Sweet, funny, endlessly hospitable — they'll press food on the party and dispense unsolicited wisdom on love, feet, and weather. A small bright picture of a whole mortal life, freely given.<br><em>GM — gives the party: @UUID[Item.EXO8oHOZp3hAv5cO]{Pilgrim's Shrine-Token} — a little shrine-token pressed on them with their blessing.</em>",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_id": "gyfrk3MEiJLuIGeb",
+      "name": "",
+      "img": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783041187378,
+        "modifiedTime": 1783041187378,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!TvBzybRoVtO85iaI.gyfrk3MEiJLuIGeb"
+    }
+  ],
+  "folder": null,
+  "_id": "TvBzybRoVtO85iaI",
+  "img": "icons/svg/d20-grey.svg",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783035340074,
+    "modifiedTime": 1790522177883,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!TvBzybRoVtO85iaI"
+}

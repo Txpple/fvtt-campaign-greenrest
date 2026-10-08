@@ -1,0 +1,18 @@
+{
+  "key": "fvtt-mod-battleflow.autoDamage",
+  "user": null,
+  "value": "\"all\"",
+  "_id": "Ir11s3GmqhDxj3Eh",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1786795565388,
+    "modifiedTime": 1787150159777,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!Ir11s3GmqhDxj3Eh"
+}

@@ -1,0 +1,182 @@
+{
+  "name": "Scenes from the Road",
+  "pages": [
+    {
+      "type": "image",
+      "name": "Longshadow",
+      "src": "worlds/the-broken-heart-of-greenrest/assets/handouts/longshadow-temple-ruins.png",
+      "image": {
+        "caption": "Session 5: Longshadow and the perytons at the ruined shrine."
+      },
+      "ownership": {
+        "default": 2
+      },
+      "_id": "G0KO3syTGhOqVmAM",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "category": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1790130958141,
+        "modifiedTime": 1790130958141,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!7f9tZbfjD1d6NHzU.G0KO3syTGhOqVmAM"
+    },
+    {
+      "type": "image",
+      "name": "The Widow Fen",
+      "src": "worlds/the-broken-heart-of-greenrest/assets/handouts/widow-fen-acid-sphere.png",
+      "image": {
+        "caption": "Session 6: Knee-deep in the Widow Fen."
+      },
+      "ownership": {
+        "default": 2
+      },
+      "_id": "4sF9lcaCONSjmpOu",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "category": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1790130958141,
+        "modifiedTime": 1790130958141,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!7f9tZbfjD1d6NHzU.4sF9lcaCONSjmpOu"
+    },
+    {
+      "type": "image",
+      "name": "The Iris at Dawn",
+      "src": "worlds/the-broken-heart-of-greenrest/assets/handouts/the-iris-at-dawn.png",
+      "image": {
+        "caption": "Session 7: The Iris, and the four hooded faces."
+      },
+      "ownership": {
+        "default": 2
+      },
+      "_id": "n3Z9Ksw47Dy1VvrM",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "category": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1790130958141,
+        "modifiedTime": 1790130958141,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!7f9tZbfjD1d6NHzU.n3Z9Ksw47Dy1VvrM"
+    },
+    {
+      "type": "image",
+      "name": "The Cell",
+      "src": "worlds/the-broken-heart-of-greenrest/assets/handouts/veck-cell-midnight.png",
+      "image": {
+        "caption": "Session 7: The cell beneath the Temple of Shar."
+      },
+      "ownership": {
+        "default": 2
+      },
+      "_id": "AeLlvSnDaBihfWoY",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "category": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1790130958141,
+        "modifiedTime": 1790130958141,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!7f9tZbfjD1d6NHzU.AeLlvSnDaBihfWoY"
+    }
+  ],
+  "ownership": {
+    "default": 2,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "folder": "VQIbehh9eXDVwnpX",
+  "_id": "7f9tZbfjD1d6NHzU",
+  "categories": [],
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.3",
+    "createdTime": 1790130958141,
+    "modifiedTime": 1790130958143,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!7f9tZbfjD1d6NHzU"
+}

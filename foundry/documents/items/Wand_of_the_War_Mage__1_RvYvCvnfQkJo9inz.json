@@ -1,0 +1,755 @@
+{
+  "name": "Wand of the War Mage +1",
+  "type": "equipment",
+  "img": "modules/dnd-dungeon-masters-guide/assets/icons/items/wand-of-the-war-mage.webp",
+  "system": {
+    "activities": {
+      "1Wc0Vp0btiIzWz9s": {
+        "type": "enchant",
+        "name": "Wand of the War Mage, +1, +2, or +3",
+        "_id": "1Wc0Vp0btiIzWz9s",
+        "sort": 0,
+        "activation": {
+          "type": "",
+          "value": null,
+          "override": false,
+          "condition": ""
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [
+          {
+            "_id": "UaQkN55ZMKSt9LGT",
+            "level": {
+              "min": null,
+              "max": null
+            },
+            "riders": {
+              "activity": [],
+              "effect": [
+                "7Pcy0FgaAr30JUBV"
+              ],
+              "item": []
+            }
+          },
+          {
+            "_id": "jqNFw2MJ4B1HG257",
+            "level": {
+              "min": null,
+              "max": null
+            },
+            "riders": {
+              "activity": [],
+              "effect": [
+                "MFwYWOar805EHkdX"
+              ],
+              "item": []
+            }
+          },
+          {
+            "_id": "kejXxpJFzlSWcpm1",
+            "level": {
+              "min": null,
+              "max": null
+            },
+            "riders": {
+              "activity": [],
+              "effect": [
+                "5Z35lVoEDct7Ivx2"
+              ],
+              "item": []
+            }
+          }
+        ],
+        "range": {
+          "override": false,
+          "units": "self",
+          "special": ""
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft",
+            "type": "",
+            "stationary": false
+          },
+          "affects": {
+            "choice": false,
+            "count": "",
+            "type": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "enchant": {
+          "self": false
+        },
+        "restrictions": {
+          "allowMagical": false,
+          "categories": [],
+          "properties": [],
+          "type": ""
+        },
+        "img": "",
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p><em>Wand, Uncommon (Requires Attunement by a Spellcaster)</em></p><p>Won at a card table from a threadbare war-wizard, who kissed it once before sliding it across. \"Mind the cover,\" he said. \"It doesn't.\"</p><p>While holding this wand, you gain a +1 bonus to spell attack rolls. In addition, you ignore &amp;Reference[HalfCover] when making a spell attack roll.</p>",
+      "chat": ""
+    },
+    "identifier": "1-wand-of-the-war-mage",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarity": "uncommon",
+    "attunement": "required",
+    "attuned": false,
+    "equipped": false,
+    "armor": {
+      "value": null,
+      "magicalBonus": "1",
+      "dex": null
+    },
+    "cover": null,
+    "hp": {
+      "value": null,
+      "max": null,
+      "dt": null,
+      "conditions": ""
+    },
+    "type": {
+      "value": "wand",
+      "baseItem": ""
+    },
+    "properties": [
+      "foc",
+      "mgc"
+    ],
+    "proficient": null,
+    "crew": {
+      "value": []
+    },
+    "strength": null
+  },
+  "effects": [
+    {
+      "name": "War Mage +1",
+      "img": "modules/dnd-dungeon-masters-guide/assets/icons/items/wand-of-the-war-mage.webp",
+      "_id": "7Pcy0FgaAr30JUBV",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "system.bonuses.msak.attack",
+            "value": 1,
+            "priority": null,
+            "type": "add",
+            "phase": "initial",
+            "_id": "tM71TWtyIFzM201N",
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.bonuses.rsak.attack",
+            "value": 1,
+            "priority": null,
+            "type": "add",
+            "phase": "initial",
+            "_id": "0offSHqfXr2ZPwo5",
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "magical": true
+      },
+      "disabled": false,
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1783258263749,
+        "modifiedTime": 1790016578015,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "exportSource": null
+      },
+      "start": null,
+      "showIcon": 1,
+      "folder": null,
+      "_key": "!items.effects!RvYvCvnfQkJo9inz.7Pcy0FgaAr30JUBV"
+    },
+    {
+      "name": "War Mage +2",
+      "img": "modules/dnd-dungeon-masters-guide/assets/icons/items/wand-of-the-war-mage.webp",
+      "_id": "MFwYWOar805EHkdX",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "system.bonuses.msak.attack",
+            "value": 2,
+            "priority": null,
+            "type": "add",
+            "phase": "initial",
+            "_id": "z3ugrr4lpVUGUxr2",
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.bonuses.rsak.attack",
+            "value": 2,
+            "priority": null,
+            "type": "add",
+            "phase": "initial",
+            "_id": "KNGCZwSnvG0oqCEu",
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "magical": true,
+        "origin": {
+          "item": "Compendium.dnd-dungeon-masters-guide.equipment.Item.dmg1WandOfTheWar"
+        }
+      },
+      "disabled": false,
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": "Compendium.dnd-dungeon-masters-guide.equipment.Item.dmg1WandOfTheWar.ActiveEffect.7Pcy0FgaAr30JUBV",
+        "duplicateSource": null,
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1783258263749,
+        "modifiedTime": 1790016578015,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "exportSource": null
+      },
+      "start": null,
+      "showIcon": 1,
+      "folder": null,
+      "_key": "!items.effects!RvYvCvnfQkJo9inz.MFwYWOar805EHkdX"
+    },
+    {
+      "name": "War Mage +3",
+      "img": "modules/dnd-dungeon-masters-guide/assets/icons/items/wand-of-the-war-mage.webp",
+      "_id": "5Z35lVoEDct7Ivx2",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "system.bonuses.msak.attack",
+            "value": 3,
+            "priority": null,
+            "type": "add",
+            "phase": "initial",
+            "_id": "Ou6ffCNxur31H6AZ",
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.bonuses.rsak.attack",
+            "value": 3,
+            "priority": null,
+            "type": "add",
+            "phase": "initial",
+            "_id": "ba88s1L3Sj6uV3dE",
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "magical": true,
+        "origin": {
+          "item": "Compendium.dnd-dungeon-masters-guide.equipment.Item.dmg1WandOfTheWar"
+        }
+      },
+      "disabled": false,
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": "Compendium.dnd-dungeon-masters-guide.equipment.Item.dmg1WandOfTheWar.ActiveEffect.7Pcy0FgaAr30JUBV",
+        "duplicateSource": null,
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1783258263749,
+        "modifiedTime": 1790016578015,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "exportSource": null
+      },
+      "start": null,
+      "showIcon": 1,
+      "folder": null,
+      "_key": "!items.effects!RvYvCvnfQkJo9inz.5Z35lVoEDct7Ivx2"
+    },
+    {
+      "type": "enchantment",
+      "name": "Wand of the War Mage, +1",
+      "img": "systems/dnd5e/icons/spell-tiers/spell2.webp",
+      "disabled": true,
+      "_id": "UaQkN55ZMKSt9LGT",
+      "system": {
+        "changes": [
+          {
+            "key": "name",
+            "value": "{} of the War Mage, +1",
+            "priority": null,
+            "type": "override",
+            "phase": "initial",
+            "_id": "BWndNpWDqN4DkNFX",
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.rarity",
+            "value": "uncommon",
+            "priority": null,
+            "type": "override",
+            "phase": "initial",
+            "_id": "sI1gpWNqkuxj4R1T",
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.description.value",
+            "value": "{}<p>@Embed[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmg1WandOfTheWar caption=false]</p>",
+            "priority": null,
+            "type": "override",
+            "phase": "initial",
+            "_id": "YH15QmUl7OG6DwCP",
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.price.value",
+            "value": 400,
+            "priority": null,
+            "type": "add",
+            "phase": "initial",
+            "_id": "wcmI6O7TSAf3SkVK",
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.properties",
+            "value": "mgc",
+            "priority": null,
+            "type": "add",
+            "phase": "initial",
+            "_id": "cOSCKTwNAGCIekDQ",
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.attunement",
+            "value": "required",
+            "priority": null,
+            "type": "override",
+            "phase": "initial",
+            "_id": "G6Xp1ERL7YDte3nk",
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.magicalBonus",
+            "value": 1,
+            "priority": null,
+            "type": "upgrade",
+            "phase": "initial",
+            "_id": "uFvUI6OB6quIpvfW",
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "img",
+            "value": "modules/dnd-dungeon-masters-guide/assets/icons/items/wand-of-the-war-mage.webp",
+            "priority": null,
+            "type": "override",
+            "phase": "initial",
+            "_id": "cmjG5trhFuewwpOj",
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ]
+      },
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": false,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1783258263749,
+        "modifiedTime": 1790016578016,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "exportSource": null
+      },
+      "start": null,
+      "showIcon": 1,
+      "folder": null,
+      "_key": "!items.effects!RvYvCvnfQkJo9inz.UaQkN55ZMKSt9LGT"
+    },
+    {
+      "type": "enchantment",
+      "name": "Wand of the War Mage, +2",
+      "img": "systems/dnd5e/icons/spell-tiers/spell3.webp",
+      "disabled": true,
+      "system": {
+        "changes": [
+          {
+            "key": "name",
+            "value": "{} of the War Mage, +2",
+            "priority": null,
+            "type": "override",
+            "phase": "initial",
+            "_id": "VQFYq5olI592zIBi",
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.rarity",
+            "value": "rare",
+            "priority": null,
+            "type": "override",
+            "phase": "initial",
+            "_id": "wR5NENFAfGfxN2NP",
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.description.value",
+            "value": "{}<p>@Embed[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmg1WandOfTheWar caption=false]</p>",
+            "priority": null,
+            "type": "override",
+            "phase": "initial",
+            "_id": "UELtdiFMcF7SLajo",
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.price.value",
+            "value": 4000,
+            "priority": null,
+            "type": "add",
+            "phase": "initial",
+            "_id": "qV13Rv0ZAY8nHecY",
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.properties",
+            "value": "mgc",
+            "priority": null,
+            "type": "add",
+            "phase": "initial",
+            "_id": "H31sit8ODW08pS3w",
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.attunement",
+            "value": "required",
+            "priority": null,
+            "type": "override",
+            "phase": "initial",
+            "_id": "3JpqEvlmlhbwGIvI",
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.magicalBonus",
+            "value": 2,
+            "priority": null,
+            "type": "upgrade",
+            "phase": "initial",
+            "_id": "6t8ZlHRI2nuCCcnz",
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "img",
+            "value": "modules/dnd-dungeon-masters-guide/assets/icons/items/wand-of-the-war-mage.webp",
+            "priority": null,
+            "type": "override",
+            "phase": "initial",
+            "_id": "heVeLt3zRLgAClyR",
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ]
+      },
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": false,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1783258263749,
+        "modifiedTime": 1790016578016,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "exportSource": null
+      },
+      "_id": "jqNFw2MJ4B1HG257",
+      "start": null,
+      "showIcon": 1,
+      "folder": null,
+      "_key": "!items.effects!RvYvCvnfQkJo9inz.jqNFw2MJ4B1HG257"
+    },
+    {
+      "type": "enchantment",
+      "name": "Wand of the War Mage, +3",
+      "img": "systems/dnd5e/icons/spell-tiers/spell4.webp",
+      "disabled": true,
+      "system": {
+        "changes": [
+          {
+            "key": "name",
+            "value": "{} of the War Mage, +3",
+            "priority": null,
+            "type": "override",
+            "phase": "initial",
+            "_id": "qkNml2GIySUXKJEN",
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.rarity",
+            "value": "veryRare",
+            "priority": null,
+            "type": "override",
+            "phase": "initial",
+            "_id": "xEPUxkoNaXYHGzRS",
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.description.value",
+            "value": "{}<p>@Embed[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmg1WandOfTheWar caption=false]</p>",
+            "priority": null,
+            "type": "override",
+            "phase": "initial",
+            "_id": "O4t9vWWXyrN1GOxv",
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.price.value",
+            "value": 40000,
+            "priority": null,
+            "type": "add",
+            "phase": "initial",
+            "_id": "XqW4EPrfXvWNnjrj",
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.properties",
+            "value": "mgc",
+            "priority": null,
+            "type": "add",
+            "phase": "initial",
+            "_id": "vhQOYNT80NnuHLlw",
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.attunement",
+            "value": "required",
+            "priority": null,
+            "type": "override",
+            "phase": "initial",
+            "_id": "yRx7DGsjlzLgj7FJ",
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.magicalBonus",
+            "value": 3,
+            "priority": null,
+            "type": "upgrade",
+            "phase": "initial",
+            "_id": "g2GZeSiRLDAyHqeK",
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "img",
+            "value": "modules/dnd-dungeon-masters-guide/assets/icons/items/wand-of-the-war-mage.webp",
+            "priority": null,
+            "type": "override",
+            "phase": "initial",
+            "_id": "Wr0bBOvEyblsiZ0i",
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ]
+      },
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": false,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1783258263749,
+        "modifiedTime": 1790016578017,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "exportSource": null
+      },
+      "_id": "kejXxpJFzlSWcpm1",
+      "start": null,
+      "showIcon": 1,
+      "folder": null,
+      "_key": "!items.effects!RvYvCvnfQkJo9inz.kejXxpJFzlSWcpm1"
+    }
+  ],
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": [
+          "7Pcy0FgaAr30JUBV",
+          "MFwYWOar805EHkdX",
+          "5Z35lVoEDct7Ivx2"
+        ]
+      }
+    }
+  },
+  "folder": "gmEaXdyrOc3NfaMa",
+  "_stats": {
+    "exportSource": null,
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783258263749,
+    "modifiedTime": 1790016578014,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_id": "RvYvCvnfQkJo9inz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "_key": "!items!RvYvCvnfQkJo9inz"
+}

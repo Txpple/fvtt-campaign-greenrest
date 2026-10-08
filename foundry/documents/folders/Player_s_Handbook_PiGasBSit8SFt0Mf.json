@@ -1,0 +1,23 @@
+{
+  "_id": "PiGasBSit8SFt0Mf",
+  "name": "Player's Handbook",
+  "type": "Compendium",
+  "sorting": "m",
+  "sort": 400000,
+  "color": "#1e72cc",
+  "folder": null,
+  "description": "",
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1782928837413,
+    "modifiedTime": 1782928837413,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!PiGasBSit8SFt0Mf"
+}

@@ -1,0 +1,18 @@
+{
+  "key": "core.permissions",
+  "value": "{\"ACTOR_CREATE\":[3,4],\"BROADCAST_AUDIO\":[2,3,4],\"BROADCAST_VIDEO\":[2,3,4],\"CARDS_CREATE\":[3,4],\"DRAWING_CREATE\":[2,3,4],\"ITEM_CREATE\":[3,4],\"FILES_BROWSE\":[2,3,4],\"FILES_UPLOAD\":[3,4],\"JOURNAL_CREATE\":[2,3,4],\"MACRO_SCRIPT\":[1,2,3,4],\"MANUAL_ROLLS\":[2,3,4],\"MESSAGE_WHISPER\":[1,2,3,4],\"NOTE_CREATE\":[2,3,4],\"PING_CANVAS\":[1,2,3,4],\"PLAYLIST_CREATE\":[3,4],\"REGION_CREATE\":[1,2,3,4],\"SETTINGS_MODIFY\":[3,4],\"SHOW_CURSOR\":[1,2,3,4],\"SHOW_RULER\":[1,2,3,4],\"TOKEN_CREATE\":[3,4],\"TOKEN_DELETE\":[3,4],\"TOKEN_CONFIGURE\":[2,3,4],\"WALL_DOORS\":[1,2,3,4],\"QUERY_USER\":[1,2,3,4]}",
+  "_id": "vnuvKhtTGZWN9m77",
+  "user": null,
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1782928364018,
+    "modifiedTime": 1782928364018,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!vnuvKhtTGZWN9m77"
+}

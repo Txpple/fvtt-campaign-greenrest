@@ -1,0 +1,145 @@
+{
+  "name": "Stone of Good Luck (Luckstone)",
+  "type": "equipment",
+  "img": "modules/dnd-dungeon-masters-guide/assets/icons/items/stone-of-good-luck.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p><em>Wondrous Item, Uncommon (Requires Attunement)</em></p><p>Dice winnings. The man who lost it swore its luck was all used up. Every day since has suggested otherwise.</p><p>While this polished agate is on your person, you gain a +1 bonus to ability checks and saving throws.</p>",
+      "chat": ""
+    },
+    "identifier": "stone-of-good-luck-luckstone",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarity": "uncommon",
+    "attunement": "required",
+    "attuned": false,
+    "equipped": false,
+    "armor": {
+      "value": null,
+      "dex": null
+    },
+    "cover": null,
+    "hp": {
+      "value": null,
+      "max": null,
+      "dt": null,
+      "conditions": ""
+    },
+    "type": {
+      "value": "wondrous",
+      "baseItem": ""
+    },
+    "properties": [
+      "mgc"
+    ],
+    "strength": null,
+    "proficient": null,
+    "crew": {
+      "value": []
+    }
+  },
+  "effects": [
+    {
+      "name": "Lucky",
+      "img": "modules/dnd-dungeon-masters-guide/assets/icons/items/stone-of-good-luck.webp",
+      "_id": "FqUhrsOwuBjoJjwK",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "system.bonuses.abilities.check",
+            "value": 1,
+            "priority": null,
+            "type": "add",
+            "phase": "initial",
+            "_id": "Ov1OZNgcRXV3aXru",
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.bonuses.abilities.save",
+            "value": 1,
+            "priority": null,
+            "type": "add",
+            "phase": "initial",
+            "_id": "RVgm2NW6tBylMxrl",
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "magical": true
+      },
+      "disabled": false,
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1783258266970,
+        "modifiedTime": 1790016577781,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "exportSource": null
+      },
+      "start": null,
+      "showIcon": 1,
+      "folder": null,
+      "_key": "!items.effects!zHxzij0nKf7bocQu.FqUhrsOwuBjoJjwK"
+    }
+  ],
+  "flags": {},
+  "folder": "gmEaXdyrOc3NfaMa",
+  "_stats": {
+    "exportSource": null,
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783258266970,
+    "modifiedTime": 1790016577781,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_id": "zHxzij0nKf7bocQu",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "_key": "!items!zHxzij0nKf7bocQu"
+}

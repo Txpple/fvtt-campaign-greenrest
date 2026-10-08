@@ -1,0 +1,370 @@
+{
+  "name": "03 Misty Forest — GM Key",
+  "pages": [
+    {
+      "type": "text",
+      "name": "GM Overview",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><p class=\"lead\">A roadside lure in the misty lands: dancing lights coax travelers off the safe road to the mouth of a cave — an ancient structure, purpose long lost, now a corrupted ettercap nest.</p><p>The party travels the old road through drifting mist when pale lights begin to bob among the trees — soft, warm, almost <em>welcoming</em>. They are <strong>will-o'-wisps</strong>, and they want the party off the road, steered toward a dark cave mouth. A few paces inside, rough stone becomes <em>dressed</em> stone: this was <strong>built</strong>, long ago and with care, then sealed and struck from memory so thoroughly no one nearby can say what it was for. Its old magic has curdled, and a brood of <strong>ettercaps</strong> now hunts the mist from its halls, dragging catch below to cocoon.</p><div class=\"grid-2\"><div><h3>The Encounter</h3><ul><li><strong>Type:</strong> Wilderness lure → cave crawl → fight</li><li><strong>Location:</strong> A cave off the old road (the Misty Forest scene)</li><li><strong>Denizens:</strong> Will-o'-wisps (the bait); ettercaps + a broodmother (the threat)</li><li><strong>Suggested tier:</strong> Levels 3–6 (scales — see Running It)</li></ul></div><div><h3>Run Order</h3><ul><li>1. The lure on the road (boxed text)</li><li>2. The cave mouth &amp; descent (boxed text)</li><li>3. The deep halls + the fight</li><li><strong>Read first:</strong> The Will-o'-Wisps and The Ettercaps pages</li></ul></div></div><h2 class=\"spaced\">The Short Version</h2><ul><li><strong>Act 1 — The Lure.</strong> Wisps appear in the mist and beckon. Following is a choice; resisting is a check. Either way, the lights lead to the cave.</li><li><strong>Act 2 — The Cave Mouth.</strong> A dark opening webbed across the threshold, breathing cold, sweet-rotten air. Inside, natural cave becomes worked stone. A hidden vine-choked cleft offers a second way in for the thorough.</li><li><strong>Act 3 — The Deep Halls.</strong> The old chambers, web-strung and pitch dark. The ettercaps fight on their terms; the wisps rejoin to finish stragglers.</li></ul><h2 class=\"spaced\">The Secret</h2><div class=\"gmnote\"><p>The wisps and the ettercaps are <strong>not allies</strong> — they're a food chain. The wisps feed on the terror of the lost; the ettercaps feed on the bodies. Each makes the other's hunting easier, nothing more. A clever party can turn this: threaten the ettercaps' larder and the wisps won't lift a spark to help; corner the wisps and the ettercaps happily let them burn.</p></div><h2 class=\"spaced\">The Cast</h2><p>@UUID[Actor.tUqHM3B6MLmnLmQc]{Will-o'-Wisp} (CR 2, the lure)  ·  @UUID[Actor.4uQ4ZYR3HHIsjoMM]{Ettercap} (CR 2, the pack)  ·  @UUID[Actor.Y47WCUJkNujhQw2P]{Ettercap Broodmother} (CR 4, the matriarch). All three are built and waiting in the <em>Misty Forest</em> Actor folder — click through for stat blocks.</p><div class=\"gmnote\"><p><strong>Optional campaign hooks (yours to keep or cut):</strong> a defaced carving here could echo fey imagery elsewhere in the misty lands, or a cocooned victim could be a contact of an NPC the party knows. Left generic by default — name someone and it can be wired in.</p></div></div></section>",
+        "format": 1
+      },
+      "_id": "pa5ha7e7uIuJAtZo",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783050102716,
+        "modifiedTime": 1783189797710,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!rfb9vfKtJln53vdC.pa5ha7e7uIuJAtZo"
+    },
+    {
+      "type": "text",
+      "name": "Boxed Text — The Lure",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><p class=\"lead\">Read-aloud for Act 1. Run the road, let the lights work on them, then hand them the choice.</p><h2 class=\"spaced\">On the Road</h2><div class=\"readaloud\"><p>By midday the mist has risen to meet you — knee-high, then higher, until the fenceposts are grey ghosts and the sun is a pale, drowned coin. Sound goes strange in the fog; your own footsteps seem to arrive a half-beat late.</p><p>Then, off to the left: a light. Small, round, warm as a held candle, bobbing at the height of a lantern in a traveler's hand. It drifts between two trees, pauses as if waiting, drifts again. A second joins it, then a third — strung out into the mist like the windows of a house you cannot yet see.</p></div><div class=\"gmnote\"><p><strong>Running the lure.</strong> Play the lights as helpful, not menacing — that's the whole trap. Let anyone who looks make a check:</p></div><ul><li><strong>Survival (DC 13):</strong> there's no farmstead or waystation out this way — the road is the only safe ground in the mist.</li><li><strong>Perception (DC 14):</strong> the lights cast no glow on the mist around them, and throw no shadow. Nothing natural burns like that.</li><li><strong>Arcana / History (DC 15):</strong> corpse-candles. Wisps. They lead the unwary off cliffs and into bogs, and something always feeds on what they leave.</li><li><strong>Nobody investigates?</strong> The lights are simply inviting. The pull is curiosity, not compulsion — no save unless you want a gentle one (Wis save DC 11) for a character actively arguing to leave.</li></ul><h2 class=\"spaced\">Following the Lights</h2><div class=\"readaloud\"><p>The lights lead away from the road, across open ground where the mist pools thickest and the grass gives way to bare wet rock. Ahead, at the foot of a low rise, the glow gathers around a darker shape — a cleft in the stone, taller than a man, black as a held breath. One by one the lights drift into it and wink out, like stepping through a door.</p></div><div class=\"gmnote\"><p>The moment the party leaves the road, the wisps go quiet and dim — job done. They withdraw to rejoin the fight below. Move to <em>The Cave Mouth &amp; the Descent</em>.</p></div></div></section>",
+        "format": 1
+      },
+      "_id": "HU6kkEC1I1yvXEyn",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783050102716,
+        "modifiedTime": 1783189806363,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!rfb9vfKtJln53vdC.HU6kkEC1I1yvXEyn"
+    },
+    {
+      "type": "text",
+      "name": "Boxed Text — The Cave Mouth & the Descent",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><p class=\"lead\">Read-aloud for Act 2 — the threshold, the wrongness, and the way down.</p><div class=\"readaloud\"><p>The opening breathes. Cold air rolls out across your ankles — wet stone, old smoke, and underneath it something sweetly rotten. Pale strands of silk cross the mouth at odd angles, trembling at the movement of the air — and yours. Past them, the dark swallows everything; the last of the little lights is already gone, deep inside.</p><p>A few steps in, the cave changes. Rough rock gives way to fitted blocks of dressed stone, squared and set by hands long dead. Something was carved into these walls once — you can feel the grooves under the grime — and something, later, took great care to claw it all away.</p></div><div class=\"gmnote\"><p><strong>Clues at the mouth</strong> — reward poking around:</p></div><ul><li><strong>The webbing</strong> (Perception DC 13): fresh and deliberately strung, like tripwire, not an abandoned tangle. Something <em>keeps</em> this door.</li><li><strong>The stone</strong> (Investigation / History DC 13): a few paces in, cave becomes masonry — built, not dug. The defacing was thorough and intentional; whatever the carvings showed, someone wanted it gone.</li><li><strong>The air</strong> (Nature / Survival DC 12): the sweet-rot smell isn't the cave — it's old kills. A predator's larder is close.</li><li><strong>A second way</strong> (Arcana DC 14): off to one side, a narrow cleft is choked with pale vines that are faintly, wrongly <em>warm</em> — the last living scrap of the place's old magic. Clearing them opens a hidden side-passage in.</li></ul><h2 class=\"spaced\">Into the Dark</h2><div class=\"readaloud\"><p>The way down closes over your heads, and the mist and the grey world go with it. Worked stone under the grit; walls carved once and long since worn soft. Here and there a strand of pale silk crosses the black, trembling at your breath. And from somewhere ahead and below comes a dry, patient sound — like fingers testing a taut string.</p></div><div class=\"gmnote\"><p>Both routes (the mouth and the vine-cleft) meet in the deep halls below — ettercap country (see <em>The Ettercaps</em>). The webbing thickens as they go; the sound is the broodmother plucking her web-lines, feeling for prey. <strong>The scene is dark</strong> (see Running It): past the lit mouth, the party needs light or darkvision — the dark down here belongs to the monsters.</p></div></div></section>",
+        "format": 1
+      },
+      "_id": "HYkaVSYFJoIhAi3v",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783050102716,
+        "modifiedTime": 1783189815025,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!rfb9vfKtJln53vdC.HYkaVSYFJoIhAi3v"
+    },
+    {
+      "type": "text",
+      "name": "The Ancient Structure (Lore)",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><p class=\"lead\">What little can be known — and how much of it stays lost.</p><p>One thing is plain the moment the cave becomes masonry: <strong>someone built this</strong>, long ago and with care — dressed stone set deep under the hill, deliberate halls, carvings worn to ghosts. It sits on a <strong>thin place</strong>, where the veil to the fey realm runs close enough to feel. Past those bare facts, almost nothing is certain — and that is the point.</p><p>At some point the place was <strong>outlawed</strong>: sealed, its builders scattered or killed, its name struck from record so completely that no scholar or elder nearby can say what it was <em>for</em>. A thin place does not go quiet when its keepers are gone; it curdles. Whatever this structure once did, it now does one thing — draws things that hunt in the dark, and feeds them.</p><div class=\"readaloud\"><p>Worn into the lintel of the largest hall, still faintly legible where a hand has brushed the dust away, is the tail of a line in an old, looping script: <em>“… a light, and a road home.”</em> Whatever came before those words has been gouged out of the stone — clawed over, again and again.</p></div><div class=\"gmnote\"><p><strong>How much to reveal:</strong> the purpose is <em>genuinely lost</em> — don't let the party solve it tonight. Hand them fragments and inference, never a tidy history. A check ladder as they explore:</p></div><ul><li><strong>Religion / History (DC 13):</strong> this was an <em>outlawed</em> place — dangerous even to study. The iconography matches nothing in current record; whatever faith or craft it served was erased on purpose.</li><li><strong>Arcana (DC 15):</strong> it stands on a thin place to the fey, and the wisps here aren't ordinary corpse-lights — they seem <em>shaped by the site itself</em>, as if luring were something the place was built around.</li><li><strong>Investigation (DC 15), in the ruined archive:</strong> shelves of records gone to rot; nothing legible survives. The erasure was total. (Reinforce the mystery, don't break it.)</li><li><strong>The inference, not the answer:</strong> the wisps and the half-line of inscription <em>hint</em> at light and guidance — but that's a guess a clever player makes, not a fact you confirm. It's a longer thread than one night.</li></ul><p><strong>Signs of the corruption</strong>, to sprinkle as scenery: defaced carvings everywhere; one worn figure that seems to hold something aloft — a lamp? — its face chiseled out; guttering witch-light in the wall niches, sickly glow and no warmth; and over it all, pale webbing strung across the old stone like the place is being slowly wrapped and swallowed.</p></div></section>",
+        "format": 1
+      },
+      "_id": "Y8yOXqR4Ur28DFCd",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783050102716,
+        "modifiedTime": 1783189823954,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!rfb9vfKtJln53vdC.Y8yOXqR4Ur28DFCd"
+    },
+    {
+      "type": "text",
+      "name": "The Ettercaps — Lair & Tactics",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><p>The current tenants: a brood of @UUID[Actor.4uQ4ZYR3HHIsjoMM]{Ettercap} (CR 2 each) led by an @UUID[Actor.Y47WCUJkNujhQw2P]{Ettercap Broodmother} (CR 4). Cunning, spiteful pack-hunters — they set web-traps, herd prey, and drag the caught below to cocoon. They are the real fight; the wisps are the doorbell.</p><h2 class=\"spaced\">The Lair</h2><ul><li><strong>The Great Hall</strong> — the largest worked chamber (the inscribed lintel), now the killing floor. Web-lines wall to wall; the floor is patchy <strong>webbing (difficult terrain)</strong>.</li><li><strong>The Deep Chambers</strong> — side rooms that plainly meant something once, now stripped bare. What treasure survives is here (see Running It).</li><li><strong>The Ruined Archive</strong> — collapsed shelves, records rotted illegible; the lore checks from the previous page live here.</li><li><strong>The Larder</strong> — the horror room: cocooned catch hung from the ceiling. Some bundles are old cattle and travelers; one or two may still be alive.</li></ul><h2 class=\"spaced\">Tactics</h2><div class=\"gmnote\"><p>The ettercaps don't brawl in the open. They fight like something that has done this a hundred times — and in the dark, which is theirs.</p></div><ul><li><strong>Web first.</strong> Open by dropping web strands (restrain) on the front line and the softest-looking caster, then focus that target as a pack.</li><li><strong>Poison &amp; retreat.</strong> Bite to poison, then use the webbing and difficult terrain to keep distance while the poison works. They climb walls and ceiling freely — expect them <em>above</em> the party.</li><li><strong>They own the dark.</strong> Web-lines as tripwires, pitch black as cover, darkvision against a party clustered around one torch.</li><li><strong>The broodmother</strong> hangs back and high, spending her lessers to set up her own strikes. A desperate ettercap will cut a cocoon loose to drop a body (and buy a round) rather than die — a grim rescue-or-fight dilemma mid-combat.</li></ul><h2 class=\"spaced\">The Larder</h2><p>The cocooned catch is both a horror beat and a lever. Freeing a living victim (a Strength check or a slashing hit) earns a witness — someone lured off the road nights ago who can tell the party exactly how the lights work, and beg them to end it. It's also where the victims' belongings ended up: the encounter's most personal loot.</p><div class=\"gmnote\"><p><strong>Built &amp; ready (in the <em>Misty Forest</em> Actor folder):</strong> @UUID[Actor.4uQ4ZYR3HHIsjoMM]{Ettercap} (base, CR 2) and @UUID[Actor.Y47WCUJkNujhQw2P]{Ettercap Broodmother} (CR 4 — 96 HP, AC 15, STR 16, <strong>no pet</strong>), alongside the @UUID[Actor.tUqHM3B6MLmnLmQc]{Will-o'-Wisp}. All prototypes — drag as many tokens as the fight needs.</p></div></div></section>",
+        "format": 1
+      },
+      "_id": "e7908pATUNi1xEwC",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783050102716,
+        "modifiedTime": 1783189840830,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!rfb9vfKtJln53vdC.e7908pATUNi1xEwC"
+    },
+    {
+      "type": "text",
+      "name": "The Will-o'-Wisps — The Lure",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><p>The bait: one or more @UUID[Actor.tUqHM3B6MLmnLmQc]{Will-o'-Wisp} (CR 2). Tiny, near-mindless, and <strong>dangerous out of all proportion to their size</strong> — invisible at will, immune to a long list of damage and conditions, and they drain the life from the dying. Read the stat block before you run them; the invisibility is the whole fight.</p><h2 class=\"spaced\">What They Are Here</h2><p>The lights here behave as if they were <em>made to guide</em> — and now, tended by nothing and guiding no one home, they guide only <em>down</em>. Flavor them warmer than the usual grave-light — a lantern, a campfire, a friendly window — and play the long game: they feed on the fear of the lost, so they draw a hunt out. Lead, wait, let hope flicker, lead again.</p><h2 class=\"spaced\">The Lure Mechanic</h2><div class=\"gmnote\"><p>Run the lure as pure roleplay (recommended) — or, if the party tries to <em>flee</em> the mist rather than take the bait, as a short skill challenge:</p></div><ul><li><strong>Goal:</strong> reach the road / clear the mist. <strong>3 successes before 2 failures</strong>, party rolling in turn.</li><li><strong>Allowed checks (DC 13):</strong> Survival (hold direction), Perception (spot the true treeline), Arcana/Religion (name the trick), Wisdom save (shrug off the pull).</li><li><strong>On a failure:</strong> the lights split the party's sense of direction — someone strays toward the cave and the group closes on it anyway. Failures escalate mood, not damage.</li><li><strong>Either outcome</strong> ends at the cave mouth — success just means they arrive <em>on their terms</em>, warned and unsurprised.</li></ul><h2 class=\"spaced\">In Combat</h2><ul><li>The wisps rejoin below once the fight starts — sniping from invisibility, going bright only to attack, then winking out. Make the party spend actions hunting a light that isn't there.</li><li>They hover near downed characters to feed (their life-drain on a creature at 0 HP is brutal) — a real reason to stabilize allies <em>fast</em>.</li><li>They're cowards: a losing wisp simply goes invisible and leaves. Don't fight them to the death against their nature — a fled wisp is a sequel hook.</li><li><strong>Turn the food chain:</strong> if the party makes the ettercap larder the fight, the wisps won't spend themselves defending it. Smart play should thin the odds.</li><li><strong>The lantern trick:</strong> the loot below includes a Lantern of Revealing (see Treasure) — hooded, it reveals the invisible wisps within 30 ft and flips the whole fight. A lovely reward for thorough play.</li></ul></div></section>",
+        "format": 1
+      },
+      "_id": "w9NjSMzP90xNvO3e",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783050102716,
+        "modifiedTime": 1783189850609,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!rfb9vfKtJln53vdC.w9NjSMzP90xNvO3e"
+    },
+    {
+      "type": "text",
+      "name": "Running It — Tactics, Scaling & Treasure",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><p class=\"lead\">The lighting, the dials for party size and level, the terrain, and what they haul out.</p><h2 class=\"spaced\">The Scene Is Dark (by design)</h2><div class=\"gmnote\"><p>The Misty Forest scene is set <strong>fully dark with global light off</strong> — a purely mechanical choice, <em>not</em> nightfall. In the fiction it's broad <strong>mid-day</strong>: light the outside approach with bright, daylight-colored ambient lights (players should read it as daylight through fog) and leave the cave interior unlit. That split is the point — the party steps out of mid-day sun into a dark that belongs to the monsters. Inside, light sources and darkvision matter: the ettercaps see in it, and the wisps <em>are</em> it.</p></div><h2 class=\"spaced\">Suggested Composition</h2><table><thead><tr><th>Party</th><th>Wisps</th><th>Ettercaps</th><th>Notes</th></tr></thead><tbody><tr><td>Lvl 3–4 (4 PCs)</td><td>1</td><td>2</td><td>Wisp lures, then one ettercap web-traps while the other flanks. Tense but fair. Skip the broodmother.</td></tr><tr><td>Lvl 4–5 (4–5 PCs)</td><td>2</td><td>3</td><td>The standard build. Wisps snipe from invisibility; ettercaps hold the webbed hall.</td></tr><tr><td>Lvl 5–6 (5+ PCs)</td><td>2</td><td>3 + the Broodmother</td><td>Add the @UUID[Actor.Y47WCUJkNujhQw2P]{Ettercap Broodmother} (CR 4, no pet) as the spine of the fight — she hangs high and spends the brood.</td></tr></tbody></table><div class=\"gmnote\"><p>Don't drop them all at once. Wisps do Act 1 alone; the ettercaps reveal in the hall; the wisps rejoin a round or two into the melee. Staggering the reveal keeps a low-CR encounter genuinely scary.</p></div><h2 class=\"spaced\">Terrain &amp; Hazards</h2><ul><li><strong>Darkness</strong> — the scene's whole gimmick (above). A party without its own light is playing the monsters' game.</li><li><strong>Webbing</strong> — patches of the hall floor are difficult terrain; strung web-lines can be tripwires, or torched.</li><li><strong>Fire is a double-edged torch</strong> — burning the webs is fast and satisfying, but the structure is old, dry, and enclosed. Reward the tactic; then make them feel the smoke.</li><li><strong>The rubble slope</strong> — where the halls have partly collapsed, a steep chute of broken stone is a fast, painful way in or out (Athletics DC 12; a fall is 1d6). Handy for a dramatic entrance or a bad retreat.</li></ul><h2 class=\"spaced\">Treasure — Placed &amp; Ready</h2><p class=\"lead\">Real items, already in the <em>Misty Forest</em> Item folder — left behind by adventurers lured here and killed. Drag them onto the web-shrouded husk — unnaturally shriveled, as if the life were drunk out of it — into the deep chambers, or the larder.</p><ul><li>@UUID[Item.Xrs7GfMwC8RMVf1J]{Lantern of Revealing} — the structure's lantern-relic. Hooded, it reveals invisible creatures within 30 ft: a poetic <em>and</em> practical counter to the wisps. No attunement.</li><li>@UUID[Item.LsTqXwIdBNwaYh9K]{Goldthorn} — a fey duelist's curved blade (a <strong>+1 scimitar</strong>); its bearer came into the Misty Forest a century ago on the trail of the same shattered relic the party is chasing, and never came out. Once between dawns each of <em>goodberry</em> and <em>faerie fire</em>. Rare; requires attunement; ships <em>unidentified</em> — the history surfaces on attunement.</li><li>@UUID[Item.W7qRwRqZUpw1Ef10]{Cloak of Elvenkind} — a dead scout's fey-country cloak (advantage on Stealth; disadvantage to spot the wearer). Requires attunement.</li><li>@UUID[Item.2EzLcCotwQkxT9yu]{Potion of Healing} ×2 — the party's last unspent healing (2d4+2 each).</li><li>@UUID[Item.F5kaUvHBmMIPb8CC]{A Dose of Greenrest Tonic} — a stoppered clay vial of bitter green cordial in a dead traveller's pack, labelled <em>\"One swallow, seventh-day, as ever. — Selma.\"</em> One swallow is seven nights of dreamless sleep. It reads as an oddity here; it becomes a key the first week the party spends in Greenrest — and notices the whole village drinking the same thing.</li></ul><div class=\"gmnote\"><p>The lantern-relic here is a <strong>Lantern of Revealing</strong>, not a Driftglobe — the Driftglobe lives in the hobgoblin cave, and reveal-invisible is the better fit against the wisps. The lantern, cloak, potions, and tonic are <em>identified</em> in the folder; Goldthorn ships <em>unidentified</em> (masked as a \"Gilded Scimitar\"). Flip any of them as you place them if you'd rather the party puzzle it out. None are pre-attuned or equipped. <strong>The tonic's label is a name, not proof</strong> — Selma is Greenrest's herbalist, but nothing in the vial connects her to anything yet.</p></div></div></section>",
+        "format": 1
+      },
+      "_id": "BFxLpAexUbz1S0Im",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783050102716,
+        "modifiedTime": 1783368383606,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!rfb9vfKtJln53vdC.BFxLpAexUbz1S0Im"
+    },
+    {
+      "type": "text",
+      "name": "Wanderings in the Mist — Travel Encounters",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><p class=\"lead\">Low-stakes, atmospheric encounters for the trek toward the Hidden Temple — mood and roleplay, never a real fight. The slow, sad build <em>before</em> the will-o'-wisp lure and the cave.</p><p>As the party moves through the mist, pull them up on a forest map and roll @UUID[RollTable.XGevKRte5ItV8gzt]{Misty Forest — Wanderings in the Mist} (1d12). Each result is a single eerie, dreamlike vignette — a doe that watches like a person, a hollow blooming out of season, a sad song with no singer. Roll on any leg, as often as the players lean in; no cap. The wood should feel populated by wrongness, not threat.</p><p><strong>Three maps to rotate</strong>, all sharing the same drifting fog and ambience: @UUID[Scene.fLzV5SatWcR548Tu]{Misty Forest}, @UUID[Scene.vgT4gb5fDtVv12Nf]{Travel Path}, and @UUID[Scene.ZoDDYS1yw6eiUr9l]{Forest Clearing} — swap so a long trek doesn't play out on one screen.</p><div class=\"gmnote\"><p><strong>The threads to watch for.</strong> Three entries carry deniable hints of the Dreamer and her grief — the sourceless humming (<strong>03</strong>), the beech carved with <strong>CORIN</strong> and a wept-away name (<strong>07</strong>), and the shared dream if they camp (<strong>12</strong>). Play them as fey strangeness and old sad songs, never revelation; nothing here names her or ties to a place.</p><p><strong>The keepsakes.</strong> Four entries hand the party a small found object — the Everbloom Petal, Fey Ring Cap, Carved Wooden Fox, and Worn Half-Penny (in the <em>03 Misty Forest / Forest Finds</em> items folder). Worthless, and that's the point. Let the wood feel gentle and grieving by turns; it's setting the table for the lure and the Hidden Temple to come.</p></div></div></section>",
+        "format": 1
+      },
+      "ownership": {
+        "default": 0,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "_id": "KG7WCx5crhVGwM4Z",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783090453633,
+        "modifiedTime": 1783189875083,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!rfb9vfKtJln53vdC.KG7WCx5crhVGwM4Z"
+    },
+    {
+      "type": "text",
+      "name": "The Clearing — Blight Ambush",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><p class=\"lead\">A small flavor ambush for the @UUID[Scene.ZoDDYS1yw6eiUr9l]{Forest Clearing} scene — the party stops to rest mid-clearing, and the forest's corrupted things close in around them. <strong>Five blight tokens are already placed on the scene, hidden, ringing the campsite.</strong></p><div class=\"grid-2\"><div><h3>The Foes (as placed)</h3><ul><li>3× @UUID[Actor.9QfraiWNmOZNN5Zn]{Twig Blight} (NE, W, S) — CR 1/8 · AC 14 · 7 HP · Claw +4 (1d4+2 slashing) · Pack Tactics · Stealth +4 · blindsight 60 ft · <strong>vulnerable to fire</strong></li><li>2× @UUID[Actor.qnJPt6p9w48ET78G]{Vine Blight} (SW, and E by the mossy boulders) — CR 1/2 · AC 12 · 19 HP · Constricting Vine +4, reach 10 ft (1d8+2 bludgeoning + Grappled, escape DC 12; 1d8 auto at the start of the target's turns) · Entangling Plants (Recharge 5–6): casts Entangle, save DC 12</li></ul></div><div><h3>Shape of It</h3><ul><li>Difficulty: <strong>Low</strong> for 4× level 3 (~275 XP) — a real skirmish now, but the bodies are paper</li><li>All five are speed 20 and will not pursue beyond the clearing's edge</li><li>Neutral Evil but barely thinking (Int 4–5): no parley, no morale, no retreat</li><li>Loot: none — destroyed, they collapse into ordinary dead wood and vine</li></ul></div></div><h2 class=\"spaced\">The Set-Up (before initiative)</h2><div class=\"gmnote\"><p>The party settles in the middle of the clearing for a short rest. The blights aren't lying in wait — they <em>come</em>: over the first minutes of the rest they filter out of the deep wood and creep from trunk to trunk along the mist-hung treeline until the camp is ringed. The five hidden tokens on the scene are their final positions — <strong>unhide them all at the reveal</strong>.</p><p>While they close in, roll Stealth once per kind (twigs +4, vines +1) against passive Perceptions. <strong>Jetten's passive 15 will very likely beat the vines and may beat the twigs</strong> — that's the intended seam; feed him the ranger reads below and let him try to warn the table.</p><p>If nobody clocks them, spring it a few minutes into the rest — before any Short Rest benefits land (or after, if you're feeling kind). Anyone unaware is <strong>surprised and rolls initiative with Disadvantage</strong> (2024 rules). They cannot be snuck up on in return by sound alone at close range — no eyes, blindsight 60 ft.</p></div><h2 class=\"spaced\">Read-Aloud — A Short Rest, Interrupted</h2><div class=\"readaloud\"><p>The trees break at last onto a clearing — a wide circle of soft grass hemmed in by dense canopy, one great tree on its east side already turned to autumn rust. Pale light drifts down through the mist in slow, slanting shafts. After hours under the canopy it feels almost like relief. Packs come off. Someone passes the waterskin; boots are shaken out, a heel of bread makes the rounds, and for a little while the forest is just a forest.</p><p>It's only once you've settled that you notice what's missing: the birdsong. The whole wood has gone quiet, and the mist between the trunks hangs perfectly still.</p><p>Then, from the treeline — something rustles. It stops. And it rustles again — closer — from the <em>other</em> side.</p></div><h2 class=\"spaced\">Read-Aloud — The Reveal</h2><div class=\"readaloud\"><p>The underbrush rises. All around the clearing, shapes pull themselves out of the mist-hung treeline — small, dry things of twig and thorn on legs of splintered branch, faces like splitting seed pods — and behind them, from the shadow of the boulders and the deep brush, two masses of coiled creeper and rotting leaf-mulch drag themselves upright. Five of them. They have your camp in a ring, and they are already moving.</p></div><h2 class=\"spaced\">What Jetten Notices (Ranger)</h2><div class=\"gmnote\"><p><strong>Passive Perception 15, automatic (during the rest):</strong> at the edge of his vision, a gnarled stump at the treeline — one he'd swear wasn't there when they sat down. When he looks again, it's gone. Something is moving between the trunks, keeping low, keeping the mist between itself and the camp. If he acts on this, he's not surprised — and he may buy the table the same.</p><p><strong>Survival DC 12 (or automatic if he says he's reading the ground):</strong> no game trails cross this clearing. Deer, boar, even squirrels — everything detours around it. Animals have been refusing this place for weeks.</p><p><strong>Nature DC 12:</strong> these are <em>blights</em> — plant life twisted awake. They don't grow wild; something <em>makes</em> them, and they rarely wander far from whatever that is. The dry ones kindle like tinder — <strong>fire is their bane</strong>.</p><p>If the ambush is blown and combat starts on Jetten's terms, remind Andrew that <strong>Dread Ambusher</strong> was built for exactly this moment.</p></div><h2 class=\"spaced\">What Gren Notices (Forest Gnome)</h2><div class=\"gmnote\"><p><strong>Automatic (forest gnome folk-memory):</strong> the small folk of the deep woods have a saying — <em>when the birds go quiet and the brush starts walking, the wood has been given a master.</em> Gren knows in his bones this quiet isn't natural shyness; it's fear.</p><p><strong>Arcana DC 12 (sorcerer's instinct):</strong> the animating force in these things is not fey and not druidcraft — it's a corruption, old and deliberate, and it didn't start here. It <em>seeped in</em> from somewhere deeper in the forest, the way rot travels along a root.</p><p><em>Optional canon tie (see plot doc):</em> that \"somewhere deeper\" is the sickly, poison-blighted stretch coiling around the green dragon's ruin — these five crawled out of its edges. Use it as quiet foreshadowing only; name nothing.</p></div><h2 class=\"spaced\">Running the Fight</h2><ul><li><strong>The ring is the point:</strong> the party is surrounded mid-clearing with their gear half-off. Whichever way they face, something is behind them.</li><li><strong>The vine blights open from opposite sides</strong> (SW and E): each casts Entangling Plants (Entangle: 20-ft square, STR save DC 12, Restrained + difficult terrain, concentration 1 min) angled so the two squares pin the camp between them — then drag whoever's held into Constricting Vine range (reach 10 ft).</li><li><strong>The three twig blights swarm</strong> whoever is entangled or grappled — with five bodies on the field, Pack Tactics advantage is nearly always on.</li><li>The grapple is the drama: escape DC 12, and the vine's automatic 1d8 at the start of the victim's turns makes ignoring it feel bad without being deadly.</li><li><strong>Fire ends twig blights spectacularly</strong> (vulnerability, 7 HP) — if Gren burns one with a fire-flavored Sorcerous Burst, let it go up like a torch. Give the table the moment.</li><li>Pacing valve: the twigs are paper — if the fight needs to end sooner, any torch, burning hands-style sweep, or focused round clears them in bunches; the vines alone can't hold the ring.</li><li>Aftermath thread (optional): a thin trail of blackened sap leads away from the boulders, deeper into the forest — for whenever you want the corruption to become a plot.</li></ul></div></section>",
+        "format": 1
+      },
+      "_id": "vf0AO4ALl1HgLgzy",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783452396518,
+        "modifiedTime": 1783452842169,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!rfb9vfKtJln53vdC.vf0AO4ALl1HgLgzy"
+    }
+  ],
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "folder": "IrBgFpR2iymTG05P",
+  "_id": "rfb9vfKtJln53vdC",
+  "categories": [],
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783050102716,
+    "modifiedTime": 1783087983718,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!rfb9vfKtJln53vdC"
+}

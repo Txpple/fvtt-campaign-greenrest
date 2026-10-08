@@ -1,0 +1,32 @@
+{
+  "type": "script",
+  "scope": "actor",
+  "name": "Spellfire Burst",
+  "img": "icons/magic/light/explosion-impact-purple.webp",
+  "command": "dnd5e.documents.macro.rollItem(\"Spellfire Burst\", { event })",
+  "flags": {
+    "dnd5e": {
+      "itemMacro": true
+    }
+  },
+  "_id": "TjEcKZfpVkyu3q2l",
+  "author": "WjZL43DJHoHpfDrK",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "WjZL43DJHoHpfDrK": 3
+  },
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1784076197844,
+    "modifiedTime": 1784076197845,
+    "lastModifiedBy": "WjZL43DJHoHpfDrK",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!macros!TjEcKZfpVkyu3q2l"
+}

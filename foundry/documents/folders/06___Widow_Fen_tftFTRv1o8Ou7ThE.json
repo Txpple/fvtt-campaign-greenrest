@@ -1,0 +1,28 @@
+{
+  "name": "06 - Widow Fen",
+  "type": "Actor",
+  "color": "#7a7a3d",
+  "folder": null,
+  "flags": {
+    "world": {
+      "mcpGenerated": false,
+      "createdAt": "2026-08-28T01:38:49.544Z"
+    }
+  },
+  "_id": "tftFTRv1o8Ou7ThE",
+  "description": "",
+  "sorting": "a",
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1787881129163,
+    "modifiedTime": 1787881129163,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!tftFTRv1o8Ou7ThE"
+}

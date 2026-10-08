@@ -1,0 +1,28 @@
+{
+  "name": "04 - Greenrest",
+  "type": "Item",
+  "color": "#4a9d5f",
+  "folder": null,
+  "flags": {
+    "world": {
+      "mcpGenerated": false,
+      "createdAt": "2026-07-08T17:08:20.480Z"
+    }
+  },
+  "_id": "zTwpr0BeGkGPUNqw",
+  "description": "",
+  "sorting": "a",
+  "sort": 300000,
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783530499866,
+    "modifiedTime": 1786552854164,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!zTwpr0BeGkGPUNqw"
+}

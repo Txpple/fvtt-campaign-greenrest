@@ -1,0 +1,18 @@
+{
+  "key": "fvtt-mod-battleflow.interruptList",
+  "user": null,
+  "value": "\"Shield:ac, Absorb Elements:damage, Uncanny Dodge:damage, Defensive Duelist:ac, Illusory Self:ac, Glorious Defense:ac, Parry:ac, Counterattack:ac, Defensive Stance:ac, Whirlwind of Sand:ac, Deflect Attacks:damage, Stone's Endurance:damage, Lucky:roll, Warding Flare:roll, Shadowy Dodge:roll, Interception:damage, Protection:roll\"",
+  "_id": "VKxI117iiP19DuWQ",
+  "_stats": {
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1786803003046,
+    "modifiedTime": 1790450078052,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!VKxI117iiP19DuWQ"
+}

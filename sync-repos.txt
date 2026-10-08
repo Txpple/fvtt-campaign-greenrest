@@ -1,0 +1,3 @@
+# Repos synced by sync.ps1 - one folder name per line, relative to the parent Repos directory.
+# Each campaign repo syncs itself from its own copy of sync.ps1; list only this repo here.
+fvtt-campaign-greenrest

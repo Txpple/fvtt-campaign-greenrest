@@ -1,0 +1,84 @@
+{
+  "name": "Jar of Greenrest Preserves",
+  "type": "consumable",
+  "img": "icons/consumables/food/berries-ration-round-red.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>A stoneware jar sealed under wax: blackberry preserves, put up in Greenrest. Still good.</em></p>",
+      "chat": ""
+    },
+    "price": {
+      "value": 5,
+      "denomination": "sp"
+    },
+    "source": {
+      "custom": "",
+      "rules": "2024",
+      "revision": 1
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 6,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "rarity": "",
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "uses": {
+      "max": "1",
+      "autoDestroy": true,
+      "spent": 0,
+      "recovery": []
+    },
+    "damage": {
+      "base": {
+        "number": null,
+        "denomination": null,
+        "types": [],
+        "custom": {
+          "enabled": false
+        },
+        "scaling": {
+          "number": 1
+        }
+      },
+      "replace": false
+    },
+    "type": {
+      "value": "food",
+      "subtype": ""
+    },
+    "properties": [],
+    "activities": {},
+    "identifier": "rations"
+  },
+  "effects": [],
+  "flags": {
+    "dnd5e": {}
+  },
+  "folder": "l74jP8iVTBjy67Sd",
+  "_stats": {
+    "exportSource": null,
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1786109559561,
+    "modifiedTime": 1786109608250,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_id": "Je1bzEtvk5idFGXA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "_key": "!items!Je1bzEtvk5idFGXA"
+}

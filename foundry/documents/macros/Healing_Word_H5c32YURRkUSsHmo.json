@@ -1,0 +1,32 @@
+{
+  "type": "script",
+  "scope": "actor",
+  "name": "Healing Word",
+  "img": "icons/magic/life/cross-beam-green.webp",
+  "command": "dnd5e.documents.macro.rollItem(\"Healing Word\", { event })",
+  "flags": {
+    "dnd5e": {
+      "itemMacro": true
+    }
+  },
+  "_id": "H5c32YURRkUSsHmo",
+  "author": "LVDVg5n3IGEBCWns",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "LVDVg5n3IGEBCWns": 3
+  },
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783285148994,
+    "modifiedTime": 1783285148995,
+    "lastModifiedBy": "LVDVg5n3IGEBCWns",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!macros!H5c32YURRkUSsHmo"
+}

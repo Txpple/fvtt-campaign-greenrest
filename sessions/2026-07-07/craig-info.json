@@ -1,0 +1,31 @@
+{
+  "startTime": "2026-07-08T00:11:07.579Z",
+  "durationSeconds": 10497.79,
+  "guild": "the table",
+  "channel": "voice",
+  "users": [
+    {
+      "track": 1,
+      "name": "DM"
+    },
+    {
+      "track": 2,
+      "name": "Thomas"
+    },
+    {
+      "track": 3,
+      "name": "Morgash"
+    },
+    {
+      "track": 4,
+      "name": "Gren"
+    },
+    {
+      "track": 5,
+      "name": "Jetten"
+    }
+  ],
+  "craigNotes": null,
+  "fetchedAt": "2026-07-08T04:30:00Z",
+  "source": "manual download (zip provided by user; expired-link fallback path)"
+}

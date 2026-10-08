@@ -1,0 +1,18 @@
+{
+  "key": "dnd5e.primaryParty",
+  "user": null,
+  "value": "{\"actor\":\"m2iibo7g0b1YFFjQ\"}",
+  "_id": "YVrvtbQl1o1pmcJ0",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1786111017580,
+    "modifiedTime": 1786112595629,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!YVrvtbQl1o1pmcJ0"
+}

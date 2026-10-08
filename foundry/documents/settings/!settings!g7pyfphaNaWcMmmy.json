@@ -1,0 +1,18 @@
+{
+  "key": "fvtt-mod-combatplus.autoDefeatedNPCs",
+  "user": null,
+  "value": "true",
+  "_id": "g7pyfphaNaWcMmmy",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1786925617213,
+    "modifiedTime": 1786925617213,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!g7pyfphaNaWcMmmy"
+}

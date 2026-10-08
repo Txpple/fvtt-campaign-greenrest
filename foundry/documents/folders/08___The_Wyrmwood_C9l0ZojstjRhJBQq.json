@@ -1,0 +1,28 @@
+{
+  "name": "08 - The Wyrmwood",
+  "type": "Scene",
+  "folder": null,
+  "flags": {
+    "world": {
+      "mcpGenerated": false,
+      "createdAt": "2026-07-15T19:27:43.352Z"
+    }
+  },
+  "_id": "C9l0ZojstjRhJBQq",
+  "description": "",
+  "sorting": "a",
+  "sort": 0,
+  "color": "#79a832",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1784143662261,
+    "modifiedTime": 1788275648012,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!C9l0ZojstjRhJBQq"
+}

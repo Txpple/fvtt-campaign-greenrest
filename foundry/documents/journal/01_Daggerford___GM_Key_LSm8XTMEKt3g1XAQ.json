@@ -1,0 +1,64 @@
+{
+  "name": "01 Daggerford — GM Key",
+  "pages": [
+    {
+      "type": "text",
+      "name": "Opening Night",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><p class=\"lead\">Session 1 opens here: the party's last night in Daggerford before the trek south. Introductions, provisioning, and the map on the table.</p><h2 class=\"spaced\">Read aloud — the opening scene</h2><div class=\"readaloud\"><p>The Silver Gauntlet is loud tonight. Caravan drivers argue tolls by the fire; off-duty militia dice for coppers at the rim of the great gauntlet set into the flagstones of the floor, its pale stone knuckles rubbed mirror-bright by a hundred years of departing hands. Out past the walls, the ferry bell rings the last crossing of the day.</p><p>Your table is quieter. Between the mugs lies the thing that brought you together: the map. Four ruins in the wild country south. One relic — the <strong>Broken Heart</strong> — shattered into four shards. And one small village dead-center of it all, the only roof and market for days: <strong>Greenrest</strong>.</p><p>Dawn comes early. Whatever you still need — rope, rations, a sharper blade, a last word with whoever you're leaving behind — tonight is the night. Tomorrow the Trade Way runs south, and east off its far miles waits the Misty Forest, which has always belonged to the fey and the fog.</p></div><h2 class=\"spaced\">Running the scene</h2><ul><li><strong>Introductions.</strong> Around the table: how each PC ended up in Daggerford, why they're chasing the Broken Heart, and their thread to another PC (prepped from the player briefing).</li><li><strong>Last-chance shopping.</strong> Anything from the equipment chapter at book prices. Make it explicit: this is the LAST reliable resupply — Greenrest is a village, not a town.</li><li><strong>Hand over the props.</strong> The <em>Treasure Map to the Broken Heart</em> and <em>The Sword Coast</em> journals are the player-facing maps; the briefing journal covers what they already know.</li><li><strong>Table talk.</strong> Let them overhear: the Misty Forest is fey country and always has been; parties ride south chasing relic rumors and few send word back; the valley around Greenrest is the greenest land anyone's seen. All true, none of it the secret.</li></ul><div class=\"gmnote\"><p><strong>Don't foreshadow the Dreamer.</strong> Nothing in Daggerford knows Greenrest's truth. The dread starts — quietly — only once they're IN the valley; tonight should feel warm, ordinary, and a little exciting. The worst thing in the room is a bar tab.</p><p><strong>Behind the bar:</strong> use @UUID[Actor.FWc6oBk3aFxZ2qBv]{Dellan the Bartender} or @UUID[Actor.RNtmFBkzt7CPUFNk]{Osric the Bartender} as the Gauntlet's keeper (keep the other for Greenrest's inn), and dress the room from the Daggerford folder: @UUID[Actor.aQhstefd4FTCRbK2]{Torvald the Sellsword}, @UUID[Actor.uBuAvgJGzPQ2FBsQ]{Faelar the Sorcerer}, @UUID[Actor.4x7BfYLnPTGzoVHw]{Tessa the Drummer} and @UUID[Actor.vLWqYoAm2CvTqVXD]{Lyra the Musician} make a fine adventurers'-tavern crowd.</p><p><strong>Transition out:</strong> when they're done, cut to dawn — a last stoop to rub the Gauntlet's knuckles on the way out the door, the south gate, and the long road south (switch to the Sword Coast scene).</p></div></div></section>",
+        "format": 1
+      },
+      "_id": "mWrGPPQ2YJs2Z4Dl",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783083925890,
+        "modifiedTime": 1783430036998,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!LSm8XTMEKt3g1XAQ.mWrGPPQ2YJs2Z4Dl"
+    }
+  ],
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "folder": "IrBgFpR2iymTG05P",
+  "_id": "LSm8XTMEKt3g1XAQ",
+  "categories": [],
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783083925890,
+    "modifiedTime": 1783084093417,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!LSm8XTMEKt3g1XAQ"
+}

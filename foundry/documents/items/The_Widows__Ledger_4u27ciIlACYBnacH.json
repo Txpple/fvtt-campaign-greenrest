@@ -1,0 +1,57 @@
+{
+  "name": "The Widows' Ledger",
+  "type": "loot",
+  "img": "icons/sundries/books/book-worn-brown.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>A bill-of-lading book bound in mottled leather, damp-warped but meticulously kept. Every entry is written in the same crabbed cipher — columns of goods, prices, and dates, page after page after page, with a recurring mark that might be a standing stone beside a road. To an untrained eye the rows are noise.</em></p><p><em>The entries simply stop, about half a year ago. Beside the last one, in an irritated, clawed hand, a note in the same cipher — underlined twice.</em></p>",
+      "chat": ""
+    },
+    "quantity": 1,
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "rarity": "",
+    "identified": true,
+    "type": {
+      "value": "junk",
+      "subtype": ""
+    },
+    "identifier": "the-widows-ledger",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": []
+  },
+  "folder": "RxxShy6nmWycOcq7",
+  "_id": "4u27ciIlACYBnacH",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1787965873016,
+    "modifiedTime": 1787965873024,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!4u27ciIlACYBnacH"
+}

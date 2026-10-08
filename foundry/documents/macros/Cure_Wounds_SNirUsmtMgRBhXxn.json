@@ -1,0 +1,32 @@
+{
+  "type": "script",
+  "scope": "actor",
+  "name": "Cure Wounds",
+  "img": "icons/magic/nature/leaf-drip-light-green.webp",
+  "command": "dnd5e.documents.macro.rollItem(\"Cure Wounds\", { event })",
+  "flags": {
+    "dnd5e": {
+      "itemMacro": true
+    }
+  },
+  "_id": "SNirUsmtMgRBhXxn",
+  "author": "WjZL43DJHoHpfDrK",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "WjZL43DJHoHpfDrK": 3
+  },
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1786502523547,
+    "modifiedTime": 1786502523548,
+    "lastModifiedBy": "WjZL43DJHoHpfDrK",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!macros!SNirUsmtMgRBhXxn"
+}

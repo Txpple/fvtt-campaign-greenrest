@@ -1,0 +1,60 @@
+{
+  "name": "Sera's Map of the Four Ruins",
+  "type": "loot",
+  "img": "icons/tools/navigation/map-chart-tan.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>A traveler's map of the Misty Forest, creased and rain-spotted. Four ruin sites are inked in a confident hand: a cave-mouth in the hills, a deep wood, a ruined temple, a drowned fen.</em></p><p>Beneath them, underlined twice:</p><p><strong>\"Four ruins. One prize. One in four — and no way to know which but to walk in and look.\"</strong></p><p><em>A smaller hand has added, later and less steadily:</em> \"A game of roulette, and we only get to spin it the once at a time. Three of these are cold stone and whatever has moved into it. The fourth is the rest of our lives.\"</p><p><em>The caves are circled — and then struck through.</em></p>",
+      "chat": ""
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "source": {
+      "custom": "",
+      "rules": "2024",
+      "revision": 1
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "rarity": "",
+    "properties": [],
+    "type": {
+      "value": "gear",
+      "subtype": ""
+    },
+    "identifier": "map"
+  },
+  "effects": [],
+  "flags": {
+    "dnd5e": {}
+  },
+  "folder": "l74jP8iVTBjy67Sd",
+  "_stats": {
+    "exportSource": null,
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1786109546129,
+    "modifiedTime": 1786203817110,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_id": "ToUm6QQuvW3lFgJV",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "_key": "!items!ToUm6QQuvW3lFgJV"
+}

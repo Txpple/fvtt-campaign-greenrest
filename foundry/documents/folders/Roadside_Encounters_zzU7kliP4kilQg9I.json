@@ -1,0 +1,28 @@
+{
+  "name": "Roadside Encounters",
+  "type": "Actor",
+  "color": "#6a9358",
+  "folder": "xBJKfQKbBDL3MbhC",
+  "flags": {
+    "world": {
+      "mcpGenerated": true,
+      "createdAt": "2026-07-03T21:01:35.653Z"
+    }
+  },
+  "_id": "zzU7kliP4kilQg9I",
+  "description": "",
+  "sorting": "a",
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783112493496,
+    "modifiedTime": 1786552825150,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!zzU7kliP4kilQg9I"
+}

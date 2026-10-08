@@ -1,0 +1,28 @@
+{
+  "name": "Adventure Log",
+  "type": "JournalEntry",
+  "color": "#3a7d44",
+  "folder": null,
+  "flags": {
+    "world": {
+      "mcpGenerated": false,
+      "createdAt": "2026-07-08T16:58:39.719Z"
+    }
+  },
+  "_id": "VQIbehh9eXDVwnpX",
+  "description": "",
+  "sorting": "a",
+  "sort": 100000,
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783529919124,
+    "modifiedTime": 1783619633448,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!VQIbehh9eXDVwnpX"
+}

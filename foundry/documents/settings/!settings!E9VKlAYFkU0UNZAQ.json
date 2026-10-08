@@ -1,0 +1,18 @@
+{
+  "key": "fvtt-mod-combatplus.lockNonCombatants",
+  "user": null,
+  "value": "true",
+  "_id": "E9VKlAYFkU0UNZAQ",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783694343607,
+    "modifiedTime": 1783694343607,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!E9VKlAYFkU0UNZAQ"
+}

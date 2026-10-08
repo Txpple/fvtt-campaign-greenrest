@@ -1,0 +1,74 @@
+{
+  "name": "Backpack",
+  "type": "container",
+  "img": "icons/containers/bags/pack-simple-leather.webp",
+  "system": {
+    "description": {
+      "value": "<p>A Backpack holds up to 30 pounds within 1 cubic foot. It can also serve as a saddlebag.</p>",
+      "chat": ""
+    },
+    "price": {
+      "value": 2,
+      "denomination": "gp"
+    },
+    "quantity": 1,
+    "source": {
+      "rules": "2024",
+      "revision": 1
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "weight": {
+      "value": 5,
+      "units": "lb"
+    },
+    "rarity": "",
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "currency": {
+      "pp": 0,
+      "gp": 0,
+      "ep": 0,
+      "sp": 0,
+      "cp": 0
+    },
+    "properties": [],
+    "capacity": {
+      "weight": {
+        "value": 30,
+        "units": "lb"
+      },
+      "volume": {
+        "units": "cubicFoot"
+      }
+    },
+    "identifier": "backpack"
+  },
+  "effects": [],
+  "flags": {
+    "dnd5e": {}
+  },
+  "folder": "IRI8Gfz0uA2I8cID",
+  "_stats": {
+    "exportSource": null,
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783040558470,
+    "modifiedTime": 1783040558470,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_id": "rTduvAPg3WVMCND3",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "_key": "!items!rTduvAPg3WVMCND3"
+}

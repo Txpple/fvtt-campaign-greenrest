@@ -1,0 +1,18 @@
+{
+  "key": "fvtt-mod-combatplus.autoDefeated",
+  "user": null,
+  "value": "\"npcs\"",
+  "_id": "zjtclE7vYyEf7w3b",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783696516565,
+    "modifiedTime": 1783697638856,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!zjtclE7vYyEf7w3b"
+}

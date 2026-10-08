@@ -1,0 +1,28 @@
+{
+  "name": "08 - The Wyrmwood",
+  "type": "Actor",
+  "color": "#79a832",
+  "folder": null,
+  "flags": {
+    "world": {
+      "mcpGenerated": false,
+      "createdAt": "2026-09-01T15:14:18.433Z"
+    }
+  },
+  "_id": "v02wv5Ja2lHJWpps",
+  "description": "",
+  "sorting": "a",
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1788275656604,
+    "modifiedTime": 1788275656604,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!v02wv5Ja2lHJWpps"
+}

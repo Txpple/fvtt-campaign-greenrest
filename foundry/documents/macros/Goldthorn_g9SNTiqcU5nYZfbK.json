@@ -1,0 +1,32 @@
+{
+  "type": "script",
+  "scope": "actor",
+  "name": "Goldthorn",
+  "img": "modules/dnd-players-handbook/assets/icons/items/scimitar.webp",
+  "command": "dnd5e.documents.macro.rollItem(\"Goldthorn\", { event })",
+  "flags": {
+    "dnd5e": {
+      "itemMacro": true
+    }
+  },
+  "_id": "g9SNTiqcU5nYZfbK",
+  "author": "LVDVg5n3IGEBCWns",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "LVDVg5n3IGEBCWns": 3
+  },
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1786482482230,
+    "modifiedTime": 1786482482232,
+    "lastModifiedBy": "LVDVg5n3IGEBCWns",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!macros!g9SNTiqcU5nYZfbK"
+}

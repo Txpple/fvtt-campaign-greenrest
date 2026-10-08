@@ -1,0 +1,18 @@
+{
+  "key": "core.dynamicTokenRing",
+  "user": null,
+  "value": "\"coreSteel\"",
+  "_id": "seNSwtT18FmTJV6C",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1782928461232,
+    "modifiedTime": 1782928461232,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!seNSwtT18FmTJV6C"
+}

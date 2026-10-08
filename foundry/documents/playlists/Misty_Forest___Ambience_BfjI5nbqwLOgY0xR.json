@@ -1,0 +1,42 @@
+{
+  "name": "Misty Forest — Ambience",
+  "mode": 0,
+  "sounds": [
+    {
+      "name": "506_The_Verdant_Dark.mp3",
+      "path": "worlds/the-broken-heart-of-greenrest/assets/audio/506_The_Verdant_Dark.mp3",
+      "volume": 0.5,
+      "repeat": true,
+      "_id": "at17X5hJ457EsFKl",
+      "channel": "",
+      "playing": false,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!BfjI5nbqwLOgY0xR.at17X5hJ457EsFKl"
+    }
+  ],
+  "_id": "BfjI5nbqwLOgY0xR",
+  "channel": "music",
+  "playing": false,
+  "folder": null,
+  "sorting": "a",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783088927779,
+    "modifiedTime": 1790726881739,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "seed": 801,
+  "_key": "!playlists!BfjI5nbqwLOgY0xR"
+}

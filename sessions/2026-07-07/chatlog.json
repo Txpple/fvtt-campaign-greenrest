@@ -1,0 +1,3684 @@
+[
+  {
+    "id": "r2WrTKU6zKUrORUX",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1783470457674,
+    "time": "2026-07-08T00:27:37.674Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "",
+    "flavor": "Wisdom (Survival) Check",
+    "rolls": [
+      {
+        "total": 20,
+        "formula": "1d20 + 1"
+      }
+    ]
+  },
+  {
+    "id": "f4u8vBz0pefHKOlU",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1783470520027,
+    "time": "2026-07-08T00:28:40.027Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "",
+    "flavor": "Wisdom (Survival) Check (Disadvantage)",
+    "rolls": [
+      {
+        "total": 4,
+        "formula": "2d20dis + 1"
+      }
+    ]
+  },
+  {
+    "id": "pl6gCgKlaUnI2YvC",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1783470564351,
+    "time": "2026-07-08T00:29:24.351Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "",
+    "flavor": "Intelligence (Religion) Check",
+    "rolls": [
+      {
+        "total": 24,
+        "formula": "1d20 + 2 + 2"
+      }
+    ]
+  },
+  {
+    "id": "GZ0GQ3EvXUOdRXYW",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783470708763,
+    "time": "2026-07-08T00:31:48.763Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Thomas A. Invictus",
+    "content": "Silver Gauntlet Vault Key Adventuring Gear A heavy silver key stamped with the gauntlet sigil of the Silver Gauntlet Tavern, hung on a braided leather fob marked Suite Four. It opens the tavern's four-room suite at the west end of the house — and the iron-bound treasury door that adjoins it, kept locked at all hours. Behind that door is the strongroom where Daggerford's adventurers store what they can't afford to lose.The party's own travel chest sits inside, packed and waiting for the road."
+  },
+  {
+    "id": "34BcmpUhA9HdL2tM",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1783470713797,
+    "time": "2026-07-08T00:31:53.797Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "Silver Gauntlet Vault Key Adventuring Gear A heavy silver key stamped with the gauntlet sigil of the Silver Gauntlet Tavern, hung on a braided leather fob marked Suite Four. It opens the tavern's four-room suite at the west end of the house — and the iron-bound treasury door that adjoins it, kept locked at all hours. Behind that door is the strongroom where Daggerford's adventurers store what they can't afford to lose.The party's own travel chest sits inside, packed and waiting for the road."
+  },
+  {
+    "id": "48q7kcF8l6cyFjIA",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1783470713899,
+    "time": "2026-07-08T00:31:53.899Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "Silver Gauntlet Vault Key Adventuring Gear A heavy silver key stamped with the gauntlet sigil of the Silver Gauntlet Tavern, hung on a braided leather fob marked Suite Four. It opens the tavern's four-room suite at the west end of the house — and the iron-bound treasury door that adjoins it, kept locked at all hours. Behind that door is the strongroom where Daggerford's adventurers store what they can't afford to lose.The party's own travel chest sits inside, packed and waiting for the road."
+  },
+  {
+    "id": "VomSqmkclkayUlhK",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783470892685,
+    "time": "2026-07-08T00:34:52.685Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Matt the DM",
+    "content": "Morgash the Gravemaker picked up the following items: Ember-Touched Greatsword 1",
+    "flavor": "Item Piles"
+  },
+  {
+    "id": "HzTX8XmgC3x5Kznb",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783470923840,
+    "time": "2026-07-08T00:35:23.840Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Matt the DM",
+    "content": "Gren Greenmantle picked up the following items: Wand of the War Mage +1 1 Periapt of Wound Closure 1 Gold 207",
+    "flavor": "Item Piles"
+  },
+  {
+    "id": "eDnRt2Liws0uvjQV",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783470928425,
+    "time": "2026-07-08T00:35:28.425Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Matt the DM",
+    "content": "Thomas A. Invictus picked up the following items: +1 Shield 1 Stone of Good Luck (Luckstone) 1 Cloak of Protection 1 Gold 206",
+    "flavor": "Item Piles"
+  },
+  {
+    "id": "qs9CzhBbdYeoUfGQ",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783470934042,
+    "time": "2026-07-08T00:35:34.042Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Matt the DM",
+    "content": "Jetten Elisedil picked up the following items: Quiver of Ehlonna 2 +1 Dagger 2 Gold 414",
+    "flavor": "Item Piles"
+  },
+  {
+    "id": "IEradQYITesFc8ti",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783471088768,
+    "time": "2026-07-08T00:38:08.768Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Matt the DM",
+    "content": "Morgash the Gravemaker picked up the following items: Keoghtom's Ointment 1 Gold 207",
+    "flavor": "Item Piles"
+  },
+  {
+    "id": "5a0ZfFfQWqyQ2WVX",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783471352368,
+    "time": "2026-07-08T00:42:32.368Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Thomas",
+    "content": "Roadside strangers on the Trade Way, south of Daggerford toward the Misty Forest — non-combat, roleplay travel encounters. NONE of these travellers know the village of Greenrest or the party's true quest. Two entries — the trapper (05) and the minstrel's ballad (07) — carry a very nascent, deniable clue to the hidden plot; let them pass as woodsman's superstition and an old sad song. Rollable on any leg of the journey. 1d12 6 6 6 Pib & Josk — two couriers on lathered horses, racing the same sealed letter to two rival lords, each loudly certain the other is a forger and a scoundrel. They'll actually pay the party to arbitrate — then gallop off still bellowing, the argument entirely unresolved.",
+    "flavor": "Draws a result from the Trade Way — Travellers on the Road table",
+    "rolls": [
+      {
+        "total": 6,
+        "formula": "1d12"
+      }
+    ]
+  },
+  {
+    "id": "Gob9OTAUAKk2Vvx8",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1783471568403,
+    "time": "2026-07-08T00:46:08.403Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "",
+    "flavor": "Wisdom (Insight) Check (Advantage)",
+    "rolls": [
+      {
+        "total": 15,
+        "formula": "2d20adv + 0 + 2 + 1"
+      }
+    ]
+  },
+  {
+    "id": "3gmjI4vAkTzdB0NB",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1783471600446,
+    "time": "2026-07-08T00:46:40.446Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 2,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "Speak with Animals 1st Level • Divination For the duration, you can comprehend and verbally communicate with Beasts, and you can use any of the Influence action’s skill options with them.Most Beasts have little to say about topics that don’t pertain to survival or companionship, but at minimum, a Beast can give you information about nearby locations and monsters, including whatever it has perceived within the past day. Consume Resource Refund Resource Ritual V, S Action 10 minutes Self Self"
+  },
+  {
+    "id": "RprvBwiSXkWkeK3I",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1783471620603,
+    "time": "2026-07-08T00:47:00.603Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "Thaumaturgy Transmutation You manifest a minor wonder within range. You create one of the effects below within range. If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time.Altered Eyes. You alter the appearance of your eyes for 1 minute.Booming Voice. Your voice booms up to three times as loud as normal for 1 minute. For the duration, you have Advantage on Charisma (Intimidation) checks.Fire Play. You cause flames to flicker, brighten, dim, or change color for 1 minute.Invisible Hand. You instantaneously cause an unlocked door or window to fly open or slam shut.Phantom Sound. You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.Tremors. You cause harmless tremors in the ground for 1 minute. V Action 1 minute 30 ft"
+  },
+  {
+    "id": "dq9RLRkeaW2JjKP4",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1783471838866,
+    "time": "2026-07-08T00:50:38.866Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 2,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "Metamagic Feature Because your magic flows from within, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from “Metamagic Options”. You use the chosen options to temporarily modify spells you cast. To use an option, you must spend the number of Sorcery Points that it costs.You can use only one Metamagic option on a spell when you cast it unless otherwise noted in one of those options.Whenever you gain a Sorcerer level, you can replace one of your Metamagic options with one you don’t know. You gain two more options at Sorcerer level 10 and two more at Sorcerer level 17."
+  },
+  {
+    "id": "VV61cMobiv4b1Vkz",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1783471882487,
+    "time": "2026-07-08T00:51:22.487Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 2,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "Subtle Spell Metamagic Option Cost: 1 Sorcery PointWhen you cast a spell, you can spend 1 Sorcery Point to cast it without any Verbal, Somatic, or Material components, except Material components that are consumed by the spell or that have a cost specified in the spell. Consume Resource Refund Resource Trigger When you cast a spell"
+  },
+  {
+    "id": "PafwTuvwO9jRpWKz",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783471882572,
+    "time": "2026-07-08T00:51:22.572Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Gren Greenmantle",
+    "content": "Metamagic Feature Because your magic flows from within, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from “Metamagic Options”. You use the chosen options to temporarily modify spells you cast. To use an option, you must spend the number of Sorcery Points that it costs.You can use only one Metamagic option on a spell when you cast it unless otherwise noted in one of those options.Whenever you gain a Sorcerer level, you can replace one of your Metamagic options with one you don’t know. You gain two more options at Sorcerer level 10 and two more at Sorcerer level 17."
+  },
+  {
+    "id": "3QqY9r92xhJuWaiM",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1783471996384,
+    "time": "2026-07-08T00:53:16.384Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "",
+    "flavor": "Wisdom (Survival) Check",
+    "rolls": [
+      {
+        "total": 17,
+        "formula": "1d20 + 1 + 2"
+      }
+    ]
+  },
+  {
+    "id": "68VKxqBquMtkN6jd",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783472193398,
+    "time": "2026-07-08T00:56:33.398Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Wisdom (Perception) Check",
+    "rolls": [
+      {
+        "total": 13,
+        "formula": "1d20 + 3 + 2"
+      }
+    ]
+  },
+  {
+    "id": "WFyEsPQgNfzzlRKD",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1783472213371,
+    "time": "2026-07-08T00:56:53.371Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "",
+    "flavor": "Wisdom (Perception) Check",
+    "rolls": [
+      {
+        "total": 23,
+        "formula": "1d20 + 1 + 2"
+      }
+    ]
+  },
+  {
+    "id": "K5zBP5dDJ0TbOGsZ",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783472260952,
+    "time": "2026-07-08T00:57:40.952Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Dexterity (Stealth) Check",
+    "rolls": [
+      {
+        "total": 18,
+        "formula": "1d20 + 3 + 4"
+      }
+    ]
+  },
+  {
+    "id": "hiIxY89RILfZYCUO",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1783472269197,
+    "time": "2026-07-08T00:57:49.197Z",
+    "style": 1,
+    "isRoll": false,
+    "whisperCount": 2,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Tom",
+    "content": "can you guys hear me? I'm trying to follow"
+  },
+  {
+    "id": "zKWV2qA95VuLKWsL",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1783472409367,
+    "time": "2026-07-08T01:00:09.367Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 2,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "Light Evocation You touch one Large or smaller object that isn’t being worn or carried by someone else. Until the spell ends, the object sheds Bright Light in a 20-foot radius and Dim Light for an additional 20 feet. The light can be colored as you like.Covering the object with something opaque blocks the light. The spell ends if you cast it again. Summon Materials a firefly or phosphorescent moss V, M Action 1 hour Touch"
+  },
+  {
+    "id": "g3O65zbdV7tIyekM",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783472684263,
+    "time": "2026-07-08T01:04:44.263Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Captain",
+    "content": "Greatsword Martial Melee • Graze Melee Attack Roll: +4, reach 5 ft. Hit: 9 (2d6 + 2) Slashing plus 3 (1d6) Poison damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "x3y6QrpAVbVqj9ar",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1783472765051,
+    "time": "2026-07-08T01:06:05.051Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 2,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "",
+    "flavor": "Dexterity (Stealth) Check",
+    "rolls": [
+      {
+        "total": 21,
+        "formula": "1d20 + 2"
+      }
+    ]
+  },
+  {
+    "id": "KRJSyk2kLPICoAFv",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783472927282,
+    "time": "2026-07-08T01:08:47.282Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Jetten Elisedil",
+    "content": "Hunter's Mark - Favored Enemy 1st Level • Divination You magically mark one creature you can see within range as your quarry. Until the spell ends, you deal an extra 1d6 Force damage to the target whenever you hit it with an attack roll. You also have Advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it.If the target drops to 0 Hit Points before this spell ends, you can take a Bonus Action to move the mark to a new creature you can see within range.Using a Higher-Level Spell Slot. Your Concentration can last longer with a spell slot of level 3–4 (up to 8 hours) or 5+ (up to 24 hours). Consume Resource Refund Resource Concentration Bonus Action 1 hour 90 ft 1 creature"
+  },
+  {
+    "id": "Vo5HMqY9ABdyqVZz",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783473068183,
+    "time": "2026-07-08T01:11:08.183Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Longbow - Damage Roll",
+    "rolls": [
+      {
+        "total": 4,
+        "formula": "1d8 + 3"
+      }
+    ]
+  },
+  {
+    "id": "4IQwYlFn0CiVPYv7",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783473191061,
+    "time": "2026-07-08T01:13:11.061Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten",
+    "content": "1",
+    "rolls": [
+      {
+        "total": 1,
+        "formula": "1d6"
+      }
+    ]
+  },
+  {
+    "id": "UxoX8Na0W09Fx2BB",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1783473356763,
+    "time": "2026-07-08T01:15:56.763Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash",
+    "content": "6",
+    "flavor": "Morgash rolls for Initiative!",
+    "rolls": [
+      {
+        "total": 6,
+        "formula": "1d20 + 0"
+      }
+    ]
+  },
+  {
+    "id": "1Ph9OZCZMaH6hwOU",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783473370914,
+    "time": "2026-07-08T01:16:10.914Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Captain",
+    "content": "13",
+    "flavor": "Hobgoblin Captain rolls for Initiative!",
+    "rolls": [
+      {
+        "total": 13,
+        "formula": "1d20 + 2 + 2"
+      }
+    ]
+  },
+  {
+    "id": "BkhKJzIj8ioxL0aL",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783473370914,
+    "time": "2026-07-08T01:16:10.914Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Archer",
+    "content": "22",
+    "flavor": "Hobgoblin Archer rolls for Initiative!",
+    "rolls": [
+      {
+        "total": 22,
+        "formula": "1d20 + 2 + 2"
+      }
+    ]
+  },
+  {
+    "id": "Vbe1xcn5Zys80VYN",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783473370914,
+    "time": "2026-07-08T01:16:10.914Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Warrior",
+    "content": "22",
+    "flavor": "Hobgoblin Warrior rolls for Initiative!",
+    "rolls": [
+      {
+        "total": 22,
+        "formula": "1d20 + 1 + 2"
+      }
+    ]
+  },
+  {
+    "id": "fiOQYFK0njCyyBWt",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783473370914,
+    "time": "2026-07-08T01:16:10.914Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Warrior",
+    "content": "16",
+    "flavor": "Hobgoblin Warrior rolls for Initiative!",
+    "rolls": [
+      {
+        "total": 16,
+        "formula": "1d20 + 1 + 2"
+      }
+    ]
+  },
+  {
+    "id": "lxsOu1acqseaQQr3",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783473370914,
+    "time": "2026-07-08T01:16:10.914Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Archer",
+    "content": "22",
+    "flavor": "Hobgoblin Archer rolls for Initiative!",
+    "rolls": [
+      {
+        "total": 22,
+        "formula": "1d20 + 2 + 2"
+      }
+    ]
+  },
+  {
+    "id": "PrcE8fKgTb7pJRfH",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1783473377254,
+    "time": "2026-07-08T01:16:17.254Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas",
+    "content": "20",
+    "flavor": "Thomas rolls for Initiative!",
+    "rolls": [
+      {
+        "total": 20,
+        "formula": "1d20 + 0 + 1"
+      }
+    ]
+  },
+  {
+    "id": "2djkGlMc20NmHTsX",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1783473385593,
+    "time": "2026-07-08T01:16:25.593Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 2,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren",
+    "content": "7",
+    "flavor": "Gren rolls for Initiative!",
+    "rolls": [
+      {
+        "total": 7,
+        "formula": "1d20 + 2"
+      }
+    ]
+  },
+  {
+    "id": "E0KSTJuzINZ0XbMS",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783473397830,
+    "time": "2026-07-08T01:16:37.830Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten",
+    "content": "18",
+    "flavor": "Jetten rolls for Initiative!",
+    "rolls": [
+      {
+        "total": 18,
+        "formula": "1d20 + 3 + 3"
+      }
+    ]
+  },
+  {
+    "id": "p8zXZgtHOIYKb50m",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783473435928,
+    "time": "2026-07-08T01:17:15.928Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Archer",
+    "content": "Longbow Martial Ranged • Slow Ranged Attack Roll: +4, range 150/600 ft. Hit: 6 (1d8 + 2) Piercing plus 7 (3d4) Poison damage. Attack Damage Action Instantaneous 150/600 ft Equipped Proficient"
+  },
+  {
+    "id": "NHpkRQ63ZmKnmUvZ",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783473437280,
+    "time": "2026-07-08T01:17:17.280Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Archer",
+    "content": "",
+    "flavor": "Longbow - Attack Roll",
+    "rolls": [
+      {
+        "total": 9,
+        "formula": "1d20 + 2 + 2"
+      }
+    ]
+  },
+  {
+    "id": "cZdzVKl5S9AYwNun",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783473458235,
+    "time": "2026-07-08T01:17:38.235Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Archer",
+    "content": "Longbow Martial Ranged • Slow Ranged Attack Roll: +4, range 150/600 ft. Hit: 6 (1d8 + 2) Piercing plus 7 (3d4) Poison damage. Attack Damage Action Instantaneous 150/600 ft Equipped Proficient"
+  },
+  {
+    "id": "A3Rnr3aH4Idi0zAd",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783473459425,
+    "time": "2026-07-08T01:17:39.425Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Archer",
+    "content": "",
+    "flavor": "Longbow - Attack Roll",
+    "rolls": [
+      {
+        "total": 24,
+        "formula": "1d20 + 2 + 2"
+      }
+    ]
+  },
+  {
+    "id": "Uq6aI9jreeUqqDtU",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783473477853,
+    "time": "2026-07-08T01:17:57.853Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Archer",
+    "content": "Longsword Martial Melee • Sap Melee Attack Roll: +2, reach 5 ft. Hit: 11 (2d10) Slashing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "d6dLP1g4ADJfi70m",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783473588577,
+    "time": "2026-07-08T01:19:48.577Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Archer",
+    "content": "Longbow Martial Ranged • Slow Attack Damage Action Instantaneous 150/600 ft Equipped Proficient"
+  },
+  {
+    "id": "G4mtdl2zDF7mAGvL",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783473591209,
+    "time": "2026-07-08T01:19:51.209Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Archer",
+    "content": "",
+    "flavor": "Longbow - Damage Roll",
+    "rolls": [
+      {
+        "total": 8,
+        "formula": "2d8 + 2"
+      }
+    ]
+  },
+  {
+    "id": "SbheO2WNJyEpT43g",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1783473816184,
+    "time": "2026-07-08T01:23:36.184Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "Bane 1st Level • Enchantment Up to three creatures of your choice that you can see within range must each make a Charisma saving throw. Whenever a target that fails this save makes an attack roll or a saving throw before the spell ends, the target must subtract 1d4 from the attack roll or save.Using a Higher-Level Spell Slot. You can target one additional creature for each spell slot level above 1. DC 12 Charisma Saving Throw Charisma Saving Throw Consume Resource Refund Resource Materials a drop of blood Concentration V, S, M Action 1 minute 30 ft 3 creatures"
+  },
+  {
+    "id": "4bJFlSh78MnkISUp",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783473830271,
+    "time": "2026-07-08T01:23:50.271Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Warrior",
+    "content": "",
+    "flavor": "Charisma Saving Throw",
+    "rolls": [
+      {
+        "total": 11,
+        "formula": "1d20 - 1"
+      }
+    ]
+  },
+  {
+    "id": "xUIbXDi7tlH4chAl",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783473839624,
+    "time": "2026-07-08T01:23:59.624Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Archer",
+    "content": "",
+    "flavor": "Charisma Saving Throw",
+    "rolls": [
+      {
+        "total": 5,
+        "formula": "1d20 - 1"
+      }
+    ]
+  },
+  {
+    "id": "bVum13gyjmrpmuaN",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783474046898,
+    "time": "2026-07-08T01:27:26.898Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "Longbow Martial Ranged • Slow Attack Damage Action Instantaneous 150/600 ft Equipped Proficient"
+  },
+  {
+    "id": "rEzXS2N189RJWYP4",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783474047003,
+    "time": "2026-07-08T01:27:27.003Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Longbow - Attack Roll (Disadvantage)",
+    "rolls": [
+      {
+        "total": 16,
+        "formula": "2d20dis + 3 + 2 + 2"
+      }
+    ]
+  },
+  {
+    "id": "4AmLCZPg3uWOtzhQ",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783474053989,
+    "time": "2026-07-08T01:27:33.989Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "Longbow Martial Ranged • Slow Attack Damage Action Instantaneous 150/600 ft Equipped Proficient"
+  },
+  {
+    "id": "3eNdyLVL5Xopozrk",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783474054077,
+    "time": "2026-07-08T01:27:34.077Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Longbow - Attack Roll (Disadvantage)",
+    "rolls": [
+      {
+        "total": 17,
+        "formula": "2d20dis + 3 + 2 + 2"
+      }
+    ]
+  },
+  {
+    "id": "Pj5kjuzLqHY0fM2O",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1783474135294,
+    "time": "2026-07-08T01:28:55.294Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 2,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "Bless 1st Level • Enchantment You bless up to three creatures within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target adds 1d4 to the attack roll or save.Using a Higher-Level Spell Slot. You can target one additional creature for each spell slot level above 1. Consume Resource Refund Resource Materials a Holy Symbol worth 5+ GP Concentration V, S, M Action 1 minute 30 ft 3 creatures"
+  },
+  {
+    "id": "5nUcsyZb3CNxEe00",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1783474202795,
+    "time": "2026-07-08T01:30:02.795Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Ember-Touched Greatsword Martial Melee • Graze Weapon (Greatsword), CommonA staple of the Flaming Fist of Baldur's Gate — duty-blades quenched, their smiths swear, in the company's own forge-fire, so the steel keeps a banked heat that never quite goes out. The pawnbroker on Daggerford's market square sold it cheap; he was tired, he said, of his shop window smoldering like a hearth after dark.In Darkness, the unsheathed blade of this weapon glows like charcoal embers, creating Bright Light in a 15-foot radius and Dim Light for an additional 15 feet.The banked heat sears where the blade bites: when you hit with an attack roll using this magic weapon, the target takes an extra 1 Fire damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "kXw9PCa5F87CYgiP",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1783474205817,
+    "time": "2026-07-08T01:30:05.817Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "",
+    "flavor": "Ember-Touched Greatsword - Attack Roll",
+    "rolls": [
+      {
+        "total": 11,
+        "formula": "1d20 + 3 + 2 + 1d4"
+      }
+    ]
+  },
+  {
+    "id": "VMPqO0hnIZGZy9WH",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1783474277715,
+    "time": "2026-07-08T01:31:17.715Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Action Surge Feature You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action, except the Magic action.Once you use this feature, you can't do so again until you finish a Short or Long Rest. Starting at level 17, you can use it twice before a rest but only once on a turn. Consume Resource Refund Resource Special Instantaneous Self Self"
+  },
+  {
+    "id": "R7C3B83nnb2MFnvH",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1783474289691,
+    "time": "2026-07-08T01:31:29.691Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Precision Attack Maneuver When you miss with an attack roll, you can expend one Superiority Die, roll that die, and add it to the attack roll, potentially causing the attack to hit. Bonus Consume Resource Refund Resource Trigger When you miss with an attack roll"
+  },
+  {
+    "id": "ULtTFsBXNu3dwAEH",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1783474298221,
+    "time": "2026-07-08T01:31:38.221Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "",
+    "flavor": "Precision Attack - Other Formula",
+    "rolls": [
+      {
+        "total": 4,
+        "formula": "1d8"
+      }
+    ]
+  },
+  {
+    "id": "PHLJpHWeG4f55Bpg",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1783474306739,
+    "time": "2026-07-08T01:31:46.739Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Ember-Touched Greatsword Martial Melee • Graze Weapon (Greatsword), CommonA staple of the Flaming Fist of Baldur's Gate — duty-blades quenched, their smiths swear, in the company's own forge-fire, so the steel keeps a banked heat that never quite goes out. The pawnbroker on Daggerford's market square sold it cheap; he was tired, he said, of his shop window smoldering like a hearth after dark.In Darkness, the unsheathed blade of this weapon glows like charcoal embers, creating Bright Light in a 15-foot radius and Dim Light for an additional 15 feet.The banked heat sears where the blade bites: when you hit with an attack roll using this magic weapon, the target takes an extra 1 Fire damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "AhRaIfezNOk674d0",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1783474310270,
+    "time": "2026-07-08T01:31:50.270Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "",
+    "flavor": "Ember-Touched Greatsword - Attack Roll",
+    "rolls": [
+      {
+        "total": 26,
+        "formula": "1d20 + 3 + 2 + 1d4"
+      }
+    ]
+  },
+  {
+    "id": "6YLnXehsOcL3pwjy",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1783474319882,
+    "time": "2026-07-08T01:31:59.882Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "",
+    "flavor": "Ember-Touched Greatsword - Damage Roll",
+    "rolls": [
+      {
+        "total": 10,
+        "formula": "2d6 + 3"
+      },
+      {
+        "total": 1,
+        "formula": "1"
+      }
+    ]
+  },
+  {
+    "id": "m5hon4AXGVurSmJt",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783474402894,
+    "time": "2026-07-08T01:33:22.894Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Archer",
+    "content": "Longbow Martial Ranged • Slow Attack Damage Action Instantaneous 150/600 ft Equipped Proficient"
+  },
+  {
+    "id": "7sHrZfbesb4GpBEE",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783474404939,
+    "time": "2026-07-08T01:33:24.939Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Archer",
+    "content": "",
+    "flavor": "Longbow - Attack Roll",
+    "rolls": [
+      {
+        "total": 8,
+        "formula": "1d20 + 2 + 2"
+      }
+    ]
+  },
+  {
+    "id": "ieUNyz0eYBpKS936",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783474411967,
+    "time": "2026-07-08T01:33:31.967Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Archer",
+    "content": "Longbow Martial Ranged • Slow Attack Damage Action Instantaneous 150/600 ft Equipped Proficient"
+  },
+  {
+    "id": "pxqKjoKP7yvv8JFq",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783474413062,
+    "time": "2026-07-08T01:33:33.062Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Archer",
+    "content": "",
+    "flavor": "Longbow - Attack Roll",
+    "rolls": [
+      {
+        "total": 14,
+        "formula": "1d20 + 2 + 2 - 1d4"
+      }
+    ]
+  },
+  {
+    "id": "Z2B7XNDXisfWNBud",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783474430364,
+    "time": "2026-07-08T01:33:50.364Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Warrior",
+    "content": "Pack Tactics Feature The hobgoblin warrior has Advantage on an attack roll against a creature if at least one of the hobgoblin warrior's allies is within 5 feet of the creature and the ally doesn’t have the Incapacitated condition. Ally within 5 feet of attack target"
+  },
+  {
+    "id": "TkFCHEE0rIDu2h1G",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783474439233,
+    "time": "2026-07-08T01:33:59.233Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Warrior",
+    "content": "Longsword Martial Melee • Sap Melee Attack Roll: +(1d4 * -1) + 3, reach 5 ft. Hit: 12 (2d10 + 1) Slashing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "7kRRLHEImI69wYNt",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783474440875,
+    "time": "2026-07-08T01:34:00.875Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Warrior",
+    "content": "",
+    "flavor": "Longsword - Attack Roll (Advantage)",
+    "rolls": [
+      {
+        "total": 9,
+        "formula": "2d20adv + 1 + 2 - 1d4"
+      }
+    ]
+  },
+  {
+    "id": "sd4EMMavgyXnYxDK",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1783474472174,
+    "time": "2026-07-08T01:34:32.174Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Riposte Maneuver When a creature misses you with a melee attack roll, you can take a Reaction and expend one Superiority Die to make a melee attack roll with a weapon or an Unarmed Strike against the creature. If you hit, add the Superiority Die to the attack's damage. Damage Consume Resource Refund Resource Trigger When a creature misses you with a melee attack roll Reaction Instantaneous Self 1 creature"
+  },
+  {
+    "id": "XdNm4eZfqIze03KM",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1783474479224,
+    "time": "2026-07-08T01:34:39.224Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "",
+    "flavor": "Riposte - Damage Roll",
+    "rolls": [
+      {
+        "total": 5,
+        "formula": "1d8"
+      }
+    ]
+  },
+  {
+    "id": "nAbdKH6EuFs8u8rj",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1783474501896,
+    "time": "2026-07-08T01:35:01.896Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Ember-Touched Greatsword Martial Melee • Graze Weapon (Greatsword), CommonA staple of the Flaming Fist of Baldur's Gate — duty-blades quenched, their smiths swear, in the company's own forge-fire, so the steel keeps a banked heat that never quite goes out. The pawnbroker on Daggerford's market square sold it cheap; he was tired, he said, of his shop window smoldering like a hearth after dark.In Darkness, the unsheathed blade of this weapon glows like charcoal embers, creating Bright Light in a 15-foot radius and Dim Light for an additional 15 feet.The banked heat sears where the blade bites: when you hit with an attack roll using this magic weapon, the target takes an extra 1 Fire damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "ME2rpxUxViEoYtlw",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1783474568729,
+    "time": "2026-07-08T01:36:08.729Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "",
+    "flavor": "Ember-Touched Greatsword - Attack Roll",
+    "rolls": [
+      {
+        "total": 12,
+        "formula": "1d20 + 3 + 2 + 1d4"
+      }
+    ]
+  },
+  {
+    "id": "0T73m7T5UfhQphcX",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1783474657224,
+    "time": "2026-07-08T01:37:37.224Z",
+    "style": 1,
+    "isRoll": false,
+    "whisperCount": 2,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Tom",
+    "content": "we can hear you."
+  },
+  {
+    "id": "RMaIJqnGOaUUzdWZ",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1783474670703,
+    "time": "2026-07-08T01:37:50.703Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "Longsword Martial Melee • Sap Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "sFWptI2FQWgHEgdM",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1783474673564,
+    "time": "2026-07-08T01:37:53.564Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "",
+    "flavor": "Longsword - Attack Roll",
+    "rolls": [
+      {
+        "total": 21,
+        "formula": "1d20 + 2 + 2 + 1d4"
+      }
+    ]
+  },
+  {
+    "id": "2NpZfOKGsLXaOFqH",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1783474695327,
+    "time": "2026-07-08T01:38:15.327Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "",
+    "flavor": "Longsword - Damage Roll",
+    "rolls": [
+      {
+        "total": 10,
+        "formula": "1d8 + 2"
+      }
+    ]
+  },
+  {
+    "id": "yLndm7BjjpUqZkus",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1783474712496,
+    "time": "2026-07-08T01:38:32.496Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "Divine Smite 1st Level • Evocation The target takes an extra 2d8 Radiant damage from the attack. The damage increases by 1d8 if the target is a Fiend or an Undead.Using a Higher-Level Spell Slot. The damage increases by 1d8 for each spell slot level above 1. Damage Consume Resource Refund Resource Trigger Immediately after hitting a target with a Melee weapon or an Unarmed Strike V Bonus Action Instantaneous Self"
+  },
+  {
+    "id": "z7DT3QbxNoZjxkVI",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1783474715288,
+    "time": "2026-07-08T01:38:35.288Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "",
+    "flavor": "Divine Smite - Damage Roll",
+    "rolls": [
+      {
+        "total": 14,
+        "formula": "2d8"
+      }
+    ]
+  },
+  {
+    "id": "YbgB1tIlb9EKsdid",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783474799602,
+    "time": "2026-07-08T01:39:59.602Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "Longbow Martial Ranged • Slow Attack Damage Action Instantaneous 150/600 ft Equipped Proficient"
+  },
+  {
+    "id": "KBjWQxrTHnzkBhty",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783474802280,
+    "time": "2026-07-08T01:40:02.280Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Longbow - Attack Roll",
+    "rolls": [
+      {
+        "total": 23,
+        "formula": "1d20 + 3 + 2 + 1d4 + 2"
+      }
+    ]
+  },
+  {
+    "id": "kZkpvYxZtaZJHFej",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783474828234,
+    "time": "2026-07-08T01:40:28.234Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Longbow - Damage Roll",
+    "rolls": [
+      {
+        "total": 5,
+        "formula": "1d8 + 3"
+      }
+    ]
+  },
+  {
+    "id": "1gBpasCZnnN6RLXu",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1783475175785,
+    "time": "2026-07-08T01:46:15.785Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "Minor Illusion Illusion You create a sound or an image of an object within range that lasts for the duration. See the descriptions below for the effects of each. The illusion ends if you cast this spell again.If a creature takes a Study action to examine the sound or image, the creature can determine that it is an illusion with a successful DC 13 Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.Sound. If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else’s voice, a lion’s roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends.Image. If you create an image of an object—such as a chair, muddy footprints, or a small chest—it must be no larger than a 5-foot Cube. The image can’t create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, since things can pass through it. Summon Materials a bit of fleece S, M Action 1 minute 30 ft 1 Space"
+  },
+  {
+    "id": "b9CX6Lx4R11S8gvu",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1783475230570,
+    "time": "2026-07-08T01:47:10.570Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Ember-Touched Greatsword Martial Melee • Graze Weapon (Greatsword), CommonA staple of the Flaming Fist of Baldur's Gate — duty-blades quenched, their smiths swear, in the company's own forge-fire, so the steel keeps a banked heat that never quite goes out. The pawnbroker on Daggerford's market square sold it cheap; he was tired, he said, of his shop window smoldering like a hearth after dark.In Darkness, the unsheathed blade of this weapon glows like charcoal embers, creating Bright Light in a 15-foot radius and Dim Light for an additional 15 feet.The banked heat sears where the blade bites: when you hit with an attack roll using this magic weapon, the target takes an extra 1 Fire damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "ozgNk0lpYw8JtL4U",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1783475233037,
+    "time": "2026-07-08T01:47:13.037Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "",
+    "flavor": "Ember-Touched Greatsword - Attack Roll",
+    "rolls": [
+      {
+        "total": 15,
+        "formula": "1d20 + 3 + 2 + 1d4"
+      }
+    ]
+  },
+  {
+    "id": "wa4ooOffubZzXhAo",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1783475240121,
+    "time": "2026-07-08T01:47:20.121Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Ember-Touched Greatsword Martial Melee • Graze Weapon (Greatsword), CommonA staple of the Flaming Fist of Baldur's Gate — duty-blades quenched, their smiths swear, in the company's own forge-fire, so the steel keeps a banked heat that never quite goes out. The pawnbroker on Daggerford's market square sold it cheap; he was tired, he said, of his shop window smoldering like a hearth after dark.In Darkness, the unsheathed blade of this weapon glows like charcoal embers, creating Bright Light in a 15-foot radius and Dim Light for an additional 15 feet.The banked heat sears where the blade bites: when you hit with an attack roll using this magic weapon, the target takes an extra 1 Fire damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "08CoNbyjsPzNrwxr",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783475357086,
+    "time": "2026-07-08T01:49:17.086Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Shaman",
+    "content": "5",
+    "flavor": "Hobgoblin Shaman rolls for Initiative!",
+    "rolls": [
+      {
+        "total": 5,
+        "formula": "1d20 + 1"
+      }
+    ]
+  },
+  {
+    "id": "o9aUhGPeAipN0YWX",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783475389277,
+    "time": "2026-07-08T01:49:49.277Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Archer",
+    "content": "Longbow Martial Ranged • Slow Attack Damage Action Instantaneous 150/600 ft Equipped Proficient"
+  },
+  {
+    "id": "eUvX8xMe3wdlTTtM",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783475390390,
+    "time": "2026-07-08T01:49:50.390Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Archer",
+    "content": "",
+    "flavor": "Longbow - Attack Roll",
+    "rolls": [
+      {
+        "total": 8,
+        "formula": "1d20 + 2 + 2"
+      }
+    ]
+  },
+  {
+    "id": "09U6EM9lq9Lh7ZO6",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783475397452,
+    "time": "2026-07-08T01:49:57.452Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Archer",
+    "content": "Longbow Martial Ranged • Slow Attack Damage Action Instantaneous 150/600 ft Equipped Proficient"
+  },
+  {
+    "id": "2lsRAAUPvPqyTWwL",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783475398740,
+    "time": "2026-07-08T01:49:58.740Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Archer",
+    "content": "",
+    "flavor": "Longbow - Attack Roll",
+    "rolls": [
+      {
+        "total": 7,
+        "formula": "1d20 + 2 + 2 - 1d4"
+      }
+    ]
+  },
+  {
+    "id": "mQMKaCW1yANhKAIT",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1783475491011,
+    "time": "2026-07-08T01:51:31.011Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "Javelin Simple Melee • Slow Attack Damage Action Instantaneous 30/120 ft reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "LFbLUwI1vU26f5QG",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1783475493843,
+    "time": "2026-07-08T01:51:33.843Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "",
+    "flavor": "Javelin - Attack Roll",
+    "rolls": [
+      {
+        "total": 13,
+        "formula": "1d20 + 2 + 2 + 1d4"
+      }
+    ]
+  },
+  {
+    "id": "PfxKIbkRMAYnq1s8",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783475523440,
+    "time": "2026-07-08T01:52:03.440Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "Longbow Martial Ranged • Slow Attack Damage Action Instantaneous 150/600 ft Equipped Proficient"
+  },
+  {
+    "id": "dGbvHevaRVirsSDn",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783475626771,
+    "time": "2026-07-08T01:53:46.771Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Longbow - Attack Roll",
+    "rolls": [
+      {
+        "total": 14,
+        "formula": "1d20 + 3 + 2 + 1d4 + 2"
+      }
+    ]
+  },
+  {
+    "id": "rMA5b7ZENoESGwLV",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783476281285,
+    "time": "2026-07-08T02:04:41.285Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "Healing Word 1st Level • Abjuration A creature of your choice that you can see within range regains Hit Points equal to 2d4 plus your spellcasting ability modifier.Using a Higher-Level Spell Slot. The healing increases by 2d4 for each spell slot level above 1. Healing Consume Resource Refund Resource V Bonus Action Instantaneous 60 ft 1 creature"
+  },
+  {
+    "id": "xYWsqFew89UL4qaA",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783476287225,
+    "time": "2026-07-08T02:04:47.225Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Healing Word - Healing Roll",
+    "rolls": [
+      {
+        "total": 10,
+        "formula": "2d4 + 3"
+      }
+    ]
+  },
+  {
+    "id": "obRN5mygNbPB84rJ",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783476362684,
+    "time": "2026-07-08T02:06:02.684Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Warrior",
+    "content": "Pack Tactics Feature The hobgoblin warrior has Advantage on an attack roll against a creature if at least one of the hobgoblin warrior's allies is within 5 feet of the creature and the ally doesn’t have the Incapacitated condition. Ally within 5 feet of attack target"
+  },
+  {
+    "id": "A3z2UxOXyXGCihw3",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783476364941,
+    "time": "2026-07-08T02:06:04.941Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Warrior",
+    "content": "Longsword Martial Melee • Sap Melee Attack Roll: +3, reach 5 ft. Hit: 12 (2d10 + 1) Slashing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "NOW8purY6VsPFbgj",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783476366853,
+    "time": "2026-07-08T02:06:06.853Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Warrior",
+    "content": "",
+    "flavor": "Longsword - Attack Roll (Advantage)",
+    "rolls": [
+      {
+        "total": 14,
+        "formula": "2d20adv + 1 + 2"
+      }
+    ]
+  },
+  {
+    "id": "oHSPduDhkQNI8cmG",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1783476387557,
+    "time": "2026-07-08T02:06:27.557Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "Sorcerous Burst Evocation You cast sorcerous energy at one creature or object within range. Make a ranged attack roll against the target. On a hit, the target takes 1d8 damage of a type you choose: Acid, Cold, Fire, Lightning, Poison, Psychic, or Thunder.If you roll an 8 on a d8 for this spell, you can roll another d8, and add it to the damage. When you cast this spell, the maximum number of these d8s you can add to the spell’s damage equals your spellcasting ability modifier.Cantrip Upgrade. The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8). Attack Damage V, S Action Instantaneous 120 ft 1 creature or object"
+  },
+  {
+    "id": "ExgkBLZOR2qgf7zk",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1783476392556,
+    "time": "2026-07-08T02:06:32.556Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "",
+    "flavor": "Sorcerous Burst - Attack Roll",
+    "rolls": [
+      {
+        "total": 12,
+        "formula": "1d20 + 3 + 2"
+      }
+    ]
+  },
+  {
+    "id": "VceGYyQpC8T6yBbx",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1783476475483,
+    "time": "2026-07-08T02:07:55.483Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Ember-Touched Greatsword Martial Melee • Graze Weapon (Greatsword), CommonA staple of the Flaming Fist of Baldur's Gate — duty-blades quenched, their smiths swear, in the company's own forge-fire, so the steel keeps a banked heat that never quite goes out. The pawnbroker on Daggerford's market square sold it cheap; he was tired, he said, of his shop window smoldering like a hearth after dark.In Darkness, the unsheathed blade of this weapon glows like charcoal embers, creating Bright Light in a 15-foot radius and Dim Light for an additional 15 feet.The banked heat sears where the blade bites: when you hit with an attack roll using this magic weapon, the target takes an extra 1 Fire damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "MQoBt6phXFuwfFPG",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1783476478583,
+    "time": "2026-07-08T02:07:58.583Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "",
+    "flavor": "Ember-Touched Greatsword - Attack Roll",
+    "rolls": [
+      {
+        "total": 14,
+        "formula": "1d20 + 3 + 2 + 1d4"
+      }
+    ]
+  },
+  {
+    "id": "RrxVudCF3ZuxqPtq",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1783476496127,
+    "time": "2026-07-08T02:08:16.127Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Graze Feature Weapon Mastery — Greatsword.If your attack roll with this weapon misses a creature, you can deal damage to that creature equal to the ability modifier you used to make the attack roll. This damage is the same type dealt by the weapon, and the damage can be increased only by increasing the ability modifier.Morgash: on a miss with the Ember-Touched Greatsword, use the Graze activity below to roll the Strength-modifier Slashing damage against the target. Damage Fighter (Weapon Mastery), Greatsword Special Instantaneous Self"
+  },
+  {
+    "id": "ObfnNsAvmjxjCWDI",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1783476498911,
+    "time": "2026-07-08T02:08:18.911Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "",
+    "flavor": "Graze - Damage Roll",
+    "rolls": [
+      {
+        "total": 3,
+        "formula": "3"
+      }
+    ]
+  },
+  {
+    "id": "OoWSv53y3F2GUwK2",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783476529135,
+    "time": "2026-07-08T02:08:49.135Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Shaman",
+    "content": "Healing Word 1st Level • Abjuration A creature of your choice that you can see within range regains Hit Points equal to 2d4 plus your spellcasting ability modifier.Using a Higher-Level Spell Slot. The healing increases by 2d4 for each spell slot level above 1. Healing Consume Resource Refund Resource Bonus Action Instantaneous 60 ft 1 creature"
+  },
+  {
+    "id": "KetGkz59LxRbKHZz",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783476530812,
+    "time": "2026-07-08T02:08:50.812Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Shaman",
+    "content": "",
+    "flavor": "Healing Word - Healing Roll",
+    "rolls": [
+      {
+        "total": 5,
+        "formula": "2d4 + 3"
+      }
+    ]
+  },
+  {
+    "id": "Hx5xKkCBi2VlpMsT",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783476570273,
+    "time": "2026-07-08T02:09:30.273Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Archer",
+    "content": "Longbow Martial Ranged • Slow Attack Damage Action Instantaneous 150/600 ft Equipped Proficient"
+  },
+  {
+    "id": "yxfaEyZtFmBl4QNb",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783476571674,
+    "time": "2026-07-08T02:09:31.674Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Archer",
+    "content": "",
+    "flavor": "Longbow - Attack Roll",
+    "rolls": [
+      {
+        "total": 11,
+        "formula": "1d20 + 2 + 2"
+      }
+    ]
+  },
+  {
+    "id": "jPOYRtzwJkJAr1BF",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783476581506,
+    "time": "2026-07-08T02:09:41.506Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Archer",
+    "content": "Longbow Martial Ranged • Slow Attack Damage Action Instantaneous 150/600 ft Equipped Proficient"
+  },
+  {
+    "id": "5mHzNJJuVOWC42uK",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783476582440,
+    "time": "2026-07-08T02:09:42.440Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Archer",
+    "content": "",
+    "flavor": "Longbow - Attack Roll",
+    "rolls": [
+      {
+        "total": 16,
+        "formula": "1d20 + 2 + 2 - 1d4"
+      }
+    ]
+  },
+  {
+    "id": "tkknPwp5QuOLz3Vq",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783476605614,
+    "time": "2026-07-08T02:10:05.614Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Warrior",
+    "content": "Longsword Martial Melee • Sap Melee Attack Roll: +(1d4 * -1) + 3, reach 5 ft. Hit: 12 (2d10 + 1) Slashing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "VYZzJIqlHcS8lvJG",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783476606820,
+    "time": "2026-07-08T02:10:06.820Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Warrior",
+    "content": "",
+    "flavor": "Longsword - Attack Roll (Advantage)",
+    "rolls": [
+      {
+        "total": 17,
+        "formula": "2d20adv + 1 + 2 - 1d4"
+      }
+    ]
+  },
+  {
+    "id": "pQQKlhkIb4NPJqb3",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783476608807,
+    "time": "2026-07-08T02:10:08.807Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Warrior",
+    "content": "Pack Tactics Feature The hobgoblin warrior has Advantage on an attack roll against a creature if at least one of the hobgoblin warrior's allies is within 5 feet of the creature and the ally doesn’t have the Incapacitated condition. Ally within 5 feet of attack target"
+  },
+  {
+    "id": "xErZCLcl3d6Utg8j",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783476613485,
+    "time": "2026-07-08T02:10:13.485Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Warrior",
+    "content": "",
+    "flavor": "Longsword - Damage Roll",
+    "rolls": [
+      {
+        "total": 6,
+        "formula": "2d10 + 1"
+      }
+    ]
+  },
+  {
+    "id": "URFGBBNCZrXyNwwk",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1783476656499,
+    "time": "2026-07-08T02:10:56.499Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "Longsword Martial Melee • Sap Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "JHjd6cFF4EK7diXl",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1783476660250,
+    "time": "2026-07-08T02:11:00.250Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "",
+    "flavor": "Longsword - Attack Roll",
+    "rolls": [
+      {
+        "total": 27,
+        "formula": "1d20 + 2 + 2 + 1d4"
+      }
+    ]
+  },
+  {
+    "id": "pT4owwaO4VYKLR8m",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1783476709601,
+    "time": "2026-07-08T02:11:49.601Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "",
+    "flavor": "Longsword - Damage Roll",
+    "rolls": [
+      {
+        "total": 12,
+        "formula": "2d8 + 2"
+      }
+    ]
+  },
+  {
+    "id": "7HgxeqcvbWvDvq7R",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1783476726036,
+    "time": "2026-07-08T02:12:06.036Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "Divine Smite 1st Level • Evocation The target takes an extra 2d8 Radiant damage from the attack. The damage increases by 1d8 if the target is a Fiend or an Undead.Using a Higher-Level Spell Slot. The damage increases by 1d8 for each spell slot level above 1. Damage Consume Resource Refund Resource Trigger Immediately after hitting a target with a Melee weapon or an Unarmed Strike V Bonus Action Instantaneous Self"
+  },
+  {
+    "id": "S3mAMt23SaOoVc8b",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1783476731798,
+    "time": "2026-07-08T02:12:11.798Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "",
+    "flavor": "Divine Smite - Damage Roll",
+    "rolls": [
+      {
+        "total": 15,
+        "formula": "4d8"
+      }
+    ]
+  },
+  {
+    "id": "TgNRkptWD1bA8VmA",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783476811677,
+    "time": "2026-07-08T02:13:31.677Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "Longbow Martial Ranged • Slow Attack Damage Action Instantaneous 150/600 ft Equipped Proficient"
+  },
+  {
+    "id": "OK6ZRejjX2KeNjzY",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783476817575,
+    "time": "2026-07-08T02:13:37.575Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Longbow - Attack Roll",
+    "rolls": [
+      {
+        "total": 28,
+        "formula": "1d20 + 3 + 2 + 1d4 + 2"
+      }
+    ]
+  },
+  {
+    "id": "J6k3zgbSm8l8SrO0",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783476842742,
+    "time": "2026-07-08T02:14:02.742Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Longbow - Damage Roll",
+    "rolls": [
+      {
+        "total": 11,
+        "formula": "1d8 + 3"
+      }
+    ]
+  },
+  {
+    "id": "87PqJ40LXmdj7som",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783476884301,
+    "time": "2026-07-08T02:14:44.301Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Warrior",
+    "content": "Longsword Martial Melee • Sap Melee Attack Roll: +3, reach 5 ft. Hit: 12 (2d10 + 1) Slashing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "jqTZbcyy6rhknzG1",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783476885971,
+    "time": "2026-07-08T02:14:45.971Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Warrior",
+    "content": "",
+    "flavor": "Longsword - Attack Roll (Advantage)",
+    "rolls": [
+      {
+        "total": 22,
+        "formula": "2d20adv + 1 + 2"
+      }
+    ]
+  },
+  {
+    "id": "5CaFZydFfWS26B4c",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783476887254,
+    "time": "2026-07-08T02:14:47.254Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Warrior",
+    "content": "Pack Tactics Feature The hobgoblin warrior has Advantage on an attack roll against a creature if at least one of the hobgoblin warrior's allies is within 5 feet of the creature and the ally doesn’t have the Incapacitated condition. Ally within 5 feet of attack target"
+  },
+  {
+    "id": "3k0EEnDe9018ZfLT",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783476892418,
+    "time": "2026-07-08T02:14:52.418Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Warrior",
+    "content": "",
+    "flavor": "Longsword - Damage Roll",
+    "rolls": [
+      {
+        "total": 13,
+        "formula": "2d10 + 1"
+      }
+    ]
+  },
+  {
+    "id": "MnPBsDq3qk7lX6Pp",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783476907407,
+    "time": "2026-07-08T02:15:07.407Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Warrior",
+    "content": "Longsword Martial Melee • Sap Melee Attack Roll: +(1d4 * -1) + 3, reach 5 ft. Hit: 12 (2d10 + 1) Slashing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "Bqz5AgHGHCKJEhHH",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783476908541,
+    "time": "2026-07-08T02:15:08.541Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Warrior",
+    "content": "",
+    "flavor": "Longsword - Attack Roll (Advantage)",
+    "rolls": [
+      {
+        "total": 13,
+        "formula": "2d20adv + 1 + 2 - 1d4"
+      }
+    ]
+  },
+  {
+    "id": "YZIGefLCzl81aB2J",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783477021708,
+    "time": "2026-07-08T02:17:01.708Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Gren Greenmantle",
+    "content": "Innate Sorcery Feature An event in your past left an indelible mark on you, infusing you with simmering magic. As a Bonus Action, you can unleash that magic for 1 minute, during which you gain the following benefits:The spell save DC of your Sorcerer spells increases by 1.You have Advantage on the attack rolls of Sorcerer spells you cast.You can use this feature twice, and you regain all expended uses of it when you finish a Long Rest. Consume Resource Refund Resource Bonus Action Instantaneous Self Self"
+  },
+  {
+    "id": "8nABzYqxsformuzm",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1783477070920,
+    "time": "2026-07-08T02:17:50.920Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "Scorching Ray 2nd Level • Evocation You hurl three fiery rays. You can hurl them at one target within range or at several. Make a ranged spell attack for each ray. On a hit, the target takes 2d6 Fire damage.Using a Higher-Level Spell Slot. You create one additional ray for each spell slot level above 2.Total Rays: 3 Attack Damage Consume Resource Refund Resource V, S Action Instantaneous 120 ft"
+  },
+  {
+    "id": "2BtpVeehJbaxzk0m",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1783477073901,
+    "time": "2026-07-08T02:17:53.901Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "",
+    "flavor": "Scorching Ray - Attack Roll (Advantage)",
+    "rolls": [
+      {
+        "total": 21,
+        "formula": "2d20adv + 3 + 2"
+      }
+    ]
+  },
+  {
+    "id": "2Yp0fyZUwg3dhhVL",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1783477099338,
+    "time": "2026-07-08T02:18:19.338Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "Scorching Ray 2nd Level • Evocation You hurl three fiery rays. You can hurl them at one target within range or at several. Make a ranged spell attack for each ray. On a hit, the target takes 2d6 Fire damage.Using a Higher-Level Spell Slot. You create one additional ray for each spell slot level above 2.Total Rays: 3 Attack Damage Consume Resource Refund Resource V, S Action Instantaneous 120 ft"
+  },
+  {
+    "id": "iiavgmuEtk3gO8rU",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1783477101956,
+    "time": "2026-07-08T02:18:21.956Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "",
+    "flavor": "Scorching Ray - Attack Roll (Advantage)",
+    "rolls": [
+      {
+        "total": 24,
+        "formula": "2d20adv + 3 + 2"
+      }
+    ]
+  },
+  {
+    "id": "7ysla69NQK1FdVjX",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1783477123209,
+    "time": "2026-07-08T02:18:43.209Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "",
+    "flavor": "Scorching Ray - Attack Roll (Advantage)",
+    "rolls": [
+      {
+        "total": 6,
+        "formula": "2d20adv + 3 + 2"
+      }
+    ]
+  },
+  {
+    "id": "VEqSAfU5k0O0JvZD",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1783477137802,
+    "time": "2026-07-08T02:18:57.802Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "",
+    "flavor": "Scorching Ray - Damage Roll",
+    "rolls": [
+      {
+        "total": 6,
+        "formula": "2d6"
+      }
+    ]
+  },
+  {
+    "id": "VzQOeVe1NAuHEndt",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1783477164567,
+    "time": "2026-07-08T02:19:24.567Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "",
+    "flavor": "Scorching Ray - Damage Roll",
+    "rolls": [
+      {
+        "total": 4,
+        "formula": "2d6"
+      }
+    ]
+  },
+  {
+    "id": "zCSuB4KtRUO0hLYr",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1783477192937,
+    "time": "2026-07-08T02:19:52.937Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Ember-Touched Greatsword Martial Melee • Graze Weapon (Greatsword), CommonA staple of the Flaming Fist of Baldur's Gate — duty-blades quenched, their smiths swear, in the company's own forge-fire, so the steel keeps a banked heat that never quite goes out. The pawnbroker on Daggerford's market square sold it cheap; he was tired, he said, of his shop window smoldering like a hearth after dark.In Darkness, the unsheathed blade of this weapon glows like charcoal embers, creating Bright Light in a 15-foot radius and Dim Light for an additional 15 feet.The banked heat sears where the blade bites: when you hit with an attack roll using this magic weapon, the target takes an extra 1 Fire damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "XwX40lBL2TPMtwrV",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1783477195331,
+    "time": "2026-07-08T02:19:55.331Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "",
+    "flavor": "Ember-Touched Greatsword - Attack Roll",
+    "rolls": [
+      {
+        "total": 19,
+        "formula": "1d20 + 3 + 2 + 1d4"
+      }
+    ]
+  },
+  {
+    "id": "NIE9FFkNzU0jK6YJ",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1783477204876,
+    "time": "2026-07-08T02:20:04.876Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "",
+    "flavor": "Ember-Touched Greatsword - Damage Roll",
+    "rolls": [
+      {
+        "total": 9,
+        "formula": "2d6min3 + 3"
+      },
+      {
+        "total": 1,
+        "formula": "1"
+      }
+    ]
+  },
+  {
+    "id": "mXlGOxi6WU7jU0U0",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783477304903,
+    "time": "2026-07-08T02:21:44.903Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Shaman",
+    "content": "Misty Step 2nd Level • Conjuration Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space you can see. Consume Resource Refund Resource Bonus Action Instantaneous Self 1 Space"
+  },
+  {
+    "id": "yXT9TFuL96mPsA4F",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783477354693,
+    "time": "2026-07-08T02:22:34.693Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Shaman",
+    "content": "Misty Step 2nd Level • Conjuration Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space you can see. Consume Resource Refund Resource Bonus Action Instantaneous Self 1 Space"
+  },
+  {
+    "id": "EVK2x34FzxHsZSzL",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783477384650,
+    "time": "2026-07-08T02:23:04.650Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Shaman",
+    "content": "Vine Staff Natural Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Bludgeoning plus 2 (1d4) Poison damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "YUeajh9UK6WPlMdZ",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783477386758,
+    "time": "2026-07-08T02:23:06.758Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Shaman",
+    "content": "",
+    "flavor": "Vine Staff - Attack Roll",
+    "rolls": [
+      {
+        "total": 18,
+        "formula": "1d20 + 3 + 2"
+      }
+    ]
+  },
+  {
+    "id": "m7txSUiQd0MgnrsS",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783477391921,
+    "time": "2026-07-08T02:23:11.921Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Shaman",
+    "content": "",
+    "flavor": "Vine Staff - Damage Roll",
+    "rolls": [
+      {
+        "total": 11,
+        "formula": "1d8 + 3"
+      },
+      {
+        "total": 2,
+        "formula": "1d4"
+      }
+    ]
+  },
+  {
+    "id": "GxnSm939VJ3oyDQr",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783477400749,
+    "time": "2026-07-08T02:23:20.749Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 3,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Gren Greenmantle",
+    "content": "DC 10 Concentration Concentration"
+  },
+  {
+    "id": "cPp7b4P2siyZxXUu",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1783477411902,
+    "time": "2026-07-08T02:23:31.902Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "",
+    "flavor": "Constitution Saving Throw",
+    "rolls": [
+      {
+        "total": 12,
+        "formula": "1d20 + 2 + 2"
+      }
+    ]
+  },
+  {
+    "id": "Lw0c8Z79WsWNzDiz",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1783477500114,
+    "time": "2026-07-08T02:25:00.114Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "Longsword Martial Melee • Sap Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "l4vbbjrPBcEF0lvO",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1783477502630,
+    "time": "2026-07-08T02:25:02.630Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "",
+    "flavor": "Longsword - Attack Roll",
+    "rolls": [
+      {
+        "total": 20,
+        "formula": "1d20 + 2 + 2 + 1d4"
+      }
+    ]
+  },
+  {
+    "id": "zE2XL2kjxDafKADY",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1783477513220,
+    "time": "2026-07-08T02:25:13.220Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "",
+    "flavor": "Longsword - Damage Roll",
+    "rolls": [
+      {
+        "total": 7,
+        "formula": "1d8 + 2"
+      }
+    ]
+  },
+  {
+    "id": "HIw9UtvP60MueGK7",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783477545543,
+    "time": "2026-07-08T02:25:45.543Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "Scimitar Martial Melee • Nick Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "Cm9Pjhbe24jI00Dh",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783477550018,
+    "time": "2026-07-08T02:25:50.018Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Scimitar - Attack Roll",
+    "rolls": [
+      {
+        "total": 18,
+        "formula": "1d20 + 3 + 2 + 1d4"
+      }
+    ]
+  },
+  {
+    "id": "6pRGGINHg4yFgZiw",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783477561196,
+    "time": "2026-07-08T02:26:01.196Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Scimitar - Damage Roll",
+    "rolls": [
+      {
+        "total": 6,
+        "formula": "1d6 + 3"
+      }
+    ]
+  },
+  {
+    "id": "WfuKvA2ZhTFExCUY",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783477570256,
+    "time": "2026-07-08T02:26:10.256Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "Shortsword Martial Melee • Vex Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "O3L3UAsFTKcFjYBy",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783477572769,
+    "time": "2026-07-08T02:26:12.769Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Shortsword - Attack Roll",
+    "rolls": [
+      {
+        "total": 14,
+        "formula": "1d20 + 3 + 2 + 1d4"
+      }
+    ]
+  },
+  {
+    "id": "YiVu5NlEhxXm4VI6",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783477589438,
+    "time": "2026-07-08T02:26:29.438Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Shortsword - Damage Roll",
+    "rolls": [
+      {
+        "total": 5,
+        "formula": "1d6 + 3"
+      }
+    ]
+  },
+  {
+    "id": "YMbzo9lUT2mAJra2",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783477622602,
+    "time": "2026-07-08T02:27:02.602Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Shaman",
+    "content": "Vine Staff Natural Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Bludgeoning plus 2 (1d4) Poison damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "KbGZZBs50AU6mrGw",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783477624782,
+    "time": "2026-07-08T02:27:04.782Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Shaman",
+    "content": "",
+    "flavor": "Vine Staff - Attack Roll",
+    "rolls": [
+      {
+        "total": 24,
+        "formula": "1d20 + 3 + 2"
+      }
+    ]
+  },
+  {
+    "id": "uYqbRePNSK4lRyXi",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783477630505,
+    "time": "2026-07-08T02:27:10.505Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Shaman",
+    "content": "",
+    "flavor": "Vine Staff - Damage Roll",
+    "rolls": [
+      {
+        "total": 8,
+        "formula": "1d8 + 3"
+      },
+      {
+        "total": 1,
+        "formula": "1d4"
+      }
+    ]
+  },
+  {
+    "id": "sRPQKF4Ci9EkIVHq",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783477640600,
+    "time": "2026-07-08T02:27:20.600Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 3,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Jetten Elisedil",
+    "content": "DC 10 Concentration Concentration"
+  },
+  {
+    "id": "JBw3HiUJeLvFAJCe",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1783477666333,
+    "time": "2026-07-08T02:27:46.333Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Ember-Touched Greatsword Martial Melee • Graze Weapon (Greatsword), CommonA staple of the Flaming Fist of Baldur's Gate — duty-blades quenched, their smiths swear, in the company's own forge-fire, so the steel keeps a banked heat that never quite goes out. The pawnbroker on Daggerford's market square sold it cheap; he was tired, he said, of his shop window smoldering like a hearth after dark.In Darkness, the unsheathed blade of this weapon glows like charcoal embers, creating Bright Light in a 15-foot radius and Dim Light for an additional 15 feet.The banked heat sears where the blade bites: when you hit with an attack roll using this magic weapon, the target takes an extra 1 Fire damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "tPsNiOnYhzauA8XD",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1783477668867,
+    "time": "2026-07-08T02:27:48.867Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "",
+    "flavor": "Ember-Touched Greatsword - Attack Roll",
+    "rolls": [
+      {
+        "total": 15,
+        "formula": "1d20 + 3 + 2 + 1d4"
+      }
+    ]
+  },
+  {
+    "id": "oVly4iksXD1E0Rw6",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783477670024,
+    "time": "2026-07-08T02:27:50.024Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Constitution Saving Throw",
+    "rolls": [
+      {
+        "total": 9,
+        "formula": "1d20 + 1 + 1d4"
+      }
+    ]
+  },
+  {
+    "id": "Crlb5xammrgOZZdn",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1783477679120,
+    "time": "2026-07-08T02:27:59.120Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Graze Feature Weapon Mastery — Greatsword.If your attack roll with this weapon misses a creature, you can deal damage to that creature equal to the ability modifier you used to make the attack roll. This damage is the same type dealt by the weapon, and the damage can be increased only by increasing the ability modifier.Morgash: on a miss with the Ember-Touched Greatsword, use the Graze activity below to roll the Strength-modifier Slashing damage against the target. Damage Fighter (Weapon Mastery), Greatsword Special Instantaneous Self"
+  },
+  {
+    "id": "x1zloqgy95c2ds0f",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1783477681886,
+    "time": "2026-07-08T02:28:01.886Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "",
+    "flavor": "Graze - Damage Roll",
+    "rolls": [
+      {
+        "total": 3,
+        "formula": "3"
+      }
+    ]
+  },
+  {
+    "id": "LV9xJnbDkG0SHB2S",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783477700658,
+    "time": "2026-07-08T02:28:20.658Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Warrior",
+    "content": "Pack Tactics Feature The hobgoblin warrior has Advantage on an attack roll against a creature if at least one of the hobgoblin warrior's allies is within 5 feet of the creature and the ally doesn’t have the Incapacitated condition. Ally within 5 feet of attack target"
+  },
+  {
+    "id": "M5Yo4tr2CPexiLph",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783477701507,
+    "time": "2026-07-08T02:28:21.507Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Warrior",
+    "content": "Longsword Martial Melee • Sap Melee Attack Roll: +3, reach 5 ft. Hit: 12 (2d10 + 1) Slashing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "exIHmsscOHJ3D2W0",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783477702598,
+    "time": "2026-07-08T02:28:22.598Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Warrior",
+    "content": "",
+    "flavor": "Longsword - Attack Roll (Advantage)",
+    "rolls": [
+      {
+        "total": 6,
+        "formula": "2d20adv + 1 + 2"
+      }
+    ]
+  },
+  {
+    "id": "KOOq77DgxgVnLcBP",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1783477745628,
+    "time": "2026-07-08T02:29:05.628Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "Scorching Ray 2nd Level • Evocation You hurl three fiery rays. You can hurl them at one target within range or at several. Make a ranged spell attack for each ray. On a hit, the target takes 2d6 Fire damage.Using a Higher-Level Spell Slot. You create one additional ray for each spell slot level above 2.Total Rays: 3 Attack Damage Consume Resource Refund Resource V, S Action Instantaneous 120 ft"
+  },
+  {
+    "id": "ATu2zX633wpmxgRc",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1783477751573,
+    "time": "2026-07-08T02:29:11.573Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "",
+    "flavor": "Scorching Ray - Attack Roll (Advantage)",
+    "rolls": [
+      {
+        "total": 25,
+        "formula": "2d20adv + 3 + 2"
+      }
+    ]
+  },
+  {
+    "id": "VBx8dcy6OIVzHA40",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1783477766109,
+    "time": "2026-07-08T02:29:26.109Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "",
+    "flavor": "Scorching Ray - Attack Roll (Advantage)",
+    "rolls": [
+      {
+        "total": 25,
+        "formula": "2d20adv + 3 + 2"
+      }
+    ]
+  },
+  {
+    "id": "kT5ypjkwBW9Z9d2i",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1783477789817,
+    "time": "2026-07-08T02:29:49.817Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "",
+    "flavor": "Scorching Ray - Attack Roll (Advantage)",
+    "rolls": [
+      {
+        "total": 17,
+        "formula": "2d20adv + 3 + 2"
+      }
+    ]
+  },
+  {
+    "id": "UZH5uCVfSuuiEPrV",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1783477820486,
+    "time": "2026-07-08T02:30:20.486Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "",
+    "flavor": "Scorching Ray - Damage Roll",
+    "rolls": [
+      {
+        "total": 13,
+        "formula": "4d6"
+      }
+    ]
+  },
+  {
+    "id": "R5wtzmz3jkOtGkbk",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1783477835041,
+    "time": "2026-07-08T02:30:35.041Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "",
+    "flavor": "Scorching Ray - Damage Roll",
+    "rolls": [
+      {
+        "total": 12,
+        "formula": "4d6"
+      }
+    ]
+  },
+  {
+    "id": "T1Yow4360IfuCJTz",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1783477907170,
+    "time": "2026-07-08T02:31:47.170Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Ember-Touched Greatsword Martial Melee • Graze Weapon (Greatsword), CommonA staple of the Flaming Fist of Baldur's Gate — duty-blades quenched, their smiths swear, in the company's own forge-fire, so the steel keeps a banked heat that never quite goes out. The pawnbroker on Daggerford's market square sold it cheap; he was tired, he said, of his shop window smoldering like a hearth after dark.In Darkness, the unsheathed blade of this weapon glows like charcoal embers, creating Bright Light in a 15-foot radius and Dim Light for an additional 15 feet.The banked heat sears where the blade bites: when you hit with an attack roll using this magic weapon, the target takes an extra 1 Fire damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "q61U5rY3ZSuJwCpv",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1783477910020,
+    "time": "2026-07-08T02:31:50.020Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "",
+    "flavor": "Ember-Touched Greatsword - Attack Roll",
+    "rolls": [
+      {
+        "total": 15,
+        "formula": "1d20 + 3 + 2 + 1d4"
+      }
+    ]
+  },
+  {
+    "id": "ptgMriXw4DvlHO0n",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1783477920418,
+    "time": "2026-07-08T02:32:00.418Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Graze Feature Weapon Mastery — Greatsword.If your attack roll with this weapon misses a creature, you can deal damage to that creature equal to the ability modifier you used to make the attack roll. This damage is the same type dealt by the weapon, and the damage can be increased only by increasing the ability modifier.Morgash: on a miss with the Ember-Touched Greatsword, use the Graze activity below to roll the Strength-modifier Slashing damage against the target. Damage Fighter (Weapon Mastery), Greatsword Special Instantaneous Self"
+  },
+  {
+    "id": "xuqUkeKXNEKCyokG",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1783477923004,
+    "time": "2026-07-08T02:32:03.004Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "",
+    "flavor": "Graze - Damage Roll",
+    "rolls": [
+      {
+        "total": 3,
+        "formula": "3"
+      }
+    ]
+  },
+  {
+    "id": "LlwUWyMwvk6hzeUR",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1783477934811,
+    "time": "2026-07-08T02:32:14.811Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "Longsword Martial Melee • Sap Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "FX6dalrV5vsqiQoP",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1783477937696,
+    "time": "2026-07-08T02:32:17.696Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "",
+    "flavor": "Longsword - Attack Roll",
+    "rolls": [
+      {
+        "total": 14,
+        "formula": "1d20 + 2 + 2 + 1d4"
+      }
+    ]
+  },
+  {
+    "id": "r0wZY0b2ktetKyZu",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783477959580,
+    "time": "2026-07-08T02:32:39.580Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "Longbow Martial Ranged • Slow Attack Damage Action Instantaneous 150/600 ft Equipped Proficient"
+  },
+  {
+    "id": "gSUelmXlSbHP3eHn",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783477961653,
+    "time": "2026-07-08T02:32:41.653Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Longbow - Attack Roll",
+    "rolls": [
+      {
+        "total": 24,
+        "formula": "1d20 + 3 + 2 + 1d4 + 2"
+      }
+    ]
+  },
+  {
+    "id": "021ybhhNUJeD87go",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783477970940,
+    "time": "2026-07-08T02:32:50.940Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Longbow - Damage Roll",
+    "rolls": [
+      {
+        "total": 6,
+        "formula": "1d8 + 3"
+      }
+    ]
+  },
+  {
+    "id": "fGIQEYwiSrujhvHh",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783478029203,
+    "time": "2026-07-08T02:33:49.203Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Warrior",
+    "content": "Longsword Martial Melee • Sap Melee Attack Roll: +3, reach 5 ft. Hit: 12 (2d10 + 1) Slashing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "zhtiD4QMHwSI2Cm6",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783478030692,
+    "time": "2026-07-08T02:33:50.692Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Warrior",
+    "content": "",
+    "flavor": "Longsword - Attack Roll",
+    "rolls": [
+      {
+        "total": 15,
+        "formula": "1d20 + 1 + 2"
+      }
+    ]
+  },
+  {
+    "id": "WLhsFWGMHwMCUbqE",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783478036600,
+    "time": "2026-07-08T02:33:56.600Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Warrior",
+    "content": "",
+    "flavor": "Longsword - Damage Roll",
+    "rolls": [
+      {
+        "total": 12,
+        "formula": "2d10 + 1"
+      }
+    ]
+  },
+  {
+    "id": "IVcWZKEM1R4zY51M",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783478040655,
+    "time": "2026-07-08T02:34:00.655Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 3,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Jetten Elisedil",
+    "content": "DC 10 Concentration Concentration"
+  },
+  {
+    "id": "CE2WDnytLdBAIeFb",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783478049644,
+    "time": "2026-07-08T02:34:09.644Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Constitution Saving Throw",
+    "rolls": [
+      {
+        "total": 20,
+        "formula": "1d20 + 1 + 1d4"
+      }
+    ]
+  },
+  {
+    "id": "zD1K4q1fngdFoZnb",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1783478138239,
+    "time": "2026-07-08T02:35:38.239Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "",
+    "flavor": "Charisma (Intimidation) Check",
+    "rolls": [
+      {
+        "total": 13,
+        "formula": "1d20 + 3"
+      }
+    ]
+  },
+  {
+    "id": "nII97Hf2lEGok9ix",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783478155433,
+    "time": "2026-07-08T02:35:55.433Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Hobgoblin Warrior",
+    "content": "",
+    "flavor": "Wisdom Ability Check",
+    "rolls": [
+      {
+        "total": 10,
+        "formula": "1d20 + 0"
+      }
+    ]
+  },
+  {
+    "id": "kuA8l9jPRkgpTSP3",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1783478210717,
+    "time": "2026-07-08T02:36:50.717Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Ember-Touched Greatsword Martial Melee • Graze Weapon (Greatsword), CommonA staple of the Flaming Fist of Baldur's Gate — duty-blades quenched, their smiths swear, in the company's own forge-fire, so the steel keeps a banked heat that never quite goes out. The pawnbroker on Daggerford's market square sold it cheap; he was tired, he said, of his shop window smoldering like a hearth after dark.In Darkness, the unsheathed blade of this weapon glows like charcoal embers, creating Bright Light in a 15-foot radius and Dim Light for an additional 15 feet.The banked heat sears where the blade bites: when you hit with an attack roll using this magic weapon, the target takes an extra 1 Fire damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "UpBoLoO4G0la7pAM",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1783478214189,
+    "time": "2026-07-08T02:36:54.189Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "",
+    "flavor": "Ember-Touched Greatsword - Attack Roll",
+    "rolls": [
+      {
+        "total": 17,
+        "formula": "1d20 + 3 + 2 + 1d4"
+      }
+    ]
+  },
+  {
+    "id": "yum1QnhaWNwPQTOu",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1783478240484,
+    "time": "2026-07-08T02:37:20.484Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Graze Feature Weapon Mastery — Greatsword.If your attack roll with this weapon misses a creature, you can deal damage to that creature equal to the ability modifier you used to make the attack roll. This damage is the same type dealt by the weapon, and the damage can be increased only by increasing the ability modifier.Morgash: on a miss with the Ember-Touched Greatsword, use the Graze activity below to roll the Strength-modifier Slashing damage against the target. Damage Fighter (Weapon Mastery), Greatsword Special Instantaneous Self"
+  },
+  {
+    "id": "8qrjG7UwpM0tdPMR",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1783478242804,
+    "time": "2026-07-08T02:37:22.804Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "",
+    "flavor": "Graze - Damage Roll",
+    "rolls": [
+      {
+        "total": 3,
+        "formula": "3"
+      }
+    ]
+  },
+  {
+    "id": "xCCJzn7hwlMjEu6G",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1783478317855,
+    "time": "2026-07-08T02:38:37.855Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "Thaumaturgy Transmutation You manifest a minor wonder within range. You create one of the effects below within range. If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time.Altered Eyes. You alter the appearance of your eyes for 1 minute.Booming Voice. Your voice booms up to three times as loud as normal for 1 minute. For the duration, you have Advantage on Charisma (Intimidation) checks.Fire Play. You cause flames to flicker, brighten, dim, or change color for 1 minute.Invisible Hand. You instantaneously cause an unlocked door or window to fly open or slam shut.Phantom Sound. You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.Tremors. You cause harmless tremors in the ground for 1 minute. V Action 1 minute 30 ft"
+  },
+  {
+    "id": "Yw5PNDuAy7YjBTgN",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1783478328135,
+    "time": "2026-07-08T02:38:48.135Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "Thaumaturgy Transmutation You manifest a minor wonder within range. You create one of the effects below within range. If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time.Altered Eyes. You alter the appearance of your eyes for 1 minute.Booming Voice. Your voice booms up to three times as loud as normal for 1 minute. For the duration, you have Advantage on Charisma (Intimidation) checks.Fire Play. You cause flames to flicker, brighten, dim, or change color for 1 minute.Invisible Hand. You instantaneously cause an unlocked door or window to fly open or slam shut.Phantom Sound. You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.Tremors. You cause harmless tremors in the ground for 1 minute. V Action 1 minute 30 ft"
+  },
+  {
+    "id": "rcuCZAFW0Nd1j0x9",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1783478332787,
+    "time": "2026-07-08T02:38:52.787Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "Thaumaturgy Transmutation You manifest a minor wonder within range. You create one of the effects below within range. If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time.Altered Eyes. You alter the appearance of your eyes for 1 minute.Booming Voice. Your voice booms up to three times as loud as normal for 1 minute. For the duration, you have Advantage on Charisma (Intimidation) checks.Fire Play. You cause flames to flicker, brighten, dim, or change color for 1 minute.Invisible Hand. You instantaneously cause an unlocked door or window to fly open or slam shut.Phantom Sound. You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.Tremors. You cause harmless tremors in the ground for 1 minute. V Action 1 minute 30 ft"
+  },
+  {
+    "id": "6Zvr54aHkg7qTMJw",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783478443371,
+    "time": "2026-07-08T02:40:43.371Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "Scimitar Martial Melee • Nick Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "OiX6zOTmUrnRLEM8",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783478445346,
+    "time": "2026-07-08T02:40:45.346Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Scimitar - Attack Roll",
+    "rolls": [
+      {
+        "total": 11,
+        "formula": "1d20 + 3 + 2 + 1d4"
+      }
+    ]
+  },
+  {
+    "id": "FTyJ1R88HClT94A0",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783478452463,
+    "time": "2026-07-08T02:40:52.463Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "Shortsword Martial Melee • Vex Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "VIx8TeSoo68DePr3",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783478455612,
+    "time": "2026-07-08T02:40:55.612Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Shortsword - Attack Roll",
+    "rolls": [
+      {
+        "total": 22,
+        "formula": "1d20 + 3 + 2 + 1d4"
+      }
+    ]
+  },
+  {
+    "id": "0ExwV6uz3TvHsYPt",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783478471791,
+    "time": "2026-07-08T02:41:11.791Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Shortsword - Damage Roll",
+    "rolls": [
+      {
+        "total": 6,
+        "formula": "1d6 + 3"
+      }
+    ]
+  },
+  {
+    "id": "7lM07iNyTobPDWaT",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783478588651,
+    "time": "2026-07-08T02:43:08.651Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Matt the DM",
+    "content": "Thomas A. Invictus picked up the following items: Rose-Gold Longsword 1",
+    "flavor": "Item Piles"
+  },
+  {
+    "id": "HaXwo79c7kQsvdcq",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783478650451,
+    "time": "2026-07-08T02:44:10.451Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Thomas A. Invictus",
+    "content": "Rose-Gold Longsword Martial Melee • Sap A plain-seeming longsword, oddly warm to the grip — its fuller inlaid with rose-gold that seems to hold a little daylight even in the dark.The blade keeps its own history close. Only one who attunes to it will learn what it truly is, and all that it has witnessed. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "VHX2nDdiEj23zpOs",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783478806802,
+    "time": "2026-07-08T02:46:46.802Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Wisdom (Perception) Check",
+    "rolls": [
+      {
+        "total": 25,
+        "formula": "1d20 + 3 + 2"
+      }
+    ]
+  },
+  {
+    "id": "MiyeTge6iJsl3hzE",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1783478874917,
+    "time": "2026-07-08T02:47:54.917Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "",
+    "flavor": "Intelligence (Investigation) Check (Advantage)",
+    "rolls": [
+      {
+        "total": 21,
+        "formula": "2d20adv + 2 + 2 + 1"
+      }
+    ]
+  },
+  {
+    "id": "JqHqkfn5TmFDoFbH",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783479023178,
+    "time": "2026-07-08T02:50:23.178Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Matt the DM",
+    "content": "Jetten Elisedil picked up the following items: Traveller's Letter 1 Healer's Kit 1",
+    "flavor": "Item Piles"
+  },
+  {
+    "id": "upYQGQwq839y2vFk",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783479073391,
+    "time": "2026-07-08T02:51:13.391Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Matt the DM",
+    "content": "An item pile's content was split among 4 players, and each one has received: Gold 15 Silver 10",
+    "flavor": "Item Piles"
+  },
+  {
+    "id": "xJFHqyQU7SMMZez0",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783479149978,
+    "time": "2026-07-08T02:52:29.978Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Matt the DM",
+    "content": "Thomas A. Invictus picked up the following items: Lantern, Hooded 1",
+    "flavor": "Item Piles"
+  },
+  {
+    "id": "DbPRypyZ9JFA5ms2",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783479160311,
+    "time": "2026-07-08T02:52:40.311Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Matt the DM",
+    "content": "Gren Greenmantle picked up the following items: Driftglobe 1 Pouch of Cut Gems 1",
+    "flavor": "Item Piles"
+  },
+  {
+    "id": "iaq2oOzrWLK00WAU",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783479179111,
+    "time": "2026-07-08T02:52:59.111Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Matt the DM",
+    "content": "Morgash the Gravemaker picked up the following items: Small Cask of Southern Wine 1 Potion of Healing 1",
+    "flavor": "Item Piles"
+  },
+  {
+    "id": "7FH3PdNbL65RTIwh",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783479207788,
+    "time": "2026-07-08T02:53:27.788Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "Traveller's Letter Junk An unsealed letter, its wax seal already broken, taken from one of the dead travellers. It is addressed in a careful hand to someone in Daggerford — the paper gone soft from folding and unfolding on the road, the ink smudged at one corner. The few lines inside are an ordinary letter home: that the roads had been kind, that the writer hoped to be back before the first frost, and that there was nothing to worry about."
+  },
+  {
+    "id": "SYwCLyXzMjRz00wq",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783479207895,
+    "time": "2026-07-08T02:53:27.895Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "Traveller's Letter Junk An unsealed letter, its wax seal already broken, taken from one of the dead travellers. It is addressed in a careful hand to someone in Daggerford — the paper gone soft from folding and unfolding on the road, the ink smudged at one corner. The few lines inside are an ordinary letter home: that the roads had been kind, that the writer hoped to be back before the first frost, and that there was nothing to worry about."
+  },
+  {
+    "id": "S1ZkUqzHQXHxAf7Z",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783479215255,
+    "time": "2026-07-08T02:53:35.255Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "Traveller's Letter Junk An unsealed letter, its wax seal already broken, taken from one of the dead travellers. It is addressed in a careful hand to someone in Daggerford — the paper gone soft from folding and unfolding on the road, the ink smudged at one corner. The few lines inside are an ordinary letter home: that the roads had been kind, that the writer hoped to be back before the first frost, and that there was nothing to worry about."
+  },
+  {
+    "id": "1Wrue2lc8h8Rgs5z",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783479261432,
+    "time": "2026-07-08T02:54:21.432Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Matt the DM",
+    "content": "Thomas A. Invictus picked up the following items: Rations 1 Small Cask of Southern Wine 1 Bolt of Fine Cloth 1 Backpack 1",
+    "flavor": "Item Piles"
+  },
+  {
+    "id": "mgJY3FSvpFEwlYgS",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1783479345451,
+    "time": "2026-07-08T02:55:45.451Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Matt the DM",
+    "content": "Thomas A. Invictus picked up the following items: Clothes, Traveler's 1",
+    "flavor": "Item Piles"
+  },
+  {
+    "id": "biSaMkystFDSjjcm",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1783479367243,
+    "time": "2026-07-08T02:56:07.243Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "",
+    "flavor": "Intelligence (History) Check",
+    "rolls": [
+      {
+        "total": 17,
+        "formula": "1d20 + 2 + 2 + 1"
+      }
+    ]
+  },
+  {
+    "id": "4OKGK8OJrb4b5xUh",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1783479464424,
+    "time": "2026-07-08T02:57:44.424Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "Gren Greenmantle takes a long rest and recovers 13 hit points.",
+    "flavor": "Long Rest (8 hours, new day)"
+  },
+  {
+    "id": "CKTT8HiiuwnbDOxs",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1783479474552,
+    "time": "2026-07-08T02:57:54.552Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "Thomas A. Invictus takes a long rest.",
+    "flavor": "Long Rest (8 hours, new day)"
+  },
+  {
+    "id": "7pwbz7cXAXpA190W",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1783479476745,
+    "time": "2026-07-08T02:57:56.745Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "Jetten Elisedil takes a long rest and recovers 21 hit points.",
+    "flavor": "Long Rest (8 hours, new day)"
+  },
+  {
+    "id": "AqJ4AIhBtFnXL7zC",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1783479477159,
+    "time": "2026-07-08T02:57:57.159Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Morgash the Gravemaker takes a long rest and recovers 19 hit points.",
+    "flavor": "Long Rest (8 hours, new day)"
+  }
+]

@@ -1,0 +1,57 @@
+{
+  "name": "Feywood Luck-Knot",
+  "type": "loot",
+  "img": "icons/consumables/plants/fern-lady-green.webp",
+  "system": {
+    "description": {
+      "value": "<p>A little knot of pale bark-fibre bound with dried green thread, small enough to close in one fist. Denby Cobble the peddler swears it's <em>“genuine feywood, blessed and everything”</em> and worth far more than the silver he'll take for it. It almost certainly isn't. Still — it's oddly pleasant to hold, and a touch warmer than a scrap of old bark has any right to be.</p>",
+      "chat": ""
+    },
+    "quantity": 1,
+    "price": {
+      "value": 1,
+      "denomination": "sp"
+    },
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "rarity": "",
+    "identified": true,
+    "properties": [],
+    "type": {
+      "value": "junk",
+      "subtype": ""
+    },
+    "identifier": "feywood-luck-knot",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "container": null
+  },
+  "folder": "d0YzQsbDfWa7x4kj",
+  "_id": "H98ptfXZplBOFX25",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783036239810,
+    "modifiedTime": 1783036239811,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!H98ptfXZplBOFX25"
+}

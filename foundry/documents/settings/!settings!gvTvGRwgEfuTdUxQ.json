@@ -1,0 +1,18 @@
+{
+  "key": "fvtt-mod-battleflow.concVisibility",
+  "user": null,
+  "value": "true",
+  "_id": "gvTvGRwgEfuTdUxQ",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1786881347293,
+    "modifiedTime": 1787149543594,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!gvTvGRwgEfuTdUxQ"
+}

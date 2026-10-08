@@ -1,0 +1,28 @@
+{
+  "name": "Commoners",
+  "type": "Actor",
+  "color": "#4a9d5f",
+  "folder": "ELjMKEC5EJ6cMt45",
+  "flags": {
+    "world": {
+      "mcpGenerated": false,
+      "createdAt": "2026-07-09T16:07:22.284Z"
+    }
+  },
+  "_id": "NZBbRGtvKM3xzv4Q",
+  "description": "",
+  "sorting": "a",
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783613240794,
+    "modifiedTime": 1783613240794,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!NZBbRGtvKM3xzv4Q"
+}

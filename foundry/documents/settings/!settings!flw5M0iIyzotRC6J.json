@@ -1,0 +1,18 @@
+{
+  "key": "fvtt-mod-battleflow.spentAreaList",
+  "user": null,
+  "value": "\"Noxious Miasma, Hypnotic Pattern, Slow, Fear, Confusion, Sleep, Calm Emotions, Faerie Fire\"",
+  "_id": "flw5M0iIyzotRC6J",
+  "_stats": {
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1789309407176,
+    "modifiedTime": 1790017929153,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!flw5M0iIyzotRC6J"
+}

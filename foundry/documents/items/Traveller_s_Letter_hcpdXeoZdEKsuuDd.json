@@ -1,0 +1,57 @@
+{
+  "name": "Traveller's Letter",
+  "type": "loot",
+  "img": "icons/sundries/scrolls/scroll-bound-orange-tan.webp",
+  "system": {
+    "description": {
+      "value": "<p>An unsealed letter, its wax seal already broken, taken from one of the dead travellers. It is addressed in a careful hand to someone in <strong>Daggerford</strong> — the paper gone soft from folding and unfolding on the road, the ink smudged at one corner. The few lines inside are an ordinary letter home: that the roads had been kind, that the writer hoped to be back before the first frost, and that there was nothing to worry about.</p>",
+      "chat": ""
+    },
+    "quantity": 1,
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "rarity": "",
+    "identified": true,
+    "properties": [],
+    "type": {
+      "value": "junk",
+      "subtype": ""
+    },
+    "identifier": "travellers-sealed-letter",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "container": null
+  },
+  "folder": "IRI8Gfz0uA2I8cID",
+  "_id": "hcpdXeoZdEKsuuDd",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783040566126,
+    "modifiedTime": 1783043638444,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!hcpdXeoZdEKsuuDd"
+}

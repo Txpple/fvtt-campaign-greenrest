@@ -1,0 +1,18 @@
+{
+  "key": "fvtt-mod-battleflow.d20FoldAsk",
+  "user": null,
+  "value": "true",
+  "_id": "5OehIbsEEntfnUXF",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1787710241161,
+    "modifiedTime": 1787710241161,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!5OehIbsEEntfnUXF"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "script",
+  "scope": "actor",
+  "name": "Hold Person",
+  "img": "icons/magic/control/encase-creature-humanoid-hold.webp",
+  "command": "dnd5e.documents.macro.rollItem(\"Hold Person\", { event })",
+  "flags": {
+    "dnd5e": {
+      "itemMacro": true
+    }
+  },
+  "_id": "4AYz0GT7NORIzV2q",
+  "author": "WjZL43DJHoHpfDrK",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "WjZL43DJHoHpfDrK": 3
+  },
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1788229534909,
+    "modifiedTime": 1788229534910,
+    "lastModifiedBy": "WjZL43DJHoHpfDrK",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!macros!4AYz0GT7NORIzV2q"
+}

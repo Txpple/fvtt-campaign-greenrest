@@ -1,0 +1,32 @@
+{
+  "type": "script",
+  "scope": "actor",
+  "name": "Heroism",
+  "img": "icons/magic/holy/saint-glass-portrait-halo.webp",
+  "command": "dnd5e.documents.macro.rollItem(\"Heroism\", { event })",
+  "flags": {
+    "dnd5e": {
+      "itemMacro": true
+    }
+  },
+  "_id": "JLRVXcymasHTH67j",
+  "author": "iMPHMzzzg1qCN7dy",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "iMPHMzzzg1qCN7dy": 3
+  },
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1787316374169,
+    "modifiedTime": 1787316374170,
+    "lastModifiedBy": "iMPHMzzzg1qCN7dy",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!macros!JLRVXcymasHTH67j"
+}

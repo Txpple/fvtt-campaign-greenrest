@@ -1,0 +1,57 @@
+{
+  "name": "Worn Half-Penny",
+  "type": "loot",
+  "img": "icons/commodities/currency/coin-inset-copper-axe.webp",
+  "system": {
+    "description": {
+      "value": "<p>A thin old coin, its faces rubbed almost smooth. Tilt it to the light and you can just make out a crowned king in profile — a face, and a reign, that no one now living remembers. The courteous traveller who pressed it into your hand did not seem to know it was old at all.</p>",
+      "chat": ""
+    },
+    "quantity": 1,
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "rarity": "",
+    "identified": true,
+    "properties": [],
+    "type": {
+      "value": "junk",
+      "subtype": ""
+    },
+    "identifier": "worn-half-penny",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "container": null
+  },
+  "folder": "dCkoCKLcTTG8l8hT",
+  "_id": "4TIJfxrcBRkgldi4",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783089310351,
+    "modifiedTime": 1783090304716,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!4TIJfxrcBRkgldi4"
+}

@@ -1,0 +1,18 @@
+{
+  "key": "fvtt-mod-combatplus.currentTurnSoundPath",
+  "user": null,
+  "value": "\"worlds/the-broken-heart-of-greenrest/assets/sfx/yourturn.mp3\"",
+  "_id": "YtKzoC0TFb176X67",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783697639224,
+    "modifiedTime": 1783697639224,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!YtKzoC0TFb176X67"
+}

@@ -1,0 +1,18 @@
+{
+  "key": "dnd5e.concealItemDescriptions",
+  "user": null,
+  "value": "false",
+  "_id": "2eo2k5ucEzx2z2cL",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1782928451695,
+    "modifiedTime": 1782928451695,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!2eo2k5ucEzx2z2cL"
+}

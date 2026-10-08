@@ -1,0 +1,28 @@
+{
+  "name": "Former Adventurers' Camp",
+  "type": "Item",
+  "color": "#4a9d5f",
+  "folder": "zTwpr0BeGkGPUNqw",
+  "flags": {
+    "world": {
+      "mcpGenerated": false,
+      "createdAt": "2026-08-07T13:31:16.095Z"
+    }
+  },
+  "_id": "l74jP8iVTBjy67Sd",
+  "description": "",
+  "sorting": "a",
+  "sort": 100000,
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1786109476186,
+    "modifiedTime": 1786552855931,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!l74jP8iVTBjy67Sd"
+}

@@ -1,0 +1,18 @@
+{
+  "key": "fvtt-mod-battleflow.hideCardButtons",
+  "user": null,
+  "value": "true",
+  "_id": "oTLeoXjqJlAOGTRJ",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1786967720898,
+    "modifiedTime": 1786989510273,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!oTLeoXjqJlAOGTRJ"
+}

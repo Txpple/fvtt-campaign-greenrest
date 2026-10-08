@@ -1,0 +1,65 @@
+{
+  "name": "The Widow Fen — First Sight of the House",
+  "pages": [
+    {
+      "type": "image",
+      "name": "The Widow Fen — First Sight of the House",
+      "src": "worlds/the-broken-heart-of-greenrest/assets/handouts/widow-fen-first-sight.jpg",
+      "image": {
+        "caption": "The forest gives up before you do. Somebody built a house in the crown of that tree, and somebody is home."
+      },
+      "_id": "WA885nL0ron8D3O8",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": 2
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1788196695074,
+        "modifiedTime": 1788220482847,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!k21WAoatXHVg7Dfm.WA885nL0ron8D3O8"
+    }
+  ],
+  "ownership": {
+    "default": 2,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "folder": "7v0WU3VZu27OHfA2",
+  "_id": "k21WAoatXHVg7Dfm",
+  "categories": [],
+  "sort": 300000,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1788196695074,
+    "modifiedTime": 1788968131460,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!k21WAoatXHVg7Dfm"
+}

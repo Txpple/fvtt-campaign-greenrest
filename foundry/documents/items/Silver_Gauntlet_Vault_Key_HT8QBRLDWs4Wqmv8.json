@@ -1,0 +1,57 @@
+{
+  "name": "Silver Gauntlet Vault Key",
+  "type": "loot",
+  "img": "icons/sundries/misc/key-steel.webp",
+  "system": {
+    "description": {
+      "value": "<p>A heavy silver key stamped with the gauntlet sigil of the Silver Gauntlet Tavern, hung on a braided leather fob marked <em>Suite Four</em>. It opens the tavern's four-room suite at the west end of the house — and the iron-bound treasury door that adjoins it, kept locked at all hours. Behind that door is the strongroom where Daggerford's adventurers store what they can't afford to lose.</p><p>The party's own travel chest sits inside, packed and waiting for the road.</p>",
+      "chat": ""
+    },
+    "quantity": 1,
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "weight": {
+      "value": 0.1,
+      "units": "lb"
+    },
+    "rarity": "",
+    "identified": true,
+    "properties": [],
+    "type": {
+      "value": "gear",
+      "subtype": ""
+    },
+    "identifier": "silver-gauntlet-vault-key",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "container": null
+  },
+  "folder": "i7QI8f8TnbkZGnuR",
+  "_id": "HT8QBRLDWs4Wqmv8",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783259224631,
+    "modifiedTime": 1783259497543,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!HT8QBRLDWs4Wqmv8"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "00 - Party Camp",
+  "type": "Scene",
+  "description": "Quest and content for: 0 - Party Camp",
+  "color": "#f39c12",
+  "sort": 0,
+  "flags": {
+    "world": {
+      "mcpGenerated": true,
+      "createdAt": "2026-07-03T18:45:50.490Z"
+    }
+  },
+  "_id": "nkzFeyGbiHjmBHKd",
+  "folder": null,
+  "sorting": "a",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783104348590,
+    "modifiedTime": 1786552735640,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!nkzFeyGbiHjmBHKd"
+}

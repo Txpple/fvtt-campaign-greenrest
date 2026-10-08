@@ -1,0 +1,23 @@
+{
+  "_id": "Yq0ZI2MRytPkJOQY",
+  "name": "PSFX",
+  "type": "Compendium",
+  "sorting": "a",
+  "sort": 600000,
+  "color": "#304354",
+  "folder": null,
+  "description": "",
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783100955407,
+    "modifiedTime": 1783100955407,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!Yq0ZI2MRytPkJOQY"
+}

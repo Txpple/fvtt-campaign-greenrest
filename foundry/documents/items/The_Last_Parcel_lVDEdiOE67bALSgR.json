@@ -1,0 +1,57 @@
+{
+  "name": "The Last Parcel",
+  "type": "loot",
+  "img": "icons/sundries/scrolls/scroll-bound-orange-tan.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>A package the size of a bread loaf, wrapped in butcher-paper and tied off in an odd, particular knot. A chandler's mark is stamped in one corner, and a price-scrap in a cramped cipher is tucked under the twine. It has never been opened. It smells, very faintly, of salt.</em></p><p><em>If unwrapped: paper twists of small teeth — adult, clean, sorted carefully by wear, like buttons in a tailor's drawer.</em></p>",
+      "chat": ""
+    },
+    "quantity": 1,
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "rarity": "",
+    "identified": true,
+    "type": {
+      "value": "junk",
+      "subtype": ""
+    },
+    "identifier": "the-last-parcel",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": []
+  },
+  "folder": "RxxShy6nmWycOcq7",
+  "_id": "lVDEdiOE67bALSgR",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1787965873017,
+    "modifiedTime": 1787965873024,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!lVDEdiOE67bALSgR"
+}

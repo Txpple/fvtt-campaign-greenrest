@@ -1,0 +1,28 @@
+{
+  "name": "03 - Misty Forest",
+  "type": "Item",
+  "folder": null,
+  "flags": {
+    "world": {
+      "mcpGenerated": true,
+      "createdAt": "2026-07-03T02:55:15.244Z"
+    }
+  },
+  "_id": "ndAPyJRdoVOFHxBQ",
+  "description": "",
+  "sorting": "a",
+  "sort": 500000,
+  "color": "#8172a6",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783047315141,
+    "modifiedTime": 1786552852483,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!ndAPyJRdoVOFHxBQ"
+}

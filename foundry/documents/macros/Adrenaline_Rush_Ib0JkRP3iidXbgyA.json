@@ -1,0 +1,32 @@
+{
+  "type": "script",
+  "scope": "actor",
+  "name": "Adrenaline Rush",
+  "img": "icons/skills/movement/arrow-upward-yellow.webp",
+  "command": "dnd5e.documents.macro.rollItem(\"Adrenaline Rush\", { event })",
+  "flags": {
+    "dnd5e": {
+      "itemMacro": true
+    }
+  },
+  "_id": "Ib0JkRP3iidXbgyA",
+  "author": "DVSDeA29YhlyJV2g",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DVSDeA29YhlyJV2g": 3
+  },
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783437641482,
+    "modifiedTime": 1783437641483,
+    "lastModifiedBy": "DVSDeA29YhlyJV2g",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!macros!Ib0JkRP3iidXbgyA"
+}

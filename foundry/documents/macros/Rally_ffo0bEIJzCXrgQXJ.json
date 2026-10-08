@@ -1,0 +1,32 @@
+{
+  "type": "script",
+  "scope": "actor",
+  "name": "Rally",
+  "img": "icons/magic/life/cross-worn-green.webp",
+  "command": "dnd5e.documents.macro.rollItem(\"Rally\", { event })",
+  "flags": {
+    "dnd5e": {
+      "itemMacro": true
+    }
+  },
+  "_id": "ffo0bEIJzCXrgQXJ",
+  "author": "DVSDeA29YhlyJV2g",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DVSDeA29YhlyJV2g": 3
+  },
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783437627896,
+    "modifiedTime": 1783437627897,
+    "lastModifiedBy": "DVSDeA29YhlyJV2g",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!macros!ffo0bEIJzCXrgQXJ"
+}

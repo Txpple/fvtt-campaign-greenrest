@@ -1,0 +1,43 @@
+{
+  "name": "Title — The Verdant Dark",
+  "mode": 0,
+  "sounds": [
+    {
+      "name": "506_The_Verdant_Dark.mp3",
+      "path": "worlds/the-broken-heart-of-greenrest/assets/audio/506_The_Verdant_Dark.mp3",
+      "volume": 0.4,
+      "repeat": true,
+      "_id": "3NnrfaN6WbymoNyx",
+      "channel": "",
+      "playing": true,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!S591D6YzrBcz9x4j.3NnrfaN6WbymoNyx"
+    }
+  ],
+  "fade": 3000,
+  "_id": "S591D6YzrBcz9x4j",
+  "channel": "music",
+  "playing": true,
+  "folder": null,
+  "sorting": "a",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.5",
+    "createdTime": 1790815647319,
+    "modifiedTime": 1790815825002,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "seed": 888,
+  "_key": "!playlists!S591D6YzrBcz9x4j"
+}

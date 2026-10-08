@@ -1,0 +1,32 @@
+{
+  "type": "script",
+  "scope": "actor",
+  "name": "Subtle Spell",
+  "img": "icons/creatures/slimes/slime-movement-swirling-blue.webp",
+  "command": "dnd5e.documents.macro.rollItem(\"Subtle Spell\", { event })",
+  "flags": {
+    "dnd5e": {
+      "itemMacro": true
+    }
+  },
+  "_id": "DHBYkKoruIvfhymh",
+  "author": "WjZL43DJHoHpfDrK",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "WjZL43DJHoHpfDrK": 3
+  },
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1784076195090,
+    "modifiedTime": 1784076195091,
+    "lastModifiedBy": "WjZL43DJHoHpfDrK",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!macros!DHBYkKoruIvfhymh"
+}

@@ -1,0 +1,57 @@
+{
+  "name": "The Empty Jar, \"OURS\"",
+  "type": "loot",
+  "img": "icons/consumables/drinks/wine-amphora-clay-gray.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>A wide-mouthed jar, scrubbed clean inside and out, standing apart from its shelf-mates. It is the only jar in the house labeled in plain Common, in a careful, almost tender hand:</em></p><p>\"OURS.\"</p><p><em>It is empty. It has been dusted, recently, and often.</em></p>",
+      "chat": ""
+    },
+    "quantity": 1,
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "rarity": "",
+    "identified": true,
+    "type": {
+      "value": "junk",
+      "subtype": ""
+    },
+    "identifier": "the-empty-jar-ours",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": []
+  },
+  "folder": "RxxShy6nmWycOcq7",
+  "_id": "Imxuz6CGoFA2q2ai",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1787965873022,
+    "modifiedTime": 1787965873026,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!Imxuz6CGoFA2q2ai"
+}

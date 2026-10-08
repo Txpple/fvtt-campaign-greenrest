@@ -1,0 +1,65 @@
+{
+  "name": "The Widow Fen — The Parlor",
+  "pages": [
+    {
+      "type": "image",
+      "name": "The Widow Fen — The Parlor",
+      "src": "worlds/the-broken-heart-of-greenrest/assets/handouts/widow-fen-hag-parlor.jpg",
+      "image": {
+        "caption": "Tea by the cauldron. The jar-wall, the shrouded beds, and a chair still set for a sister who is not coming."
+      },
+      "_id": "4Da3v62DZnoiqsWN",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": 2
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1788196713924,
+        "modifiedTime": 1788227696758,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!rkQ6irxaAONQnG1T.4Da3v62DZnoiqsWN"
+    }
+  ],
+  "ownership": {
+    "default": 2,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "folder": "7v0WU3VZu27OHfA2",
+  "_id": "rkQ6irxaAONQnG1T",
+  "categories": [],
+  "sort": 500000,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1788196713924,
+    "modifiedTime": 1788968131461,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!rkQ6irxaAONQnG1T"
+}

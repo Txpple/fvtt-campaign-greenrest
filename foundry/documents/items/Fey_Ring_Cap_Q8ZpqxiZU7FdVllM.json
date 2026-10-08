@@ -1,0 +1,57 @@
+{
+  "name": "Fey Ring Cap",
+  "type": "loot",
+  "img": "worlds/the-broken-heart-of-greenrest/assets/icons/fey-ring-cap.webp",
+  "system": {
+    "description": {
+      "value": "<p>A pale, cool mushroom cap taken from a perfect fairy ring. It does not shrivel or spoil. Hold it a moment and you feel — faintly, wordlessly — that you have stood inside that ring before, and that you were happy there. You have not, and you cannot say why you would think so.</p>",
+      "chat": ""
+    },
+    "quantity": 1,
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "rarity": "",
+    "identified": true,
+    "properties": [],
+    "type": {
+      "value": "junk",
+      "subtype": ""
+    },
+    "identifier": "fey-ring-cap",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "container": null
+  },
+  "folder": "dCkoCKLcTTG8l8hT",
+  "_id": "Q8ZpqxiZU7FdVllM",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783089307248,
+    "modifiedTime": 1783103643032,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!Q8ZpqxiZU7FdVllM"
+}

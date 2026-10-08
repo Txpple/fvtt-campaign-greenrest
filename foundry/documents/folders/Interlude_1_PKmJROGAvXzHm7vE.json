@@ -1,0 +1,28 @@
+{
+  "name": "Interlude 1",
+  "type": "Scene",
+  "color": "#4a9d5f",
+  "folder": "uDofErdnIvxbtMjk",
+  "flags": {
+    "world": {
+      "mcpGenerated": false,
+      "createdAt": "2026-08-06T14:38:07.458Z"
+    }
+  },
+  "_id": "PKmJROGAvXzHm7vE",
+  "description": "",
+  "sorting": "a",
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1786027085941,
+    "modifiedTime": 1787242109462,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!PKmJROGAvXzHm7vE"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Town",
+  "type": "Scene",
+  "folder": "uDofErdnIvxbtMjk",
+  "flags": {
+    "world": {
+      "mcpGenerated": false,
+      "createdAt": "2026-07-09T14:04:31.623Z"
+    }
+  },
+  "_id": "WND4Rzz7GZghEU0T",
+  "description": "",
+  "sorting": "a",
+  "sort": 0,
+  "color": "#4a9d5f",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783605870339,
+    "modifiedTime": 1783608297775,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!WND4Rzz7GZghEU0T"
+}

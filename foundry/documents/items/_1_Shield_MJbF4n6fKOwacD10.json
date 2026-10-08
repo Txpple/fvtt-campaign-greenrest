@@ -1,0 +1,93 @@
+{
+  "name": "+1 Shield",
+  "type": "equipment",
+  "img": "modules/dnd-players-handbook/assets/icons/armor/shield.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>Armor (Shield), Uncommon</em></p><p>Bought in an armory lot when the Silver Griffons mercenary company disbanded. It has been repainted twice, but the old griffon blazon still ghosts through when the light is low.</p><p>While holding this Shield, you have a +1 bonus to Armor Class in addition to the Shield's normal +2.</p>",
+      "chat": ""
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "source": {
+      "custom": "",
+      "rules": "2024",
+      "revision": 1
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 6,
+      "units": "lb"
+    },
+    "rarity": "uncommon",
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "cover": null,
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "armor": {
+      "value": 2,
+      "dex": null,
+      "magicalBonus": "1"
+    },
+    "hp": {
+      "value": null,
+      "max": null,
+      "dt": null,
+      "conditions": ""
+    },
+    "type": {
+      "value": "shield",
+      "baseItem": "shield"
+    },
+    "properties": [
+      "mgc"
+    ],
+    "speed": {
+      "value": null,
+      "conditions": "",
+      "units": "ft"
+    },
+    "strength": null,
+    "proficient": null,
+    "activities": {},
+    "identifier": "shield",
+    "crew": {
+      "value": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dnd5e": {}
+  },
+  "folder": "gmEaXdyrOc3NfaMa",
+  "_stats": {
+    "exportSource": null,
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783258388904,
+    "modifiedTime": 1783258435007,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_id": "MJbF4n6fKOwacD10",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "_key": "!items!MJbF4n6fKOwacD10"
+}

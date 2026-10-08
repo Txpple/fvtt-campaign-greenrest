@@ -1,0 +1,64 @@
+{
+  "name": "Greenrest Discovery",
+  "pages": [
+    {
+      "type": "text",
+      "name": "Greenrest Discovery",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><p class=\"lead\">Quick read-aloud — the party crests the last rise and sees Greenrest. Full first-sight handout in @UUID[JournalEntry.Sul8MunzAk2IWGQ4.JournalEntryPage.4lKriTUSmlyIdB37]{First Sight of Greenrest}, with the two images to show the table — @UUID[JournalEntry.Sul8MunzAk2IWGQ4.JournalEntryPage.d64IpbrUOhKT8UOS]{The View from the Hill} (the hilltop vista) and @UUID[JournalEntry.Sul8MunzAk2IWGQ4.JournalEntryPage.9LzEpTF6dKRqDd7C]{The Village of Greenrest} (the town map) — all in Player Handouts.</p><div class=\"readaloud\"><p>The trees thin, the trail climbs one last rise, and the forest lets you go — the mist simply <em>ends</em>, burned off in clean gold sunlight. Below you, cradled in green meadows under a cloudless sky, sits the village of Greenrest, and after so many dripping days beneath the canopy it looks almost too tidy to be true. Slate roofs cluster snug around a market square, chimney-smoke rises straight up, orchards and hedged fields quilt the slopes down to a flat, silver-blue lake — birdsong, cut hay, woodsmoke, and the plain, startling relief of open sky. To your right an old stone watchtower keeps the height, a worn path spilling from its foot down to the road. Only one thing snags the eye: at the very heart of the village, alone in all that green, stands a single great tree gone grey and sickly — the one wrong note in an otherwise perfect song.</p></div></div></section>",
+        "format": 1
+      },
+      "_id": "LWKMEL10hBFVDqCI",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783619844475,
+        "modifiedTime": 1786558598265,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!YtpTw7DnTw5WvfJ8.LWKMEL10hBFVDqCI"
+    }
+  ],
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "folder": "1x1aqmuIbAwqab65",
+  "_id": "YtpTw7DnTw5WvfJ8",
+  "categories": [],
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783619844475,
+    "modifiedTime": 1783619844476,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!YtpTw7DnTw5WvfJ8"
+}

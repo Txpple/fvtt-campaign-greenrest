@@ -1,0 +1,57 @@
+{
+  "name": "Marn's Unsent Letter",
+  "type": "loot",
+  "img": "icons/sundries/scrolls/scroll-plain-tan.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>A single sheet folded small enough to live inside a locket — creased sharp, never sealed, never sent. The hand is neat; the margins are smudged by ink-stained fingers.</em></p><hr><p>\"Tess — We are close now. There are four old places in this forest and the prize lies in exactly one of them; the other three are cold stone and whatever has crawled into it. We have Sera's map, and Sera has never been wrong twice. The shrine wasn't a shrine. It was a graveyard! So it is one guess at a time, and we have already spent one. One more ruin — two at the worst — and I am done with this work. I will buy the house by the tannery, the one you liked. Keep well. Do not worry. — M.\"</p>",
+      "chat": ""
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "type": {
+      "value": "gear",
+      "subtype": ""
+    },
+    "identifier": "marns-unsent-letter",
+    "source": {
+      "rules": "2024",
+      "revision": 1
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": []
+  },
+  "folder": "l74jP8iVTBjy67Sd",
+  "_id": "CVRD9907mYX3utGc",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1787670963537,
+    "modifiedTime": 1787670963538,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!CVRD9907mYX3utGc"
+}

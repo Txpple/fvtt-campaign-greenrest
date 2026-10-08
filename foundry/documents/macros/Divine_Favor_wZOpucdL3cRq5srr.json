@@ -1,0 +1,32 @@
+{
+  "type": "script",
+  "scope": "actor",
+  "name": "Divine Favor",
+  "img": "icons/skills/melee/weapons-crossed-swords-yellow-teal.webp",
+  "command": "dnd5e.documents.macro.rollItem(\"Divine Favor\", { event })",
+  "flags": {
+    "dnd5e": {
+      "itemMacro": true
+    }
+  },
+  "_id": "wZOpucdL3cRq5srr",
+  "author": "iMPHMzzzg1qCN7dy",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "iMPHMzzzg1qCN7dy": 3
+  },
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1787316361272,
+    "modifiedTime": 1787316361273,
+    "lastModifiedBy": "iMPHMzzzg1qCN7dy",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!macros!wZOpucdL3cRq5srr"
+}

@@ -1,0 +1,64 @@
+{
+  "name": "✦ Journal Style Demo",
+  "pages": [
+    {
+      "type": "text",
+      "name": "The dnd5e Block Kit",
+      "text": {
+        "content": "<h2>The documented dnd5e block kit</h2>\n<p>Markup below follows the <strong>System HTML</strong> wiki page exactly. Note the <code>fvtt</code> prefix on advice/quest/narrative, and that <code>notable</code> goes on an <code>&lt;aside&gt;</code>, not a div.</p>\n\n<aside class=\"notable\">\n<h4>Notable</h4>\n<p>A callout box for additional information. Everyone in Greenrest takes Selma's tonic every seventh day, from childhood.</p>\n</aside>\n\n<div class=\"fvtt advice\">\n<figure class=\"icon\"><img src=\"worlds/the-broken-heart-of-greenrest/assets/hearts/thornheart-prop.webp\" class=\"round\" alt=\"Thornheart\"></figure>\n<article>\n<h4>Advice</h4>\n<p>Bordered card with a round icon hanging off the left edge. Image goes in the figure, text in the article.</p>\n</article>\n</div>\n\n<div class=\"fvtt quest\">\n<figure class=\"icon\"><img src=\"worlds/the-broken-heart-of-greenrest/assets/hearts/duskheart-prop.webp\" class=\"round\" alt=\"Duskheart\"></figure>\n<article>\n<h4>Quest</h4>\n<p>Same format as Advice, styled as an objective. Four shards, four of these.</p>\n</article>\n</div>\n\n<div class=\"fvtt narrative\">\n<p>Narrative — a text box for read-aloud. The square opens ahead of you, and at its centre stands the gray tree, four guards at its roots who do not look at it.</p>\n</div>\n\n<aside class=\"quote-lg float-right\">\n<p><q>There is no crying here.</q></p>\n<p class=\"quote-author\">Mayor Oswin Applewhite</p>\n</aside>\n\n<p>Pull quotes use <code>quote-lg</code> plus <code>float-right</code> or <code>float-left</code> on an aside, with <code>quote-author</code> on the attribution line. Body text wraps around them, which is how the official books set epigraphs.</p>\n\n<h2>Secrets — core Foundry, not the system</h2>\n<section class=\"secret\">\n<p>Players never see this, even on a shared page, and the GM gets a Reveal button to show it mid-session. This is what every <code>gmnote</code> block should become.</p>\n</section>\n\n<h2>Where these come from</h2>\n<aside class=\"notable\">\n<h4>Two ways in</h4>\n<p>The wiki says these styles <em>\"can be applied to any text field by using the menu options under the <strong>Custom</strong> menu or by editing the Source HTML &lt;/&gt;.\"</em> So there IS a toolbar path — open any page for editing and look for a <strong>Custom</strong> dropdown. The docs name it once and never show it, which is why nobody finds it.</p>\n</aside>",
+        "format": 1
+      },
+      "_id": "SbqkzAHBHg7hFtd3",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.5",
+        "createdTime": 1790819965504,
+        "modifiedTime": 1790820553874,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!4nwRYq0g8CDQOsCQ.SbqkzAHBHg7hFtd3"
+    }
+  ],
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "_id": "4nwRYq0g8CDQOsCQ",
+  "folder": null,
+  "categories": [],
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.5",
+    "createdTime": 1790819965504,
+    "modifiedTime": 1790819965505,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!4nwRYq0g8CDQOsCQ"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "script",
+  "scope": "actor",
+  "name": "Minor Illusion",
+  "img": "icons/sundries/gaming/playing-cards.webp",
+  "command": "dnd5e.documents.macro.rollItem(\"Minor Illusion\", { event })",
+  "flags": {
+    "dnd5e": {
+      "itemMacro": true
+    }
+  },
+  "_id": "NYY0ju96DYYsAh2z",
+  "author": "WjZL43DJHoHpfDrK",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "WjZL43DJHoHpfDrK": 3
+  },
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783470041971,
+    "modifiedTime": 1783470041972,
+    "lastModifiedBy": "WjZL43DJHoHpfDrK",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!macros!NYY0ju96DYYsAh2z"
+}

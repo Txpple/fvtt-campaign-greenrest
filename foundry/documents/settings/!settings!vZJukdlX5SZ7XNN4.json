@@ -1,0 +1,18 @@
+{
+  "key": "fvtt-mod-battleflow.superiorityUseList",
+  "user": null,
+  "value": "\"Evasive Footwork, Bait and Switch, Lunging Attack, Feinting Attack\"",
+  "_id": "vZJukdlX5SZ7XNN4",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1788636188758,
+    "modifiedTime": 1788636188758,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!vZJukdlX5SZ7XNN4"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "DM",
+  "type": "Actor",
+  "color": "#7d3a3a",
+  "folder": null,
+  "flags": {
+    "world": {
+      "mcpGenerated": true,
+      "createdAt": "2026-07-08T14:35:06.622Z"
+    }
+  },
+  "_id": "QoC9aZdy0mso1NE9",
+  "description": "",
+  "sorting": "a",
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783521305054,
+    "modifiedTime": 1786191008536,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!QoC9aZdy0mso1NE9"
+}

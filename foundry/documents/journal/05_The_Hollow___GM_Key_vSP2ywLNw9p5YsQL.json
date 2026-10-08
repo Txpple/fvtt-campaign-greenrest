@@ -1,0 +1,254 @@
+{
+  "name": "05 The Hollow — GM Key",
+  "pages": [
+    {
+      "type": "text",
+      "name": "GM Overview",
+      "text": {
+        "content": "<h2>Why this place exists</h2><p><strong>Five hundred years ago</strong> — long before anyone had heard the name Greenrest — <strong>three treasure-hunters of the Misty Forest</strong> found a shard of the burst heart in a cave: <strong>a red crystal heart the size of two cupped hands</strong>, warm as a live thing, still faintly beating. They could not leave it. They carried it deep, cut a stair so no one could take it, and then cut a seat so they would not have to leave it. The wanting hollowed them out (wights are born of covetousness — Gollum and his precious). The shrine became their tomb. <strong>No connection to the village, then or now.</strong> The Graveheart is still on its altar.</p><h2>The five wights — no more exist</h2><p><strong>Shard-Fed:</strong> proximity to the Graveheart is the whole power curve. The three founders have been fed for five centuries; the two Kestrels for six months. Each carries a <strong>Shard-Fed</strong> feature on its sheet stating its tier.</p><ul><li>@UUID[Actor.9bEOQpxfJBWuYFZl]{Osric, the Keeper} — leader, <strong>room 03</strong>. <strong>PB +4 · 112 HP · Life Drain DC 15.</strong> Can talk; courteous until refused.</li><li>@UUID[Actor.red3ja0zjoXmDFjK]{Hesper, the Mortician} — <strong>room 04</strong>. <strong>PB +4 · 97 HP · Life Drain DC 15.</strong> Prepared the dead; now prepares the living. <strong>⚠ Her room is a CONVERSATION, not a fight</strong> — see the 04 page. She carries nothing: everything the party needs, including @UUID[Item.xqMp2hp7Q2JI6hWm]{Hesper's Bone Key}, is in the @UUID[Actor.HU5tYg81c8ZnHqMO]{Mortician's Chest} beside her slab, and she tells them to take it.</li><li>@UUID[Actor.oOWorLH5BJ7lQfmE]{Cadoc, the Guardian} — <strong>room 05</strong>. <strong>PB +6 · 127 HP · Life Drain DC 17</strong>, plus the legendary action <strong>Necrofire Reach</strong>. Stood closest longest; died and rose FIRST — the others saw it and stayed anyway. Burning necrotic scythe. <strong>He does not speak.</strong></li><li>@UUID[Actor.9LZyg8Ba9faCP9aH]{Aldous} — turned Kestrel, <strong>room 02</strong>, walking the catacombs. <strong>PB +2 · 82 HP · DC 13.</strong> The first wight the party meets; the first Life Drain lands with him.</li><li>@UUID[Actor.pqqTqiCKcw2x1uDw]{Edda} — turned Kestrel, <strong>room 03</strong>, standing at Osric's side where a founder's honour guard would stand. <strong>PB +2 · 82 HP · DC 13</strong> — and a <strong>caster</strong> (Hold Person, Bane, Command, Blindness at DC 13). The most dangerous single turn in the dungeon.</li></ul><p>Both Kestrels were taken <strong>alive</strong> six months ago, held in 04, turned at the altar — brooches still at their throats.</p><h2>The rules of the place</h2><ul><li><strong>The Graveheart makes wights</strong>: worthy victims are held in 04, turned at the 05 altar.</li><li><strong>Motive: they want more friends.</strong> The heart creates loneliness — even for the dead. Insolent guests get demoted: \"an excellent zombie.\"</li><li><strong>The clock:</strong> Life Drain cuts hit-point <em>maximums</em>, and now bites for <strong>half even on a successful save</strong> — bracing costs you less, never nothing. No safe long rest inside; retreat-and-return is legitimate play. Telegraph on the first hit: <em>\"the wound closes; something underneath it doesn't.\"</em> The <strong>one</strong> cure is the @UUID[Item.vGUNVpQ8t6m7VHMj]{Draught of Wholeness} in the Mortician's Chest.</li><li><strong>Hold Person is dead here.</strong> Every creature in the Hollow is Undead and 2024 Hold Person targets a Humanoid — it has no legal target anywhere in the dungeon. Frightened and prone DO work on wights.</li><li><strong>They sob, never roar.</strong></li></ul><h2>⚠ The Greenrest misdirection — the reveal that matters</h2><p>The party suspects <strong>Greenrest</strong> is behind this. They are <strong>wrong</strong>, and Hesper is where that dies: she has been down here five hundred years, which is older than the village, and if they say the name she answers <em>\"I don't know that word.\"</em> Do not explain it. Let them do the arithmetic themselves.</p><h2>⚠ This shrine knows NOTHING of the Dreamer</h2><p>There is <strong>no weeping figure, no Green Lady image, no iconography of her anywhere down here</strong> — not on the stair, not on the walls, not in the 05 alcove. The three never learned what the Graveheart was or where it came from. Whatever they carved, they invented, and it is worn past recognition. <strong>The Graveheart's own first-hold vision is the ONLY route from this site to her</strong> — the shard tells them; the shrine cannot. And <strong>the dreams happen in town</strong>, never in the Hollow.</p><h2>Layout &amp; forced order</h2><p>01 → 02 → <strong>03 is the hub</strong>. East → 04 Preparation Chamber (dead-end). West doors → down to 05 — <strong>LOCKED</strong>, opened only by Hesper's Bone Key (in the chest in 04). The doors aren't locked against intruders — <em>they're locked against the unprepared</em>. Forced order: 03 → 04 → back to 03 → 05.</p><p><em>01 teaches \"three\" · 02 gives Aldous and the first drain · 03 gives the names — and Edda · 04 gives the truth, the medicine, and the key · 05 needs no words.</em></p>",
+        "format": 1
+      },
+      "_id": "IgYSAE8JVFxsx3cg",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786627972311,
+        "modifiedTime": 1786744532790,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!vSP2ywLNw9p5YsQL.IgYSAE8JVFxsx3cg"
+    },
+    {
+      "type": "text",
+      "name": "01 Stairs Down",
+      "text": {
+        "content": "<p><strong>No fight here.</strong> A carved processional descent — a spiral stair hugging the wall of a well shaft, landings at intervals, sobbing rising from somewhere far below. This is atmosphere and one good check.</p><h3>The statue</h3><p>On the first landing, in a shallow alcove, a standing figure carved from the living rock — robed, taller than a person, and worn so far past recognition that there is no telling what it was meant to be. No face left. No hands. A shallow basin at its feet. Whatever it is, someone put it here on purpose, and then a very long time happened to it.</p><p><strong>Religion, History, or Investigation</strong> — any of the three. This is Thomas's moment; let him have it.</p><ul><li><strong>DC 10</strong> — This was a shrine, and it is <em>old</em>. Centuries, not decades. The chisel work is wrong for any tools still in use — too many small strokes, the work of people with nothing but time.</li><li><strong>DC 15</strong> — It is dedicated to no god anyone has heard of. No holy symbol, no scripture, no orthodox iconography of any faith on the Sword Coast. Whoever cut it wasn't following a tradition. They were making one up.</li><li><strong>DC 18</strong> — The offering basin has <em>never been used.</em> No soot, no wax, no residue, not a scratch in five hundred years. They built the shrine and never once brought it anything. <em>(GM: they were never worshipping this. It was the shape their reverence took on the way down to the thing they actually wanted.)</em></li></ul><p><em>Flavor only — there is nothing hidden in the statue and nothing to find in the basin. If they search it, let them search it and find dust.</em></p><h3>Reveal (inspection, no check)</h3><p>Cut into the wall at every landing, the same three small kneeling figures repeat — one <em>seated</em>, one <em>holding wrappings and a needle</em>, one <em>standing spear-up at a slab</em>. No text anywhere. The party counts three and learns their jobs before they ever hear a name.</p>",
+        "format": 1
+      },
+      "_id": "zaAfIiRd7XHceqkh",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786627972311,
+        "modifiedTime": 1786714478279,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!vSP2ywLNw9p5YsQL.zaAfIiRd7XHceqkh"
+    },
+    {
+      "type": "text",
+      "name": "02 Catacombs",
+      "text": {
+        "content": "<p><strong>Encounter:</strong> @UUID[Actor.9LZyg8Ba9faCP9aH]{Aldous} among the niches, plus 2 Skeletons, 2 Skeletal Archers and 3 Zombies waking out of them. <em>(Roster revised 2026-08-14, owner: Aldous is the FIRST wight the party meets; Edda has moved up to stand with the Keeper in 03.)</em></p><p><strong>Run it as the warm-up it is.</strong> The chaff here is deliberately thin-blooded — 13 and 15 hit points a body against a party that hits for fourteen. That is the point: this is the room where the martials get to look terrifying before the dungeon starts costing them anything.</p><h3>⚙ Positions are tuned for the shine (repositioned 2026-08-14)</h3><ul><li><strong>Morgash — Cleave.</strong> The two east-corridor skeletons are now <strong>5 ft apart</strong>, and the three zombies stand shoulder-to-shoulder along the south wall. Cleave needs a second creature <em>within 5 feet of the first</em>, so both clusters now actually feed it. <strong>⚠ He must swap to the Greataxe</strong> — the Ember-Touched Greatsword's mastery is <em>Graze</em>, not Cleave, so the shine costs him the magic blade for a round. Tell him that trade exists; let him choose it. <strong>Skeletons are Vulnerable to Bludgeoning</strong> (confirmed in the 2024 MM), so if he has the Maul of Momentum attuned instead, every skeleton takes <em>double</em> damage.</li><li><strong>Gren — the AoE.</strong> All three zombies now sit inside one <strong>Shatter</strong> (10-ft radius), and the three east bodies are tightened into a ~15-ft box so a second Shatter takes that corridor. One 2nd-level slot really does delete half a room here — this is the only fight in the Hollow where that is true.</li></ul><h3>⚠ The first Life-Drain telegraph fires here</h3><p>Aldous's touch is the party's first contact with the mechanic that defines this site. Land it, then say the line and stop talking:</p><blockquote><em>\"The wound closes. Something underneath it doesn't.\"</em></blockquote><p><strong>Make sure they understand the ceiling moved, not the pool</strong> — this is the one rules point worth being explicit about, because retreat-and-return is legitimate play and they cannot make that call if they think a Cure Wounds fixes it. Note that the drain now bites on a <strong>successful</strong> save too, for half. Aldous is the weakest of the five (<strong>PB +2, 82 HP, Life Drain DC 13, 1d8+3 necrotic</strong>) — six months dead, barely fed. He is the gentle version of the lesson.</p><h3>⚠ Hold Person is dead in this dungeon</h3><p><strong>Every creature in the Hollow is Undead</strong>, and 2024 Hold Person targets a Humanoid. Gren has it prepared and it has no legal target anywhere down here. Let him discover that <em>on Aldous</em> — a warm-up fight he can afford to waste a slot in — rather than on Osric or Cadoc, where the wasted turn costs the party the fight. <em>Frightened and prone DO land on wights</em> (their only condition immunities are exhaustion and poisoned), so point him at those instead once he has learned it.</p><h3>Reveal</h3><p><strong>Any niche (Perception / Investigation):</strong> every corpse is wrapped identically — precise, tender, a craftswoman's hand. Nobody has told them about Hesper yet. This is the first evidence she exists.</p><h3>The gut-punch</h3><p>The <strong>kestrel brooch at his throat.</strong> The party has been reading the name <strong>Aldous</strong> in Marn's Journal since the camp — the man who went down here six months ago and did not come back. Here he is, walking the catacombs, and he does not know them.</p><p><em>He sobs while he fights. He never roars. None of them do.</em></p><p><strong>Loot:</strong> Aldous's kestrel brooch. <em>(His Moon-Touched blade is gone — owner cut it 2026-08-14; he carries only the wight's Necrotic Sword now.)</em></p>",
+        "format": 1
+      },
+      "_id": "rJbYhpREGwgA55Vi",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786627972311,
+        "modifiedTime": 1786714534718,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!vSP2ywLNw9p5YsQL.rJbYhpREGwgA55Vi"
+    },
+    {
+      "type": "text",
+      "name": "03 The Keeper's Seat",
+      "text": {
+        "content": "<p><strong>Encounter:</strong> @UUID[Actor.9bEOQpxfJBWuYFZl]{Osric} on the dais (the seated skeleton in the art — he stands), @UUID[Actor.pqqTqiCKcw2x1uDw]{Edda} at his side, a <strong>Skeletal Mage</strong> on the dais steps, plus 3 Skeletons and a Skeletal Archer down the pillared hall. <em>(Roster revised 2026-08-14, owner: Edda stands with the Keeper; zombies cut, skeletons added.)</em></p><p><strong>This is the hardest simultaneous fight in the Hollow</strong> — two wights and a caster at the end of a seventy-foot approach, with an archer on the flank. Osric is <strong>PB +4, 112 HP, Life Drain DC 15</strong>; the mage is now <strong>33 HP / AC 16</strong> and will actually survive to take a turn.</p><h3>⚠ Edda is the reason this room hurts</h3><p>She is a <strong>caster</strong>, and she is the single most dangerous action economy in the dungeon. At-will <strong>Toll the Dead</strong>; once each per day <strong>Bane · Command · Blindness/Deafness · Hold Person</strong>, all at <strong>DC 13</strong>.</p><p><strong>Hold Person on Morgash is the play</strong> — WIS save +1, so he fails better than half the time, and a paralysed front line at seventy feet from the dais turns the whole approach into a shooting gallery. Use it early. It is also the fairest possible warning, because the party can see her lips move.</p><p><em>She was the Kestrels' cleric. She is still praying. Nobody has told her who answers now.</em></p><h3>The doors</h3><p>The west doors (down to 05) are <strong>LOCKED</strong> — opened only by @UUID[Item.xqMp2hp7Q2JI6hWm]{Hesper's Bone Key}, which is in 04. Osric will say so, in his way:</p><blockquote>\"You are not ready. Hesper will make you ready.\"</blockquote><p>Forced order: <strong>03 → 04 → back to 03 → 05.</strong> When they come back through with the key, <strong>do not re-run anything</strong> — narrate the walk.</p><h3>Reveal</h3><p>Carved into the dais face, the only writing in the shrine, worn but legible: <strong>OSRIC · HESPER · CADOC</strong>. Founder's plaque — or headstone. The party has counted three kneeling figures on the stair and now they have the names.</p><h3>Osric's voice &amp; parley — three exchanges, then steel</h3><p>A lord of three subjects and a hole in the ground. Courteous and dead-tired first; every offer comes around to <em>stay</em>. Answers <strong>one</strong> question honestly if asked with respect — best vector: \"What happened to the two who came before us?\" → <em>\"They are with us now. They are happier.\"</em> (One of them is standing at his shoulder.) Insight during the courtesy: not hunger — <em>loneliness</em>. Second presumption flips him imperious.</p><p><strong>Courteous:</strong></p><blockquote>\"What can I say, we are lonely… aren't you?\"</blockquote><p><strong>Imperious:</strong></p><blockquote>\"You have not come to ask questions. You have come to die, and be one of us!\"</blockquote><blockquote>\"Your insolence irritates me. If you will not make a suitable wight, you will make an excellent zombie!\"</blockquote><h3>The gut-punch</h3><p>Edda's <strong>kestrel brooch</strong>, at her throat, on the dais, next to a king. The party met Aldous one room ago. Now they have both of them — and Osric is treating her like an honoured retainer, because to him that is exactly what she is. He got what he wanted.</p><p><strong>Loot:</strong> Edda's kestrel brooch.</p>",
+        "format": 1
+      },
+      "_id": "QGEfiA3RSUtbHjpm",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786627972311,
+        "modifiedTime": 1786714567030,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!vSP2ywLNw9p5YsQL.QGEfiA3RSUtbHjpm"
+    },
+    {
+      "type": "text",
+      "name": "04 Preparation Chamber",
+      "text": {
+        "content": "<p><strong>This room is a CONVERSATION, not a fight.</strong> @UUID[Actor.red3ja0zjoXmDFjK]{Hesper} does not attack, does not posture, and does not monologue. She is standing at the head of her slab when they come in, and she greets them — courteous, exhausted, and entirely without menace. Two zombie guards stand where she put them and do not move unless she is attacked. Dead-end room; the only way out is back to 03.</p><p><strong>Fail state:</strong> the party swings first. That is allowed, it is their choice, and it costs them everything on this page — the exposition, the potions, and the cleanest key in the dungeon. Let it happen without punishing them for it; just make sure she gets one line out first so they know what they threw away.</p><h3>Opening</h3><p>She looks up. She takes in the blood on them, and where they came from, and does the arithmetic.</p><blockquote>\"You came through the crypts. That means Osric is dead, or you would not be standing in that doorway.\"</blockquote><blockquote>\"…Oh. You found him first. He was very old, and very tired, and he had not noticed either. I hope he was courteous with you. He usually managed courteous.\"</blockquote><h3>What she will tell them, if asked</h3><p>She answers plainly. There is no riddle here and no bargaining — she simply has not had anyone to talk to in a very long time.</p><ul><li><strong>They were three.</strong> Osric, Cadoc, and her. Treasure-hunters. They found the shard glowing in a cave — warm, beating, the size of two cupped hands — and could not put it down.</li><li><strong>They brought it down here to keep it safe.</strong> Then to keep it. Then there stopped being a difference. <em>\"We cut the stair so no one could take it. Then we cut the seat so we would not have to leave it. You can see how that ends. You are standing in how it ends.\"</em></li><li><strong>It gave them life.</strong> It only had the one kind left to give. The greed came first and the undeath came after — <em>the shard did not curse them; it answered them.</em></li><li><strong>They never knew what it was.</strong> Not where it came from, not whose it had been, not why it was warm. They found it, and that was the whole of what they understood about it. <em>\"It was in the dark and it was warm and it was beating. What else was there to know?\"</em></li><li><strong>Her office.</strong> She prepares people on this slab, and Cadoc turns them at the altar next door. <em>\"I make them ready. He makes them ours. Then it is a little less quiet down here.\"</em></li></ul><h3>⚠ The five-hundred-year beat — the most important exchange in the room</h3><p><strong>If asked how long:</strong></p><blockquote>\"Five hundred years. Near enough. I stopped counting when the counting stopped meaning anything.\"</blockquote><p><strong>Let that land, and do not explain it.</strong> The party has been carrying a suspicion since the Kestrel camp that <strong>Greenrest</strong> is behind this — that the town is feeding the ruins, or knows, or made this. Five hundred years is <em>older than the village.</em> If they say the name aloud, Hesper's answer is the whole reveal, and it is four words:</p><blockquote>\"I don't know that word.\"</blockquote><p>She has never heard of Greenrest. Nobody down here has. <strong>The Hollow has no connection to the village and never did</strong> — the settlers arrived centuries after these three sealed themselves in. Their theory dies here, and it should die quietly, from an old woman who genuinely does not understand the question.</p><h3>What she is</h3><p>Tired. Sad. Unbearably lonely. And still, underneath it, pulled — she has not stopped being what the shard made her, and she knows it.</p><blockquote>\"I am so tired. I have been tired for a very long time, and there is nothing down here that sleeps.\"</blockquote><blockquote>\"And still — when you walked in, I looked at your throats and I thought: <em>four.</em> Four more, and it would be a little less quiet. I am sorry. It is not a thing I have ever been able to put down.\"</blockquote><p><em>Play her as someone confessing, not threatening. The horror is that she means both halves.</em></p><h3>⭐ The chest — she sends them to it, key and all</h3><p>The @UUID[Actor.HU5tYg81c8ZnHqMO]{Mortician's Chest} sits beside the slab. She does not hand anything over and she does not make them ask twice — she just tells them to take what is in it. <strong>Everything this room owes them is in that one box, including the key.</strong></p><blockquote>\"Everything is in the chest. Take it — the medicine and the key both. I have no use for either any more, and you will need both before the night is out.\"</blockquote><ul><li>@UUID[Item.xqMp2hp7Q2JI6hWm]{Hesper's Bone Key} — opens the west doors of the Keeper's Seat, down to the Hollow's Heart.</li><li>@UUID[Item.vGUNVpQ8t6m7VHMj]{Draught of Wholeness} — restores <em>all</em> lost hit-point maximum.</li><li>2× Potion of Healing (Greater), 1× Potion of Healing.</li><li>Her dagger and her sickle — the tools of the office, not weapons. Let them notice that.</li></ul><blockquote>\"They are for the ones I keep. A body that has been drunk from does not hold together well enough to be worth turning, so I give back what was taken and begin again. It is the same medicine either way.\"</blockquote><p><strong>This is the pacing valve.</strong> The Draught is the one cure for the dungeon's clock and there is exactly one. Whether they drink it here or save it for the Heart Chamber is the decision the whole site has been building toward. <strong>Do not advise them.</strong></p><h3>The key, and what she says about Cadoc</h3><p>She warns them as they take it, because she thinks they should know:</p><blockquote>\"He will not give it up. Cadoc has not said a word in two hundred years. There is nothing left in him but the wanting — the heart ate the rest and he let it. Whatever you mean to say to him, he will not hear it.\"</blockquote><p><em>GM only: the key was carved long ago from a founder's finger. The doors are not locked against intruders — they are locked against the <strong>unprepared</strong>. No one descends to the altar who has not passed through the Mortician's hands.</em></p><h3>⏱ The ask — an optional exit, and a time-saver</h3><p>If the conversation has gone well, Hesper asks them to end her. Plainly, without drama, as a favour between tired people.</p><blockquote>\"You could stop it. It would take one of you one moment, and I would not lift a hand. I have wanted to ask someone that for a very long time. There has not been anyone to ask.\"</blockquote><p><strong>If they do it:</strong> no roll, no initiative, no XP argument — she kneels. It is a coup de grâce and it should be silent. <strong>This skips the 04 fight entirely</strong> and buys back fifteen to twenty minutes for the Heart Chamber, which is where the night wants to end.</p><p><strong>If they refuse:</strong> she accepts it without argument and lets them leave. She is still standing here if they come back through.</p><p><strong>If they attack her mid-conversation:</strong> she fights, and she is a wight with five hundred years of the shard in her (<strong>PB +4, 97 HP, Life Drain DC 15</strong>). She does not sob during it. That is the difference. <em>Note the key is in the chest, not on her body — killing her does not skip the step, it just makes it uglier.</em></p><h3>The room, if they look</h3><ul><li>Aldous and Edda's packs, folded beside the slab like grave goods.</li><li>The slab's four chains worn <strong>smooth, not rusted</strong> — used often, and gently. Restraint as care.</li></ul><p><strong>Loot:</strong> the whole chest — bone key, Draught of Wholeness, 3 healing potions, dagger, sickle.</p>",
+        "format": 1
+      },
+      "_id": "LbpEqAGYUeKppWa3",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786627972311,
+        "modifiedTime": 1786715356271,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!vSP2ywLNw9p5YsQL.LbpEqAGYUeKppWa3"
+    },
+    {
+      "type": "text",
+      "name": "05 Hollow's Heart",
+      "text": {
+        "content": "<p><strong>Encounter:</strong> @UUID[Actor.oOWorLH5BJ7lQfmE]{Cadoc} circling the altar with the necrotic scythe, a Skeletal Mage in the heap, 1 Skeleton, 2 Skeletal Archers and 2 Zombies. <em>(Roster thinned 2026-08-14, owner — dial it at the door: see below.)</em> He does not speak.</p><h3>Cadoc — the only real boss in the Hollow</h3><p><strong>PB +6 · 127 HP · AC 14 · Life Drain DC 17.</strong> Five hundred years at arm's length from the shard; the scythe swings at <strong>+8</strong>. He is the reason the party's front line finally has something to be afraid of.</p><p><strong>Necrofire Reach (legendary action, Recharge 5–6).</strong> At the end of another creature's turn, Cadoc opens a hand toward anyone he can see within <strong>30 feet</strong>: CON save <strong>DC 17</strong>, 2d8 necrotic, <strong>half on a success</strong> — and the hit-point maximum drops by whatever was dealt, either way.</p><p><strong>Use it on the back line.</strong> This is the answer to a party that has spent four rooms keeping the sorcerer safe behind a wall of orc. Cadoc does not have to reach Gren; the shard reaches for whoever he is looking at. <em>Gren has 26 hit points. This room can kill him in a single round if it turns on him — a legitimate outcome, not an accident. Pick targets deliberately.</em></p><h3>Dialling the room at the door</h3><p>Read the party as they come down the west stair and tune before initiative:</p><ul><li><strong>Fresh, Draught unspent, slots up</strong> — run it as placed, and use Necrofire Reach every round it recharges.</li><li><strong>Bloodied, maximums shaved, out of slots</strong> — the pile stays down. Cut the zombies, hold the archers as a second wave that never arrives, and let Cadoc carry it alone. He is enough.</li><li><strong>Steamrolling</strong> — the heap gets up in waves. There is no fixed number of bodies in a mound of five centuries of dead.</li></ul><h3>The room sells itself</h3><p>Four rooms of your-torch-only dark, then the last door opens on a chamber already lit from inside — a slow red pulse breathing out over the heaped bodies, in time, the way something with a heartbeat would do it. It is. The @UUID[Item.9Idisfa4QVXLv5Eg]{Graveheart} sits on the altar slab at the centre of it: a crystal heart the size of two cupped hands, deep arterial red, warm, still beating — and every beat pushes another wave of red light out across the dead.</p><p>In the west alcove stands a robed figure cut from the rock, twin to the one on the stair above — faceless, handless, worn past any hope of identification, and polished smooth at the base by three pairs of hands over five centuries. <strong>⚠ It is not the Green Lady, and it is not anyone.</strong> <em>(Canon 2026-08-14, owner: this shrine has NO knowledge of the Dreamer. The three never learned what the Graveheart was or where it came from. Whatever they carved, they invented. If a player asks what it depicts, the honest answer is that nobody can tell — and neither could the people who made it.)</em></p><p><strong>⚠ Note the light.</strong> This is the first ambient illumination in the dungeon, which means it is the first room where <strong>Jetten's Umbral Sight stops hiding him</strong>. He has been untargetable for four rooms. Here he is standing in the open, and the archers can see him. Do not announce it; just start shooting at him.</p><h3>The pile</h3><p>Everyone who was never worthy — zombie stock, heaped toward the alcove. The five who mattered walk.</p><h3>⭐ Say the line</h3><p>When someone lifts the Graveheart off the slab, <strong>this is the first of four repetitions of the campaign's only planted payload.</strong> Say the warmth. Say the beat. Say that nothing marks it — and if a player tries to chip it, let them fail. Four boring repetitions buy one unforgettable moment at the tree. Skip them and the finale is a light show.</p><p><strong>The first hold triggers the vision</strong> — and this is the ONLY route from this site to the Dreamer. The shrine cannot tell them anything about her; the shard can. Heart-burst, the mists parting over an empty lakeside valley, a grey leafless tree. No names. Just <em>long ago</em>. Then they climb out, ride home, and sleep in Greenrest — <strong>the dream happens in town, never down here.</strong></p>",
+        "format": 1
+      },
+      "_id": "o9EEW4EOaZkuK12U",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786627972311,
+        "modifiedTime": 1786744556629,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!vSP2ywLNw9p5YsQL.o9EEW4EOaZkuK12U"
+    }
+  ],
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "folder": "IrBgFpR2iymTG05P",
+  "_id": "vSP2ywLNw9p5YsQL",
+  "categories": [],
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1786627972311,
+    "modifiedTime": 1786627972313,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!vSP2ywLNw9p5YsQL"
+}

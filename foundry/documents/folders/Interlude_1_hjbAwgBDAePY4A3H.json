@@ -1,0 +1,28 @@
+{
+  "name": "Interlude 1",
+  "type": "Actor",
+  "color": "#4a9d5f",
+  "folder": "QSJr6SoO6G5N3fW6",
+  "flags": {
+    "world": {
+      "mcpGenerated": false,
+      "createdAt": "2026-08-06T14:38:10.459Z"
+    }
+  },
+  "_id": "hjbAwgBDAePY4A3H",
+  "description": "",
+  "sorting": "a",
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1786027088939,
+    "modifiedTime": 1787242107673,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!hjbAwgBDAePY4A3H"
+}

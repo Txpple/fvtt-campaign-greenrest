@@ -1,0 +1,65 @@
+{
+  "name": "The Wyrmwood — The Drowned Temple",
+  "pages": [
+    {
+      "type": "image",
+      "name": "The Wyrmwood — The Drowned Temple",
+      "src": "worlds/the-broken-heart-of-greenrest/assets/handouts/wyrmwood-drowned-temple.webp",
+      "image": {
+        "caption": "The doors give onto still green water and a causeway of old stone. At its far end, on the dais, the thing that owns this place lies coiled — and one eye is open."
+      },
+      "_id": "uEg9KStpm0nUGC2E",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": 2
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1790023625711,
+        "modifiedTime": 1790126965310,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!rldNvDZqISMOHisa.uEg9KStpm0nUGC2E"
+    }
+  ],
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "folder": "7v0WU3VZu27OHfA2",
+  "_id": "rldNvDZqISMOHisa",
+  "categories": [],
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.3",
+    "createdTime": 1790023625711,
+    "modifiedTime": 1790023625711,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!rldNvDZqISMOHisa"
+}

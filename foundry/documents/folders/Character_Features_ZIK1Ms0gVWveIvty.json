@@ -1,0 +1,23 @@
+{
+  "_id": "ZIK1Ms0gVWveIvty",
+  "name": "Character Features",
+  "type": "Compendium",
+  "sorting": "m",
+  "sort": 300000,
+  "color": "#b72c1f",
+  "folder": "FjoiZqPI8bnrHTLD",
+  "description": "",
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1782928364478,
+    "modifiedTime": 1782928364478,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!ZIK1Ms0gVWveIvty"
+}

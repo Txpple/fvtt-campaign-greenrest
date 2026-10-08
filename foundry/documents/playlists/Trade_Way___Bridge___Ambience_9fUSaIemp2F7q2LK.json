@@ -1,0 +1,42 @@
+{
+  "name": "Trade Way - Bridge — Ambience",
+  "mode": 0,
+  "sounds": [
+    {
+      "name": "455_Harpers_Waypoint.mp3",
+      "path": "worlds/the-broken-heart-of-greenrest/assets/audio/455_Harpers_Waypoint.mp3",
+      "volume": 0.5,
+      "repeat": true,
+      "_id": "WWoHDeT8RiPjeWVM",
+      "channel": "",
+      "playing": false,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!9fUSaIemp2F7q2LK.WWoHDeT8RiPjeWVM"
+    }
+  ],
+  "_id": "9fUSaIemp2F7q2LK",
+  "channel": "music",
+  "playing": false,
+  "folder": null,
+  "sorting": "a",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783088932483,
+    "modifiedTime": 1783514092612,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "seed": 733,
+  "_key": "!playlists!9fUSaIemp2F7q2LK"
+}

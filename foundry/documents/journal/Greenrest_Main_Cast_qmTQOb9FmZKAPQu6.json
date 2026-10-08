@@ -1,0 +1,64 @@
+{
+  "name": "Greenrest Main Cast",
+  "pages": [
+    {
+      "type": "text",
+      "name": "Main Cast",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><p class=\"lead\">The faces of Greenrest — one line each. GM-only quick reference; names link to their sheets.</p><ul><li><strong>@UUID[Actor.fYMlXAs6ZT8aMC6R]{Mayor Oswin Applewhite}</strong> — the patron; warm, fatherly, and fully willing to let the party die for the town. Seat: the Mayor's Tower.</li><li><strong>@UUID[Actor.krdThcl2lpElRTny]{Selma}</strong> — the apothecary; the town's only healing and the secret dream-suppressing tonic. A quiet wildcard.</li><li><strong>@UUID[Actor.KaqoEWW6smO4j4a7]{Ambrose Featherstone}</strong> — innkeeper of The Long Rest; a grandfatherly host, kindest to the strangers who'll never wake.</li><li><strong>@UUID[Actor.JBEHNnZOEsNrtDmV]{Mother Wend}</strong> — elderly dwarf; keeps The Full Larder; quietly \"runs short\" around shard 3.</li><li><strong>@UUID[Actor.ngCd4uR5R5m8NJYZ]{Acolyte Enid}</strong> — the church's devout young lay-keeper; the purest believer in the false faith; tends the graves.</li><li><strong>@UUID[Actor.kR6ypkx4lCH5TY3P]{Constable Warin Holt}</strong> — the town watch; musters the militia against the party at the finale.</li><li><strong>@UUID[Actor.yQxQmPxsIMzupeDv]{Coll}</strong> — the gravedigger and town doubter; has buried too many smiling strangers to keep believing.</li><li><strong>@UUID[Actor.6qPZywHoNoJP4ZLt]{Pip}</strong> — a young halfling child; asks the questions no adult will.</li><li><strong>Brother Tobin</strong> — a wandering Chauntean priest (not a resident; met on the road).</li></ul></div></section>",
+        "format": 1
+      },
+      "_id": "2gAUXJl2OCGJl6IN",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783619525309,
+        "modifiedTime": 1783619525309,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!qmTQOb9FmZKAPQu6.2gAUXJl2OCGJl6IN"
+    }
+  ],
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "folder": "1x1aqmuIbAwqab65",
+  "_id": "qmTQOb9FmZKAPQu6",
+  "categories": [],
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783619525309,
+    "modifiedTime": 1783619525310,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!qmTQOb9FmZKAPQu6"
+}

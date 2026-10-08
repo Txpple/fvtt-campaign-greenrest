@@ -1,0 +1,18 @@
+{
+  "key": "dnd5e.challengeVisibility",
+  "user": null,
+  "value": "\"all\"",
+  "_id": "LV6RqLklj3caEu2a",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1782928451584,
+    "modifiedTime": 1782928451584,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!LV6RqLklj3caEu2a"
+}

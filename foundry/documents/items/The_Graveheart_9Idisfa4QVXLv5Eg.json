@@ -1,0 +1,218 @@
+{
+  "name": "The Graveheart",
+  "type": "equipment",
+  "img": "worlds/the-broken-heart-of-greenrest/assets/hearts/graveheart-item.webp",
+  "system": {
+    "description": {
+      "value": "<p>A quarter of a heart, turned to deep red crystal. The size of two cupped hands, the sheared-off vessels still visible like flaws in a gem. It is warm to the touch. It beats — faintly, once every few seconds, light pulsing through the facets. It cannot be chipped or scratched. It has already been broken.</p><p><strong>The vision.</strong> The Graveheart requires no attunement, but the first time you hold it, it shows you one thing. A beautiful green woman, glowing white, leaves crowning her head, weeping. She closes her hands over her own chest, and her heart bursts. The pieces scatter into the dark, hardening as they fly. The burst drives the mists back in a great ring, baring a bare green valley next to a beautiful lake. Where she stood, a tree: grey, leafless, asleep. A single faint heartbeat, and it is over.</p><p><strong>While you carry the Graveheart</strong> you have advantage on Charisma saving throws.</p><p>Once between dawns, you can press the shard to the chest of a creature that has died within the last minute: the heart gives one full, warm beat, and it casts <em>revivify</em> — the shard is the only component needed.</p><p><em>It is one chamber of a heart — and a heart has four. You cannot shake the feeling that, whole, it could do so much more.</em></p>",
+      "chat": ""
+    },
+    "quantity": 1,
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "rarity": "legendary",
+    "identified": true,
+    "equipped": true,
+    "attunement": "",
+    "attuned": false,
+    "properties": [
+      "mgc"
+    ],
+    "type": {
+      "value": "trinket",
+      "baseItem": ""
+    },
+    "activities": {
+      "Yy3IhIVyzakHTD8T": {
+        "_id": "Yy3IhIVyzakHTD8T",
+        "type": "cast",
+        "name": "Revivify",
+        "img": "",
+        "sort": 0,
+        "spell": {
+          "uuid": "Compendium.dnd-players-handbook.spells.Item.phbsplRevivify00",
+          "challenge": {
+            "attack": null,
+            "override": false
+          },
+          "level": 3,
+          "properties": [
+            "vocal",
+            "somatic"
+          ],
+          "spellbook": true,
+          "ability": ""
+        },
+        "activation": {
+          "type": "action",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": false,
+          "targets": [
+            {
+              "type": "itemUses",
+              "value": "1",
+              "target": "",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "range": {
+          "override": false,
+          "units": "self"
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft",
+            "stationary": false
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "flags": {},
+        "visibility": {
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false,
+          "identifier": ""
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "recovery": [
+        {
+          "period": "dawn",
+          "type": "recoverAll"
+        }
+      ],
+      "max": "1"
+    },
+    "identifier": "the-graveheart",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "crew": {
+      "value": []
+    },
+    "armor": {
+      "value": null,
+      "dex": null,
+      "magicalBonus": ""
+    },
+    "proficient": null,
+    "strength": null
+  },
+  "folder": "ZvqosDAyyigGrPNk",
+  "_id": "9Idisfa4QVXLv5Eg",
+  "effects": [
+    {
+      "name": "The Graveheart",
+      "img": "worlds/the-broken-heart-of-greenrest/assets/hearts/graveheart-item.webp",
+      "origin": null,
+      "type": "base",
+      "_id": "vCtoWoqIMBvn31v7",
+      "system": {
+        "changes": [
+          {
+            "key": "system.abilities.cha.save.roll.mode",
+            "value": 1,
+            "type": "add",
+            "phase": "initial",
+            "_id": "OzC5LDTlJWgWE6vy",
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "magical": true,
+        "origin": {
+          "item": "Item.9Idisfa4QVXLv5Eg"
+        }
+      },
+      "disabled": false,
+      "start": null,
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "showIcon": 1,
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1787019737186,
+        "modifiedTime": 1790016577853,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!items.effects!9Idisfa4QVXLv5Eg.vCtoWoqIMBvn31v7"
+    }
+  ],
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.5",
+    "createdTime": 1786564417957,
+    "modifiedTime": 1790523850885,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!9Idisfa4QVXLv5Eg"
+}

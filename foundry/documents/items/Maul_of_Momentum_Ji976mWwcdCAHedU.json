@@ -1,0 +1,382 @@
+{
+  "name": "Maul of Momentum",
+  "type": "weapon",
+  "img": "modules/dnd-players-handbook/assets/icons/items/maul.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>Weapon (Maul), Rare (Requires Attunement)</em></p><p><em>This weighty maul's head is etched with spiraling grooves that seem to pull it forward mid-swing. In motion, it never wants to stop.</em></p><p>You gain a <strong>+1 bonus</strong> to attack and damage rolls made with this magic weapon.</p><p><strong>Unstoppable Drive (1/Day).</strong> On your turn, you can take one additional action, as the Fighter's Action Surge feature. If you already have Action Surge, you instead gain one extra use of it. <strong>Until the end of your next turn, you ignore Difficult Terrain.</strong> This property recharges at dawn.</p><p><strong>Once per turn.</strong> You can gain only one additional action on a given turn, whether it comes from this maul or from Action Surge itself — never both on the same turn.</p><p>When you invoke Unstoppable Drive, the maul's head hums with barely-contained kinetic force, your footfalls crack stone and packed earth, and dust shivers off nearby surfaces — momentum made manifest, and nothing on the battlefield slows you down.</p>",
+      "chat": ""
+    },
+    "price": {
+      "value": 4000,
+      "denomination": "gp"
+    },
+    "source": {
+      "custom": "",
+      "rules": "2024",
+      "revision": 1
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 10,
+      "units": "lb"
+    },
+    "rarity": "rare",
+    "attunement": "required",
+    "attuned": false,
+    "equipped": false,
+    "cover": null,
+    "range": {
+      "value": null,
+      "long": null,
+      "units": "ft",
+      "reach": null
+    },
+    "uses": {
+      "max": "1",
+      "spent": 0,
+      "recovery": [
+        {
+          "period": "dawn",
+          "type": "recoverAll"
+        }
+      ]
+    },
+    "damage": {
+      "versatile": {
+        "number": null,
+        "denomination": null,
+        "bonus": "",
+        "types": [],
+        "custom": {
+          "enabled": true,
+          "formula": ""
+        },
+        "scaling": {
+          "mode": "",
+          "number": null,
+          "formula": ""
+        }
+      },
+      "base": {
+        "number": 2,
+        "denomination": 6,
+        "types": [
+          "bludgeoning"
+        ],
+        "custom": {
+          "enabled": false
+        },
+        "scaling": {
+          "number": 1
+        },
+        "bonus": ""
+      }
+    },
+    "armor": {
+      "value": null
+    },
+    "hp": {
+      "value": null,
+      "max": null,
+      "dt": null,
+      "conditions": ""
+    },
+    "type": {
+      "value": "martialM",
+      "baseItem": "maul"
+    },
+    "properties": [
+      "two",
+      "hvy",
+      "mgc"
+    ],
+    "proficient": null,
+    "activities": {
+      "wVGKly5R472acaHj": {
+        "type": "attack",
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "concentration": false,
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": "5",
+          "units": "ft",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "prompt": false,
+          "override": false
+        },
+        "attack": {
+          "ability": "",
+          "bonus": "",
+          "critical": {
+            "threshold": null
+          },
+          "flat": false,
+          "type": {
+            "value": "melee",
+            "classification": "weapon"
+          }
+        },
+        "damage": {
+          "critical": {
+            "bonus": ""
+          },
+          "includeBase": true,
+          "parts": []
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "sort": 0,
+        "_id": "wVGKly5R472acaHj",
+        "name": "",
+        "img": "",
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        }
+      },
+      "DufQ7HUYbrd9uKyW": {
+        "_id": "DufQ7HUYbrd9uKyW",
+        "type": "utility",
+        "name": "Unstoppable Drive",
+        "sort": 0,
+        "activation": {
+          "type": "special",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "targets": [
+            {
+              "type": "itemUses",
+              "target": "",
+              "value": "1",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "target": {
+          "affects": {
+            "type": "self"
+          }
+        },
+        "description": {
+          "chatFlavor": "The maul's head hums with barely-contained kinetic force; footfalls crack stone and packed earth, and dust shivers off nearby surfaces. Take one additional action this turn (as Action Surge — or gain one extra use of it), and ignore Difficult Terrain until the end of your next turn."
+        },
+        "effects": [
+          {
+            "_id": "ZaXdX2lYtJew32b9",
+            "level": {}
+          }
+        ]
+      }
+    },
+    "ammunition": {},
+    "mastery": "topple",
+    "identifier": "maul",
+    "crew": {
+      "value": []
+    },
+    "magicalBonus": "1"
+  },
+  "effects": [
+    {
+      "name": "Unstoppable Drive",
+      "img": "icons/svg/aura.svg",
+      "disabled": false,
+      "transfer": false,
+      "description": "<p>Nothing on the ground slows you down. You ignore Difficult Terrain until the end of your next turn.</p>",
+      "system": {
+        "changes": [
+          {
+            "key": "system.attributes.movement.ignoredDifficultTerrain",
+            "value": "snow",
+            "type": "add",
+            "phase": "initial",
+            "_id": "rcpX0X87uTWwbjHF",
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.attributes.movement.ignoredDifficultTerrain",
+            "value": "plants",
+            "type": "add",
+            "phase": "initial",
+            "_id": "HUQf3Zcikfi0QBLe",
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.attributes.movement.ignoredDifficultTerrain",
+            "value": "rocks",
+            "type": "add",
+            "phase": "initial",
+            "_id": "Q1mlTcB7bUOWslx9",
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.attributes.movement.ignoredDifficultTerrain",
+            "value": "liquid",
+            "type": "add",
+            "phase": "initial",
+            "_id": "I1fSAtxsg1MwSaS2",
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.attributes.movement.ignoredDifficultTerrain",
+            "value": "sand",
+            "type": "add",
+            "phase": "initial",
+            "_id": "6fMz2WqbuumZv9eI",
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.attributes.movement.ignoredDifficultTerrain",
+            "value": "ice",
+            "type": "add",
+            "phase": "initial",
+            "_id": "3JUKPNQ5Ixyga0GK",
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.attributes.movement.ignoredDifficultTerrain",
+            "value": "slope",
+            "type": "add",
+            "phase": "initial",
+            "_id": "zxjlXxoXZ2csB4T1",
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.attributes.movement.ignoredDifficultTerrain",
+            "value": "web",
+            "type": "add",
+            "phase": "initial",
+            "_id": "HUl9o0hGEsvpv0aR",
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.attributes.movement.ignoredDifficultTerrain",
+            "value": "mud",
+            "type": "add",
+            "phase": "initial",
+            "_id": "fXjChm1vVRr3Tm1U",
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "magical": true
+      },
+      "_id": "ZaXdX2lYtJew32b9",
+      "type": "base",
+      "start": null,
+      "duration": {
+        "value": 1,
+        "units": "turns",
+        "expiry": null,
+        "expired": false
+      },
+      "origin": null,
+      "tint": "#ffffff",
+      "statuses": [],
+      "showIcon": 1,
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1786239904839,
+        "modifiedTime": 1790016577658,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!items.effects!Ji976mWwcdCAHedU.ZaXdX2lYtJew32b9"
+    }
+  ],
+  "flags": {
+    "dnd5e": {}
+  },
+  "folder": "l74jP8iVTBjy67Sd",
+  "_stats": {
+    "exportSource": null,
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1786204416824,
+    "modifiedTime": 1790016577657,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_id": "Ji976mWwcdCAHedU",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "_key": "!items!Ji976mWwcdCAHedU"
+}

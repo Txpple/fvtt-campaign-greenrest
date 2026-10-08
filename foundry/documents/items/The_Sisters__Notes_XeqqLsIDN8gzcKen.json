@@ -1,0 +1,57 @@
+{
+  "name": "The Sisters' Notes",
+  "type": "loot",
+  "img": "icons/sundries/scrolls/scroll-plain-tan.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>A single page pinned to the desk, written in a tidy merchant's hand — in plain Common, as if kept for reference:</em></p><p>\"The heart is broken in four. RED — the barrow. BLUE — ours, below. GREEN, BLACK — not yet found.</p><p>The dryad sleeps in the great tree on Greenrest's square. The heart is hers. Whole, it beats four times. One beat brings back our sister.</p><p>The red piece is moving. It is coming here. We need one beat only — they may keep the other three. Propose partnership. Do not fight.\"</p>",
+      "chat": ""
+    },
+    "quantity": 1,
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "rarity": "",
+    "identified": true,
+    "properties": [],
+    "type": {
+      "value": "junk",
+      "subtype": ""
+    },
+    "identifier": "chart-of-the-four-chambers",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "container": null
+  },
+  "folder": "RxxShy6nmWycOcq7",
+  "_id": "XeqqLsIDN8gzcKen",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1788014069177,
+    "modifiedTime": 1788016195316,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!XeqqLsIDN8gzcKen"
+}

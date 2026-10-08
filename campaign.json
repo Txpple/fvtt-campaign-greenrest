@@ -1,0 +1,49 @@
+{
+  "name": "The Broken Heart of Greenrest",
+  "worldId": "the-broken-heart-of-greenrest",
+  "party": [
+    "Gren Greenmantle",
+    "Invictus",
+    "Jetten Elisedil",
+    "Morgash the Gravemaker"
+  ],
+  "excludedActors": [
+    "Salyth"
+  ],
+  "journals": {
+    "sessionDiary": {
+      "name": "Session Diary",
+      "folder": "Adventure Log"
+    },
+    "bestiary": {
+      "name": "Bestiary",
+      "folder": "Adventure Log"
+    }
+  },
+  "sessions": {
+    "dir": "sessions",
+    "outputs": [
+      "recap",
+      "combat-log",
+      "gm-notes-story",
+      "gm-notes-mechanics"
+    ],
+    "pdf": true,
+    "skewSeconds": 0,
+    "illustrations": true,
+    "speakers": {
+      "discord-user-1": "DM",
+      "discord-user-2": "Gren Greenmantle",
+      "discord-user-3": "Invictus",
+      "discord-user-4": "Jetten Elisedil",
+      "discord-user-5": "Morgash the Gravemaker"
+    }
+  },
+  "snapshots": {
+    "dir": "party-snapshots"
+  },
+  "scenePacks": {
+    "mode": "maps-only",
+    "bornExplored": true
+  }
+}

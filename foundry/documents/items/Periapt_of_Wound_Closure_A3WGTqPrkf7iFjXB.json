@@ -1,0 +1,84 @@
+{
+  "name": "Periapt of Wound Closure",
+  "type": "equipment",
+  "img": "modules/dnd-dungeon-masters-guide/assets/icons/items/periapt-of-wound-closure.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p><em>Wondrous Item, Uncommon (Requires Attunement)</em></p><p>A battlefield chirurgeon sold it upon retiring, swearing that in thirty years of war she never lost a patient who wore it.</p><p>While wearing this pendant, you gain the following benefits.</p><p><em><strong>Life Preservation.</strong></em> Whenever you make a Death Saving Throw, you can change a roll of 9 or lower to a 10, turning a failed save into a successful one.</p><p><em><strong>Natural Healing Boost.</strong></em> Whenever you roll a Hit Point Die to regain Hit Points, double the number of Hit Points it restores.</p>",
+      "chat": ""
+    },
+    "identifier": "periapt-of-wound-closure",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarity": "uncommon",
+    "attunement": "required",
+    "attuned": false,
+    "equipped": false,
+    "armor": {
+      "value": null,
+      "dex": null
+    },
+    "cover": null,
+    "hp": {
+      "value": null,
+      "max": null,
+      "dt": null,
+      "conditions": ""
+    },
+    "type": {
+      "value": "wondrous",
+      "baseItem": ""
+    },
+    "properties": [
+      "mgc"
+    ],
+    "strength": null,
+    "proficient": null,
+    "crew": {
+      "value": []
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "folder": "gmEaXdyrOc3NfaMa",
+  "_stats": {
+    "exportSource": null,
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783258265377,
+    "modifiedTime": 1783258435006,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_id": "A3WGTqPrkf7iFjXB",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "_key": "!items!A3WGTqPrkf7iFjXB"
+}

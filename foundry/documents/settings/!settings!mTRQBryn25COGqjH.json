@@ -1,0 +1,18 @@
+{
+  "key": "fvtt-mod-battleflow.riderUpgrades",
+  "user": null,
+  "value": "\"foe-slayer:hunters-mark\"",
+  "_id": "mTRQBryn25COGqjH",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1786842822763,
+    "modifiedTime": 1786842822763,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!mTRQBryn25COGqjH"
+}

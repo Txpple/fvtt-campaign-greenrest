@@ -1,0 +1,18 @@
+{
+  "key": "fvtt-mod-battleflow.effectList",
+  "user": null,
+  "value": "\"Innate Sorcery, Reckless, Foresight, Blurred, Holy Protection, Shining, Crushed, Slashed, Zealous Presence, Rallied, Attack: Advantage, Adv: Attacks & Saves, Manacled, Heated Metal, Averse, Target: Disadvantage, Attacks: Disadvantage, Attack and Save Disadvantage, Cursed (Path to the Grave), Disadv. Attacks & Saves, Disadv. Attacks & Checks, Disadv.: Attacks & Checks, Vow of Enmity, Prey: Attack Advantage, Clairvoyant Combatant, Strike Fear: Terrify, Compelled, Goaded, Taunted, Aura of Purity, Circle's Power, Cursed Attacks, Protected, Protected (Protection), Protection from Evil and Good, Dispelling Evil and Good, Assasinate, Chill Touch, Shocking Grasp, Boots of Speed Active, Demon Armor, Air Focus, Earth Focus, Fire Focus, Water Focus, Ring Focus, Berserker Axe, Oathbow, Sword of Vengeance, Guiding Bolt, Mocked, Vicious Mockery, Enervated, Brief Enfeeblement, Feinting Attack, Distracted, Aiming: Attack Advantage, Killer's Fortune (Attack Advantage), Adv. Next Attack, Moonlight Step, Disadvantaged, Vigilant, Pack Tactics, Bloodied Fury, Bloodied Frenzy, Purple Dragon Commandant, Warrior's Wrath, Blood Frenzy, Grappler, Street Justice, Precise Hunter, Light Sensitivity, Sunlight Sensitivity, Sunlight Weakness, Sunlight Hypersensitivity, Mounted Combatant, Invoke Duplicity, Ambusher, Steady Aim, Assassinate, Brave, Fey Ancestry, Dwarven Resilience, Trance, Powerful Build\"",
+  "_id": "MH5TLJ8PmxOV0ITv",
+  "_stats": {
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1788636188489,
+    "modifiedTime": 1790535132452,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!MH5TLJ8PmxOV0ITv"
+}

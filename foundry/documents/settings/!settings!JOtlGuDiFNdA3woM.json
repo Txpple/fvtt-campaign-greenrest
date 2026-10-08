@@ -1,0 +1,18 @@
+{
+  "key": "fvtt-mod-battleflow.suppressOtherCards",
+  "user": null,
+  "value": "true",
+  "_id": "JOtlGuDiFNdA3woM",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1786853351484,
+    "modifiedTime": 1786853351484,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!JOtlGuDiFNdA3woM"
+}

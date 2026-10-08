@@ -1,0 +1,30 @@
+{
+  "startTime": "2026-09-08T23:32:48.632Z",
+  "durationSeconds": 12370.423979,
+  "guild": "the table",
+  "channel": "voice",
+  "users": [
+    {
+      "track": 1,
+      "name": "Gren Greenmantle"
+    },
+    {
+      "track": 2,
+      "name": "DM"
+    },
+    {
+      "track": 3,
+      "name": "Jetten Elisedil"
+    },
+    {
+      "track": 4,
+      "name": "Thomas A. Invictus"
+    },
+    {
+      "track": 5,
+      "name": "Morgash the Gravemaker"
+    }
+  ],
+  "craigNotes": null,
+  "fetchedAt": "2026-09-09T03:13:27.712143+00:00"
+}

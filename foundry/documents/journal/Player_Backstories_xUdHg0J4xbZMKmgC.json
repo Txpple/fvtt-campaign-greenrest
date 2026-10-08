@@ -1,0 +1,182 @@
+{
+  "name": "Player Backstories",
+  "folder": "VQIbehh9eXDVwnpX",
+  "ownership": {
+    "default": 2,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "_id": "xUdHg0J4xbZMKmgC",
+  "pages": [
+    {
+      "type": "text",
+      "name": "Morgash the Gravemaker",
+      "text": {
+        "content": "<h2>Morgash the Gravemaker</h2><p><em>Orc Fighter — veteran of the Flaming Fist</em></p><p>Morgash the Gravemaker was born in the Lower City of Baldur's Gate and earned his surname digging graves for the poor before he ever swung a sword for coin. He enlisted with the Flaming Fist and was on the walls the day the mind flayers came — when the netherbrain rose from the harbor and the sky over the Gate filled with nautiloids, Morgash held a barricade on the Basilisk Gate with a company that started forty strong and ended the battle at nine. In the chaos of those weeks he fought beside a githyanki warrioress named Lae'zel, fierce and exacting, and what began as trading insults over a whetstone became a romance — brief, blazing, and the realest thing he took from the war. When the city was saved she told him plainly: her destiny lay in the Astral Plane, in a war for her people's freedom, and no mortal city could hold her. She flew to it without looking back, and Morgash — who had buried half his company that season — found the Gate too full of ghosts to stay.</p><p>He drifted north up the Trade Way and settled in Daggerford, hiring out his blade to caravans and telling no one why an orc veteran drinks alone on the anniversary of the battle. On one run south of the town a guard took a wound Morgash had already measured a grave for — and then a forest gnome scarcely taller than a shovel closed it with a handful of silver-white fire and set the man back on his feet. Morgash has kept Gren Greenmantle at his shoulder ever since; a gravedigger knows better than most the worth of someone who can turn a grave away. It was in Daggerford, too, that he first heard the story of the Broken Heart — a relic shattered into four shards and scattered through the Misty Forest far to the south — and the name alone hooked into him like a barbed arrow. He tells the others it's about the prize; a relic like that could buy a mercenary's retirement ten times over. But some quiet part of Morgash believes that a heart broken into pieces can be gathered up and made whole again — and he needs that to be true. He has never said so aloud. He suspects the little healer has guessed anyway.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": 2,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 300,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786196041688,
+        "modifiedTime": 1786196042192,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_id": "8M54CojxC9vEGInd",
+      "_key": "!journal.pages!xUdHg0J4xbZMKmgC.8M54CojxC9vEGInd"
+    },
+    {
+      "type": "text",
+      "name": "Gren Greenmantle",
+      "text": {
+        "content": "<h2>Gren Greenmantle</h2><p><em>Forest Gnome Spellfire Sorcerer — Acolyte of Life</em></p><p>Gren Greenmantle was born to a warren of forest gnomes hidden in the Misty Forest, and from the first his gift ran toward life: the rare silver-white spellfire in his hands drank in raw magic, but where it touched living things it closed wounds and coaxed green shoots from bare ground.</p><p>Fearing what such a power might draw down on a hidden warren, the elders sent him north to a shrine of life in Daggerford, where the acolytes tamed the wild flame into a healer's discipline and taught him that preserving life was a calling worth the risk of wielding it.</p><p>It was there, copying an old temple ledger in his careful hand, that he uncovered a line pointing to the Broken Heart — a relic of raw magic shattered into four shards and scattered south through the wilds. He understood the danger better than his fellow diggers, because spellfire was made to hold raw magic, and he dreaded what four shards of it in the wrong hands could do to every living thing between Daggerford and the deep wood.</p><p>He first met Morgash the Gravemaker on a caravan run south of the town, when a guard took a wound the old orc already had a grave measured for — until Gren's silver fire closed it and set the man back on his feet. Now Gren rides south at the gravedigger's shoulder, healer to Morgash's blade, half-hoping the same quiet thing the orc does: that a heart broken into pieces can be gathered up and made whole again.</p>",
+        "format": 1
+      },
+      "sort": 100,
+      "ownership": {
+        "default": 2,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786196041696,
+        "modifiedTime": 1786196042191,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_id": "CaAPfO622MgBkX7J",
+      "_key": "!journal.pages!xUdHg0J4xbZMKmgC.CaAPfO622MgBkX7J"
+    },
+    {
+      "type": "text",
+      "name": "Jetten Elisedil",
+      "text": {
+        "content": "<h2>Jetten Elisedil</h2><p><em>Wood Elf Ranger — wanderer out of Chondalwood</em></p><p>Jetten Elisedil was born in Chondalwood, far to the south and east, and though he has been walking away from it for most of a century, he has never really left — his homeland, his people, and especially his sister still hold the warmest place in his heart. Why he left in the first place he has never quite said, even to himself; a thirst for adventure and experience is the answer he gives, and it is at least half true. He carries one piece of home with him always: a moonstone necklace, a family heirloom, kept close to his heart.</p><p>His road ran first to Arrabar, then north through the Dalelands, and at last to the Sword Coast, and it gathered friends the way long roads do. The dearest were a youngish dragonborn named Shea — whom Jetten considers a brother, and has not seen in ten years — and a halfling rogue, lost to a parting the road forced on them years ago. He counts the Wild Elves and the Moonstars among his friends as well; followers of Lolth and Gruumsh he despises, and does not forgive.</p><p>For the past nine years he has roamed the Sword Coast, the High Forest, and the Forlorn Hills, patrolling the wilds the way other folk keep a shop — vigilant, prepared, endlessly curious. Weather and hardship are comforts to him; he prefers to sleep, when he sleeps at all, under the stars. At a hundred and ten he is young as elves count it — lean, sun-browned, pale green eyes, long ash hair worn tied and clubbed — and city-dwellers find him a half-step outside the rhythm of civilized life, coming and going at odd hours and staying nowhere long. Those who travel with him stop noticing; they learn instead that he is an intrepid guide and a fiercely loyal ally, good to the bone, though willing to bend a rule or look past a picked pocket in service of a higher good. He seeks experience, far lands, and — he will admit it if pressed — glory.</p><p>Above all, Jetten is a devotee of Sehanine Moonbow, goddess of moonlight and dreams (with a wanderer's nod to Corellon), and he places great store in what she sends him while he trances. He pays careful attention to his dreams. They have not led him wrong yet.</p><p>His wanderings have crossed the ranch lands outside Daggerford for years, and there — in the way of elves — he watched a human boy grow up in what felt like a handful of visits. The boy practiced his hand-signs and his halting Elvish on the strange wandering elf, and Jetten answered both; they did not see each other often, but they have known each other since Thomas Invictus was a child. When Thomas took up his recent quest, Jetten agreed to come along — out of friendship first, and curiosity a close second.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": 2,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 200,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786196041698,
+        "modifiedTime": 1786196042192,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_id": "ksT9ky4EGAlXVbWe",
+      "_key": "!journal.pages!xUdHg0J4xbZMKmgC.ksT9ky4EGAlXVbWe"
+    },
+    {
+      "type": "text",
+      "name": "Invictus",
+      "text": {
+        "content": "<h2>Invictus</h2><p><em>Human Paladin of Lathander — scribe of Daggerford</em></p><p>Invictus grew up on a ranch just outside Daggerford, in a family that was never wealthy but always comfortable and well-respected — the kind of people whose word is good at market. The men of the family run tall, and family legend holds that the name <em>Invictus</em> came from some far-away land of humans and means \"undefeated.\" His parents still run the ranch today. Ranch life made him strong and easy with animals, and taught him common sign language; his father kept an old longsword and a few javelins, and Invictus wore the rust off them in his spare hours. Every so often in those years, an outlander wood elf would come wandering through the ranch lands, and the boy practiced his signing and his Elvish on him. They didn't see each other often — but they have known each other since childhood. That elf was Jetten Elisedil.</p><p>But it was never the ranch that had his heart. Invictus was always drawn to the sacred — to learning, to books, and to theology above all. He haunted the monastery of Lathander in town until the brothers taught him his letters, and by his teens he was earning a scribe's living. The work fed his mind: theology, law, contracts, maps, a working scholar's grasp of arcana, and — from years of reading between the lines of other men's documents — a deep insight into what people actually want. It also remade his body in a scribe's image: still strong from walking home to help with the ranch work, but squinting from the close reading, unable to hold his ale, and softer against pain and hardship than the boy who swung his father's longsword. Copying law codes taught him what he believes to his bones: that truth, justice, and moral conduct are what hold a society together — and that laws, being written by men, are sometimes arbitrary, and may sometimes be broken in service of higher ideals.</p><p>He married Ann when he was seventeen — no notable family, which never mattered to him — and they lived in town and raised four children: three girls and a boy.</p><p>About two years ago, in the course of copying contracts and cargo manifests, Invictus began to notice a pattern: a band of thieves working Daggerford, gathering illegal contraband for sale to buyers who practice necromancy. At first it was a curiosity he kept to himself. He kept paying attention. When the evidence grew too great to ignore, he did what a man who assumes the best of people does — he brought it to a town official. The wrong one. Six months ago, while Invictus sat in the monastery copying religious tomes, his wife and children were tortured and murdered in their home. Some of what was done was left for him to find. The rest, he is certain, was sold — he suspects a nearby cult of Shar, and perhaps a hag coven, are the buyers of what the thieves take. And in the course of pulling on those same threads, he pieced together something else: the existence of a relic called the Broken Heart.</p><p>Invictus had never once thought of leaving town, let alone of adventuring. Now he has taken up the sword in earnest as a paladin, sworn to vengeance and to scouring evil and corruption from the world. The Broken Heart may have nothing to do with what happened to his family — or everything: a hag coven and a cult of Shar are said to hold two of its four shards. That was reason enough to make it his first quest.</p><p>At the table he is what he always was — warm, gregarious, naturally charismatic — but the tragedy has left him edgy, and he holds himself and everyone else to high standards. Beneath the surface he despises what he reads as laziness or childishness, and there is a temper under that tight lid that slips out when he is tired or overwhelmed. He knows people find him overly serious, even a bit sanctimonious. He understands why. It just isn't how it feels from the inside.</p>",
+        "format": 1
+      },
+      "sort": 100400,
+      "ownership": {
+        "default": 2,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "_id": "r0ODilnpkZZ6jJEa",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1788967881780,
+        "modifiedTime": 1788967881780,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!xUdHg0J4xbZMKmgC.r0ODilnpkZZ6jJEa"
+    }
+  ],
+  "categories": [],
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1786196028481,
+    "modifiedTime": 1788967796712,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!xUdHg0J4xbZMKmgC"
+}

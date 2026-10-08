@@ -1,0 +1,18 @@
+{
+  "key": "fvtt-mod-combatplus.confirmRollVisibility",
+  "user": null,
+  "value": "true",
+  "_id": "Z8ZnT9WpZCFc8n2Y",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1789309407262,
+    "modifiedTime": 1789309407262,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!Z8ZnT9WpZCFc8n2Y"
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Hesper's Bone Key",
+  "type": "loot",
+  "img": "icons/sundries/misc/key-ring-long-gold.webp",
+  "system": {
+    "description": {
+      "value": "<p>A key of yellowed bone, worn smooth on a cord. The teeth are cut for a heavy bar-lock. It opens the barred doors deep in the caves — and nothing else will.</p>",
+      "chat": ""
+    },
+    "quantity": 1,
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "rarity": "",
+    "identified": true,
+    "properties": [],
+    "type": {
+      "value": "gear",
+      "subtype": ""
+    },
+    "identifier": "hespers-bone-key",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "container": null
+  },
+  "folder": "ZvqosDAyyigGrPNk",
+  "_id": "xqMp2hp7Q2JI6hWm",
+  "effects": [],
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1786629065486,
+    "modifiedTime": 1786671451012,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!xqMp2hp7Q2JI6hWm"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "The Gilt-Framed Portrait",
+  "pages": [
+    {
+      "type": "image",
+      "name": "The Gilt-Framed Portrait",
+      "src": "worlds/the-broken-heart-of-greenrest/assets/icons/gilt-framed-portrait-merchant.webp",
+      "image": {
+        "caption": "A brass plate on the frame reads: \"A gift, with gratitude, for my best customers — confident you would never bite the hand that feeds you.\""
+      },
+      "_id": "7V680aSL3QL9i1g6",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": 2
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1788913287246,
+        "modifiedTime": 1788914144695,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!seHT6EMWMhLOuamN.7V680aSL3QL9i1g6"
+    }
+  ],
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "folder": "7v0WU3VZu27OHfA2",
+  "_id": "seHT6EMWMhLOuamN",
+  "categories": [],
+  "sort": 600000,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1788913287246,
+    "modifiedTime": 1788968131461,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!seHT6EMWMhLOuamN"
+}

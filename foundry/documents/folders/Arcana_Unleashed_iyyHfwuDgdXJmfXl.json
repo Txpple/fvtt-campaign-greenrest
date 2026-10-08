@@ -1,0 +1,23 @@
+{
+  "_id": "iyyHfwuDgdXJmfXl",
+  "name": "Arcana Unleashed",
+  "type": "Compendium",
+  "sorting": "m",
+  "sort": 500000,
+  "color": "#3555a7",
+  "folder": null,
+  "description": "",
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.5",
+    "createdTime": 1790270144866,
+    "modifiedTime": 1790270144866,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!iyyHfwuDgdXJmfXl"
+}

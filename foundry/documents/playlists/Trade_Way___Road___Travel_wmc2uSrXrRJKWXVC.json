@@ -1,0 +1,42 @@
+{
+  "name": "Trade Way - Road — Travel",
+  "mode": 0,
+  "sounds": [
+    {
+      "name": "489_The_Crown_Road.mp3",
+      "path": "worlds/the-broken-heart-of-greenrest/assets/audio/489_The_Crown_Road.mp3",
+      "volume": 0.5,
+      "repeat": true,
+      "_id": "CrmaRx09dPRjvLNY",
+      "channel": "",
+      "playing": false,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!wmc2uSrXrRJKWXVC.CrmaRx09dPRjvLNY"
+    }
+  ],
+  "_id": "wmc2uSrXrRJKWXVC",
+  "channel": "music",
+  "playing": false,
+  "folder": null,
+  "sorting": "a",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783088926214,
+    "modifiedTime": 1783514154718,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "seed": 435,
+  "_key": "!playlists!wmc2uSrXrRJKWXVC"
+}

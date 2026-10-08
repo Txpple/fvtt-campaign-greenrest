@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Session 6 — Combat Log · The Widow Fen</title>
+<style>
+  :root{
+    --bg:#f4f1ea; --surface:#fffdf8; --rule:#e2d9c8; --edge:#d8cfc0;
+    --ink:#3d3225; --ink2:#4a3f30; --muted:#8a7a5c; --head:#6b5535;
+    --accent:#9c5442; --accent-soft:#f2ead9; --band:#b3a284;
+    --serif:Georgia,'Times New Roman',serif;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0}
+  body{background:var(--bg);font-family:var(--serif);color:var(--ink2);
+       -webkit-print-color-adjust:exact;print-color-adjust:exact}
+  .wrap{max-width:860px;margin:0 auto;padding:24px 8px}
+  .sheet{background:var(--surface);border:1px solid var(--edge);border-radius:8px;overflow:hidden}
+  header{padding:28px 32px 18px;border-bottom:3px double var(--band)}
+  .eyebrow{margin:0;font-size:13px;letter-spacing:2px;text-transform:uppercase;color:var(--muted)}
+  h1{margin:6px 0 4px;font-size:27px;line-height:1.2;color:var(--ink)}
+  .sub{margin:0;font-size:13px;color:var(--muted)}
+  section{padding:6px 32px}
+  h2{margin:22px 0 8px;font-size:18px;color:var(--head);
+     border-bottom:1px solid var(--rule);padding-bottom:5px}
+  h3{margin:18px 0 6px;font-size:15px;color:var(--head);letter-spacing:.3px}
+  p{margin:0 0 12px;font-size:15px;line-height:1.65}
+  .lead{font-style:italic}
+  strong{color:var(--ink)}
+
+  /* ---- figure: single-series magnitude bars ---- */
+  figure{margin:0 0 20px}
+  figcaption{font-size:14px;color:var(--head);margin:0 0 10px;font-weight:bold}
+  .bars{display:grid;grid-template-columns:auto 1fr auto;gap:2px 12px;align-items:center}
+  .bars .name{font-size:14px;color:var(--ink2);white-space:nowrap;padding:3px 0}
+  .bars .track{display:block;position:relative;height:16px;background:var(--accent-soft);
+               border-radius:3px;overflow:hidden}
+  .bars .fill{display:block;height:16px;background:var(--accent);border-radius:0 4px 4px 0;
+              transition:filter .15s ease}
+  .bars .row:hover .fill{filter:brightness(1.12)}
+  .bars .val{font-size:14px;color:var(--ink2);font-variant-numeric:tabular-nums;
+             white-space:nowrap;padding:3px 0}
+  .bars .row{display:contents}
+  .figure-note{font-size:13px;color:var(--muted);margin:8px 0 0}
+
+  /* ---- tables ---- */
+  .scroll{overflow-x:auto;margin:0 0 16px}
+  table.data{border-collapse:collapse;width:100%;font-size:14px;min-width:460px}
+  table.data th{text-align:left;color:var(--head);font-size:12px;letter-spacing:.6px;
+    text-transform:uppercase;border-bottom:1.5px solid var(--rule);padding:7px 10px 6px;
+    white-space:nowrap}
+  table.data td{padding:7px 10px;border-bottom:1px solid var(--rule);vertical-align:top;
+    line-height:1.5}
+  table.data td.num,table.data th.num{text-align:right;font-variant-numeric:tabular-nums;
+    white-space:nowrap}
+  table.data tr:last-child td{border-bottom:none}
+  table.data tbody tr:hover{background:#faf6ec}
+  .lead-row td{font-weight:bold;color:var(--ink)}
+
+  /* ---- callout ---- */
+  .callout{background:var(--accent-soft);border-left:4px solid var(--band);border-radius:4px;
+    padding:13px 17px;margin:0 0 16px}
+  .callout p{margin:0;font-size:14px;line-height:1.6;color:#5d4e38}
+  .callout p + p{margin-top:9px}
+  .flag{border-left-color:var(--accent)}
+
+  ul{margin:0 0 14px;padding-left:22px;font-size:15px;line-height:1.65}
+  li{margin-bottom:5px}
+  footer{padding:14px 32px 22px;border-top:1px solid var(--rule);
+    font-size:12px;color:#9c8f78}
+  @media print{
+    body{background:#fff}
+    .wrap{padding:0}
+    .sheet{border:none;border-radius:0}
+    section,header{padding-left:0;padding-right:0}
+    h2,h3,figure{page-break-after:avoid}
+    tr,figure,.callout{page-break-inside:avoid}
+  }
+  @media (max-width:560px){
+    section,header,footer{padding-left:18px;padding-right:18px}
+    h1{font-size:23px}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+<div class="sheet">
+
+<header>
+  <p class="eyebrow">The Broken Heart of Greenrest &mdash; Session 6</p>
+  <h1>Combat Log &mdash; The Widow Fen</h1>
+  <p class="sub">31 August 2026 &middot; 7 combats &middot; folded from 170 Battle&nbsp;Flow stamped messages of 608</p>
+</header>
+
+<section>
+  <p class="lead">Seven fights: one long swamp battle, five one-round scraps in the treetop
+  village, and a two-round boss fight in the cavern. The party dealt <strong>721</strong> damage
+  and took <strong>219</strong>. Two went down, both in the swamp, both to the same spell.</p>
+
+  <div class="callout flag">
+    <p><strong>The headline: one creature did 90% of the damage to the party.</strong>
+    The Enthralled Bullywug Bog Sage's <em>Vitriolic Sphere</em> accounted for <strong>198 of the
+    219</strong> points the party lost all night. Everything else in the fen &mdash; four warriors,
+    two hags, and nine pieces of animated furniture &mdash; managed 21 between them.</p>
+  </div>
+</section>
+
+<section>
+  <h2>1 &middot; Headline numbers</h2>
+
+  <figure>
+    <figcaption>Damage dealt, all combats</figcaption>
+    <div class="bars">
+      <div class="row"><span class="name">Morgash</span><span class="track"><span class="fill" style="width:100%"></span></span><span class="val">241</span></div>
+      <div class="row"><span class="name">Jetten</span><span class="track"><span class="fill" style="width:80.5%"></span></span><span class="val">194</span></div>
+      <div class="row"><span class="name">Gren</span><span class="track"><span class="fill" style="width:67.6%"></span></span><span class="val">163</span></div>
+      <div class="row"><span class="name">Thomas</span><span class="track"><span class="fill" style="width:51.0%"></span></span><span class="val">123</span></div>
+    </div>
+    <p class="figure-note">Morgash led on volume &mdash; 24 hits across the night, all weapon
+    damage. Gren led on burst: 116 of his 163 came from two spells in the cavern.</p>
+  </figure>
+
+  <figure>
+    <figcaption>Damage taken, all combats</figcaption>
+    <div class="bars">
+      <div class="row"><span class="name">Jetten</span><span class="track"><span class="fill" style="width:100%"></span></span><span class="val">62</span></div>
+      <div class="row"><span class="name">Thomas</span><span class="track"><span class="fill" style="width:95.2%"></span></span><span class="val">59</span></div>
+      <div class="row"><span class="name">Morgash</span><span class="track"><span class="fill" style="width:85.5%"></span></span><span class="val">53</span></div>
+      <div class="row"><span class="name">Gren</span><span class="track"><span class="fill" style="width:72.6%"></span></span><span class="val">45</span></div>
+    </div>
+    <p class="figure-note">Remarkably even &mdash; because the damage that mattered was one
+    area-of-effect spell that hit everybody at once, twice.</p>
+  </figure>
+
+  <div class="scroll">
+  <table class="data">
+    <thead><tr>
+      <th>Character</th><th class="num">Dealt</th><th class="num">Taken</th>
+      <th class="num">Healed others</th><th class="num">Nat 20s</th><th class="num">Nat 1s</th>
+    </tr></thead>
+    <tbody>
+      <tr class="lead-row"><td>Morgash the Gravemaker</td><td class="num">241</td><td class="num">53</td><td class="num">12</td><td class="num">3</td><td class="num">1</td></tr>
+      <tr><td>Jetten Elisedil</td><td class="num">194</td><td class="num">62</td><td class="num">10</td><td class="num">1</td><td class="num">2</td></tr>
+      <tr><td>Gren Greenmantle</td><td class="num">163</td><td class="num">45</td><td class="num">8</td><td class="num">1</td><td class="num">1</td></tr>
+      <tr><td>Thomas A. Invictus</td><td class="num">123</td><td class="num">59</td><td class="num">25</td><td class="num">1</td><td class="num">0</td></tr>
+    </tbody>
+  </table>
+  </div>
+</section>
+
+<section>
+  <h2>2 &middot; The swamp &mdash; 01 Swamp, 3 rounds</h2>
+  <p>The Bog Sage cast <em>Vitriolic Sphere</em> (4th level, 10d4 acid on impact plus 5d4 at the
+  end of its next turn, 20-foot radius) onto the clustered party. All four failed the DC 13
+  Dexterity save; Gren burned Heroic Inspiration on the reroll and failed again. The lingering
+  acid ticked a second time and dropped <strong>Thomas</strong> and <strong>Jetten</strong>.</p>
+
+  <div class="scroll">
+  <table class="data">
+    <thead><tr>
+      <th>Combatant</th><th class="num">Dealt</th><th class="num">Per round</th>
+      <th>Accuracy</th><th class="num">Taken</th>
+    </tr></thead>
+    <tbody>
+      <tr class="lead-row"><td>Enthralled Bullywug Bog Sage</td><td class="num">198</td><td class="num">66.0</td><td>&mdash;</td><td class="num">54</td></tr>
+      <tr><td>Morgash</td><td class="num">93</td><td class="num">31.0</td><td>7/10 &middot; 70%</td><td class="num">53</td></tr>
+      <tr><td>Thomas</td><td class="num">47</td><td class="num">15.7</td><td>4/4 &middot; 100%</td><td class="num">59</td></tr>
+      <tr><td>Jetten</td><td class="num">46</td><td class="num">15.3</td><td>3/3 &middot; 100%</td><td class="num">39</td></tr>
+      <tr><td>Gren</td><td class="num">21</td><td class="num">7.0</td><td>&mdash;</td><td class="num">39</td></tr>
+      <tr><td>Bullywug Warriors (×4, combined)</td><td class="num">34</td><td class="num">11.3</td><td>4/10 &middot; 40%</td><td class="num">195</td></tr>
+    </tbody>
+  </table>
+  </div>
+
+  <p><strong>Death saves:</strong> Thomas 0 made / 1 failed &middot; Jetten 1 made / 0 failed.
+  <strong>Recovery:</strong> Jetten's <em>Healing Word</em> on Thomas, Thomas's <em>Lay on
+  Hands</em> on Gren, Gren's wand missiles killing the Sage, Thomas's <em>Divine Smite</em> on the
+  last warrior. Then <em>Rope Trick</em> for a safe short rest, with Thomas's Healer feat adding
+  +3 per hit die spent, party-wide.</p>
+
+  <div class="callout flag">
+    <p><strong>This was terrible luck, not a broken encounter.</strong> Three of the four were
+    under <em>Bless</em> at the time, and the save was only DC 13. Working the odds back from the
+    sheets: Morgash had a coin-flip, Thomas a shade better than one, Gren &mdash; the only one
+    without the Bless die, having cast it on everyone but himself &mdash; was at 55%. And
+    <strong>Jetten, with a +7 Dexterity save and a Bless die on top, had roughly a
+    seven-in-eight chance of shrugging it off.</strong></p>
+    <p>All four failing at once lands at <strong>a little over one percent &mdash; on the order of
+    a one-in-ninety night.</strong> Then Gren spent Heroic Inspiration on the reroll and came up
+    9 against a 13. The sphere even killed one of the caster's own warriors. On any ordinary set
+    of rolls two of them shrug it off, nobody goes down, and this reads as a hard opening fight
+    rather than a near-wipe.</p>
+  </div>
+</section>
+
+<section>
+  <h2>3 &middot; The treetop romp &mdash; 02 Treetop, five 1-round fights</h2>
+  <p>Exactly what the plan wanted: quick, clean, no attrition. Five separate combats,
+  <strong>every one ended in round 1</strong>. The house guards and furniture landed a single blow
+  all told &mdash; six damage, on Gren.</p>
+
+  <div class="scroll">
+  <table class="data">
+    <thead><tr>
+      <th class="num">#</th><th>Opposition</th><th class="num">Party damage</th><th class="num">Enemy damage</th>
+    </tr></thead>
+    <tbody>
+      <tr><td class="num">1</td><td>Bullywug Warrior ×2</td><td class="num">90</td><td class="num">0</td></tr>
+      <tr><td class="num">2</td><td>Animated Broom + Rug of Smothering</td><td class="num">46</td><td class="num">0</td></tr>
+      <tr><td class="num">3</td><td>Animated Flying Sword + Broom</td><td class="num">42</td><td class="num">0</td></tr>
+      <tr><td class="num">4</td><td>Animated Rug of Smothering</td><td class="num">30</td><td class="num">0</td></tr>
+      <tr><td class="num">5</td><td>Animated Broom + Flying Sword</td><td class="num">33</td><td class="num">6</td></tr>
+    </tbody>
+  </table>
+  </div>
+
+  <p>Jetten fought in all five and was the only PC to score in fight&nbsp;4 (30 damage, 3/3).
+  Morgash's <em>Riposte</em> got baited twice by the same warrior in fight&nbsp;1. Gren whiffed his
+  only attack in three straight fights before landing a critical <em>Sorcerous Burst</em> that
+  snapped the flying sword in half.</p>
+</section>
+
+<section>
+  <h2>4 &middot; The cavern &mdash; 03 Cavern, 2 rounds</h2>
+  <p>Both hags were at 86 hit points. They took 86 and 100 respectively and the fight ended in
+  round two, having dealt 23 damage between them.</p>
+
+  <div class="scroll">
+  <table class="data">
+    <thead><tr>
+      <th>Combatant</th><th class="num">Dealt</th><th class="num">Per round</th>
+      <th>Accuracy</th><th class="num">Taken</th>
+    </tr></thead>
+    <tbody>
+      <tr class="lead-row"><td>Gren <span style="color:var(--muted);font-weight:normal">(all fire)</span></td><td class="num">116</td><td class="num">58.0</td><td>&mdash;</td><td class="num">0</td></tr>
+      <tr><td>Morgash <span style="color:var(--muted)">(all bludgeoning)</span></td><td class="num">77</td><td class="num">38.5</td><td>5/7 &middot; 71%</td><td class="num">0</td></tr>
+      <tr><td>Jetten</td><td class="num">52</td><td class="num">26.0</td><td>3/6 &middot; 50%</td><td class="num">23</td></tr>
+      <tr><td>Thomas</td><td class="num">28</td><td class="num">14.0</td><td>2/2 &middot; 100%</td><td class="num">0</td></tr>
+      <tr><td>Hazel</td><td class="num">23</td><td class="num">11.5</td><td>2/2 &middot; 100%</td><td class="num">86</td></tr>
+      <tr><td>Mabel</td><td class="num">0</td><td class="num">0.0</td><td>0/1 &middot; 0%</td><td class="num">100</td></tr>
+    </tbody>
+  </table>
+  </div>
+
+  <ul>
+    <li><strong>Gren's night.</strong> <em>Innate Sorcery</em> plus <em>Font of Magic</em>, a 3rd-
+      and a 2nd-level slot (5 levels burned), 116 fire damage &mdash; over half the party's output
+      in the fight. His <em>Careful Spell</em> Fireball excluded every ally.</li>
+    <li><strong>Morgash toppled four times</strong> in two rounds and hit with 5 of 7.</li>
+    <li><strong>Jetten passed all four saves</strong> and held concentration three times. Hazel
+      made 4 of 5 saves and held concentration three times before dying.</li>
+    <li>The three animated servants each took 29 and failed their save &mdash; one Fireball swept
+      the lot.</li>
+  </ul>
+</section>
+
+<section>
+  <h2>5 &middot; What the buffs and features actually bought</h2>
+  <p>Every spell, maneuver and mastery that touched a number this session, and what it produced.
+  Ranked by how much it moved the fight.</p>
+
+  <h3>The big three</h3>
+
+  <figure>
+    <figcaption>Damage prevented or added, by effect</figcaption>
+    <div class="bars">
+      <div class="row"><span class="name">Careful Spell</span><span class="track"><span class="fill" style="width:100%"></span></span><span class="val">71 prevented</span></div>
+      <div class="row"><span class="name">Riposte</span><span class="track"><span class="fill" style="width:50.7%"></span></span><span class="val">36 added</span></div>
+      <div class="row"><span class="name">Hunter's Mark</span><span class="track"><span class="fill" style="width:42.3%"></span></span><span class="val">30 added</span></div>
+      <div class="row"><span class="name">Dread Ambusher</span><span class="track"><span class="fill" style="width:32.4%"></span></span><span class="val">23 added</span></div>
+    </div>
+  </figure>
+
+  <ul>
+    <li><strong>Careful Spell was the single best resource spend of the night.</strong> For one
+      sorcery point, Gren's Fireball excluded all four allies from a blast that would otherwise
+      have caught every one of them. Thomas <em>failed</em> his save outright and would have eaten
+      the full 29; Gren, Jetten and Morgash all saved and would have taken 14 apiece.
+      <strong>One sorcery point prevented 71 damage</strong> &mdash; a third of everything the
+      party lost all session &mdash; while still landing full damage on four enemies.</li>
+    <li><strong>Riposte turned two enemy misses into 36 damage.</strong> Morgash spent two
+      superiority dice on reaction attacks; both hit, one for 16 in the swamp and one for 20 in
+      the treetop (which also knocked the target prone). That is a full extra turn's output taken
+      on somebody else's initiative.</li>
+    <li><strong>Hunter's Mark carried 30 force damage</strong> across four separate fights &mdash;
+      about one sixth of Jetten's total output &mdash; and he kept moving it to new targets with
+      a bonus action rather than recasting, so it cost him exactly one spell slot all night.
+      <em>Dread Ambusher</em> added another 23 psychic on top.</li>
+  </ul>
+
+  <h3>Maneuvers and masteries</h3>
+  <div class="scroll">
+  <table class="data">
+    <thead><tr>
+      <th>Effect</th><th class="num">Uses</th><th>What it produced</th>
+    </tr></thead>
+    <tbody>
+      <tr class="lead-row"><td>Topple <span style="color:var(--muted);font-weight:normal">(Maul of Momentum)</span></td><td class="num">14</td><td><strong>12 knocked prone, 2 resisted &mdash; an 86% hit rate</strong>, each one handing the next melee attacker advantage</td></tr>
+      <tr><td>Sap <span style="color:var(--muted)">(First Light)</span></td><td class="num">8</td><td>Disadvantage imposed on the target's next attack, eight times</td></tr>
+      <tr><td>Precision Attack</td><td class="num">5</td><td><strong>3 misses converted into hits</strong>; 2 dice spent and still missed</td></tr>
+      <tr><td>Great Weapon Master &mdash; Hew</td><td class="num">5</td><td>Five free bonus-action attacks, off four kills and one critical hit</td></tr>
+      <tr><td>Riposte</td><td class="num">2</td><td>Both hit &mdash; 36 damage on reactions</td></tr>
+      <tr><td>Vex <span style="color:var(--muted)">(shortsword)</span></td><td class="num">2</td><td>Advantage carried into Jetten's following attack</td></tr>
+      <tr><td>Shield Master &mdash; bash</td><td class="num">4</td><td>One knockdown landed, three saved against. Offered seven times &mdash; Thomas took it up on four</td></tr>
+      <tr><td>Action Surge</td><td class="num">2</td><td>Extra actions in both major fights &mdash; the cavern one produced the critical hit on Mabel</td></tr>
+    </tbody>
+  </table>
+  </div>
+
+  <h3>Buffs, and what they were worth</h3>
+  <div class="scroll">
+  <table class="data">
+    <thead><tr>
+      <th>Buff</th><th>Cost</th><th>Return</th>
+    </tr></thead>
+    <tbody>
+      <tr><td><strong>Careful Spell</strong></td><td>1 sorcery point</td><td>71 damage prevented &mdash; best value of the night by a wide margin</td></tr>
+      <tr><td><strong>Pass without Trace</strong></td><td>2nd-level slot</td><td>+10 on four Stealth rolls. Three cleared the guard's roll comfortably; <strong>Morgash's failed even with it</strong> (a 2 on disadvantage, in splint armour) and gave the party away</td></tr>
+      <tr><td><strong>Bless</strong> <span style="color:var(--muted)">(Fey-Touched)</span></td><td>free cast</td><td><strong>Exactly one flip all night</strong> &mdash; a d4 of 2 turning one of Morgash's misses into a hit. It also added its die to three of the four Vitriolic Sphere saves, and all three still failed. The concentration broke to that same spell moments later</td></tr>
+      <tr><td><strong>Spellfire Burst</strong></td><td>rider on Fireball</td><td>1d4 rolled a 4 &mdash; <strong>exactly the Animated Armor's last 4 hit points</strong></td></tr>
+      <tr><td><strong>Aid</strong></td><td>2nd-level slot</td><td>+5 max HP each to Morgash, Jetten and Thomas. The treetop then cost the party six damage total, so <strong>the 15-point buffer went almost entirely unused</strong> &mdash; only Jetten dipped into it, in the cavern. Still running for another few hours</td></tr>
+      <tr><td><strong>Innate Sorcery</strong></td><td>1 of 2 uses</td><td>Raised Gren's spell save DC from 15 to 16 &mdash; and <strong>changed no outcome</strong>: every creature that failed the Fireball would have failed at 15, and everyone who saved would still have saved</td></tr>
+      <tr><td><strong>Heroic Inspiration</strong></td><td>1 use</td><td>Reroll on the Vitriolic Sphere save: 5 became 9, against a 13. Wasted</td></tr>
+      <tr><td><strong>Tactical Mind</strong></td><td>2 Second Wind uses</td><td>Both spent on checks that failed anyway; one was rewound at the table when the cost was pointed out</td></tr>
+    </tbody>
+  </table>
+  </div>
+
+  <h3>Healing that mattered</h3>
+  <p>Three separate raises from zero hit points, all in the swamp: <strong>Jetten's <em>Healing
+  Word</em></strong> put Thomas back on his feet, <strong>Gren's <em>Healing Word</em></strong> did
+  it again after the lingering acid dropped him a second time, and <strong>Morgash's Potion of
+  Healing</strong> brought Jetten back. Thomas's <em>Lay on Hands</em> put 10 into Gren before any
+  of that.</p>
+  <p>The <em>Rope Trick</em> short rest was the real recovery, though &mdash; and Thomas's
+  <strong>Healer</strong> feat quietly doubled it, adding <strong>+3 hit points per hit die</strong>
+  to every roll the party made. Between them the party spent most of its hit dice and walked into
+  the treetop at or near full, which is the only reason the second half of the session was
+  comfortable.</p>
+</section>
+
+<section>
+  <h2>6 &middot; Combat flow &mdash; decision speed</h2>
+  <p>The new timing stamps, averaged per player across timed decision moments.</p>
+
+  <div class="scroll">
+  <table class="data">
+    <thead><tr>
+      <th>Character</th><th class="num">Avg decision</th><th class="num">Timed moments</th><th>Slowest call</th>
+    </tr></thead>
+    <tbody>
+      <tr class="lead-row"><td>Jetten Elisedil</td><td class="num">8.4s</td><td class="num">8</td><td>24.0s &mdash; mastery</td></tr>
+      <tr class="lead-row"><td>Morgash the Gravemaker</td><td class="num">8.6s</td><td class="num">22</td><td>24.0s &mdash; mastery</td></tr>
+      <tr><td>Thomas A. Invictus</td><td class="num">17.7s</td><td class="num">7</td><td>24.0s &mdash; bash offer</td></tr>
+      <tr><td>Gren Greenmantle</td><td class="num">19.4s</td><td class="num">5</td><td>24.0s &mdash; hold</td></tr>
+    </tbody>
+  </table>
+  </div>
+
+  <p>Morgash generated <strong>22 timed moments</strong> &mdash; nearly as many as the other three
+  combined (20) &mdash; and still averaged the second-fastest decisions. The martial kit is being
+  used, and used quickly.</p>
+</section>
+
+<section>
+  <h2>7 &middot; Economy and flavour</h2>
+
+  <h3>Resources spent</h3>
+  <ul>
+    <li><strong>Morgash</strong> &mdash; Second Wind down to 1/3, Combat Superiority to 1/4,
+      Action Surge used in both major fights.</li>
+    <li><strong>Gren</strong> &mdash; Innate Sorcery 1/2, Font of Magic 1/5, wand at 2/7 charges,
+      both Fey-Touched casts spent.</li>
+    <li><strong>Jetten</strong> &mdash; Dreadful Strike 1/3, <em>Pass without Trace</em> used, all
+      2nd-level slots gone.</li>
+    <li><strong>Thomas</strong> &mdash; three 1st-level and two 2nd-level slots.</li>
+  </ul>
+
+  <h3>The night's dice</h3>
+  <ul>
+    <li><strong>Buff-die flip:</strong> exactly one all night. Morgash rolled 16 against a
+      Bullywug Warrior's AC 16 &mdash; the +2 from Bless turned that miss into a hit.</li>
+    <li><strong>Natural 20s:</strong> Morgash ×3, and one each for Gren, Thomas, Jetten &mdash;
+      and one for Mabel.</li>
+    <li><strong>Natural 1s:</strong> Jetten ×2, plus one each for Morgash, Gren and Mabel, and
+      four among the monsters.</li>
+    <li><strong>Advantage rolled:</strong> Thomas ×4, Gren ×3, Morgash ×3, Jetten ×1.
+      Disadvantage: one each for Morgash, Thomas and Jetten.</li>
+    <li><strong>Death saves:</strong> Thomas 0 made / 1 failed; Jetten 1 made / 0 failed.</li>
+  </ul>
+</section>
+
+<footer>
+  Generated from the Battle Flow ledger via <code>get-combat-stats</code> &mdash; read-only scan,
+  reverted applications subtracted. Monster token identifiers resolved to names by hand.
+</footer>
+
+</div>
+</div>
+</body>
+</html>

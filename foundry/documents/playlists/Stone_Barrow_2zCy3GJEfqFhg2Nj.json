@@ -1,0 +1,42 @@
+{
+  "name": "Stone Barrow",
+  "mode": 0,
+  "sounds": [
+    {
+      "name": "490_stone_barrow.mp3",
+      "path": "worlds/the-broken-heart-of-greenrest/assets/audio/490_stone_barrow.mp3",
+      "volume": 0.5,
+      "repeat": true,
+      "_id": "YOTuORtJ6EDoT2R9",
+      "channel": "",
+      "playing": false,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!2zCy3GJEfqFhg2Nj.YOTuORtJ6EDoT2R9"
+    }
+  ],
+  "fade": 2000,
+  "_id": "2zCy3GJEfqFhg2Nj",
+  "channel": "music",
+  "playing": false,
+  "folder": null,
+  "sorting": "a",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783104336254,
+    "modifiedTime": 1783104524023,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!playlists!2zCy3GJEfqFhg2Nj"
+}

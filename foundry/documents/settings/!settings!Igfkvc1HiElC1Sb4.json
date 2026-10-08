@@ -1,0 +1,18 @@
+{
+  "key": "dnd5e.allowSummoning",
+  "user": null,
+  "value": "false",
+  "_id": "Igfkvc1HiElC1Sb4",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1782928461800,
+    "modifiedTime": 1782928461800,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!Igfkvc1HiElC1Sb4"
+}

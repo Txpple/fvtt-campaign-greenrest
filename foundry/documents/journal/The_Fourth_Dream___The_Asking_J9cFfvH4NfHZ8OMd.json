@@ -1,0 +1,63 @@
+{
+  "name": "The Fourth Dream — The Asking",
+  "pages": [
+    {
+      "type": "image",
+      "name": "The Fourth Dream — The Asking",
+      "src": "worlds/the-broken-heart-of-greenrest/assets/art/illustration-dream-the-asking-eed73c8f.webp",
+      "_id": "ZvkfpMfSpJDJKZRN",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.5",
+        "createdTime": 1790524833680,
+        "modifiedTime": 1790524833680,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!J9cFfvH4NfHZ8OMd.ZvkfpMfSpJDJKZRN"
+    }
+  ],
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "folder": "kQte19HfIzLie7CE",
+  "_id": "J9cFfvH4NfHZ8OMd",
+  "categories": [],
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.5",
+    "createdTime": 1790524833680,
+    "modifiedTime": 1790524833681,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!J9cFfvH4NfHZ8OMd"
+}

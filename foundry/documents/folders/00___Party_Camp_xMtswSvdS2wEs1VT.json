@@ -1,0 +1,28 @@
+{
+  "name": "00 - Party Camp",
+  "type": "Actor",
+  "folder": null,
+  "flags": {
+    "world": {
+      "mcpGenerated": true,
+      "createdAt": "2026-07-03T18:53:07.915Z"
+    }
+  },
+  "_id": "xMtswSvdS2wEs1VT",
+  "description": "",
+  "sorting": "a",
+  "sort": 0,
+  "color": "#f39c12",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783104786001,
+    "modifiedTime": 1786552771889,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!xMtswSvdS2wEs1VT"
+}

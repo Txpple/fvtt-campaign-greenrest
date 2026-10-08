@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Session 7 — Combat Log · The Temple of Shar</title>
+<style>
+  :root{
+    --bg:#f4f1ea; --surface:#fffdf8; --rule:#e2d9c8; --edge:#d8cfc0;
+    --ink:#3d3225; --ink2:#4a3f30; --muted:#8a7a5c; --head:#6b5535;
+    --accent:#9c5442; --accent-soft:#f2ead9; --band:#b3a284;
+    --serif:Georgia,'Times New Roman',serif;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0}
+  body{background:var(--bg);font-family:var(--serif);color:var(--ink2);
+       -webkit-print-color-adjust:exact;print-color-adjust:exact}
+  .wrap{max-width:860px;margin:0 auto;padding:24px 8px}
+  .sheet{background:var(--surface);border:1px solid var(--edge);border-radius:8px;overflow:hidden}
+  header{padding:28px 32px 18px;border-bottom:3px double var(--band)}
+  .eyebrow{margin:0;font-size:13px;letter-spacing:2px;text-transform:uppercase;color:var(--muted)}
+  h1{margin:6px 0 4px;font-size:27px;line-height:1.2;color:var(--ink)}
+  .sub{margin:0;font-size:13px;color:var(--muted)}
+  section{padding:6px 32px}
+  h2{margin:22px 0 8px;font-size:18px;color:var(--head);
+     border-bottom:1px solid var(--rule);padding-bottom:5px}
+  h3{margin:18px 0 6px;font-size:15px;color:var(--head);letter-spacing:.3px}
+  p{margin:0 0 12px;font-size:15px;line-height:1.65}
+  .lead{font-style:italic}
+  strong{color:var(--ink)}
+
+  figure{margin:0 0 20px}
+  figcaption{font-size:14px;color:var(--head);margin:0 0 10px;font-weight:bold}
+  .bars{display:grid;grid-template-columns:auto 1fr auto;gap:2px 12px;align-items:center}
+  .bars .name{font-size:14px;color:var(--ink2);white-space:nowrap;padding:3px 0}
+  .bars .track{display:block;position:relative;height:16px;background:var(--accent-soft);
+               border-radius:3px;overflow:hidden}
+  .bars .fill{display:block;height:16px;background:var(--accent);border-radius:0 4px 4px 0;
+              transition:filter .15s ease}
+  .bars .row:hover .fill{filter:brightness(1.12)}
+  .bars .val{font-size:14px;color:var(--ink2);font-variant-numeric:tabular-nums;
+             white-space:nowrap;padding:3px 0}
+  .bars .row{display:contents}
+  .figure-note{font-size:13px;color:var(--muted);margin:8px 0 0}
+
+  .scroll{overflow-x:auto;margin:0 0 16px}
+  table.data{border-collapse:collapse;width:100%;font-size:14px;min-width:460px}
+  table.data th{text-align:left;color:var(--head);font-size:12px;letter-spacing:.6px;
+    text-transform:uppercase;border-bottom:1.5px solid var(--rule);padding:7px 10px 6px;
+    white-space:nowrap}
+  table.data td{padding:7px 10px;border-bottom:1px solid var(--rule);vertical-align:top;
+    line-height:1.5}
+  table.data td.num,table.data th.num{text-align:right;font-variant-numeric:tabular-nums;
+    white-space:nowrap}
+  table.data tr:last-child td{border-bottom:none}
+  table.data tbody tr:hover{background:#faf6ec}
+  .lead-row td{font-weight:bold;color:var(--ink)}
+
+  .callout{background:var(--accent-soft);border-left:4px solid var(--band);border-radius:4px;
+    padding:13px 17px;margin:0 0 16px}
+  .callout p{margin:0;font-size:14px;line-height:1.6;color:#5d4e38}
+  .callout p + p{margin-top:9px}
+  .flag{border-left-color:var(--accent)}
+
+  ul{margin:0 0 14px;padding-left:22px;font-size:15px;line-height:1.65}
+  li{margin-bottom:5px}
+  footer{padding:14px 32px 22px;border-top:1px solid var(--rule);
+    font-size:12px;color:#9c8f78}
+  @media print{
+    body{background:#fff}
+    .wrap{padding:0}
+    .sheet{border:none;border-radius:0}
+    section,header{padding-left:0;padding-right:0}
+    h2,h3,figure{page-break-after:avoid}
+    tr,figure,.callout{page-break-inside:avoid}
+  }
+  @media (max-width:560px){
+    section,header,footer{padding-left:18px;padding-right:18px}
+    h1{font-size:23px}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+<div class="sheet">
+
+<header>
+  <p class="eyebrow">The Broken Heart of Greenrest &mdash; Session 7</p>
+  <h1>Combat Log &mdash; The Temple of Shar</h1>
+  <p class="sub">8 September 2026 &middot; 3 combats &middot; folded from 177 Battle&nbsp;Flow stamped messages of 619</p>
+</header>
+
+<section>
+  <p class="lead">Three fights, all underground, all in the same building: a one-round break-off
+  where the high priest declined to fight and teleported away, a four-round grind against seven
+  Sharrans on the temple floor, and a three-round boss with legendary actions. The party dealt
+  <strong>746</strong> and took <strong>201</strong>. One PC went down and was raised; one hit
+  zero and stood straight back up. Nobody rolled a death save all night.</p>
+
+  <div class="callout flag">
+    <p><strong>Two sorcery points prevented 188 damage.</strong> Gren's two Fireballs both caught
+    the entire party in the radius. Rolled out of the actual saves, they would have taken 66 from
+    the first and 122 from the second &mdash; 188 total, against the 201 the party actually lost
+    across the whole session. <em>Careful Spell</em> is the reason the floor fight was a win
+    rather than a rout, and it is the second session running that it has topped this table.</p>
+  </div>
+</section>
+
+<section>
+  <h2>1 &middot; Headline numbers</h2>
+
+  <figure>
+    <figcaption>Damage dealt, by character</figcaption>
+    <div class="bars">
+      <div class="row"><span class="name">Gren Greenmantle</span><span class="track"><span class="fill" style="width:100%"></span></span><span class="val">267</span></div>
+      <div class="row"><span class="name">Morgash the Gravemaker</span><span class="track"><span class="fill" style="width:60%"></span></span><span class="val">161</span></div>
+      <div class="row"><span class="name">Jetten Elisedil</span><span class="track"><span class="fill" style="width:60%"></span></span><span class="val">161</span></div>
+      <div class="row"><span class="name">Justiciar Invictus</span><span class="track"><span class="fill" style="width:59%"></span></span><span class="val">157</span></div>
+    </div>
+    <p class="figure-note">Gren dealt 36% of the party's damage. 257 of his 267 was fire, out of
+    three spells &mdash; two Fireballs and a Fire Bolt.</p>
+  </figure>
+
+  <figure>
+    <figcaption>Damage taken, by character</figcaption>
+    <div class="bars">
+      <div class="row"><span class="name">Morgash the Gravemaker</span><span class="track"><span class="fill" style="width:100%"></span></span><span class="val">87</span></div>
+      <div class="row"><span class="name">Jetten Elisedil</span><span class="track"><span class="fill" style="width:77%"></span></span><span class="val">67</span></div>
+      <div class="row"><span class="name">Justiciar Invictus</span><span class="track"><span class="fill" style="width:43%"></span></span><span class="val">37</span></div>
+      <div class="row"><span class="name">Gren Greenmantle</span><span class="track"><span class="fill" style="width:11%"></span></span><span class="val">10</span></div>
+    </div>
+    <p class="figure-note">The two front-liners absorbed 77% of everything that landed. Gren
+    took one hit all session &mdash; a longsword, through the trip attack that put him prone.</p>
+  </figure>
+
+  <div class="scroll">
+  <table class="data">
+    <thead><tr>
+      <th>Character</th><th class="num">Dealt</th><th class="num">Taken</th>
+      <th class="num">Healed others</th><th class="num">Nat 20s</th><th class="num">Nat 1s</th>
+    </tr></thead>
+    <tbody>
+      <tr class="lead-row"><td>Gren Greenmantle</td><td class="num">267</td><td class="num">10</td><td class="num">0</td><td class="num">0</td><td class="num">0</td></tr>
+      <tr><td>Morgash the Gravemaker</td><td class="num">161</td><td class="num">87</td><td class="num">11</td><td class="num">3</td><td class="num">0</td></tr>
+      <tr><td>Jetten Elisedil</td><td class="num">161</td><td class="num">67</td><td class="num">10</td><td class="num">1</td><td class="num">2</td></tr>
+      <tr><td>Justiciar Invictus</td><td class="num">157</td><td class="num">37</td><td class="num">66</td><td class="num">1</td><td class="num">0</td></tr>
+    </tbody>
+  </table>
+  </div>
+
+  <div class="scroll">
+  <table class="data">
+    <thead><tr><th>Opposition</th><th class="num">Dealt</th><th>Accuracy</th><th class="num">Taken</th></tr></thead>
+    <tbody>
+      <tr class="lead-row"><td>Harrow Vane</td><td class="num">88</td><td>3/4 &middot; 75%</td><td class="num">193</td></tr>
+      <tr><td>Sharran Zealot &times;3</td><td class="num">44</td><td>6/12 &middot; 50%</td><td class="num">236</td></tr>
+      <tr><td>Sharran Enforcer &times;2</td><td class="num">45</td><td>5/9 &middot; 56%</td><td class="num">162</td></tr>
+      <tr><td>Sharran Acolyte &times;2</td><td class="num">24</td><td>&mdash;</td><td class="num">125</td></tr>
+    </tbody>
+  </table>
+  </div>
+</section>
+
+<section>
+  <h2>2 &middot; The break &mdash; 02 Temple of Shar, 1 round</h2>
+  <p>Invictus opened on Harrow alone: a <em>Shield Master</em> bash put the high priest prone
+  (failed at 11 vs DC 15), then two clean hits with Midnight. Harrow's answer was to refuse the
+  engagement entirely &mdash; <em>Word of Recall</em>, and gone. He gave up 30 hit points to
+  learn what the party could do and to pick his own ground. Correct play.</p>
+
+  <div class="scroll">
+  <table class="data">
+    <thead><tr>
+      <th>Combatant</th><th class="num">Dealt</th><th class="num">Per round</th>
+      <th>Accuracy</th><th class="num">Taken</th>
+    </tr></thead>
+    <tbody>
+      <tr class="lead-row"><td>Justiciar Invictus</td><td class="num">30</td><td class="num">30.0</td><td>2/2 &middot; 100%</td><td class="num">0</td></tr>
+      <tr><td>Harrow Vane</td><td class="num">0</td><td class="num">0.0</td><td>&mdash;</td><td class="num">30</td></tr>
+    </tbody>
+  </table>
+  </div>
+</section>
+
+<section>
+  <h2>3 &middot; The temple floor &mdash; 03 Temple of Shar, 4 rounds</h2>
+  <p>Three Zealots, two Enforcers, two Acolytes. <strong>523 dealt, 113 taken.</strong> The round
+  that decided it was the first: an Acolyte led with <em>Spirit Guardians</em>, and Jetten's
+  opening longbow shot &mdash; longbow, <em>Hunter's Mark</em> and <em>Dreadful Strike</em>
+  stacked for 26 &mdash; forced a concentration check she blew with a 5 against DC 13. The aura
+  came down on the round it went up. Morgash killed her outright on the next turn with a 32 to
+  hit and an 18-damage maul swing, and <em>Great Weapon Master &mdash; Hew</em> gave him the
+  follow-up for free.</p>
+
+  <div class="scroll">
+  <table class="data">
+    <thead><tr>
+      <th>Combatant</th><th class="num">Dealt</th><th class="num">Per round</th>
+      <th>Accuracy</th><th class="num">Taken</th>
+    </tr></thead>
+    <tbody>
+      <tr class="lead-row"><td>Gren Greenmantle</td><td class="num">258</td><td class="num">64.5</td><td>&mdash; (11 hits, spells)</td><td class="num">10</td></tr>
+      <tr><td>Morgash the Gravemaker</td><td class="num">92</td><td class="num">23.0</td><td>8/10 &middot; 80%</td><td class="num">12</td></tr>
+      <tr><td>Jetten Elisedil</td><td class="num">89</td><td class="num">22.3</td><td>6/8 &middot; 75%</td><td class="num">58</td></tr>
+      <tr><td>Justiciar Invictus</td><td class="num">84</td><td class="num">21.0</td><td>5/6 &middot; 83%</td><td class="num">33</td></tr>
+      <tr><td>Sharran Enforcer &times;2</td><td class="num">45</td><td class="num">11.3</td><td>5/9 &middot; 56%</td><td class="num">162</td></tr>
+      <tr><td>Sharran Zealot &times;3</td><td class="num">44</td><td class="num">11.0</td><td>6/12 &middot; 50%</td><td class="num">236</td></tr>
+      <tr><td>Sharran Acolyte &times;2</td><td class="num">24</td><td class="num">6.0</td><td>&mdash;</td><td class="num">125</td></tr>
+    </tbody>
+  </table>
+  </div>
+
+  <div class="callout flag">
+    <p><strong>Jetten took 58 of the party's 113 here, and that was tactics rather than luck.</strong>
+    The Enforcers used <em>Trip Attack</em> on him three times, he failed all three Strength saves
+    (13, 11, and one more against DC 15), and every follow-up came at advantage against a prone
+    target. He is the least-armoured member of the front line and the enemy found that within a
+    round. He went to 0 to a Zealot's halberd and <em>Lay on Hands</em> put him straight back up.</p>
+    <p><strong>Morgash failed every save he rolled in this fight &mdash; 0 for 4.</strong>
+    Spirit Guardians, a Fireball, and the <em>Hold Person</em> that cost him a full turn
+    paralysed. Nothing about the encounter was overtuned; his save profile is simply the party's
+    softest and two different Sharrans exploited it correctly.</p>
+  </div>
+</section>
+
+<section>
+  <h2>4 &middot; Harrow Vane &mdash; 03 Temple of Shar, 3 rounds</h2>
+  <p><strong>193 dealt to him, 88 from him.</strong> He used the boss kit properly: two legendary
+  actions every round, every one of them <em>Necrotic Burst</em>, and <strong>every one aimed at
+  Morgash</strong> &mdash; 13, 13, 7 and one miss. That is why Morgash absorbed 75 of the 88
+  while the other three took 13 between them. Add <em>Unholy Word</em> (stunned Jetten at 8 vs
+  DC 16 and broke Invictus's concentration on <em>Bane</em>), one Legendary Resistance spent to
+  refuse a shield-bash knockdown, and a <em>Flame Strike</em> at DC 18 that put Morgash at 0.</p>
+
+  <div class="scroll">
+  <table class="data">
+    <thead><tr>
+      <th>Combatant</th><th class="num">Dealt</th><th class="num">Per round</th>
+      <th>Accuracy</th><th class="num">Taken</th>
+    </tr></thead>
+    <tbody>
+      <tr class="lead-row"><td>Harrow Vane</td><td class="num">88</td><td class="num">29.3</td><td>3/4 &middot; 75%</td><td class="num">193</td></tr>
+      <tr><td>Jetten Elisedil</td><td class="num">72</td><td class="num">24.0</td><td>6/7 &middot; 86%</td><td class="num">9</td></tr>
+      <tr><td>Morgash the Gravemaker</td><td class="num">69</td><td class="num">23.0</td><td>6/7 &middot; 86%</td><td class="num">75</td></tr>
+      <tr><td>Justiciar Invictus</td><td class="num">43</td><td class="num">14.3</td><td>2/2 &middot; 100%</td><td class="num">4</td></tr>
+      <tr><td>Gren Greenmantle</td><td class="num">9</td><td class="num">3.0</td><td>1/1 &middot; 100%</td><td class="num">0</td></tr>
+    </tbody>
+  </table>
+  </div>
+
+  <div class="callout flag">
+    <p><strong>The boss did not lose to bad dice &mdash; he lost to 86% accuracy from both
+    front-liners.</strong> Morgash and Jetten each hit 6 of 7 against AC 17, and Invictus hit
+    both of his. Harrow's own 3-of-4 was fine. He simply could not out-pace four characters
+    hitting almost everything while he spent his legendary economy on a single target who kept
+    standing back up.</p>
+  </div>
+</section>
+
+<section>
+  <h2>5 &middot; What the buffs and features actually bought</h2>
+  <p>Every spell, maneuver and mastery that touched a number this session, and what it produced.
+  Ranked by how much it moved the fight.</p>
+
+  <h3>The big three</h3>
+  <figure>
+    <figcaption>Damage prevented, restored or added, by effect</figcaption>
+    <div class="bars">
+      <div class="row"><span class="name">Careful Spell</span><span class="track"><span class="fill" style="width:100%"></span></span><span class="val">188 prevented</span></div>
+      <div class="row"><span class="name">Prayer of Healing (short rest)</span><span class="track"><span class="fill" style="width:28%"></span></span><span class="val">52 restored</span></div>
+      <div class="row"><span class="name">Hunter's Mark</span><span class="track"><span class="fill" style="width:20%"></span></span><span class="val">37 added</span></div>
+      <div class="row"><span class="name">Lay on Hands</span><span class="track"><span class="fill" style="width:13%"></span></span><span class="val">25 restored</span></div>
+      <div class="row"><span class="name">Dreadful Strike</span><span class="track"><span class="fill" style="width:10%"></span></span><span class="val">19 added</span></div>
+      <div class="row"><span class="name">Shield Master (reaction)</span><span class="track"><span class="fill" style="width:10%"></span></span><span class="val">19 prevented</span></div>
+      <div class="row"><span class="name">Divine Smite</span><span class="track"><span class="fill" style="width:6%"></span></span><span class="val">11 added</span></div>
+    </div>
+    <p class="figure-note">Careful Spell is not close to anything else. Nothing on this list
+    except Prayer of Healing is even a third of it.</p>
+  </figure>
+
+  <ul>
+    <li><strong>Careful Spell &mdash; the best two sorcery points of the campaign so far.</strong>
+    Fireball #1 would have hit Morgash for 27 (failed) and Gren, Jetten and Invictus for 13 each
+    (saved): 66. Fireball #2 would have hit Jetten, Invictus and Morgash for 35 each (all failed)
+    and Gren for 17 (saved): 122. <strong>188 damage prevented</strong>, while both blasts landed
+    at full value on seven Sharrans for roughly 246.</li>
+    <li><strong>Bless finally earned its concentration &mdash; eight flips.</strong> Last session
+    it flipped exactly one outcome all night. This session: three misses turned into hits
+    (Jetten vs an Acolyte at AC 16, Invictus vs a Zealot at AC 17, Jetten and Morgash both vs
+    Harrow at AC 17), two concentration saves held that would have dropped (Gren's Bless, Jetten's
+    Hunter's Mark), one Fireball save flipped for Gren &mdash; and, decisively, <strong>Invictus's
+    Flame Strike save at DC 18, made on an 18 only because of a +2 die.</strong></li>
+    <li><strong>Shield Master, stacked on top of that same save.</strong> Its reaction turns a
+    successful Dex save against an area effect into no damage at all, so Bless plus Shield Master
+    took Invictus from roughly 19 damage to zero on one Flame Strike. The bash also put Harrow
+    prone in round one of the break and forced a Legendary Resistance later.</li>
+  </ul>
+
+  <h3>Maneuvers and masteries</h3>
+  <div class="scroll">
+  <table class="data">
+    <thead><tr><th>Effect</th><th class="num">Uses</th><th>What it produced</th></tr></thead>
+    <tbody>
+      <tr class="lead-row"><td>Sap (Midnight)</td><td class="num">9</td><td>Disadvantage on the target's next attack, nine times &mdash; most of it on Harrow</td></tr>
+      <tr><td>Topple (Maul of Momentum)</td><td class="num">7</td><td><strong>2 prone, 5 resisted &mdash; 29%.</strong> Down from 86% last session</td></tr>
+      <tr><td>Shield Master &mdash; bash</td><td class="num">5</td><td>2 knockdowns, 1 Legendary Resistance burned, 2 saved against</td></tr>
+      <tr><td>Vex (shortsword)</td><td class="num">3</td><td>Advantage carried into Jetten's follow-up each time</td></tr>
+      <tr><td>Precision Attack</td><td class="num">2</td><td>1 converted (15 + 2 = 17 vs AC 17, into 13 damage on Harrow); 1 spent and still missed</td></tr>
+      <tr><td>Riposte</td><td class="num">2</td><td>1 hit for 13 on Harrow, 1 miss. An Enforcer riposted Morgash back and missed too</td></tr>
+      <tr><td>Great Weapon Master &mdash; Hew</td><td class="num">2</td><td>Two free attacks, both off crits</td></tr>
+      <tr><td>Action Surge</td><td class="num">1</td><td>Two extra maul swings into Harrow</td></tr>
+      <tr><td>Relentless Endurance</td><td class="num">1</td><td>Flame Strike put Morgash at 0; he stood at 1. <strong>No death saves were rolled all session because of it</strong></td></tr>
+      <tr><td>Adrenaline Rush</td><td class="num">1</td><td>3 temporary hit points and a bonus-action dash to close on Harrow</td></tr>
+      <tr><td>Death Armor</td><td class="num">1</td><td>7 necrotic returned to a Zealot who hit Invictus</td></tr>
+    </tbody>
+  </table>
+  </div>
+
+  <h3>Buffs, and what they were worth</h3>
+  <div class="scroll">
+  <table class="data">
+    <thead><tr><th>Buff</th><th>Cost</th><th>Return</th></tr></thead>
+    <tbody>
+      <tr><td><strong>Careful Spell</strong></td><td>2 sorcery points</td><td><strong>188 damage prevented</strong> &mdash; best value of the night by a factor of three</td></tr>
+      <tr><td><strong>Bless</strong></td><td>2nd-level slot, recast once</td><td><strong>8 flips</strong>, including the Flame Strike save that kept Invictus off the floor</td></tr>
+      <tr><td><strong>Prayer of Healing</strong></td><td>2nd-level slot, 10 minutes</td><td>A full short rest mid-dungeon: 52 HP across 8 hit dice, plus Morgash's superiority dice and Gren's sorcery points back. The reason they met Harrow at strength</td></tr>
+      <tr><td><strong>Hunter's Mark</strong></td><td>1st-level slot &times;2</td><td>37 force damage. Broken twice &mdash; once by Gren's own Fireball, once by hitting 0</td></tr>
+      <tr><td><strong>Aid</strong></td><td>2nd-level slot</td><td>+5 max HP to three PCs, cast just before the boss. Morgash was deliberately left off it and he is the one who hit 0</td></tr>
+      <tr><td><strong>Innate Sorcery</strong></td><td>1 of 2 uses</td><td><strong>Changed no outcome.</strong> Spell save DC 15 &rarr; 16 and Gren forced no saves while it was up. It bought advantage on one Fire Bolt for 9 damage</td></tr>
+      <tr><td><strong>Bane</strong></td><td>1st-level slot</td><td>Landed on Harrow (11 vs DC 13) and was gone about a round later when <em>Unholy Word</em> broke concentration on a 5 vs DC 10. <strong>No flip is attributable to it</strong></td></tr>
+      <tr><td><strong>Death Armor</strong></td><td>2nd-level slot</td><td>7 damage returned, once, in an hour-long duration. Thin, but it cost a turn that had nothing better to do</td></tr>
+      <tr><td><strong>Pearl of Power</strong></td><td>1 use</td><td>A 3rd-level slot back, which became the second Fireball. Paid for itself several times over</td></tr>
+    </tbody>
+  </table>
+  </div>
+
+  <h3>Healing that mattered</h3>
+  <p><strong>Invictus carried the party's staying power.</strong> <em>Lay on Hands</em> emptied
+  its whole 25-point pool &mdash; 15 into Morgash, then <strong>10 to raise Jetten off the
+  floor</strong> &mdash; and he added 31 more out of combat, an <em>Aid</em>, and the
+  <em>Prayer of Healing</em> that bought the free short rest. That rest returned 52 hit points
+  across 8 hit dice (Jetten 3, Invictus 3, Morgash 1, Gren 1). Jetten drank a potion for 6 and
+  healing-worded himself for 10; Morgash used Second Wind for 10 after the fight. The Sharrans
+  healed too &mdash; a Zealot spent a bonus action on his own <em>Lay on Hands</em> for 25, which
+  bought him roughly one extra round.</p>
+</section>
+
+<section>
+  <h2>6 &middot; Combat flow &mdash; decision speed</h2>
+  <p>The timing stamps, averaged per player across timed decision moments.</p>
+  <div class="scroll">
+  <table class="data">
+    <thead><tr>
+      <th>Character</th><th class="num">Avg decision</th><th class="num">Timed moments</th><th>Slowest call</th>
+    </tr></thead>
+    <tbody>
+      <tr class="lead-row"><td>Jetten Elisedil</td><td class="num">4.6s</td><td class="num">12</td><td>24.0s &mdash; concentration</td></tr>
+      <tr><td>Morgash the Gravemaker</td><td class="num">12.5s</td><td class="num">18</td><td>24.7s &mdash; mastery</td></tr>
+      <tr><td>Justiciar Invictus</td><td class="num">14.1s</td><td class="num">7</td><td>24.0s &mdash; bash offer</td></tr>
+      <tr><td>Gren Greenmantle</td><td class="num">17.5s</td><td class="num">6</td><td>24.0s &mdash; concentration</td></tr>
+    </tbody>
+  </table>
+  </div>
+  <p>Jetten has nearly halved his average since session 6 (8.4s &rarr; 4.6s) while generating
+  half again as many decisions. Morgash again produces the most timed moments of anyone at the
+  table by a wide margin &mdash; 18, against 25 for the other three combined &mdash; and still
+  lands mid-pack on speed; the martial kit is being used, and used deliberately. Invictus and
+  Gren are the slow seats, but on the lowest volume, and both of their slowest calls are the
+  same 24-second ceiling rather than genuine deliberation.</p>
+</section>
+
+<section>
+  <h2>7 &middot; Economy and flavour</h2>
+  <h3>Resources spent</h3>
+  <ul>
+    <li><strong>Gren</strong> &mdash; Font of Magic 2/5, Innate Sorcery 1/2, Misty Step
+    (Fey-Touched) 1/1, Wand of Magic Missiles 1/7, Pearl of Power used; 11 spell levels burned
+    across two 3rd, two 2nd and three 1st-level casts.</li>
+    <li><strong>Morgash</strong> &mdash; Combat Superiority 2/4 in each fight, Action Surge 1/1,
+    Adrenaline Rush 1/3, Second Wind 1/3, <strong>Relentless Endurance spent</strong>.</li>
+    <li><strong>Invictus</strong> &mdash; Lay on Hands 25/25 emptied, Midnight 1/1, four 1st-level
+    and two 2nd-level slots, one Divine Smite, Channel Divinity unspent (<em>Vow of Enmity</em>
+    was flagged at the table and never used).</li>
+    <li><strong>Jetten</strong> &mdash; four 1st-level slots, Dreadful Strike uses, one Potion of
+    Healing.</li>
+  </ul>
+  <h3>The night's dice</h3>
+  <ul>
+    <li><strong>Buff-die flips:</strong> eight. Jetten &times;3 (a hit on an Acolyte, a hit on
+    Harrow, a held Hunter's Mark), Gren &times;2 (a Fireball save, a held Bless), Invictus
+    &times;2 (a hit on a Zealot, and the Flame Strike save), Morgash &times;1 (a hit on Harrow).</li>
+    <li><strong>Natural 20s:</strong> Morgash &times;3, Jetten &times;1, Invictus &times;1 &mdash;
+    and Sharran Zealots &times;3.</li>
+    <li><strong>Natural 1s:</strong> Jetten &times;2. Nobody else rolled one.</li>
+    <li><strong>Advantage rolled:</strong> Gren &times;5, Jetten &times;5, Morgash &times;2,
+    Invictus &times;2 &mdash; against Enforcers &times;2, Harrow &times;2, Zealot &times;1 on the
+    other side, most of it off prone targets.</li>
+    <li><strong>Death saves:</strong> none. Jetten was raised from 0 by Lay on Hands before his
+    turn came round; Morgash never reached 0 for longer than it took Relentless Endurance to
+    fire.</li>
+  </ul>
+</section>
+
+<footer>
+  Generated from the Battle Flow ledger via <code>get-combat-stats</code> &mdash; read-only scan,
+  reverted applications subtracted. Monster token identifiers resolved to names by hand.
+</footer>
+
+</div>
+</div>
+</body>
+</html>

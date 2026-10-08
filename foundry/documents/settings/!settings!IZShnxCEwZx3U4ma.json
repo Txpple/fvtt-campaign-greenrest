@@ -1,0 +1,18 @@
+{
+  "key": "fvtt-mod-miscpatches.teleports",
+  "user": null,
+  "value": "true",
+  "_id": "IZShnxCEwZx3U4ma",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1788636188829,
+    "modifiedTime": 1788636188829,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!IZShnxCEwZx3U4ma"
+}

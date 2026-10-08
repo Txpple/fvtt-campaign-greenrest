@@ -1,0 +1,215 @@
+{
+  "name": "The Thornheart",
+  "type": "equipment",
+  "img": "worlds/the-broken-heart-of-greenrest/assets/hearts/thornheart-item.webp",
+  "system": {
+    "description": {
+      "value": "<p>A quarter of a heart, turned to crystal: <strong>venom green</strong>, bright and vivid and faintly poisonous-looking, the size of two cupped hands, with the chambering and the sheared-off vessels still there inside the stone like flaws in a gem. It is warm — warmer than the air — and it beats, slowly, faintly, the light inside it moving out through the facets with every beat. It does not chip and it does not scratch. It has already been broken.</p><p>It is the exact green of the dragon that hoards it, which is either a coincidence or isn't — and the Wyrmwood has grown briar around it the way a body grows scar tissue.</p><p><strong>The vision.</strong> The Thornheart requires attunement. The first time you hold it, it shows you one thing. A beautiful green woman, glowing white, leaves crowning her head, weeping. She closes her hands over her own chest, and her heart bursts. The pieces scatter into the dark, hardening as they fly. The burst drives the mists back in a great ring, baring a bare green valley next to a beautiful lake. Where she stood, a tree: grey, leafless, asleep. A single faint heartbeat, and it is over.</p><p><strong>While you carry the Thornheart</strong> you have advantage on Dexterity saving throws.</p><p>Once between dawns, you can press the shard to the breast of a body dead no more than ten days: green light threads down through it like new roots taking hold, and it casts <em>raise dead</em> — the shard is the only component needed.</p><p><em>It is one chamber of a heart — and a heart has four. You cannot shake the feeling that, whole, it could do so much more.</em></p>",
+      "chat": ""
+    },
+    "rarity": "legendary",
+    "identified": true,
+    "properties": [
+      "mgc"
+    ],
+    "type": {
+      "value": "trinket",
+      "baseItem": ""
+    },
+    "identifier": "the-thornheart",
+    "source": {
+      "rules": "2024",
+      "revision": 1
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "activities": {
+      "thornheartraise0": {
+        "_id": "thornheartraise0",
+        "type": "cast",
+        "name": "Raise Dead",
+        "img": "",
+        "sort": 0,
+        "spell": {
+          "uuid": "Compendium.dnd-players-handbook.spells.Item.phbsplRaiseDead0",
+          "challenge": {
+            "attack": null,
+            "override": false
+          },
+          "level": 5,
+          "properties": [
+            "vocal",
+            "somatic"
+          ],
+          "spellbook": true,
+          "ability": ""
+        },
+        "activation": {
+          "type": "action",
+          "value": null,
+          "override": true
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": false,
+          "targets": [
+            {
+              "type": "itemUses",
+              "value": "1",
+              "target": "",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "range": {
+          "override": false,
+          "units": "touch"
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft",
+            "stationary": false
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "flags": {},
+        "visibility": {
+          "level": {
+            "min": null,
+            "max": null
+          },
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false,
+          "identifier": ""
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "recovery": [
+        {
+          "period": "dawn",
+          "type": "recoverAll"
+        }
+      ],
+      "max": "1"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "attunement": "required",
+    "attuned": false,
+    "equipped": false,
+    "crew": {
+      "value": []
+    },
+    "armor": {
+      "value": null,
+      "dex": null,
+      "magicalBonus": ""
+    },
+    "proficient": null,
+    "strength": null
+  },
+  "folder": "AYQxwYv4Hclk2frd",
+  "_id": "YTY7Gq7eYCWs4m4B",
+  "effects": [
+    {
+      "name": "The Thornheart",
+      "img": "worlds/the-broken-heart-of-greenrest/assets/hearts/thornheart-item.webp",
+      "disabled": false,
+      "transfer": true,
+      "description": "<p>While you carry the Thornheart you have advantage on Dexterity saving throws.</p>",
+      "system": {
+        "changes": [
+          {
+            "key": "system.abilities.dex.save.roll.mode",
+            "value": 1,
+            "type": "add",
+            "phase": "initial",
+            "_id": "Nn6ONfipvtp4o7tE",
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "magical": true
+      },
+      "_id": "YUnRLhbsTXyU7Dzg",
+      "type": "base",
+      "start": null,
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "origin": null,
+      "tint": "#ffffff",
+      "statuses": [],
+      "showIcon": 1,
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1789096243332,
+        "modifiedTime": 1790523610099,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!items.effects!YTY7Gq7eYCWs4m4B.YUnRLhbsTXyU7Dzg"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.5",
+    "createdTime": 1786646934027,
+    "modifiedTime": 1790523848137,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!YTY7Gq7eYCWs4m4B"
+}

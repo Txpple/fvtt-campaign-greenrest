@@ -1,0 +1,29 @@
+{
+  "name": "Player Handouts",
+  "type": "JournalEntry",
+  "description": "Quest and content for: Player Handouts",
+  "color": "#3e8e7e",
+  "sort": 0,
+  "flags": {
+    "world": {
+      "mcpGenerated": false,
+      "createdAt": "2026-08-25T14:47:56.918Z",
+      "questContext": "Player Handouts"
+    }
+  },
+  "_id": "7v0WU3VZu27OHfA2",
+  "folder": null,
+  "sorting": "a",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1787669277127,
+    "modifiedTime": 1787669289412,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!7v0WU3VZu27OHfA2"
+}

@@ -1,0 +1,77 @@
+{
+  "name": "Quiver of Ehlonna",
+  "type": "container",
+  "img": "modules/dnd-dungeon-masters-guide/assets/icons/items/quiver-of-ehlonna.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>Wondrous Item, Uncommon</em></p><p>Traded off a caravan guard on the Trade Way who was retiring to keep bees. It has carried more arrows than any quiver its size has a right to, and still smells of oiled leather and long roads.</p><p>Each of the quiver’s three compartments connects to an extradimensional space that allows the quiver to hold numerous items while never weighing more than 2 pounds. The shortest compartment can hold up to 60 Arrows, Bolts, or similar objects. The midsize compartment holds up to 18 Javelins or similar objects. The longest compartment holds up to 6 long objects, such as bows, Quarterstaffs, or Spears.</p><p>You can draw any item the quiver contains as if doing so from a regular quiver or scabbard.</p>",
+      "chat": ""
+    },
+    "identifier": "quiver-of-ehlonna",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": {
+      "value": 400,
+      "denomination": "gp"
+    },
+    "rarity": "uncommon",
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "currency": {
+      "pp": 0,
+      "gp": 0,
+      "ep": 0,
+      "sp": 0,
+      "cp": 0
+    },
+    "properties": [
+      "mgc",
+      "weightlessContents"
+    ],
+    "capacity": {
+      "count": null,
+      "volume": {
+        "value": null,
+        "units": "cubicFoot"
+      },
+      "weight": {
+        "value": null,
+        "units": "lb"
+      }
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "folder": "gmEaXdyrOc3NfaMa",
+  "_stats": {
+    "exportSource": null,
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783258262952,
+    "modifiedTime": 1783258435004,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_id": "JaoIZU4vxong9uLR",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "_key": "!items!JaoIZU4vxong9uLR"
+}

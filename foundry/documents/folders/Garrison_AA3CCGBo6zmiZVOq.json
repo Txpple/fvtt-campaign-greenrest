@@ -1,0 +1,28 @@
+{
+  "name": "Garrison",
+  "type": "Actor",
+  "color": "#4a9d5f",
+  "folder": "ELjMKEC5EJ6cMt45",
+  "flags": {
+    "world": {
+      "mcpGenerated": false,
+      "createdAt": "2026-07-09T16:07:23.381Z"
+    }
+  },
+  "_id": "AA3CCGBo6zmiZVOq",
+  "description": "",
+  "sorting": "a",
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783613241892,
+    "modifiedTime": 1783613241892,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!AA3CCGBo6zmiZVOq"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "07 - Temple of Shar",
+  "type": "Scene",
+  "folder": null,
+  "flags": {
+    "world": {
+      "mcpGenerated": false,
+      "createdAt": "2026-07-15T19:20:10.392Z"
+    }
+  },
+  "_id": "CE2MlpaJZugGeyXC",
+  "description": "",
+  "sorting": "a",
+  "sort": 0,
+  "color": "#5c3a7d",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1784143209319,
+    "modifiedTime": 1788275645818,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!CE2MlpaJZugGeyXC"
+}

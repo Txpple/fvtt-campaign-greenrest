@@ -1,0 +1,28 @@
+{
+  "name": "04 - Greenrest",
+  "type": "Actor",
+  "color": "#4a9d5f",
+  "folder": null,
+  "flags": {
+    "world": {
+      "mcpGenerated": false,
+      "createdAt": "2026-07-08T17:08:19.205Z"
+    }
+  },
+  "_id": "QSJr6SoO6G5N3fW6",
+  "description": "",
+  "sorting": "a",
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783530498591,
+    "modifiedTime": 1786552814827,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!QSJr6SoO6G5N3fW6"
+}

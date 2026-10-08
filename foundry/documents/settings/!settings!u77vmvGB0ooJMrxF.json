@@ -1,0 +1,18 @@
+{
+  "key": "fvtt-mod-battleflow.d20Folds",
+  "user": null,
+  "value": "\"Heroic Inspiration:heroic, Tactical Mind:tactical, Inspired:bardic, Ambush:tactical, Tactical Assessment:tactical, Seeking Spell:seeking, Lucky:advantage, Mage Slayer:succeed\"",
+  "_id": "u77vmvGB0ooJMrxF",
+  "_stats": {
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1787710241129,
+    "modifiedTime": 1790520702309,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!u77vmvGB0ooJMrxF"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "05 - The Hollow",
+  "type": "Item",
+  "color": "#3f8fa6",
+  "folder": null,
+  "flags": {
+    "world": {
+      "mcpGenerated": false,
+      "createdAt": "2026-08-12T19:51:54.861Z"
+    }
+  },
+  "_id": "ZvqosDAyyigGrPNk",
+  "description": "",
+  "sorting": "a",
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1786564313239,
+    "modifiedTime": 1786564313239,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!ZvqosDAyyigGrPNk"
+}

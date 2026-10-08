@@ -1,0 +1,28 @@
+{
+  "name": "Forest Finds",
+  "type": "Item",
+  "color": "#8172a6",
+  "folder": "ndAPyJRdoVOFHxBQ",
+  "flags": {
+    "world": {
+      "mcpGenerated": true,
+      "createdAt": "2026-07-03T14:34:54.169Z"
+    }
+  },
+  "_id": "dCkoCKLcTTG8l8hT",
+  "description": "",
+  "sorting": "a",
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783089292734,
+    "modifiedTime": 1783089292734,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!dCkoCKLcTTG8l8hT"
+}

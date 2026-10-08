@@ -1,0 +1,28 @@
+{
+  "name": "Treetop Finds",
+  "type": "Item",
+  "color": "#7a7a3d",
+  "folder": "rNAEFs81a44ZavQd",
+  "flags": {
+    "world": {
+      "mcpGenerated": false,
+      "createdAt": "2026-08-29T01:10:34.526Z"
+    }
+  },
+  "_id": "RxxShy6nmWycOcq7",
+  "description": "",
+  "sorting": "a",
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1787965833506,
+    "modifiedTime": 1787965833506,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!RxxShy6nmWycOcq7"
+}

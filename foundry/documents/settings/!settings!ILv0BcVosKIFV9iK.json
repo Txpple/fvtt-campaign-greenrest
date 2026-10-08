@@ -1,0 +1,18 @@
+{
+  "key": "fvtt-mod-combatplus.yourTurnMessage",
+  "user": null,
+  "value": "\"It's your turn {{combatant.name}}, what do you want to do?\"",
+  "_id": "ILv0BcVosKIFV9iK",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783697639007,
+    "modifiedTime": 1783697639007,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!ILv0BcVosKIFV9iK"
+}

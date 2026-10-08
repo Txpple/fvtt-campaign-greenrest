@@ -1,0 +1,32 @@
+{
+  "type": "script",
+  "scope": "actor",
+  "name": "Maul of Momentum",
+  "img": "modules/dnd-players-handbook/assets/icons/items/maul.webp",
+  "command": "dnd5e.documents.macro.rollItem(\"Maul of Momentum\", { event })",
+  "flags": {
+    "dnd5e": {
+      "itemMacro": true
+    }
+  },
+  "_id": "FgdHLa11MZjpJJO0",
+  "author": "DVSDeA29YhlyJV2g",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DVSDeA29YhlyJV2g": 3
+  },
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1787095505943,
+    "modifiedTime": 1787095505945,
+    "lastModifiedBy": "DVSDeA29YhlyJV2g",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!macros!FgdHLa11MZjpJJO0"
+}

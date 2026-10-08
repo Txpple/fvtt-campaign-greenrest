@@ -1,0 +1,18 @@
+{
+  "key": "fvtt-mod-battleflow.emanationList",
+  "user": null,
+  "value": "\"Aura of Protection, Aura of Courage, Aura of Warding, Spirit Guardians, Aura of Life, Aura of Purity, Aura of Vitality, Antilife Shell, Circle of Power, Crusader's Mantle, Holy Aura, Pass without Trace, Inner Radiance, Polearm Master\"",
+  "_id": "LChZg5kd9BQWpZ1Q",
+  "_stats": {
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1788636188654,
+    "modifiedTime": 1790520705574,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!LChZg5kd9BQWpZ1Q"
+}

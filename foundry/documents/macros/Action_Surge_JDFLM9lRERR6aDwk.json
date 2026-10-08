@@ -1,0 +1,32 @@
+{
+  "type": "script",
+  "scope": "actor",
+  "name": "Action Surge",
+  "img": "icons/magic/control/buff-strength-muscle-damage-orange.webp",
+  "command": "dnd5e.documents.macro.rollItem(\"Action Surge\", { event })",
+  "flags": {
+    "dnd5e": {
+      "itemMacro": true
+    }
+  },
+  "_id": "JDFLM9lRERR6aDwk",
+  "author": "DVSDeA29YhlyJV2g",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DVSDeA29YhlyJV2g": 3
+  },
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783437514545,
+    "modifiedTime": 1783437514546,
+    "lastModifiedBy": "DVSDeA29YhlyJV2g",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!macros!JDFLM9lRERR6aDwk"
+}

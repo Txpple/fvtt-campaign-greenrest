@@ -1,0 +1,28 @@
+{
+  "name": "Main Cast",
+  "type": "Actor",
+  "color": "#4a9d5f",
+  "folder": "QSJr6SoO6G5N3fW6",
+  "flags": {
+    "world": {
+      "mcpGenerated": false,
+      "createdAt": "2026-07-09T15:03:34.790Z"
+    }
+  },
+  "_id": "x5PY8cc3rGNOaDjR",
+  "description": "",
+  "sorting": "a",
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783609413407,
+    "modifiedTime": 1783609413407,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!x5PY8cc3rGNOaDjR"
+}

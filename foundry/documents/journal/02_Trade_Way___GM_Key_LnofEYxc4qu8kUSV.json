@@ -1,0 +1,216 @@
+{
+  "name": "02 Trade Way — GM Key",
+  "pages": [
+    {
+      "type": "text",
+      "name": "Overview",
+      "text": {
+        "content": "<p><em>GM key for the first stretch of the road south. <strong>Three scenes:</strong> @UUID[Scene.7VmQ5WEG8swdVKpe]{Trade Way Road} (road-travel roleplay — page <strong>00</strong>), then the ambush at <strong>Bridge</strong> (pins 01–02) and <strong>Cave</strong> (pin 03, the raiders' bolt-hole below).</em></p><p>Run the long leg first: days of open road where the party meets strangers coming the other way — the traveller roll-table, page <strong>00</strong>. It ends the moment they ride up on the ambush.</p><p>Late afternoon, days south of Daggerford, where the Trade Way crosses a river: a merchant cart overturned across the road, crates smashed and looted, blood pooled on the stones — and no bodies, only a blood trail leading off the bridge and down to a cave mouth below. A band of <strong>hobgoblin raiders</strong> — a captain and several warriors — jumped a small caravan here a few hours ago: two travellers and their two hired guards. The raiders killed all four, then dragged the bodies and the loot below to lie low. The band, the fight, the interrogation clue, and the aftermath are all on page <strong>03 — The Cave</strong>.</p>",
+        "format": 1
+      },
+      "_id": "kOO8TFNCPciQgwFr",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783088609478,
+        "modifiedTime": 1783189747863,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!LnofEYxc4qu8kUSV.kOO8TFNCPciQgwFr"
+    },
+    {
+      "type": "text",
+      "name": "00 — Roadside Travellers (Trade Way Road)",
+      "text": {
+        "content": "<p><em>The road-travel roleplay — the strangers met on the long leg south, <strong>before</strong> the ambush. Run on the @UUID[Scene.7VmQ5WEG8swdVKpe]{Trade Way Road} scene.</em></p><p>The days south of Daggerford are open road, not a dungeon. Whenever you want to fill a leg — a midday halt, a \"who's coming the other way?\" — roll @UUID[RollTable.TvBzybRoVtO85iaI]{Trade Way — Travellers on the Road} (1d12). Each result is one non-combat traveller: a merchant train, a hedge-priest, a peddler, a grieving widower, a trapper out of the deep woods.</p><p><strong>No cap, no one-per-day rule.</strong> Roll as often as the players lean into the road — the travellers <em>are</em> the point of this stretch, not an obstacle to get past. (The table has replacement ON; a repeat draw is just more road-life — only re-roll if it would break the mood.)</p><p><em>GM — two entries carry the road's only nascent plot-thread: <strong>05 Halgar Vos</strong> (the trapper's \"fey country don't keep our clock\" warning) and <strong>07 Marisel</strong> (the ballad \"The Green and the Grey,\" whose oldest verse names <strong>Corin</strong>). Play both as woodsman's superstition and an old sad song — neither traveller knows it's true, and neither ties it to any place.</em></p><p><em>GM — several travellers press a small keepsake on the party (Brother Tobin's barley-token, the peddler's luck-knot, Marisel's ballad sheet, Mother Ziska's fortune card, the pilgrims' shrine-token) — the items are already linked on their table entries, ready to drop into inventory.</em></p><p>When the party rides up on the looted cart at the river crossing, the road-travel is over — hand off to the <strong>Bridge</strong> and <strong>Cave</strong> scenes, pages <strong>01–03</strong>.</p>",
+        "format": 1
+      },
+      "_id": "YmnM94HotzyayNZx",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783088609478,
+        "modifiedTime": 1783189755825,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!LnofEYxc4qu8kUSV.YmnM94HotzyayNZx"
+    },
+    {
+      "type": "text",
+      "name": "01 — Cart Wreckage",
+      "text": {
+        "content": "<p><strong>The bridge, late afternoon.</strong> An overturned merchant cart lies slewed across the roadway, one wheel still turning. The crates are broken open and picked over — anything worth carrying is gone. Blood is spattered across the stones and pooled by the cart, far more than the empty scene explains: there are no bodies.</p><p>A smeared blood trail leads off the bridge and down the bank to a dark cave mouth below (→ <strong>02</strong>). Four people died here a few hours ago — two travellers and their <strong>two hired guards</strong>. Spent arrows and a deep axe-notch in the cart's frame say the guards fought before they fell; the raiders dragged all four bodies, and the loot, down into the cave.</p>",
+        "format": 1
+      },
+      "_id": "vclf0vCrx2NLBoPl",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783088609478,
+        "modifiedTime": 1783189759515,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!LnofEYxc4qu8kUSV.vclf0vCrx2NLBoPl"
+    },
+    {
+      "type": "text",
+      "name": "02 — Cave Entrance",
+      "text": {
+        "content": "<p><strong>Down to the cave.</strong> The blood trail runs off the road and down a short scramble of rock and root to a low cave mouth in the riverbank beneath the bridge. Drag-marks and bloody smears lead inside — the way down into the hobgoblins' bolt-hole (→ <strong>03</strong>).</p><p><em>(Stepping inside teleports tokens to the cave entrance, and back.)</em></p>",
+        "format": 1
+      },
+      "_id": "Ti2ubIl1FFTxn2JB",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783088609478,
+        "modifiedTime": 1783088609478,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!LnofEYxc4qu8kUSV.Ti2ubIl1FFTxn2JB"
+    },
+    {
+      "type": "text",
+      "name": "03 — The Cave",
+      "text": {
+        "content": "<p><strong>One natural cavern — not a lair.</strong> Damp, unworked stone: a wide cave, a few side-pockets, a deep fissure running back into the dark. The hobgoblins didn't make any of it — they found it this morning, and they'll be gone in a day. Everything that matters is around the fire at the center.</p><h3>The band</h3><p>The @UUID[Actor.3l181JACaGIi5wpS]{Hobgoblin Captain} leads the band: two @UUID[Actor.VL667qHaqBZEZ0JV]{Hobgoblin Warrior}s, two @UUID[Actor.V65fACT9K6xqJgvl]{Hobgoblin Archer}s, and a @UUID[Actor.7Yq94WAmJ3epFL0E]{Hobgoblin Shaman} — all in the <strong>Trade Way</strong> actor folder, and already placed on the Cave scene in the vetted composition. The warriors hold the fire-ring beside the captain, the archers snipe from the side-pockets, and the shaman hangs back to entangle, thunderwave, and heal. Hobgoblins gang up and coordinate, hitting harder than their CR suggests — a genuinely tough first fight. No traps, no prepared defenses — a raiding party resting between raids. They fight hard but aren't fanatics; a beaten captain may surrender or bolt.</p><p><em>The captain's trophy:</em> slung across his back is a plain-seeming longsword with a rose-gold-inlaid fuller — the masked <strong>First Light</strong> (@UUID[Item.pWFkJvY07X8oCRKV]{Rose-Gold Longsword}, already on his sheet), stripped from a dead paladin of Lathander. He fights with the greatsword and has no idea what he carries; it's the fight's real prize, waiting on his body.</p><h3>The camp</h3><p>A crude fire-ring burns low mid-cavern, roasting looted provisions. Around it: bedrolls and furs on the bare rock, the band's packs, and the goods stripped from the cart — broken crates, sacks of trade goods, a strongbox or two. This is where the captain is, and where the fight happens. The loot plus the dead caravan's effects (the guards' chain shirts and battleaxes among them) are the reward; keep it modest — a raiding band travels light.</p><h3>The dead</h3><p>Dumped against the wall a little way from the fire, dragged in by the heels: the <strong>four dead of the caravan</strong>. Anything obviously valuable is already in the loot pile, but the bodies still wear and carry their own gear. Drag the tokens onto the map where the party finds them:</p><ul><li>@UUID[Actor.RtfowHfdrnmcnCZ3]{Dead Guard} — blue-and-gold tabard over a chain shirt, three arrows in his chest, battleaxe fallen at his hand.</li><li>@UUID[Actor.KlNBJbfiV3FTHR2D]{Decapitated Guard} — the second guard, same livery, beheaded; his battleaxe lies in the blood beside him.</li><li>@UUID[Actor.4VoqvcUTap8fzkiU]{Dead Elf} — a barefoot elf in a homespun green dress and autumn-leaf shawl, unarmed.</li><li>@UUID[Actor.tzZpNBauH5gXnywS]{Dead Traveler} — worn leathers and a blue road-cloak, her broken-tipped dagger dropped at her hand.</li></ul><p>What the party does with them is their call — see below.</p><h3>The back of the cave</h3><p>Darkness and a wide natural pit — a long drop into black water and rubble. There's nothing back there but dark and the fissure; use it as a hazard or an escape route if the fight wants one.</p><h3>Interrogation — the Misty Forest</h3><p>A captured hobgoblin knows nothing useful about the road, the map, or the party's business. But ask about the <strong>Misty Forest</strong> and you get a real, crude reaction: <em>\"Fuck that place.\"</em> Their clans haven't set foot in that forest for <strong>generations</strong>. The fog is wrong. Everything in there feels <em>sad</em> — heavy, like a grief you can stand inside. They've never heard of <strong>Greenrest</strong> and don't care to — <em>\"fuck that whole forest.\"</em></p><p><em>The first breadcrumb: even brutal, dim raiders instinctively avoid the Misty Forest — the Dreamer's sorrow bleeds out far enough that monsters feel it and keep away. It reveals nothing concrete; it just names the wrongness waiting to the south.</em></p><h3>After the fight — rest, and the bodies</h3><p>Cleared, the cave is the obvious overnight camp: sheltered, dry, defensible, a fire already lit — a good long rest before pressing south. Which hands the party the road's first quiet \"what kind of party are we\" decision: what to do with the hobgoblin dead (and any prisoners), and with the four caravan dead? Bury them, burn them, loot them and leave them, carry their effects — or word of them — onward? No mechanical answer. Let it sit.</p>",
+        "format": 1
+      },
+      "_id": "NfgvdCAmyb34ledP",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783088609478,
+        "modifiedTime": 1783368417841,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!LnofEYxc4qu8kUSV.NfgvdCAmyb34ledP"
+    }
+  ],
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "folder": "IrBgFpR2iymTG05P",
+  "_id": "LnofEYxc4qu8kUSV",
+  "categories": [],
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783088609478,
+    "modifiedTime": 1783088609479,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!LnofEYxc4qu8kUSV"
+}

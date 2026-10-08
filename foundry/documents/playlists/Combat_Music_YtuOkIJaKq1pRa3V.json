@@ -1,0 +1,43 @@
+{
+  "name": "Combat Music",
+  "mode": 0,
+  "sounds": [
+    {
+      "name": "92_Skirmish.mp3",
+      "path": "worlds/the-broken-heart-of-greenrest/assets/audio/92_Skirmish.mp3",
+      "volume": 0.41,
+      "repeat": true,
+      "_id": "KB31dldjwgbugfh9",
+      "channel": "",
+      "playing": false,
+      "sort": 0,
+      "flags": {},
+      "pausedTime": null,
+      "_key": "!playlists.sounds!YtuOkIJaKq1pRa3V.KB31dldjwgbugfh9"
+    }
+  ],
+  "_id": "YtuOkIJaKq1pRa3V",
+  "channel": "music",
+  "playing": false,
+  "folder": null,
+  "sorting": "a",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783088934012,
+    "modifiedTime": 1790729831373,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "seed": 65,
+  "_key": "!playlists!YtuOkIJaKq1pRa3V"
+}

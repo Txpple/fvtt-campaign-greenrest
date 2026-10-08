@@ -1,0 +1,28 @@
+{
+  "name": "09 - Conclusion",
+  "type": "Scene",
+  "color": "#b5577a",
+  "folder": null,
+  "flags": {
+    "world": {
+      "mcpGenerated": false,
+      "createdAt": "2026-09-27T15:04:14.024Z"
+    }
+  },
+  "_id": "fvNXBlOYdncwUzEA",
+  "description": "",
+  "sorting": "a",
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.5",
+    "createdTime": 1790521453339,
+    "modifiedTime": 1790521453339,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!fvNXBlOYdncwUzEA"
+}

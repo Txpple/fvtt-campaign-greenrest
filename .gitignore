@@ -1,0 +1,17 @@
+# Per-machine Claude Code config — holds this repo's sync hooks (see BOOTSTRAP.md). Never commit one.
+.claude/settings.local.json
+
+# Tooling
+node_modules/
+
+# Views and drafts — rebuilt or re-reviewed, never the record (CLAUDE.md → filing rules)
+out/
+art/staging/
+
+# Office and OS debris
+~$*
+*.tmp
+.~lock.*
+Thumbs.db
+desktop.ini
+.DS_Store

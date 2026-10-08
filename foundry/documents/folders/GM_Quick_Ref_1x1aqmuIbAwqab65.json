@@ -1,0 +1,28 @@
+{
+  "name": "GM Quick Ref",
+  "type": "JournalEntry",
+  "color": "#7d3a3a",
+  "folder": null,
+  "flags": {
+    "world": {
+      "mcpGenerated": false,
+      "createdAt": "2026-07-09T17:49:39.184Z"
+    }
+  },
+  "_id": "1x1aqmuIbAwqab65",
+  "description": "",
+  "sorting": "a",
+  "sort": 500000,
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783619377522,
+    "modifiedTime": 1783619633449,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!1x1aqmuIbAwqab65"
+}

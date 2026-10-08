@@ -1,0 +1,28 @@
+{
+  "name": "07 - Temple of Shar",
+  "type": "Item",
+  "color": "#5c3a7d",
+  "folder": null,
+  "flags": {
+    "world": {
+      "mcpGenerated": false,
+      "createdAt": "2026-08-13T18:48:25.796Z"
+    }
+  },
+  "_id": "HQ0QPGSivrbQkc6C",
+  "description": "",
+  "sorting": "a",
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1786646904199,
+    "modifiedTime": 1788275650088,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!HQ0QPGSivrbQkc6C"
+}

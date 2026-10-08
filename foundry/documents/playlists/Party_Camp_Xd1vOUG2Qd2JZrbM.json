@@ -1,0 +1,43 @@
+{
+  "name": "Party Camp",
+  "mode": 0,
+  "sounds": [
+    {
+      "name": "382_Long_Rest.mp3",
+      "path": "worlds/the-broken-heart-of-greenrest/assets/audio/382_Long_Rest.mp3",
+      "volume": 0.16,
+      "repeat": true,
+      "_id": "wi3YTKsM8m4q5ztl",
+      "channel": "",
+      "playing": false,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!Xd1vOUG2Qd2JZrbM.wi3YTKsM8m4q5ztl"
+    }
+  ],
+  "fade": 2000,
+  "_id": "Xd1vOUG2Qd2JZrbM",
+  "channel": "music",
+  "playing": false,
+  "folder": null,
+  "sorting": "a",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783104534098,
+    "modifiedTime": 1790120420321,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "seed": 52,
+  "_key": "!playlists!Xd1vOUG2Qd2JZrbM"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Long Rest — Whole Party (prep)",
+  "type": "script",
+  "command": "// Session-7 prep: full long rest for the four PCs, no dialogs.\n// newDay:true also refreshes 1/dawn items (Graveheart's Beat, First Light's Heroism,\n// Tideheart's death ward). advanceTime:false so world time does not jump.\nconst NAMES = [\n  \"Thomas A. Invictus\",\n  \"Jetten Elisedil\",\n  \"Morgash the Gravemaker\",\n  \"Gren Greenmantle\",\n];\n\nconst ok = [], bad = [];\n\nfor (const name of NAMES) {\n  const actor = game.actors.getName(name);\n  if (!actor) { bad.push(`${name} — actor not found`); continue; }\n  try {\n    await actor.longRest({ dialog: false, chat: false, newDay: true, advanceTime: false });\n  } catch (err) {\n    // Fallback for dnd5e builds that moved to the generic rest() entry point.\n    try {\n      await actor.rest({ type: \"long\", dialog: false, chat: false, newDay: true, advanceTime: false });\n    } catch (err2) {\n      bad.push(`${name} — ${err2.message ?? err.message}`);\n      continue;\n    }\n  }\n  const hp = actor.system.attributes.hp;\n  const slots = Object.entries(actor.system.spells ?? {})\n    .filter(([k, v]) => /^spell\\d$/.test(k) && v.max > 0)\n    .map(([k, v]) => `${k.replace(\"spell\", \"\")}: ${v.value}/${v.max}`)\n    .join(\" · \");\n  ok.push(`<b>${actor.name}</b> — HP ${hp.value}/${hp.max}${slots ? ` · slots ${slots}` : \"\"}`);\n}\n\nChatMessage.create({\n  whisper: ChatMessage.getWhisperRecipients(\"GM\"),\n  content: `<h3>Long rest — whole party</h3>${ok.join(\"<br>\")}` +\n           (bad.length ? `<br><br><b>Failed:</b><br>${bad.join(\"<br>\")}` : \"\"),\n});\n\nui.notifications.info(`Long rest applied to ${ok.length}/${NAMES.length} PCs.`);",
+  "img": "icons/svg/dice-target.svg",
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "_id": "XfELdidtSOjXW9uE",
+  "author": "EtG3ba47F3LHz0QC",
+  "scope": "global",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1788270923054,
+    "modifiedTime": 1788270923056,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!macros!XfELdidtSOjXW9uE"
+}

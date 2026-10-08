@@ -1,0 +1,169 @@
+{
+  "name": "Draught of Wholeness",
+  "type": "consumable",
+  "img": "modules/dnd-dungeon-masters-guide/assets/icons/items/potion-of-healing.webp",
+  "system": {
+    "activities": {
+      "6pjLMRaAveRvnVpt": {
+        "type": "heal",
+        "name": "Consume",
+        "_id": "6pjLMRaAveRvnVpt",
+        "sort": 0,
+        "activation": {
+          "type": "bonus",
+          "value": null,
+          "override": false,
+          "condition": ""
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "value": "1",
+              "target": "",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false,
+          "units": "touch",
+          "special": ""
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft",
+            "type": "",
+            "stationary": false
+          },
+          "affects": {
+            "choice": false,
+            "count": "1",
+            "type": "creature",
+            "special": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "healing": {
+          "number": 4,
+          "denomination": 4,
+          "types": [
+            "healing"
+          ],
+          "custom": {
+            "enabled": false
+          },
+          "scaling": {
+            "number": 1
+          },
+          "bonus": "4"
+        },
+        "img": "",
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "autoDestroy": true,
+      "max": "1"
+    },
+    "description": {
+      "value": "<p><em>Potion, Rare</em></p><p>A squat stoneware flask, stoppered with wax and warm to the palm the way the shard is warm. Hesper brews it for the ones she is keeping: a body that has been drunk from does not hold together well enough to be worth turning, so she gives it back what was taken, and begins again.</p><p><strong>When you drink this potion, you regain ALL hit-point maximum you have lost</strong> — every point shaved off by Life Drain or any similar effect is restored at once. You also regain 4d4 + 4 hit points.</p><p><em>There is exactly one of these in the Hollow. It will not be here twice.</em></p>",
+      "chat": ""
+    },
+    "identifier": "greater-potion-of-healing",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 750,
+      "denomination": "gp"
+    },
+    "rarity": "rare",
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "type": {
+      "value": "potion",
+      "subtype": ""
+    },
+    "damage": {
+      "base": {
+        "number": null,
+        "denomination": null,
+        "types": [],
+        "custom": {
+          "enabled": false
+        },
+        "scaling": {
+          "number": 1
+        }
+      },
+      "replace": false
+    },
+    "properties": [
+      "mgc"
+    ]
+  },
+  "effects": [],
+  "flags": {
+    "dnd5e": {}
+  },
+  "folder": "ZvqosDAyyigGrPNk",
+  "_stats": {
+    "exportSource": null,
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1786711077851,
+    "modifiedTime": 1786711120799,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_id": "vGUNVpQ8t6m7VHMj",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "_key": "!items!vGUNVpQ8t6m7VHMj"
+}

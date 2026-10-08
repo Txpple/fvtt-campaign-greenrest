@@ -1,0 +1,57 @@
+{
+  "name": "Jar of Widow's Tears",
+  "type": "loot",
+  "img": "icons/consumables/drinks/wine-amphora-clay-gray.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>A slender glass jar, stoppered and waxed, half-full of clear liquid that clings to the glass a moment too long when tilted. The cipher label has a second line added beneath it in a different, gloating hand. Held to the light, the liquid is very slightly gold, like the last hour of an afternoon.</em></p>",
+      "chat": ""
+    },
+    "quantity": 1,
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "rarity": "",
+    "identified": true,
+    "type": {
+      "value": "junk",
+      "subtype": ""
+    },
+    "identifier": "jar-of-widows-tears",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": []
+  },
+  "folder": "RxxShy6nmWycOcq7",
+  "_id": "fNfAEJve6ai7N24W",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1787965873020,
+    "modifiedTime": 1787965873025,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!fNfAEJve6ai7N24W"
+}

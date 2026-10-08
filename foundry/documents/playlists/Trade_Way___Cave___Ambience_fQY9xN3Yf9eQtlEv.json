@@ -1,0 +1,43 @@
+{
+  "name": "Trade Way - Cave — Ambience",
+  "mode": 0,
+  "sounds": [
+    {
+      "name": "419_Hidden_Passage.mp3",
+      "path": "worlds/the-broken-heart-of-greenrest/assets/audio/419_Hidden_Passage.mp3",
+      "volume": 0.5,
+      "repeat": true,
+      "_id": "qnZwMODBC3mv2LTy",
+      "channel": "",
+      "playing": false,
+      "sort": 0,
+      "flags": {},
+      "pausedTime": null,
+      "_key": "!playlists.sounds!fQY9xN3Yf9eQtlEv.qnZwMODBC3mv2LTy"
+    }
+  ],
+  "_id": "fQY9xN3Yf9eQtlEv",
+  "channel": "music",
+  "playing": false,
+  "folder": null,
+  "sorting": "a",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783088930503,
+    "modifiedTime": 1786191361664,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "seed": 833,
+  "_key": "!playlists!fQY9xN3Yf9eQtlEv"
+}

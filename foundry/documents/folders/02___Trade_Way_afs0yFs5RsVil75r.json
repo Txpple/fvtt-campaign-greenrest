@@ -1,0 +1,23 @@
+{
+  "type": "Item",
+  "folder": null,
+  "name": "02 - Trade Way",
+  "color": "#6a9358",
+  "sorting": "a",
+  "_id": "afs0yFs5RsVil75r",
+  "description": "",
+  "sort": 600000,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783083975053,
+    "modifiedTime": 1786552850699,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!afs0yFs5RsVil75r"
+}

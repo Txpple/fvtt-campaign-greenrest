@@ -1,0 +1,12 @@
+{
+  "name": "fvtt-campaign-greenrest",
+  "private": true,
+  "description": "The Broken Heart of Greenrest — a complete D&D campaign repo: plot, prep, session record, Foundry world, chronicle. Scripts only; no build.",
+  "scripts": {
+    "check": "node scripts/check.mjs",
+    "docx": "node scripts/md2docx.js"
+  },
+  "dependencies": {
+    "docx": "^9.7.1"
+  }
+}

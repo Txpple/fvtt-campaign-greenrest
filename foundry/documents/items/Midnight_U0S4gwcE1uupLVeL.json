@@ -1,0 +1,303 @@
+{
+  "name": "Midnight",
+  "type": "weapon",
+  "img": "worlds/the-broken-heart-of-greenrest/assets/icons/midnight-longsword-v2.png",
+  "system": {
+    "description": {
+      "value": "<p><em>The blade that was First Light. The rose-gold has run to ink; the steel drinks the candlelight and gives none of it back. It is not cold. It is simply without dawn.</em></p><p>Consecrated once to the Morninglord and surrendered in a sunless temple, this longsword now belongs to the Lady of Loss. The warmth left it the way a door closes somewhere far off — no thunderclap, no wrath: withdrawal. Its bearer knows the sword's name the way he knows his own reflection.</p><p>You gain a <strong>+2 bonus</strong> to attack rolls and damage rolls made with this magic weapon, and a hit deals an extra <strong>1d8 Necrotic damage</strong>.</p><p><strong>Death Armor.</strong> Once per day, the bearer may cast <em>Death Armor</em> from the sword (no spell slot). This use recovers at dawn.</p>",
+      "chat": ""
+    },
+    "quantity": 1,
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "weight": {
+      "value": 3,
+      "units": "lb"
+    },
+    "rarity": "veryRare",
+    "identified": true,
+    "equipped": true,
+    "attunement": "required",
+    "attuned": false,
+    "properties": [
+      "ver",
+      "mgc"
+    ],
+    "type": {
+      "value": "martialM",
+      "baseItem": "longsword"
+    },
+    "damage": {
+      "base": {
+        "number": 1,
+        "denomination": 8,
+        "types": [
+          "slashing"
+        ],
+        "bonus": "",
+        "scaling": {
+          "mode": "",
+          "number": 1
+        },
+        "custom": {
+          "enabled": false
+        }
+      },
+      "versatile": {
+        "number": 1,
+        "denomination": 10,
+        "types": [
+          "slashing"
+        ],
+        "bonus": "",
+        "scaling": {
+          "mode": "",
+          "number": 1
+        },
+        "custom": {
+          "enabled": false
+        }
+      }
+    },
+    "magicalBonus": "2",
+    "range": {
+      "value": null,
+      "long": null,
+      "units": "ft"
+    },
+    "activities": {
+      "dSOCag5X4q4smtYU": {
+        "_id": "dSOCag5X4q4smtYU",
+        "type": "attack",
+        "name": "",
+        "img": "",
+        "sort": 0,
+        "description": {},
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "duration": {
+          "units": "inst",
+          "value": "",
+          "override": false,
+          "concentration": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "prompt": true,
+          "override": false
+        },
+        "range": {
+          "units": "self",
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": []
+        },
+        "consumption": {
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true
+        },
+        "attack": {
+          "ability": "",
+          "bonus": "",
+          "critical": {
+            "threshold": null
+          },
+          "flat": false,
+          "type": {
+            "value": "melee",
+            "classification": ""
+          }
+        },
+        "damage": {
+          "critical": {
+            "bonus": ""
+          },
+          "includeBase": true,
+          "parts": [
+            {
+              "number": 1,
+              "denomination": 8,
+              "bonus": "",
+              "types": [
+                "necrotic"
+              ],
+              "custom": {
+                "enabled": false,
+                "formula": ""
+              },
+              "scaling": {
+                "mode": "",
+                "number": null,
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "effects": [],
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        }
+      },
+      "05cu9AvnzBEmYiov": {
+        "_id": "05cu9AvnzBEmYiov",
+        "type": "cast",
+        "name": "Death Armor",
+        "img": "",
+        "sort": 0,
+        "spell": {
+          "uuid": "Compendium.dnd-heroes-faerun.options.Item.hofDeathArmor000",
+          "challenge": {
+            "attack": null,
+            "override": false
+          },
+          "level": 2,
+          "properties": [
+            "vocal",
+            "somatic",
+            "material"
+          ],
+          "spellbook": true
+        },
+        "activation": {
+          "type": "action",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": false,
+          "targets": [
+            {
+              "type": "itemUses",
+              "value": "1",
+              "target": "",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "range": {
+          "override": false,
+          "units": "self"
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft",
+            "stationary": false
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "recovery": [
+        {
+          "period": "dawn",
+          "type": "recoverAll"
+        }
+      ],
+      "max": "1"
+    },
+    "identifier": "midnight",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "custom": "Session 7 — The Turn"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "crew": {
+      "value": []
+    },
+    "ammunition": {},
+    "armor": {},
+    "proficient": null,
+    "mastery": "sap"
+  },
+  "folder": "HQ0QPGSivrbQkc6C",
+  "_id": "U0S4gwcE1uupLVeL",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1788551129920,
+    "modifiedTime": 1788551174386,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!U0S4gwcE1uupLVeL"
+}

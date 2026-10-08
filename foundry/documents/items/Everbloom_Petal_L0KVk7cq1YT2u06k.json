@@ -1,0 +1,57 @@
+{
+  "name": "Everbloom Petal",
+  "type": "loot",
+  "img": "icons/magic/nature/leaf-glow-green.webp",
+  "system": {
+    "description": {
+      "value": "<p>A single spring blossom, dew still beading on its petals, plucked from a hollow that was blooming in the wrong season. It never wilts and never quite loses its warmth — as though it is holding onto a summer afternoon that ended a very long time ago. It is worth nothing, and it will outlast everyone who carries it.</p>",
+      "chat": ""
+    },
+    "quantity": 1,
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "rarity": "",
+    "identified": true,
+    "properties": [],
+    "type": {
+      "value": "junk",
+      "subtype": ""
+    },
+    "identifier": "everbloom-petal",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "container": null
+  },
+  "folder": "dCkoCKLcTTG8l8hT",
+  "_id": "L0KVk7cq1YT2u06k",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783089305736,
+    "modifiedTime": 1783220997117,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!L0KVk7cq1YT2u06k"
+}

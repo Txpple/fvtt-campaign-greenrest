@@ -1,0 +1,32 @@
+{
+  "type": "script",
+  "scope": "actor",
+  "name": "Keoghtom's Ointment",
+  "img": "modules/dnd-dungeon-masters-guide/assets/icons/items/keoghtoms-ointment.webp",
+  "command": "dnd5e.documents.macro.rollItem(\"Keoghtom's Ointment\", { event })",
+  "flags": {
+    "dnd5e": {
+      "itemMacro": true
+    }
+  },
+  "_id": "96EyMOn7vQI8C0RC",
+  "author": "DVSDeA29YhlyJV2g",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DVSDeA29YhlyJV2g": 3
+  },
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1784081042065,
+    "modifiedTime": 1784081042066,
+    "lastModifiedBy": "DVSDeA29YhlyJV2g",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!macros!96EyMOn7vQI8C0RC"
+}

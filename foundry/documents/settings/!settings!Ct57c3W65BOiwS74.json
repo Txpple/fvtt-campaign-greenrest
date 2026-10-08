@@ -1,0 +1,18 @@
+{
+  "key": "fvtt-mod-combatplus.nextTurnSoundPath",
+  "user": null,
+  "value": "\"worlds/the-broken-heart-of-greenrest/assets/sfx/upnext.mp3\"",
+  "_id": "Ct57c3W65BOiwS74",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783697639151,
+    "modifiedTime": 1783697639151,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!Ct57c3W65BOiwS74"
+}

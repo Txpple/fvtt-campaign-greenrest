@@ -1,0 +1,57 @@
+{
+  "name": "Pouch of Cut Gems",
+  "type": "loot",
+  "img": "icons/containers/bags/pouch-leather-pink.webp",
+  "system": {
+    "description": {
+      "value": "<p>A twist of cloth holding three small polished stones — a bloodstone, a piece of banded agate, and a smoky citrine. About 90 gp the lot.</p>",
+      "chat": ""
+    },
+    "quantity": 1,
+    "price": {
+      "value": 90,
+      "denomination": "gp"
+    },
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "rarity": "",
+    "identified": true,
+    "properties": [],
+    "type": {
+      "value": "gem",
+      "subtype": ""
+    },
+    "identifier": "pouch-of-cut-gems",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "container": null
+  },
+  "folder": "IRI8Gfz0uA2I8cID",
+  "_id": "gU4Lh1G5zHRD9SIa",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783040220963,
+    "modifiedTime": 1783040553514,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!gU4Lh1G5zHRD9SIa"
+}

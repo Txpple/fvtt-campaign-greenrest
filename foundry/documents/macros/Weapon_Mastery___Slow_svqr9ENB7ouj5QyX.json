@@ -1,0 +1,29 @@
+{
+  "name": "Weapon Mastery - Slow",
+  "type": "script",
+  "command": "dnd5e.documents.macro.rollItem(\"Weapon Mastery - Slow\")",
+  "img": "modules/dnd-players-handbook/assets/icons/items/longbow.webp",
+  "ownership": {
+    "default": 0,
+    "LVDVg5n3IGEBCWns": 3,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "_id": "svqr9ENB7ouj5QyX",
+  "author": "EtG3ba47F3LHz0QC",
+  "scope": "global",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783520089570,
+    "modifiedTime": 1783520090341,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!macros!svqr9ENB7ouj5QyX"
+}

@@ -1,0 +1,201 @@
+{
+  "name": "The Duskheart",
+  "type": "equipment",
+  "img": "worlds/the-broken-heart-of-greenrest/assets/hearts/duskheart-item.webp",
+  "system": {
+    "description": {
+      "value": "<p>A quarter of a heart, turned to crystal: <strong>dark purple, very nearly black</strong>, and the light does not sit on its surface — it crawls <em>under</em> it, slow, like something turning over in deep water. It is the size of two cupped hands, and the chambering and the sheared-off vessels are still there inside the stone like flaws in a gem. It is warm — blood-warm, and stone should be cold — and it beats, slowly, faintly. It does not chip and it does not scratch. It has already been broken.</p><p><strong>The vision.</strong> The Duskheart requires attunement. The first time you hold it, it shows you one thing. A beautiful green woman, glowing white, leaves crowning her head, weeping. She closes her hands over her own chest, and her heart bursts. The pieces scatter into the dark, hardening as they fly. The burst drives the mists back in a great ring, baring a bare green valley next to a beautiful lake. Where she stood, a tree: grey, leafless, asleep. A single faint heartbeat, and it is over.</p><p><strong>While you carry the Duskheart</strong> you have advantage on Wisdom saving throws.</p><p>Once between dusks, you can lay the shard against a sleeping or willing brow — or the brow of someone who cannot stop you — and take a memory out of them, or put a kinder one in its place. It casts <em>modify memory</em>: the shard is the only component needed, and it asks nothing of you but the choice.</p><p><em>It does not feel like theft. It feels like setting something heavy down.</em></p><p><em>It is one chamber of a heart — and a heart has four. You cannot shake the feeling that, whole, it could do so much more.</em></p>",
+      "chat": ""
+    },
+    "source": {
+      "rules": "2024",
+      "revision": 1,
+      "custom": "Session 7 — Temple of Shar"
+    },
+    "rarity": "legendary",
+    "identified": true,
+    "attunement": "required",
+    "attuned": false,
+    "equipped": false,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "properties": [
+      "mgc"
+    ],
+    "type": {
+      "value": "trinket",
+      "baseItem": ""
+    },
+    "identifier": "the-duskheart",
+    "activities": {
+      "duskheartmemory0": {
+        "_id": "duskheartmemory0",
+        "type": "cast",
+        "name": "Modify Memory",
+        "sort": 0,
+        "spell": {
+          "uuid": "Compendium.dnd-players-handbook.spells.Item.phbsplModifyMemo",
+          "challenge": {
+            "attack": null,
+            "override": false
+          },
+          "level": 5,
+          "properties": [],
+          "spellbook": true
+        },
+        "activation": {
+          "type": "action",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": false,
+          "targets": [
+            {
+              "type": "activityUses",
+              "value": "1",
+              "target": "",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "range": {
+          "override": false,
+          "units": "touch"
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft",
+            "stationary": false
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "max": "1",
+          "recovery": [
+            {
+              "period": "dusk",
+              "type": "recoverAll"
+            }
+          ]
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "recovery": []
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "crew": {
+      "value": []
+    },
+    "armor": {
+      "value": null,
+      "dex": null
+    },
+    "proficient": null,
+    "strength": null
+  },
+  "folder": "HQ0QPGSivrbQkc6C",
+  "_id": "80qDI4JqRT8cZ1Q4",
+  "effects": [
+    {
+      "name": "The Duskheart",
+      "img": "worlds/the-broken-heart-of-greenrest/assets/hearts/duskheart-item.webp",
+      "disabled": false,
+      "transfer": true,
+      "description": "<p>While you carry the Duskheart you have advantage on Wisdom saving throws.</p>",
+      "system": {
+        "changes": [
+          {
+            "key": "system.abilities.wis.save.roll.mode",
+            "value": 1,
+            "type": "add",
+            "phase": "initial",
+            "_id": "F7eBpExPbukMzmLM",
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "magical": true
+      },
+      "_id": "E8bBZ9WIhrpP6yTG",
+      "type": "base",
+      "start": null,
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "origin": null,
+      "tint": "#ffffff",
+      "statuses": [],
+      "showIcon": 1,
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1788551564078,
+        "modifiedTime": 1790016577819,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!items.effects!80qDI4JqRT8cZ1Q4.E8bBZ9WIhrpP6yTG"
+    }
+  ],
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1788333304316,
+    "modifiedTime": 1790016577818,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!80qDI4JqRT8cZ1Q4"
+}

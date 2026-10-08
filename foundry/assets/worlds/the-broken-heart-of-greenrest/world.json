@@ -1,0 +1,16 @@
+{
+  "title": "The Broken Heart of Greenrest",
+  "system": "dnd5e",
+  "description": "<p>From your home base of Daggerford, a road runs southeast into the Misty Forest — old fey country, where the trees watch and the mist keeps its own counsel. Four forgotten ruins lie in that green dark, and scattered among them are the pieces of the Broken Heart: a relic worth more than anything you've ever carried out of anywhere. Your map marks one refuge. Greenrest — too small for most charts, the last roof and market for days in any direction, the only place to rest, resupply, and set out again. Clear the ruins in any order. The Misty Forest doesn't care, and neither do the things waiting inside them. Four pieces, sunk in the forest's mysteries. And somewhere out there with them, the reason someone broke it. Hearts don't break by accident.</p>",
+  "id": "the-broken-heart-of-greenrest",
+  "coreVersion": "14.368",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14.368"
+  },
+  "systemVersion": "6.0.5",
+  "lastPlayed": "Wed Sep 30 2026 21:33:25 GMT+0000 (Coordinated Universal Time)",
+  "playtime": 824336,
+  "background": "systems/dnd5e/ui/official/dnd5e-background.webp",
+  "flags": {}
+}

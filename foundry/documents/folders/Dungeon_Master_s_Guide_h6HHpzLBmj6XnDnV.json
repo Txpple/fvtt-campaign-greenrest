@@ -1,0 +1,23 @@
+{
+  "_id": "h6HHpzLBmj6XnDnV",
+  "name": "Dungeon Master's Guide",
+  "type": "Compendium",
+  "sorting": "m",
+  "sort": 100000,
+  "color": "#1e72cc",
+  "folder": null,
+  "description": "",
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1782928837414,
+    "modifiedTime": 1782928837414,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!h6HHpzLBmj6XnDnV"
+}

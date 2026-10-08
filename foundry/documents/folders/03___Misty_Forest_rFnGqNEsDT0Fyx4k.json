@@ -1,0 +1,28 @@
+{
+  "name": "03 - Misty Forest",
+  "type": "Actor",
+  "folder": null,
+  "flags": {
+    "world": {
+      "mcpGenerated": true,
+      "createdAt": "2026-07-03T02:55:14.959Z"
+    }
+  },
+  "_id": "rFnGqNEsDT0Fyx4k",
+  "description": "",
+  "sorting": "a",
+  "sort": 0,
+  "color": "#8172a6",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783047314848,
+    "modifiedTime": 1786552804719,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!rFnGqNEsDT0Fyx4k"
+}

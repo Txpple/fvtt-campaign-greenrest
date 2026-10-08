@@ -1,0 +1,23 @@
+{
+  "_id": "nwBZZOug3cV3Z56J",
+  "name": "Heroes of Faerûn",
+  "type": "Compendium",
+  "sorting": "m",
+  "sort": 200000,
+  "color": "#4e1919",
+  "folder": null,
+  "description": "",
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1782928837414,
+    "modifiedTime": 1782928837414,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!nwBZZOug3cV3Z56J"
+}

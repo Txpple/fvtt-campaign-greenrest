@@ -1,0 +1,64 @@
+{
+  "name": "Temple Encounter 01",
+  "pages": [
+    {
+      "type": "text",
+      "name": "Temple Encounter 01",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><p class=\"lead\">Quick read-aloud — the cliff and the pleading light (the will-o'-wisp lure). Full lure (the checks, running it) in @UUID[JournalEntry.rfb9vfKtJln53vdC.JournalEntryPage.HU6kkEC1I1yvXEyn]{Misty Forest GM Key — The Lure}.</p><div class=\"readaloud\"><p>Where the misty ground gives way to bare, wet rock, a low cliff rises out of the fog — grey and streaked and split near its base by a cleft taller than a man, black as a held breath. A single small light hangs before the opening: round and warm as a held candle, yet it casts no glow on the stone and throws no shadow. As you watch, it drifts toward you, then back toward the dark cleft, then toward you again — quicker, insistent, the way a hand beckons someone who is running out of time. There is something almost pleading in it, as though it needs you to follow, as though whatever waits inside cannot wait much longer. Then it slips a little way into the cave and hangs there, glowing softly in the black, waiting to see if you will come.</p></div></div></section>",
+        "format": 1
+      },
+      "_id": "wKV4NUloZ5hGULqG",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783619737837,
+        "modifiedTime": 1783619737837,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!BvJ6Tl8GfwpvhOAF.wKV4NUloZ5hGULqG"
+    }
+  ],
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "folder": "1x1aqmuIbAwqab65",
+  "_id": "BvJ6Tl8GfwpvhOAF",
+  "categories": [],
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783619737837,
+    "modifiedTime": 1783619737838,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!BvJ6Tl8GfwpvhOAF"
+}

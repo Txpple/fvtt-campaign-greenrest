@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Session 7 — GM Notes · Mechanics · The Temple of Shar</title>
+<style>
+  :root{--bg:#f4f1ea;--surface:#fffdf8;--rule:#e2d9c8;--edge:#d8cfc0;--ink:#3d3225;--ink2:#4a3f30;--muted:#8a7a5c;--head:#6b5535;--accent:#9c5442;--accent-soft:#f2ead9;--band:#b3a284;--serif:Georgia,'Times New Roman',serif}
+  *{box-sizing:border-box}html,body{margin:0;padding:0}
+  body{background:var(--bg);font-family:var(--serif);color:var(--ink2);-webkit-print-color-adjust:exact;print-color-adjust:exact}
+  .wrap{max-width:860px;margin:0 auto;padding:24px 8px}.sheet{background:var(--surface);border:1px solid var(--edge);border-radius:8px;overflow:hidden}
+  header{padding:28px 32px 18px;border-bottom:3px double var(--band)}.eyebrow{margin:0;font-size:13px;letter-spacing:2px;text-transform:uppercase;color:var(--muted)}
+  h1{margin:6px 0 4px;font-size:27px;line-height:1.2;color:var(--ink)}.sub{margin:0;font-size:13px;color:var(--muted)}
+  section{padding:6px 32px}h2{margin:22px 0 8px;font-size:18px;color:var(--head);border-bottom:1px solid var(--rule);padding-bottom:5px}
+  p{margin:0 0 12px;font-size:15px;line-height:1.65}.lead{font-style:italic}strong{color:var(--ink)}code{font-size:13px;background:var(--accent-soft);padding:1px 4px;border-radius:3px}
+  ul,ol{margin:0 0 14px;padding-left:22px;font-size:15px;line-height:1.65}li{margin-bottom:6px}
+  .check{list-style:none;padding-left:4px}.check li{padding-left:26px;position:relative}.check li::before{content:"\2610";position:absolute;left:0;top:0;color:var(--muted)}.check li.done::before{content:"\2611";color:var(--accent)}
+  .callout{background:var(--accent-soft);border-left:4px solid var(--band);border-radius:4px;padding:13px 17px;margin:0 0 16px}.callout p{margin:0;font-size:14px;line-height:1.6;color:#5d4e38}.flag{border-left-color:var(--accent)}
+  footer{padding:14px 32px 22px;border-top:1px solid var(--rule);font-size:12px;color:#9c8f78}
+  @media print{body{background:#fff}.wrap{padding:0}.sheet{border:none;border-radius:0}section,header{padding-left:0;padding-right:0}h2{page-break-after:avoid}.callout,li{page-break-inside:avoid}}
+</style>
+</head>
+<body><div class="wrap"><div class="sheet">
+<header>
+  <p class="eyebrow">The Broken Heart of Greenrest &mdash; Session 7 &mdash; GM Notes &middot; Mechanics</p>
+  <h1>The Temple of Shar</h1>
+  <p class="sub">8 September 2026 &middot; bookkeeping, automation that cost time, rulings, table observations</p>
+</header>
+
+<section>
+  <p class="lead">The system, the sheets and the table. Plot is in the story notes; the combat numbers are in the combat log.</p>
+  <div class="callout flag"><p><strong>Act on this first: Careful Spell + Fireball in Battle Flow.</strong> Both casts auto-rolled saves for the <em>excluded</em> allies and auto-applied the damage; nine applications were reverted by hand across two rounds, and one of those reverts is what un-killed Gren. It was the single biggest time sink of the night and Gren will cast it again on Monday.</p></div>
+</section>
+
+<section>
+  <h2>1 &middot; Bookkeeping to apply before Monday</h2>
+  <ul class="check">
+    <li>Level 6, all four PCs.</li>
+    <li class="done"><strong>Actor renamed</strong> <code>Thomas A. Invictus</code> &rarr; <code>Justiciar Invictus</code> (<code>dCMYjnrBUrdCqXwo</code>). This session's snapshot is <code>Justiciar Invictus.json</code>; every earlier one is <code>Thomas A. Invictus.json</code>. Same actor.</li>
+    <li class="done"><strong>Duskheart</strong> on Jetten, attuned at the table.</li>
+    <li class="done"><strong>Vesper Staff</strong> on Gren. Attunement line changed tonight to <strong>Cleric, Sorcerer, or Wizard</strong> on his copy and the world item (it read "Cleric or Wizard" and excluded him).</li>
+    <li><strong>Robe of Protection</strong> &mdash; Morgash said he'd drop the <strong>Periapt of Wound Closure</strong> to attune. Verify: he was at Maul of Momentum + Graveheart + Periapt.</li>
+    <li><strong>Sera's Longbow</strong> &mdash; Selma handed it back; Morgash claimed it. Confirm it left her inventory and is on his sheet.</li>
+    <li><strong>Renlow Veck's Signet Ring</strong> (Morgash, <code>Xo6UU8qyO0VQURwR</code>) &mdash; created pre-session as a bare ring. At the table Morgash took <strong>the whole finger</strong>. Rename/redescribe, or leave as flavour. One-line edit.</li>
+    <li class="done"><strong>Temple loot</strong> &mdash; seven items, ~1,500 gp, in the party stash.</li>
+    <li><strong>Party coin</strong> &mdash; ~1,500 gp in from the hag hoard, 300 gp out for six Potions of Healing. Reconcile the stash.</li>
+    <li><strong>Potions</strong> &mdash; Jetten 2, Invictus 1, Morgash 1, Gren kept 2.</li>
+    <li><strong>Heroic Inspiration for Morgash.</strong> Said mid-fight that he should have had one for the grapple argument; award it at the top of session 8.</li>
+  </ul>
+</section>
+
+<section>
+  <h2>2 &middot; Automation that cost time &mdash; ranked by minutes lost</h2>
+  <ol>
+    <li><strong>Careful Spell + Fireball.</strong> Both Fireballs auto-rolled Dex saves for the excluded allies and auto-applied damage: four reverts the first time, five the second &mdash; and <strong>the second revert is what un-killed Gren</strong>, who went to 0 from his own spell through a timer-rolled save. Careful Spell needs to actually exclude the chosen creatures from the save prompt, or the prompt needs to stop auto-rolling.</li>
+    <li><strong>The 24-second decision timer auto-resolves saves.</strong> It fired on two Fireball saves, a Spirit Guardians save and a shield-bash offer. Auto-rolling a <em>save</em> on timeout is the dangerous case &mdash; it is how Gren dropped. Longer timer, or timeout = re-prompt rather than roll.</li>
+    <li><strong>Spirit Guardians rolled a save for Gren out of range.</strong> Flagged as a bug and reverted. The emanation is catching tokens outside the aura, or the wall isn't blocking.</li>
+    <li><strong>Stale Shield effect after a revert.</strong> The rewind left a <em>Shield</em> effect on Gren, so the reaction wasn't offered on the next hit and that damage was reverted by hand too. Reverts should clear effects they applied.</li>
+    <li><strong>Private rolls toggled on by accident</strong> at the start of the floor fight. Cosmetic; confused two turns.</li>
+  </ol>
+</section>
+
+<section>
+  <h2>3 &middot; Rulings made &mdash; keep consistent</h2>
+  <ul>
+    <li><strong>Divine Smite is melee-weapon only.</strong> No javelin smites.</li>
+    <li><strong>Find Steed is largely flavour indoors.</strong> The steed doesn't come into the dungeon.</li>
+    <li><strong>Dreadful Strike:</strong> once per turn, uses = Wisdom modifier.</li>
+    <li><strong>Prayer of Healing:</strong> ten-minute cast, grants short-rest benefits. Used mid-dungeon; it changed the boss fight (52 HP across 8 hit dice plus superiority dice and sorcery points back). Expect it every session now.</li>
+    <li><strong>Sorcerous Restoration</strong> costs five sorcery points for a 3rd-level slot. Gren used the Pearl of Power instead &mdash; which became Fireball #2.</li>
+    <li><strong>Non-proficiency with a tool kit</strong> = no proficiency bonus, not inability to use it.</li>
+    <li><strong>Bog Staff is not magical.</strong> 1d8 plus stale bullywug poison, no +2.</li>
+    <li><strong>Careful Spell RAW</strong> is what was ruled: excluded allies take nothing. The automation is what's wrong, not the ruling.</li>
+    <li><strong>Vow of Enmity</strong> was pointed out to Invictus and never used. It's free advantage for a minute &mdash; remind him.</li>
+  </ul>
+</section>
+
+<section>
+  <h2>4 &middot; Player and table observations</h2>
+  <ul>
+    <li><strong>Robert isn't using his hotbar.</strong> Every Lay on Hands and every Midnight attack was a sheet dig. It will cost more at level 6 with more options.</li>
+    <li><strong>Anthony (Morgash)</strong> generated 18 timed decisions &mdash; the most at the table &mdash; at a mid-pack 12.5s average, and carried two roleplay scenes. The martial kit is fully in use.</li>
+    <li><strong>Drew (Jetten)</strong> is the fastest seat by a distance: 4.6s average, halved since session 6.</li>
+    <li><strong>Tom (Gren)</strong> is exporting his sheet to Claude for level-up help; it mixes 2014 and 2024 rules. It will come up again at level 6 for everyone.</li>
+    <li><strong>Craig flagged an encode warning on the DM track.</strong> Audio came through fine.</li>
+    <li><strong>Pacing:</strong> 3h26m, combat began at 1h51m, nobody minded. The talk <em>was</em> the session.</li>
+  </ul>
+</section>
+
+<section>
+  <h2>5 &middot; Combat observations &mdash; pointer</h2>
+  <p>Full report in the combat log. Two things to carry forward:</p>
+  <ul>
+    <li><strong>Careful Spell prevented 188 damage for two sorcery points</strong> &mdash; nearly the party's whole damage-taken total (201). Best spend two sessions running; see &sect;2 for why it's also the biggest time cost.</li>
+    <li><strong>Topple went 2 for 7</strong> against DC 15 Con saves (86% last session). Sharran statblocks have good Con; the Maul is not the auto-prone it was against bullywugs.</li>
+  </ul>
+</section>
+
+<footer>GM-only. Compiled from the transcript, the chat log and the live sheets by the session scribe.</footer>
+</div></div></body></html>

@@ -1,0 +1,32 @@
+{
+  "type": "script",
+  "scope": "actor",
+  "name": "+1 Dagger",
+  "img": "modules/dnd-players-handbook/assets/icons/items/dagger.webp",
+  "command": "dnd5e.documents.macro.rollItem(\"+1 Dagger\", { event })",
+  "flags": {
+    "dnd5e": {
+      "itemMacro": true
+    }
+  },
+  "_id": "NJ4MHHrnUdtHeoM9",
+  "author": "LVDVg5n3IGEBCWns",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "LVDVg5n3IGEBCWns": 3
+  },
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1786482707336,
+    "modifiedTime": 1786482707337,
+    "lastModifiedBy": "LVDVg5n3IGEBCWns",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!macros!NJ4MHHrnUdtHeoM9"
+}

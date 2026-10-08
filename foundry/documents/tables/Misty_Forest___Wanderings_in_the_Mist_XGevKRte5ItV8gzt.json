@@ -1,0 +1,342 @@
+{
+  "name": "Misty Forest — Wanderings in the Mist",
+  "description": "Eerie, low-stakes travel encounters for the trek through the Misty Forest, on the way to the Hidden Temple — mood and roleplay, never a real threat (monsters instinctively shun this wood). NONE of these reveal the truth of the forest. Three entries — the sourceless song (03), the carved heart naming CORIN (07), and the shared dream if they camp (12) — carry very nascent, deniable hints of the Dreamer, her lost love, and the grief bleeding out of her; let them pass as fey strangeness, an old carving, and an uncanny dream. Four entries (02, 04, 06, 08) hand the party a small keepsake to keep. Rollable on any leg of the journey through the wood.",
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "type": "text",
+      "description": "<strong>The Watching Doe</strong> — a pale, dapple-grey doe stands square in the path and does not startle, does not flee — she simply <em>watches</em>, the long, patient way a person watches, not an animal. Hold her gaze and there is something almost like recognition in it. The moment anyone steps toward her she is not there — no bound, no crash of brush, just gone, and the mist where she stood.<br><em>GM — set the tone with this one: nothing in this wood behaves quite the way an animal should. No check reveals anything; she is simply wrong, and gone.</em>",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "SwS7W5M4uQVaqu56",
+      "name": "",
+      "img": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783089414424,
+        "modifiedTime": 1783089414424,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!XGevKRte5ItV8gzt.SwS7W5M4uQVaqu56"
+    },
+    {
+      "type": "text",
+      "description": "<strong>The Out-of-Season Hollow</strong> — the path dips into a warm hollow full of spring flowers in full, dewy bloom, though the trees standing over them are bare and the air everywhere else is cold. It smells of a May morning that should not exist here. Nothing harms anyone who lingers; it is just gently, insistently wrong.<br><em>GM — a party member may pick a blossom that never wilts. Gives the party: Everbloom Petal.</em> @UUID[Item.L0KVk7cq1YT2u06k]{Everbloom Petal}",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "p4WgCL9f4rrQckNL",
+      "name": "",
+      "img": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783089414424,
+        "modifiedTime": 1783089414424,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!XGevKRte5ItV8gzt.p4WgCL9f4rrQckNL"
+    },
+    {
+      "type": "text",
+      "description": "<strong>The Song With No Singer</strong> — somewhere just ahead a woman is humming, low and slow and unbearably sad, an old tune half-remembered. Follow it and it is always around the next trunk — never closer, never farther — and it fades the instant they stop trying to find her. No one is ever there.<br><em>GM — nascent clue: the Dreamer's grief, leaking into the wood as a song (the same melody as the ballad \"The Green and the Grey\" from the Trade Way table, if a player makes the leap). Let it stay a sad, sourceless tune; reveal nothing.</em>",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "zZEQptytBTrfoXVx",
+      "name": "",
+      "img": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783089414424,
+        "modifiedTime": 1783089414424,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!XGevKRte5ItV8gzt.zZEQptytBTrfoXVx"
+    },
+    {
+      "type": "text",
+      "description": "<strong>The Fairy Ring</strong> — a flawless ring of pale mushrooms in a clearing, the grass inside greener than anywhere around it. Stepping inside does nothing magical at all — but everyone who does feels, for a single heartbeat, the certainty that they have stood here before and were <em>happy</em>. They have not.<br><em>GM — harmless; the old fairy-ring dread is a bluff here. A player who picks a cap keeps it. Gives the party: Fey Ring Cap.</em> @UUID[Item.Q8ZpqxiZU7FdVllM]{Fey Ring Cap}",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "ri37sN63yGX2VEmZ",
+      "name": "",
+      "img": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783089414424,
+        "modifiedTime": 1783089414424,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!XGevKRte5ItV8gzt.ri37sN63yGX2VEmZ"
+    },
+    {
+      "type": "text",
+      "description": "<strong>The Mirror Pond</strong> — a small pool so perfectly still it holds the sky like glass. But the sky it holds is a clear, warm blue afternoon — while overhead it is grey, and misted, and drawing on toward evening. Drop a stone and the ripples clear to show the wrong sky again.<br><em>GM — pure mood. If someone insists on reading meaning into it, they see nothing but the borrowed afternoon.</em>",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "9YhpfgALFb08MAbM",
+      "name": "",
+      "img": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783089414424,
+        "modifiedTime": 1783089414424,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!XGevKRte5ItV8gzt.9YhpfgALFb08MAbM"
+    },
+    {
+      "type": "text",
+      "description": "<strong>The Toy in the Roots</strong> — wedged into the roots of an old tree, a child's carved wooden fox, weathered soft but somehow un-rotted, as if set down a moment ago. There is no village for a day in any direction. No sign of who left it, or when, or why it is still faintly warm.<br><em>GM — a quiet ache of loss with no answer attached. A player may pocket it. Gives the party: Carved Wooden Fox.</em> @UUID[Item.huzmudEOBsJ7gt6L]{Carved Wooden Fox}",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "4N6xEPQAE59DVsyf",
+      "name": "",
+      "img": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783089414424,
+        "modifiedTime": 1783089414424,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!XGevKRte5ItV8gzt.4N6xEPQAE59DVsyf"
+    },
+    {
+      "type": "text",
+      "description": "<strong>The Carved Heart</strong> — an old beech grown broad and grey, and cut into its bark long ago: a heart, and two names. One reads <strong>CORIN</strong>. The other has been worn — or wept — away to nothing. The cut is decades old, yet clear sap still beads along it, slow, like a wound that never learned to close.<br><em>GM — nascent clue: the Dreamer and her lost mortal love. Play it as any old lovers' carving; do not tie it to anything yet. If they ask around later, no one local has ever heard the name.</em>",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_id": "5TF1HxXzQuD1ayb9",
+      "name": "",
+      "img": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783089414424,
+        "modifiedTime": 1783089414424,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!XGevKRte5ItV8gzt.5TF1HxXzQuD1ayb9"
+    },
+    {
+      "type": "text",
+      "description": "<strong>The Lost Traveller</strong> — a man in old-fashioned dress walks the other way, unhurried and courteous. He greets the party warmly and asks — with gentle, genuine confusion — what year it is, and whether <em>the war is over</em>. Which war? He cannot quite say. He thanks them all the same, presses a coin into someone's hand for the kindness, tips his hat, and walks on into the mist.<br><em>GM — the wood does not keep time. He is decades — centuries? — adrift, and does not know it. Gives the party: Worn Half-Penny.</em> @UUID[Item.4TIJfxrcBRkgldi4]{Worn Half-Penny}",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_id": "E9XupOi0CXOJ1A4K",
+      "name": "",
+      "img": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783089414424,
+        "modifiedTime": 1783089414424,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!XGevKRte5ItV8gzt.E9XupOi0CXOJ1A4K"
+    },
+    {
+      "type": "text",
+      "description": "<strong>The Offering-Willow</strong> — a great willow whose trailing branches are hung with hundreds of little tokens: ribbons, buttons, carved beads, locks of hair, a tin ring — offerings tied here by countless hands over what must be centuries. Taking one feels unspeakably wrong. Leaving one feels right.<br><em>GM — an RP beat, not a trap. If a player ties on a small offering of their own, nothing \"happens\" — but for the next hour the wood feels a shade gentler and the mist a little thinner. Let them feel noticed.</em>",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_id": "Eo1ICZC9HMTyZDVv",
+      "name": "",
+      "img": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783089414424,
+        "modifiedTime": 1783089414424,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!XGevKRte5ItV8gzt.Eo1ICZC9HMTyZDVv"
+    },
+    {
+      "type": "text",
+      "description": "<strong>The Swallowed Cart</strong> — a merchant's cart, abandoned so long that saplings have grown up through its bed and moss has furred every plank; the forest is quietly eating it. Nothing of worth remains — but a tin cup still sits upright on the driver's seat, as though set down a moment ago and simply never picked back up.<br><em>GM — mood. How long has it stood here? The cup says no time at all; the saplings say a lifetime. Both are true.</em>",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_id": "SvoJG4yI0JwlkQwL",
+      "name": "",
+      "img": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783089414424,
+        "modifiedTime": 1783089414424,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!XGevKRte5ItV8gzt.SvoJG4yI0JwlkQwL"
+    },
+    {
+      "type": "text",
+      "description": "<strong>The Fox That Leads</strong> — a small red fox trots along the path ahead, stops, looks back over its shoulder, and plainly waits to be followed. It leads them a while — truer and easier toward the shrine than the mist should allow — then slips sideways into the ferns and is gone.<br><em>GM — a small kindness from the wood. Use it to nudge a lost or dithering party back toward the Hidden Temple; nothing sinister, this once.</em>",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_id": "Cdm4dYQ6vrW1cGY7",
+      "name": "",
+      "img": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783089414424,
+        "modifiedTime": 1783089414424,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!XGevKRte5ItV8gzt.Cdm4dYQ6vrW1cGY7"
+    },
+    {
+      "type": "text",
+      "description": "<strong>The Shared Dream</strong> <em>(only if the party rests or camps in the wood)</em> — everyone who sleeps here wakes from the <em>same</em> dream: a green and sunlit place, a golden-haired woman with her back turned, and a grief so vast there are no words inside it. No one remembers more than that. They wake unrested, and oddly reluctant to speak of it aloud.<br><em>GM — nascent clue, and the strongest of them: the Dreamer, and the shared dreams that spread from her. Still deniable — a shared dream is uncanny, not proof. Do not name her; let the wrongness sit.</em>",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_id": "UeFcjPCgLyXAqVhq",
+      "name": "",
+      "img": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783089414424,
+        "modifiedTime": 1783089414424,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!XGevKRte5ItV8gzt.UeFcjPCgLyXAqVhq"
+    }
+  ],
+  "_id": "XGevKRte5ItV8gzt",
+  "img": "icons/svg/d20-grey.svg",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783089414424,
+    "modifiedTime": 1783089414426,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!XGevKRte5ItV8gzt"
+}

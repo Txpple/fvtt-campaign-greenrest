@@ -1,0 +1,28 @@
+{
+  "name": "Roadside",
+  "type": "Item",
+  "folder": "afs0yFs5RsVil75r",
+  "flags": {
+    "world": {
+      "mcpGenerated": true,
+      "createdAt": "2026-07-02T23:47:08.727Z"
+    }
+  },
+  "_id": "d0YzQsbDfWa7x4kj",
+  "description": "",
+  "sorting": "a",
+  "sort": 300000,
+  "color": "#6a9358",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783036026099,
+    "modifiedTime": 1783084579200,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!d0YzQsbDfWa7x4kj"
+}

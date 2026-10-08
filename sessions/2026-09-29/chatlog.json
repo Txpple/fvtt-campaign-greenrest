@@ -1,0 +1,2748 @@
+[
+  {
+    "id": "b6loVwX900tSuL2t",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1790725449839,
+    "time": "2026-09-29T23:44:09.839Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Robert",
+    "alias": "Invictus",
+    "content": "Invictus takes a long rest and recovers 3 hit points and 1 hit die.",
+    "flavor": "Long Rest (8 hours, new day)"
+  },
+  {
+    "id": "9ONBKMtGXdbj7fqI",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1790725451552,
+    "time": "2026-09-29T23:44:11.552Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "Jetten Elisedil takes a long rest and recovers 24 hit points and 6 hit dice.",
+    "flavor": "Long Rest (8 hours, new day)"
+  },
+  {
+    "id": "nTsTwmo5KbbGp1z4",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1790725452364,
+    "time": "2026-09-29T23:44:12.364Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "Gren Greenmantle takes a long rest and recovers 1 hit point and 5 hit dice.",
+    "flavor": "Long Rest (8 hours, new day)",
+    "rolls": [
+      {
+        "total": 6,
+        "formula": "1d6 + 1"
+      },
+      {
+        "total": 8,
+        "formula": "1d6 + 4"
+      }
+    ]
+  },
+  {
+    "id": "nFs2wcf81knJyZcU",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1790725458706,
+    "time": "2026-09-29T23:44:18.706Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Morgash the Gravemaker takes a long rest and recovers 3 hit dice.",
+    "flavor": "Long Rest (8 hours, new day)"
+  },
+  {
+    "id": "2rxe1uzFl4tEu8Qd",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790726485188,
+    "time": "2026-09-30T00:01:25.188Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Invictus",
+    "content": "Emanation Aura of Protection — Invictus — 10-foot Emanation allies and neutrals inside: Protected — +2 to saving throws"
+  },
+  {
+    "id": "q5NgkprnHBlwgAit",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1790726759452,
+    "time": "2026-09-30T00:05:59.452Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Andrew",
+    "alias": "Party Stash",
+    "content": "Jetten Elisedil stashed 1 × Scimitar in The Party."
+  },
+  {
+    "id": "c8bIC72FAmwdh62P",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1790726784706,
+    "time": "2026-09-30T00:06:24.706Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Tom",
+    "alias": "Party Stash",
+    "content": "Gren Greenmantle stashed 1 × Spear in The Party."
+  },
+  {
+    "id": "KoDmWWd4gNpM3PLD",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1790726802164,
+    "time": "2026-09-30T00:06:42.164Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Anthony",
+    "alias": "Party Stash",
+    "content": "Morgash the Gravemaker stashed 1 × Ember-Touched Greatsword in The Party."
+  },
+  {
+    "id": "YxFR7DnWZ2kwMm5k",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1790726838246,
+    "time": "2026-09-30T00:07:18.246Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Robert",
+    "alias": "Party Stash",
+    "content": "Invictus took 1 × Scimitar from The Party."
+  },
+  {
+    "id": "ROTHpjTttRbjHWZV",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1790726848256,
+    "time": "2026-09-30T00:07:28.256Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Anthony",
+    "alias": "Party Stash",
+    "content": "Morgash the Gravemaker took 1 × Ember-Touched Greatsword from The Party."
+  },
+  {
+    "id": "FrWWtA3nuC75kXJp",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790726882479,
+    "time": "2026-09-30T00:08:02.479Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Invictus",
+    "content": "Emanation Aura of Protection — Invictus — 10-foot Emanation allies and neutrals inside: Protected — +2 to saving throws"
+  },
+  {
+    "id": "faLnAln9521NquZK",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790727173099,
+    "time": "2026-09-30T00:12:53.099Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Invictus",
+    "content": "Emanation Aura of Protection — Invictus — 10-foot Emanation allies and neutrals inside: Protected — +2 to saving throws"
+  },
+  {
+    "id": "QMEgL0w1aokb50Wk",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1790727503061,
+    "time": "2026-09-30T00:18:23.061Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Anthony",
+    "alias": "Morgash",
+    "content": "8",
+    "flavor": "Morgash rolls for Initiative!",
+    "rolls": [
+      {
+        "total": 8,
+        "formula": "1d20 + 0"
+      }
+    ]
+  },
+  {
+    "id": "17def8dxIGreug6S",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1790727504893,
+    "time": "2026-09-30T00:18:24.893Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Robert",
+    "alias": "Invictus",
+    "content": "8",
+    "flavor": "Invictus rolls for Initiative!",
+    "rolls": [
+      {
+        "total": 8,
+        "formula": "1d20 + 0"
+      }
+    ]
+  },
+  {
+    "id": "HuhZmGrO4YbV35Lt",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1790727510621,
+    "time": "2026-09-30T00:18:30.621Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Tom",
+    "alias": "Gren",
+    "content": "22",
+    "flavor": "Gren rolls for Initiative!",
+    "rolls": [
+      {
+        "total": 22,
+        "formula": "1d20 + 2"
+      }
+    ]
+  },
+  {
+    "id": "4QsyGrIna7J243vh",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790727529271,
+    "time": "2026-09-30T00:18:49.271Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 4,
+    "blind": false,
+    "whisper": true,
+    "whisperTo": [
+      "Matt the DM",
+      "DM Assistant",
+      "Scribe Assistant",
+      "Tester Assistant"
+    ],
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "2",
+    "flavor": "Greenrest Mob — Farmhands rolls for Initiative!",
+    "rolls": [
+      {
+        "total": 2,
+        "formula": "1d20 + 0"
+      }
+    ]
+  },
+  {
+    "id": "AYF7iFtchdUPpJEX",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790727529271,
+    "time": "2026-09-30T00:18:49.271Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 4,
+    "blind": false,
+    "whisper": true,
+    "whisperTo": [
+      "Matt the DM",
+      "DM Assistant",
+      "Scribe Assistant",
+      "Tester Assistant"
+    ],
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — The Whole Street",
+    "content": "8",
+    "flavor": "Greenrest Mob — The Whole Street rolls for Initiative!",
+    "rolls": [
+      {
+        "total": 8,
+        "formula": "1d20 + 0"
+      }
+    ]
+  },
+  {
+    "id": "WmFVn8OHoR8WXp2o",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790727529271,
+    "time": "2026-09-30T00:18:49.271Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 4,
+    "blind": false,
+    "whisper": true,
+    "whisperTo": [
+      "Matt the DM",
+      "DM Assistant",
+      "Scribe Assistant",
+      "Tester Assistant"
+    ],
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Torchbearers",
+    "content": "1",
+    "flavor": "Greenrest Mob — Torchbearers rolls for Initiative!",
+    "rolls": [
+      {
+        "total": 1,
+        "formula": "1d20 + 0"
+      }
+    ]
+  },
+  {
+    "id": "ryTUaPjBtkwbAe5l",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1790727536001,
+    "time": "2026-09-30T00:18:56.001Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Andrew",
+    "alias": "Jetten",
+    "content": "14",
+    "flavor": "Jetten rolls for Initiative!",
+    "rolls": [
+      {
+        "total": 14,
+        "formula": "1d20 + 4 + 3"
+      }
+    ]
+  },
+  {
+    "id": "cFGFXRyIvvWl3826",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790727560708,
+    "time": "2026-09-30T00:19:20.708Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 4,
+    "blind": false,
+    "whisper": true,
+    "whisperTo": [
+      "Matt the DM",
+      "DM Assistant",
+      "Scribe Assistant",
+      "Tester Assistant"
+    ],
+    "authorName": "Matt the DM",
+    "alias": "Battle Flow",
+    "content": "Combat Town Square — Conclusion 7 combatants ⚔ Begins on Town Square — Conclusion22 · Gren14 · Jetten8 · Greenrest Mob — The Whole Street (foe)8 · Invictus8 · Morgash2 · Greenrest Mob — Farmhands (foe)1 · Greenrest Mob — Torchbearers (foe)🕊 Ends on Town Square — Conclusion — round 5"
+  },
+  {
+    "id": "WFdYtP95Uc4vv1sC",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1790727656829,
+    "time": "2026-09-30T00:20:56.829Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "Innate Sorcery Innate Sorcery An event in your past left an indelible mark on you, infusing you with simmering magic. As a Bonus Action, you can unleash that magic for 1 minute, during which you gain the following benefits:The spell save DC of your Sorcerer spells increases by 1.You have Advantage on the attack rolls of Sorcerer spells you cast.You can use this feature twice, and you regain all expended uses of it when you finish a Long Rest. Feature Bonus Action Self Self",
+    "title": "Innate Sorcery - Innate Sorcery"
+  },
+  {
+    "id": "V38O31FrpB2jr7Sh",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1790727691591,
+    "time": "2026-09-30T00:21:31.591Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "Hypnotic Pattern Save You create a twisting pattern of colors in a 30-foot Cube within range. The pattern appears for a moment and vanishes. Each creature in the area who can see the pattern must succeed on a Wisdom saving throw or have the Charmed condition for the duration. While Charmed, the creature has the Incapacitated condition and a Speed of 0.The spell ends for an affected creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor. Materials a pinch of confetti 3rd Level Illusion Concentration S, M Action 1 Minute 120 ft 30 ft Cube",
+    "title": "Hypnotic Pattern - Save"
+  },
+  {
+    "id": "KK9EvmZfRR7RKutn",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1790727725035,
+    "time": "2026-09-30T00:22:05.035Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "Hypnotic Pattern Save You create a twisting pattern of colors in a 30-foot Cube within range. The pattern appears for a moment and vanishes. Each creature in the area who can see the pattern must succeed on a Wisdom saving throw or have the Charmed condition for the duration. While Charmed, the creature has the Incapacitated condition and a Speed of 0.The spell ends for an affected creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor. Materials a pinch of confetti 3rd Level Illusion Concentration S, M Action 1 Minute 120 ft 30 ft Cube",
+    "title": "Hypnotic Pattern - Save"
+  },
+  {
+    "id": "6NJt8LXyvrIxmauv",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1790727789811,
+    "time": "2026-09-30T00:23:09.811Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "Hypnotic Pattern Save You create a twisting pattern of colors in a 30-foot Cube within range. The pattern appears for a moment and vanishes. Each creature in the area who can see the pattern must succeed on a Wisdom saving throw or have the Charmed condition for the duration. While Charmed, the creature has the Incapacitated condition and a Speed of 0.The spell ends for an affected creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor. Materials a pinch of confetti 3rd Level Illusion Concentration S, M Action 1 Minute 120 ft 30 ft Cube",
+    "title": "Hypnotic Pattern - Save"
+  },
+  {
+    "id": "YvnTtJcEEJdv7HBQ",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790727808518,
+    "time": "2026-09-30T00:23:28.518Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — The Whole Street",
+    "content": "13 14 14 14 -1",
+    "flavor": "Wisdom Ability Check",
+    "rolls": [
+      {
+        "total": 13,
+        "formula": "1d20 - 1"
+      }
+    ]
+  },
+  {
+    "id": "fqCse7OxnAfHb582",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1790727898084,
+    "time": "2026-09-30T00:24:58.084Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "Spellfire Burst Bolstering Flames When you spend at least 1 Sorcery Point as part of a Magic action or a Bonus Action on your turn, you can unleash one of the following magical effects of your choice. You can do so only once per turn.Bolstering Flames. You or one creature you can see within 30 feet of yourself gains Temporary Hit Points equal to 1d4 plus your Charisma modifier.Radiant Fire. One creature you can see within 30 feet of yourself takes 1d4 Fire or Radiant damage (your choice). Feature Special 30 ft 1 Creature",
+    "title": "Spellfire Burst - Bolstering Flames"
+  },
+  {
+    "id": "IXv4pTam6nFgyAYQ",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1790727903717,
+    "time": "2026-09-30T00:25:03.717Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "Spellfire Burst Bolstering Flames • Healing Roll 8 4 +4 Temp HP 8",
+    "flavor": "Spellfire Burst - Healing Roll",
+    "rolls": [
+      {
+        "total": 8,
+        "formula": "1d4 + 4"
+      }
+    ]
+  },
+  {
+    "id": "BulIOQQehnuS0Oyl",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1790728009163,
+    "time": "2026-09-30T00:26:49.163Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Robert",
+    "alias": "Invictus",
+    "content": "Thaumaturgy Use You manifest a minor wonder within range. You create one of the effects below within range. If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time.Altered Eyes. You alter the appearance of your eyes for 1 minute.Booming Voice. Your voice booms up to three times as loud as normal for 1 minute. For the duration, you have Advantage on Charisma (Intimidation) checks.Fire Play. You cause flames to flicker, brighten, dim, or change color for 1 minute.Invisible Hand. You instantaneously cause an unlocked door or window to fly open or slam shut.Phantom Sound. You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.Tremors. You cause harmless tremors in the ground for 1 minute. Cantrip Transmutation V Action 1 Minute 30 ft",
+    "title": "Thaumaturgy - Use"
+  },
+  {
+    "id": "Wx0s4DuvyEymBPQa",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1790728040548,
+    "time": "2026-09-30T00:27:20.548Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Robert",
+    "alias": "Invictus",
+    "content": "Thaumaturgy Use You manifest a minor wonder within range. You create one of the effects below within range. If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time.Altered Eyes. You alter the appearance of your eyes for 1 minute.Booming Voice. Your voice booms up to three times as loud as normal for 1 minute. For the duration, you have Advantage on Charisma (Intimidation) checks.Fire Play. You cause flames to flicker, brighten, dim, or change color for 1 minute.Invisible Hand. You instantaneously cause an unlocked door or window to fly open or slam shut.Phantom Sound. You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.Tremors. You cause harmless tremors in the ground for 1 minute. Cantrip Transmutation V Action 1 Minute 30 ft",
+    "title": "Thaumaturgy - Use"
+  },
+  {
+    "id": "7kRU3z6xiJ2qeVWU",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1790728055600,
+    "time": "2026-09-30T00:27:35.600Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Robert",
+    "alias": "Invictus",
+    "content": "20 18 2 18 18 +2",
+    "flavor": "Charisma (Intimidation) Check (Advantage)",
+    "rolls": [
+      {
+        "total": 20,
+        "formula": "2d20adv + 2"
+      }
+    ]
+  },
+  {
+    "id": "NDzvCO8BNnjvA4m4",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1790728139106,
+    "time": "2026-09-30T00:28:59.106Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "15 12 12 12 +3",
+    "flavor": "Charisma (Intimidation) Check",
+    "rolls": [
+      {
+        "total": 15,
+        "formula": "1d20 + 0 + 3"
+      }
+    ]
+  },
+  {
+    "id": "8C4aDuQmNAf9LD0Z",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1790728145468,
+    "time": "2026-09-30T00:29:05.468Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Tactical Mind Expend Second Wind You have a mind for tactics on and off the battlefield. When you fail an ability check, you can expend a use of your Second Wind to push yourself toward success. Rather than regaining Hit Points, you roll 1d10 and add the number rolled to the ability check, potentially turning it into a success. If the check still fails, this use of Second Wind isn't expended. Trigger When you fail an ability check Feature",
+    "title": "Tactical Mind - Expend Second Wind"
+  },
+  {
+    "id": "576F103tHUqxIP50",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1790728145686,
+    "time": "2026-09-30T00:29:05.686Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "4",
+    "flavor": "Tactical Mind — the die",
+    "rolls": [
+      {
+        "total": 4,
+        "formula": "1d10"
+      }
+    ]
+  },
+  {
+    "id": "V6fB8zS0wQ533vlq",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1790728149840,
+    "time": "2026-09-30T00:29:09.840Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Maneuver — Tactical Mind Tactical Mind — the roll is patched one Superiority Die spent 15 + 4 = 19 — the roll now totals 19.If the check still fails, this use of Second Wind isn't expended — the next window asks which it was."
+  },
+  {
+    "id": "TcWSUB6xl2BvbTnw",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790728214659,
+    "time": "2026-09-30T00:30:14.659Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 5,
+    "blind": false,
+    "whisper": true,
+    "whisperTo": [
+      "Matt the DM",
+      "DM Assistant",
+      "Scribe Assistant",
+      "Tester Assistant",
+      "Tom"
+    ],
+    "authorName": "Matt the DM",
+    "alias": "Gren",
+    "content": "Recovery Spellfire Burst Uses +1"
+  },
+  {
+    "id": "xcm8efuXo8UG9jpb",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1790728307903,
+    "time": "2026-09-30T00:31:47.903Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "8 4 4 4 +4",
+    "flavor": "Charisma (Intimidation) Check",
+    "rolls": [
+      {
+        "total": 8,
+        "formula": "1d20 + 4"
+      }
+    ]
+  },
+  {
+    "id": "9NV9JCNKXATu4fIA",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1790728313229,
+    "time": "2026-09-30T00:31:53.229Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "8",
+    "flavor": "Heroic Inspiration — the reroll",
+    "rolls": [
+      {
+        "total": 8,
+        "formula": "1d20 + 4"
+      }
+    ]
+  },
+  {
+    "id": "HkUDh98oey4DI8tI",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1790728316508,
+    "time": "2026-09-30T00:31:56.508Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "D20 Fold — Heroic Inspiration Heroic Inspiration — the roll is patched Gren Greenmantle spends Heroic Inspiration 8 → 8 — the roll now totals 8."
+  },
+  {
+    "id": "yZf4EDwxgMMqVZp6",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1790728348527,
+    "time": "2026-09-30T00:32:28.527Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "Entangle Save Grasping plants sprout from the ground in a 20-foot square within range. For the duration, these plants turn the ground in the area into Difficult Terrain. They disappear when the spell ends.Each creature (other than you) in the area when you cast the spell must succeed on a Strength saving throw or have the Restrained condition until the spell ends. A Restrained creature can take an action to make a DC 14 Strength (Athletics) check against your spell save DC. On a success, it frees itself from the grasping plants and is no longer Restrained by them. 1st Level Conjuration Concentration V, S Action 1 Minute 90 ft 20 ft Cube Greenrest Mob — Torchbearers 5 2 2 2 +3",
+    "title": "Entangle - Save"
+  },
+  {
+    "id": "ZtAvx6DxVA8nWSTb",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790728377385,
+    "time": "2026-09-30T00:32:57.385Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Torchbearers",
+    "content": "5 2 2 2 +3",
+    "flavor": "Strength Ability Check",
+    "rolls": [
+      {
+        "total": 5,
+        "formula": "1d20 + 3"
+      }
+    ]
+  },
+  {
+    "id": "gIvgTHB9hte7elvD",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790728406849,
+    "time": "2026-09-30T00:33:26.849Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Torchbearers",
+    "content": "5 2 2 2 +3",
+    "flavor": "Strength Saving Throw",
+    "rolls": [
+      {
+        "total": 5,
+        "formula": "1d20 + 3"
+      }
+    ]
+  },
+  {
+    "id": "QSpKG6at3DmX2fCH",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1790728495451,
+    "time": "2026-09-30T00:34:55.451Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Robert",
+    "alias": "Invictus",
+    "content": "15 13 3 13 13 +2",
+    "flavor": "Charisma (Intimidation) Check (Advantage)",
+    "rolls": [
+      {
+        "total": 15,
+        "formula": "2d20adv + 2"
+      }
+    ]
+  },
+  {
+    "id": "fCx6m3RPVnXjg7Ag",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790728578305,
+    "time": "2026-09-30T00:36:18.305Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Multiattack Feature The mob makes five attacks: one Pitchfork, one Club, one Sword, one Thrown Cabbage and one Thrown Tomato. While it is Bloodied the crowd has thinned, and it makes only three of them (its choice).",
+    "title": "Multiattack"
+  },
+  {
+    "id": "pnDKa5FRqtEpzr9X",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790728583306,
+    "time": "2026-09-30T00:36:23.306Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Pitchfork Attack A farmhand drives a pitchfork at you, tines first. Weapon Natural Action 5 ft Proficient",
+    "title": "Pitchfork - Attack"
+  },
+  {
+    "id": "OzVyC4qYiezarnaR",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790728584586,
+    "time": "2026-09-30T00:36:24.586Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Invictus Invictus 10 4 4 4 +3 +3",
+    "flavor": "Pitchfork - Attack Roll",
+    "rolls": [
+      {
+        "total": 10,
+        "formula": "1d20 + 3 + 3"
+      }
+    ]
+  },
+  {
+    "id": "XOfPGUOuIlU9LXyC",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790728589525,
+    "time": "2026-09-30T00:36:29.525Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Club Attack An ax handle, a chair leg, a cudgel, swung hard. Weapon Natural Action 5 ft Proficient",
+    "title": "Club - Attack"
+  },
+  {
+    "id": "D06xZJSYbN4i9alj",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790728590594,
+    "time": "2026-09-30T00:36:30.594Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Invictus Invictus 12 6 6 6 +3 +3",
+    "flavor": "Club - Attack Roll",
+    "rolls": [
+      {
+        "total": 12,
+        "formula": "1d20 + 3 + 3"
+      }
+    ]
+  },
+  {
+    "id": "RTGphDvINQGzSH7W",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790728593634,
+    "time": "2026-09-30T00:36:33.634Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Sword Attack An old sword off somebody's wall, notched and rusty, swung by a man who has never used one. Weapon Natural Action 5 ft Proficient",
+    "title": "Sword - Attack"
+  },
+  {
+    "id": "CiK24ypRBUR5nI8E",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790728596593,
+    "time": "2026-09-30T00:36:36.593Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Invictus Invictus 16 10 10 10 +3 +3",
+    "flavor": "Sword - Attack Roll",
+    "rolls": [
+      {
+        "total": 16,
+        "formula": "1d20 + 3 + 3"
+      }
+    ]
+  },
+  {
+    "id": "SQX2nO8pyr56XlDK",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790728605500,
+    "time": "2026-09-30T00:36:45.500Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Thrown Cabbage Attack A good, heavy Greenrest cabbage, the best harvest in the valley, thrown from the back of the crowd. Weapon Natural Action 20/60 ft Proficient",
+    "title": "Thrown Cabbage - Attack"
+  },
+  {
+    "id": "hCkzsQx88gv9mIhR",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790728611651,
+    "time": "2026-09-30T00:36:51.651Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Gren Gren 15 9 9 9 +3 +3",
+    "flavor": "Thrown Cabbage - Attack Roll",
+    "rolls": [
+      {
+        "total": 15,
+        "formula": "1d20 + 3 + 3"
+      }
+    ]
+  },
+  {
+    "id": "3PYaItu6kUanpI9a",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790728614219,
+    "time": "2026-09-30T00:36:54.219Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Weapon 9 6 +3 Bludgeoning 9",
+    "flavor": "Thrown Cabbage - Damage Roll",
+    "rolls": [
+      {
+        "total": 9,
+        "formula": "1d6 + 3"
+      }
+    ]
+  },
+  {
+    "id": "5bNJj8087zG3HN3L",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1790728620864,
+    "time": "2026-09-30T00:37:00.864Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "Shield Use An imperceptible barrier of magical force protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from Magic Missile. Trigger when you are hit by an attack roll or targeted by the Magic Missile spell 1st Level Abjuration V, S Reaction 1 Round Self Self",
+    "title": "Shield - Use"
+  },
+  {
+    "id": "13bzSVgG3KwsZ31x",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1790728621100,
+    "time": "2026-09-30T00:37:01.100Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "Reaction — cast Shield Gren AC is now 20."
+  },
+  {
+    "id": "DKrJo6gNldC0N6gT",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790728621252,
+    "time": "2026-09-30T00:37:01.252Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Battle Flow",
+    "content": "Reaction — it worked Shield Gren AC 15 → 20 vs the attack's 15.The attack misses."
+  },
+  {
+    "id": "6HFMltDEvreAkrKe",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790728624459,
+    "time": "2026-09-30T00:37:04.459Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Thrown Tomato Attack A ripe tomato, thrown hard from the back of the crowd. Weapon Natural Action 20/60 ft Proficient",
+    "title": "Thrown Tomato - Attack"
+  },
+  {
+    "id": "TbjgWSseZlKFLVE2",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790728625933,
+    "time": "2026-09-30T00:37:05.933Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Gren Gren 13 7 7 7 +3 +3",
+    "flavor": "Thrown Tomato - Attack Roll",
+    "rolls": [
+      {
+        "total": 13,
+        "formula": "1d20 + 3 + 3"
+      }
+    ]
+  },
+  {
+    "id": "tuH6w0fZNv4MYmZ8",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790728663684,
+    "time": "2026-09-30T00:37:43.684Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "5 2 2 2 +3",
+    "flavor": "Strength Ability Check",
+    "rolls": [
+      {
+        "total": 5,
+        "formula": "1d20 + 3"
+      }
+    ]
+  },
+  {
+    "id": "dMQNvSCIwu5gBmTt",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790728670172,
+    "time": "2026-09-30T00:37:50.172Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Thrown Cabbage Attack A good, heavy Greenrest cabbage, the best harvest in the valley, thrown from the back of the crowd. Weapon Natural Action 20/60 ft Proficient",
+    "title": "Thrown Cabbage - Attack"
+  },
+  {
+    "id": "KORS8hIalPVP4ZtD",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790728675256,
+    "time": "2026-09-30T00:37:55.256Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Jetten Jetten 7 1 1 15 1 +3 +3",
+    "flavor": "Thrown Cabbage - Attack Roll (Disadvantage)",
+    "rolls": [
+      {
+        "total": 7,
+        "formula": "2d20dis + 3 + 3"
+      }
+    ]
+  },
+  {
+    "id": "OIXOIGAW9vVo0Ia4",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790728678661,
+    "time": "2026-09-30T00:37:58.661Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Thrown Tomato Attack A ripe tomato, thrown hard from the back of the crowd. Weapon Natural Action 20/60 ft Proficient",
+    "title": "Thrown Tomato - Attack"
+  },
+  {
+    "id": "LNdUyhFvyIePHcOH",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790728679874,
+    "time": "2026-09-30T00:37:59.874Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Jetten Jetten 10 4 4 8 4 +3 +3",
+    "flavor": "Thrown Tomato - Attack Roll (Disadvantage)",
+    "rolls": [
+      {
+        "total": 10,
+        "formula": "2d20dis + 3 + 3"
+      }
+    ]
+  },
+  {
+    "id": "eGmB9KWVEFISL3yI",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790728820487,
+    "time": "2026-09-30T00:40:20.487Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Jetten Elisedil",
+    "content": "Elementalism Beckon Element Fire and water beckoning lasts for 1 minute You exert control over the elements, creating one of the following effects within range.Beckon Air. You create a breeze strong enough to ripple cloth, stir dust, rustle leaves, and close open doors and shutters, all in a 5-foot Cube. Doors and shutters being held open by someone or something aren’t affected.Beckon Earth. You create a thin shroud of dust or sand that covers surfaces in a 5-foot-square area, or you cause a single word to appear in your handwriting in a patch of dirt or sand.Beckon Fire. You create a thin cloud of harmless embers and colored, scented smoke in a 5-foot Cube. You choose the color and scent, and the embers can light candles, torches, or lamps in that area. The smoke’s scent lingers for 1 minute.Beckon Water. You create a spray of cool mist that lightly dampens creatures and objects in a 5-foot Cube. Alternatively, you create 1 cup of clean water either in an open container or on a surface, and the water evaporates in 1 minute.Sculpt Element. You cause dirt, sand, fire, smoke, mist, or water that can fit in a 1-foot Cube to assume a crude shape (such as that of a creature) for 1 hour. Cantrip Transmutation V, S Action Instantaneous 30 ft 5 ft Cube",
+    "title": "Elementalism - Beckon Element"
+  },
+  {
+    "id": "mLuDFz4hxbC5TXSY",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1790729063293,
+    "time": "2026-09-30T00:44:23.293Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "10 7 7 7 +3",
+    "flavor": "Charisma (Intimidation) Check",
+    "rolls": [
+      {
+        "total": 10,
+        "formula": "1d20 + 0 + 3"
+      }
+    ]
+  },
+  {
+    "id": "FbSEgoTDOh9KV7YQ",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729138380,
+    "time": "2026-09-30T00:45:38.380Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Thrown Tomato Attack A ripe tomato, thrown hard from the back of the crowd. Weapon Natural Action 20/60 ft Proficient",
+    "title": "Thrown Tomato - Attack"
+  },
+  {
+    "id": "hgnSRpuBZ4V56waC",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729140421,
+    "time": "2026-09-30T00:45:40.421Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Gren Gren 8 2 2 2 +3 +3",
+    "flavor": "Thrown Tomato - Attack Roll",
+    "rolls": [
+      {
+        "total": 8,
+        "formula": "1d20 + 3 + 3"
+      }
+    ]
+  },
+  {
+    "id": "bLUZFrWVIUTIhHqM",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729143890,
+    "time": "2026-09-30T00:45:43.890Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Thrown Cabbage Attack A good, heavy Greenrest cabbage, the best harvest in the valley, thrown from the back of the crowd. Weapon Natural Action 20/60 ft Proficient",
+    "title": "Thrown Cabbage - Attack"
+  },
+  {
+    "id": "H3FdLuve2keFzf0B",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729144957,
+    "time": "2026-09-30T00:45:44.957Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Gren Gren 10 4 4 4 +3 +3",
+    "flavor": "Thrown Cabbage - Attack Roll",
+    "rolls": [
+      {
+        "total": 10,
+        "formula": "1d20 + 3 + 3"
+      }
+    ]
+  },
+  {
+    "id": "mJZAJMiPbaSNwzc2",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729154188,
+    "time": "2026-09-30T00:45:54.188Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Pitchfork Attack A farmhand drives a pitchfork at you, tines first. Weapon Natural Action 5 ft Proficient",
+    "title": "Pitchfork - Attack"
+  },
+  {
+    "id": "4Y1HJiFJuytILxir",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729155491,
+    "time": "2026-09-30T00:45:55.491Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Jetten Jetten 12 6 6 6 +3 +3",
+    "flavor": "Pitchfork - Attack Roll",
+    "rolls": [
+      {
+        "total": 12,
+        "formula": "1d20 + 3 + 3"
+      }
+    ]
+  },
+  {
+    "id": "ngI6P30wg2XZ5reJ",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729158375,
+    "time": "2026-09-30T00:45:58.375Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Club Attack An ax handle, a chair leg, a cudgel, swung hard. Weapon Natural Action 5 ft Proficient",
+    "title": "Club - Attack"
+  },
+  {
+    "id": "LAVoqENYIcqIt6R7",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729159348,
+    "time": "2026-09-30T00:45:59.348Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Jetten Jetten 10 4 4 4 +3 +3",
+    "flavor": "Club - Attack Roll",
+    "rolls": [
+      {
+        "total": 10,
+        "formula": "1d20 + 3 + 3"
+      }
+    ]
+  },
+  {
+    "id": "Qnr6ySI7mkPnZwpk",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729159834,
+    "time": "2026-09-30T00:45:59.834Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Sword Attack An old sword off somebody's wall, notched and rusty, swung by a man who has never used one. Weapon Natural Action 5 ft Proficient",
+    "title": "Sword - Attack"
+  },
+  {
+    "id": "JGlEHGuIUaENkMFc",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729160931,
+    "time": "2026-09-30T00:46:00.931Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Jetten Jetten 11 5 5 5 +3 +3",
+    "flavor": "Sword - Attack Roll",
+    "rolls": [
+      {
+        "total": 11,
+        "formula": "1d20 + 3 + 3"
+      }
+    ]
+  },
+  {
+    "id": "6djVTMlML7KXT6UM",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729179380,
+    "time": "2026-09-30T00:46:19.380Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Torchbearers",
+    "content": "16 13 13 13 +3",
+    "flavor": "Strength Ability Check",
+    "rolls": [
+      {
+        "total": 16,
+        "formula": "1d20 + 3"
+      }
+    ]
+  },
+  {
+    "id": "SoIRMpaeXapOYDaR",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729198123,
+    "time": "2026-09-30T00:46:38.123Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Torchbearers",
+    "content": "Thrown Cabbage Attack A good, heavy Greenrest cabbage, the best harvest in the valley, thrown from the back of the crowd. Weapon Natural Action 20/60 ft Proficient",
+    "title": "Thrown Cabbage - Attack"
+  },
+  {
+    "id": "KxDwg3jQjYOMKP5g",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729199107,
+    "time": "2026-09-30T00:46:39.107Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Torchbearers",
+    "content": "Jetten Jetten 9 3 3 3 +3 +3",
+    "flavor": "Thrown Cabbage - Attack Roll",
+    "rolls": [
+      {
+        "total": 9,
+        "formula": "1d20 + 3 + 3"
+      }
+    ]
+  },
+  {
+    "id": "o8l9m7cWUA5A8z0a",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729200239,
+    "time": "2026-09-30T00:46:40.239Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Torchbearers",
+    "content": "Thrown Tomato Attack A ripe tomato, thrown hard from the back of the crowd. Weapon Natural Action 20/60 ft Proficient",
+    "title": "Thrown Tomato - Attack"
+  },
+  {
+    "id": "MMCFRtpruuvo8QgO",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729201151,
+    "time": "2026-09-30T00:46:41.151Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Torchbearers",
+    "content": "Jetten Jetten 13 7 7 7 +3 +3",
+    "flavor": "Thrown Tomato - Attack Roll",
+    "rolls": [
+      {
+        "total": 13,
+        "formula": "1d20 + 3 + 3"
+      }
+    ]
+  },
+  {
+    "id": "VZdz0SKhBLGHVhMs",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729209201,
+    "time": "2026-09-30T00:46:49.201Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Torchbearers",
+    "content": "Pitchfork Attack A farmhand drives a pitchfork at you, tines first. Weapon Natural Action 5 ft Proficient",
+    "title": "Pitchfork - Attack"
+  },
+  {
+    "id": "aWvbDrehvCrJQ18M",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729211143,
+    "time": "2026-09-30T00:46:51.143Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Torchbearers",
+    "content": "Morgash Morgash 13 7 7 7 +3 +3",
+    "flavor": "Pitchfork - Attack Roll",
+    "rolls": [
+      {
+        "total": 13,
+        "formula": "1d20 + 3 + 3"
+      }
+    ]
+  },
+  {
+    "id": "8S9ch5snB4J7z91v",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729211498,
+    "time": "2026-09-30T00:46:51.498Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Torchbearers",
+    "content": "Club Attack An ax handle, a chair leg, a cudgel, swung hard. Weapon Natural Action 5 ft Proficient",
+    "title": "Club - Attack"
+  },
+  {
+    "id": "Cu3FUmnZ5LSAohYg",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729212464,
+    "time": "2026-09-30T00:46:52.464Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Torchbearers",
+    "content": "Morgash Morgash 21 15 15 15 +3 +3",
+    "flavor": "Club - Attack Roll",
+    "rolls": [
+      {
+        "total": 21,
+        "formula": "1d20 + 3 + 3"
+      }
+    ]
+  },
+  {
+    "id": "GbYrg648725ySbQx",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729212843,
+    "time": "2026-09-30T00:46:52.843Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Torchbearers",
+    "content": "Sword Attack An old sword off somebody's wall, notched and rusty, swung by a man who has never used one. Weapon Natural Action 5 ft Proficient",
+    "title": "Sword - Attack"
+  },
+  {
+    "id": "7mS88XmmJTImtzjz",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729213672,
+    "time": "2026-09-30T00:46:53.672Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Torchbearers",
+    "content": "Morgash Morgash 18 12 12 12 +3 +3",
+    "flavor": "Sword - Attack Roll",
+    "rolls": [
+      {
+        "total": 18,
+        "formula": "1d20 + 3 + 3"
+      }
+    ]
+  },
+  {
+    "id": "h82qiebWuumL53CA",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729215291,
+    "time": "2026-09-30T00:46:55.291Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Torchbearers",
+    "content": "Weapon 6 3 +3 Bludgeoning 6",
+    "flavor": "Club - Damage Roll",
+    "rolls": [
+      {
+        "total": 6,
+        "formula": "1d6 + 3"
+      }
+    ]
+  },
+  {
+    "id": "YLMo7KKLUeUqaRUf",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1790729216386,
+    "time": "2026-09-30T00:46:56.386Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Maneuver — Riposte Riposte — Morgash strikes back with Pike Greenrest Mob — Torchbearers's melee attack missed"
+  },
+  {
+    "id": "KF6K9klfnEG0F0Vt",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729216655,
+    "time": "2026-09-30T00:46:56.655Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Torchbearers",
+    "content": "Weapon 9 6 +3 Slashing 9",
+    "flavor": "Sword - Damage Roll",
+    "rolls": [
+      {
+        "total": 9,
+        "formula": "1d8 + 3"
+      }
+    ]
+  },
+  {
+    "id": "wZwMaoSK4chmaFf9",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1790729216969,
+    "time": "2026-09-30T00:46:56.969Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Riposte Riposte Damage When a creature misses you with a melee attack roll, you can take a Reaction and expend one Superiority Die to make a melee attack roll with a weapon or an Unarmed Strike against the creature. If you hit, add the Superiority Die to the attack's damage. Trigger When a creature misses you with a melee attack roll Maneuver Reaction Self 1 Creature",
+    "title": "Riposte - Riposte Damage"
+  },
+  {
+    "id": "d88RXPLZ2jjFMObV",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1790729217662,
+    "time": "2026-09-30T00:46:57.662Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Pike Attack Weapon Martial Melee Push Action Reach 10 ft Proficient",
+    "title": "Pike - Attack"
+  },
+  {
+    "id": "dQLedy38ivGg9CQr",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1790729217989,
+    "time": "2026-09-30T00:46:57.989Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Pike Attack Mastery Push Melee Attack Melee Weapon Two-Handed Greenrest Mob — Torchbearers Greenrest Mob — Torchbearers 21 14 14 14 +4 +3",
+    "flavor": "Pike - Attack Roll",
+    "rolls": [
+      {
+        "total": 21,
+        "formula": "1d20 + 4 + 3"
+      }
+    ]
+  },
+  {
+    "id": "JY1bldyyAHASgtzx",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1790729231443,
+    "time": "2026-09-30T00:47:11.443Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Pike Attack • Damage Roll Weapon 20 7 9 +4 Piercing 20",
+    "flavor": "Pike - Damage Roll",
+    "rolls": [
+      {
+        "total": 20,
+        "formula": "1d10min3 + 4 + 1d8min3"
+      }
+    ]
+  },
+  {
+    "id": "CeMxS5U6yfoM9zMi",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729234122,
+    "time": "2026-09-30T00:47:14.122Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Morgash the Gravemaker",
+    "content": "Weapon Mastery — Push Morgash the Gravemaker can push Greenrest Mob — Torchbearers 10 feet Pike — straight away, Large or smaller Move the token; nothing is automated."
+  },
+  {
+    "id": "TkRwO0tPhDuIsyiB",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1790729327636,
+    "time": "2026-09-30T00:48:47.636Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "Vesper Staff Attack A staff of black ash capped with a lens of smoked glass. Held up to a light, the lens does not darken the light — it darkens the eye that looks through it.Staff, very rare (requires attunement by a Cleric, Sorcerer, or Wizard)This staff can be wielded as a magic Quarterstaff. You gain a +2 bonus to attack rolls and damage rolls made with it. While holding it, you also gain a +2 bonus to spell attack rolls and to the saving throw DCs of your spells.Spells. The staff has 10 charges and regains 1d6 + 4 expended charges daily at dawn. While holding it, you can expend charges to cast one of the following spells from it, using your spell save DC: Darkness (2 charges), Invisibility (2 charges), Dispel Magic (3 charges), or Counterspell (3 charges). Weapon Simple Melee Action Attuned Proficient",
+    "title": "Vesper Staff - Attack"
+  },
+  {
+    "id": "E3Z50M25YQ368H49",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1790729332982,
+    "time": "2026-09-30T00:48:52.982Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "Vesper Staff Attack Melee Attack Melee Weapon One-Handed Greenrest Mob — Farmhands Greenrest Mob — Farmhands 20 16 16 16 -1 +3 +2",
+    "flavor": "Vesper Staff - Attack Roll",
+    "rolls": [
+      {
+        "total": 20,
+        "formula": "1d20 - 1 + 3 + 2"
+      }
+    ]
+  },
+  {
+    "id": "BDurQNabiSYOGDFo",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1790729337867,
+    "time": "2026-09-30T00:48:57.867Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "Vesper Staff Attack • Damage Roll Weapon Magical 3 2 +1 Bludgeoning 3",
+    "flavor": "Vesper Staff - Damage Roll",
+    "rolls": [
+      {
+        "total": 3,
+        "formula": "1d6 - 1 + 2"
+      }
+    ]
+  },
+  {
+    "id": "DIdntLMKWgEQuVow",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1790729377304,
+    "time": "2026-09-30T00:49:37.304Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "Caltrops Save As a Utilize action, you can spread Caltrops from their bag to cover a 5-foot-square area within 5 feet of yourself. A creature that enters this area for the first time on a turn must succeed on a DC 15 Dexterity saving throw or take 1 Piercing damage and have its Speed reduced to 0 until the start of its next turn. It takes 10 minutes to recover the Caltrops. Trinket Action 5 ft 5 ft Square Not Equipped Greenrest Mob — Farmhands 11 11 11 11",
+    "title": "Caltrops - Save"
+  },
+  {
+    "id": "wYMUHFrujm7NgqlX",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1790729458175,
+    "time": "2026-09-30T00:50:58.175Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Robert",
+    "alias": "Invictus",
+    "content": "26 19 19 19 +4 +3",
+    "flavor": "Strength (Athletics) Check",
+    "rolls": [
+      {
+        "total": 26,
+        "formula": "1d20 + 4 + 3"
+      }
+    ]
+  },
+  {
+    "id": "hg7k4tVUq7BRoO1d",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729532253,
+    "time": "2026-09-30T00:52:12.253Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Pitchfork Attack A farmhand drives a pitchfork at you, tines first. Weapon Natural Action 5 ft Proficient",
+    "title": "Pitchfork - Attack"
+  },
+  {
+    "id": "xBVOrUyL4Z4fzwwL",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729533331,
+    "time": "2026-09-30T00:52:13.331Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Jetten Jetten 20 14 14 14 +3 +3",
+    "flavor": "Pitchfork - Attack Roll",
+    "rolls": [
+      {
+        "total": 20,
+        "formula": "1d20 + 3 + 3"
+      }
+    ]
+  },
+  {
+    "id": "8KPWdVNMTxlRs0Zu",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729534867,
+    "time": "2026-09-30T00:52:14.867Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Weapon 11 8 +3 Piercing 11",
+    "flavor": "Pitchfork - Damage Roll",
+    "rolls": [
+      {
+        "total": 11,
+        "formula": "1d8 + 3"
+      }
+    ]
+  },
+  {
+    "id": "NoFD6Uk5auvHz9YI",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729535079,
+    "time": "2026-09-30T00:52:15.079Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Jetten Elisedil",
+    "content": "Concentration check Constitution save, DC 10 Jetten Elisedil — concentrating on Entangle Took 11 damage from Greenrest Mob — Farmhands's Pitchfork."
+  },
+  {
+    "id": "3vMZetPdqHmsd5lG",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729539144,
+    "time": "2026-09-30T00:52:19.144Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Club Attack An ax handle, a chair leg, a cudgel, swung hard. Weapon Natural Action 5 ft Proficient",
+    "title": "Club - Attack"
+  },
+  {
+    "id": "phbCNxhXwk3zM4Rg",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729540322,
+    "time": "2026-09-30T00:52:20.322Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Jetten Jetten 23 17 17 17 +3 +3",
+    "flavor": "Club - Attack Roll",
+    "rolls": [
+      {
+        "total": 23,
+        "formula": "1d20 + 3 + 3"
+      }
+    ]
+  },
+  {
+    "id": "uQMNr0ZFQ3BZeEKs",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729541600,
+    "time": "2026-09-30T00:52:21.600Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Weapon 6 3 +3 Bludgeoning 6",
+    "flavor": "Club - Damage Roll",
+    "rolls": [
+      {
+        "total": 6,
+        "formula": "1d6 + 3"
+      }
+    ]
+  },
+  {
+    "id": "Us4CHRc7yua0S11r",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729541803,
+    "time": "2026-09-30T00:52:21.803Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Jetten Elisedil",
+    "content": "Concentration check Constitution save, DC 10 Jetten Elisedil — concentrating on Entangle Took 6 damage from Greenrest Mob — Farmhands's Club."
+  },
+  {
+    "id": "psgDqZMIISIJNGlg",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729550413,
+    "time": "2026-09-30T00:52:30.413Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Sword Attack An old sword off somebody's wall, notched and rusty, swung by a man who has never used one. Weapon Natural Action 5 ft Proficient",
+    "title": "Sword - Attack"
+  },
+  {
+    "id": "uA8aeXHTcn7olH2J",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729551586,
+    "time": "2026-09-30T00:52:31.586Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Jetten Jetten 9 3 3 3 +3 +3",
+    "flavor": "Sword - Attack Roll",
+    "rolls": [
+      {
+        "total": 9,
+        "formula": "1d20 + 3 + 3"
+      }
+    ]
+  },
+  {
+    "id": "LddxbFCQ0NbktlhA",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729558791,
+    "time": "2026-09-30T00:52:38.791Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Thrown Cabbage Attack A good, heavy Greenrest cabbage, the best harvest in the valley, thrown from the back of the crowd. Weapon Natural Action 20/60 ft Proficient",
+    "title": "Thrown Cabbage - Attack"
+  },
+  {
+    "id": "JNyEpSTIqa1PbL6P",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729559087,
+    "time": "2026-09-30T00:52:39.087Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Jetten Elisedil",
+    "content": "12 11 11 11 +1",
+    "flavor": "Constitution Saving Throw",
+    "rolls": [
+      {
+        "total": 12,
+        "formula": "1d20 + 1"
+      }
+    ]
+  },
+  {
+    "id": "6Vcu35n3RYl8FDJy",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729559927,
+    "time": "2026-09-30T00:52:39.927Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Jetten Jetten 20 14 14 14 +3 +3",
+    "flavor": "Thrown Cabbage - Attack Roll",
+    "rolls": [
+      {
+        "total": 20,
+        "formula": "1d20 + 3 + 3"
+      }
+    ]
+  },
+  {
+    "id": "bd0Nm5Rnb5COwNqg",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729560540,
+    "time": "2026-09-30T00:52:40.540Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Thrown Tomato Attack A ripe tomato, thrown hard from the back of the crowd. Weapon Natural Action 20/60 ft Proficient",
+    "title": "Thrown Tomato - Attack"
+  },
+  {
+    "id": "stcy7vqg4Q9tZbV7",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729561534,
+    "time": "2026-09-30T00:52:41.534Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Jetten Jetten 13 7 7 7 +3 +3",
+    "flavor": "Thrown Tomato - Attack Roll",
+    "rolls": [
+      {
+        "total": 13,
+        "formula": "1d20 + 3 + 3"
+      }
+    ]
+  },
+  {
+    "id": "TvyADzIzhvDjLrGv",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729561886,
+    "time": "2026-09-30T00:52:41.886Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "Weapon 7 4 +3 Bludgeoning 7",
+    "flavor": "Thrown Cabbage - Damage Roll",
+    "rolls": [
+      {
+        "total": 7,
+        "formula": "1d6 + 3"
+      }
+    ]
+  },
+  {
+    "id": "2BG84RRQfNEOEiGY",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729562187,
+    "time": "2026-09-30T00:52:42.187Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Battle Flow",
+    "content": "Concentration Entangle holds 12 vs DC 10 — rolled by the timer"
+  },
+  {
+    "id": "QLO2qLjo8WwwKtKM",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729562264,
+    "time": "2026-09-30T00:52:42.264Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Jetten Elisedil",
+    "content": "Concentration check Constitution save, DC 10 Jetten Elisedil — concentrating on Entangle Took 7 damage from Greenrest Mob — Farmhands's Thrown Cabbage."
+  },
+  {
+    "id": "wtkbc2fIRupOaDKQ",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729565806,
+    "time": "2026-09-30T00:52:45.806Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Jetten Elisedil",
+    "content": "14 13 13 13 +1",
+    "flavor": "Constitution Saving Throw",
+    "rolls": [
+      {
+        "total": 14,
+        "formula": "1d20 + 1"
+      }
+    ]
+  },
+  {
+    "id": "CLAvynwTVO5pAlnk",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729568386,
+    "time": "2026-09-30T00:52:48.386Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Battle Flow",
+    "content": "Concentration Entangle holds 14 vs DC 10 — rolled by the timer"
+  },
+  {
+    "id": "NbYm59eWcfRWAxXb",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1790729575585,
+    "time": "2026-09-30T00:52:55.585Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "5 4 4 4 +1",
+    "flavor": "Constitution Saving Throw",
+    "rolls": [
+      {
+        "total": 5,
+        "formula": "1d20 + 1"
+      }
+    ]
+  },
+  {
+    "id": "Lty2DMBwOZCkyRpF",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1790729578372,
+    "time": "2026-09-30T00:52:58.372Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "7",
+    "flavor": "Heroic Inspiration — the reroll",
+    "rolls": [
+      {
+        "total": 7,
+        "formula": "1d20 + 1"
+      }
+    ]
+  },
+  {
+    "id": "LFuxQZbnmMNfF2Mr",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1790729582337,
+    "time": "2026-09-30T00:53:02.337Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "D20 Fold — Heroic Inspiration Heroic Inspiration — the roll is patched Jetten Elisedil spends Heroic Inspiration 5 → 7 vs DC 10 — still fails"
+  },
+  {
+    "id": "ZUZ7yqmUNjdbjxIH",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729586525,
+    "time": "2026-09-30T00:53:06.525Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Battle Flow",
+    "content": "Concentration broken Entangle ends 7 vs DC 10 — Jetten Elisedil loses concentration"
+  },
+  {
+    "id": "4KcYMxKWavoErkSP",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729639499,
+    "time": "2026-09-30T00:53:59.499Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Torchbearers",
+    "content": "Pitchfork Attack A farmhand drives a pitchfork at you, tines first. Weapon Natural Action 5 ft Proficient",
+    "title": "Pitchfork - Attack"
+  },
+  {
+    "id": "lCvJ3jJqcT1TEVKz",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729640551,
+    "time": "2026-09-30T00:54:00.551Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Torchbearers",
+    "content": "Morgash Morgash 22 16 16 16 +3 +3",
+    "flavor": "Pitchfork - Attack Roll",
+    "rolls": [
+      {
+        "total": 22,
+        "formula": "1d20 + 3 + 3"
+      }
+    ]
+  },
+  {
+    "id": "NjBXYYpKrTq3Pi1I",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729641238,
+    "time": "2026-09-30T00:54:01.238Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Torchbearers",
+    "content": "Club Attack An ax handle, a chair leg, a cudgel, swung hard. Weapon Natural Action 5 ft Proficient",
+    "title": "Club - Attack"
+  },
+  {
+    "id": "7L0hsikQujDGB2Ke",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729641976,
+    "time": "2026-09-30T00:54:01.976Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Torchbearers",
+    "content": "Morgash Morgash 13 7 7 7 +3 +3",
+    "flavor": "Club - Attack Roll",
+    "rolls": [
+      {
+        "total": 13,
+        "formula": "1d20 + 3 + 3"
+      }
+    ]
+  },
+  {
+    "id": "Hm8yOc7ofrd9uUrW",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729642509,
+    "time": "2026-09-30T00:54:02.509Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Torchbearers",
+    "content": "Weapon 4 1 +3 Piercing 4",
+    "flavor": "Pitchfork - Damage Roll",
+    "rolls": [
+      {
+        "total": 4,
+        "formula": "1d8 + 3"
+      }
+    ]
+  },
+  {
+    "id": "YJCGVNVlGipyyyJt",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729644012,
+    "time": "2026-09-30T00:54:04.012Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Torchbearers",
+    "content": "Sword Attack An old sword off somebody's wall, notched and rusty, swung by a man who has never used one. Weapon Natural Action 5 ft Proficient",
+    "title": "Sword - Attack"
+  },
+  {
+    "id": "M7B0PUiRjKWbBv6A",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729645064,
+    "time": "2026-09-30T00:54:05.064Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Torchbearers",
+    "content": "Morgash Morgash 8 2 2 2 +3 +3",
+    "flavor": "Sword - Attack Roll",
+    "rolls": [
+      {
+        "total": 8,
+        "formula": "1d20 + 3 + 3"
+      }
+    ]
+  },
+  {
+    "id": "8sPu3peJtC9HyvK7",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1790729645753,
+    "time": "2026-09-30T00:54:05.753Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Maneuver — Riposte Riposte — Morgash strikes back with Pike Greenrest Mob — Torchbearers's melee attack missed"
+  },
+  {
+    "id": "VvMYFOvsmA2tyIpV",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1790729646122,
+    "time": "2026-09-30T00:54:06.122Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Riposte Riposte Damage When a creature misses you with a melee attack roll, you can take a Reaction and expend one Superiority Die to make a melee attack roll with a weapon or an Unarmed Strike against the creature. If you hit, add the Superiority Die to the attack's damage. Trigger When a creature misses you with a melee attack roll Maneuver Reaction Self 1 Creature",
+    "title": "Riposte - Riposte Damage"
+  },
+  {
+    "id": "xAuLQYmdSjHBCT3f",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1790729646242,
+    "time": "2026-09-30T00:54:06.242Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Pike Attack Weapon Martial Melee Push Action Reach 10 ft Proficient",
+    "title": "Pike - Attack"
+  },
+  {
+    "id": "4WAWc4kZLZCsYWDb",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1790729646537,
+    "time": "2026-09-30T00:54:06.537Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Pike Attack Mastery Push Melee Attack Melee Weapon Two-Handed Greenrest Mob — Torchbearers Greenrest Mob — Torchbearers 10 3 3 3 +4 +3",
+    "flavor": "Pike - Attack Roll",
+    "rolls": [
+      {
+        "total": 10,
+        "formula": "1d20 + 4 + 3"
+      }
+    ]
+  },
+  {
+    "id": "QfNPUTOSiG6EQ7V1",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1790729649117,
+    "time": "2026-09-30T00:54:09.117Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Pike Attack • Damage Roll Weapon 15 3 8 +4 Piercing 15",
+    "flavor": "Pike - Damage Roll",
+    "rolls": [
+      {
+        "total": 15,
+        "formula": "1d10min3 + 4 + 1d8min3"
+      }
+    ]
+  },
+  {
+    "id": "T3T51gvIxnB64Kr4",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729655164,
+    "time": "2026-09-30T00:54:15.164Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Torchbearers",
+    "content": "Thrown Cabbage Attack A good, heavy Greenrest cabbage, the best harvest in the valley, thrown from the back of the crowd. Weapon Natural Action 20/60 ft Proficient",
+    "title": "Thrown Cabbage - Attack"
+  },
+  {
+    "id": "rS6j3dvjVBlTFp2z",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729656815,
+    "time": "2026-09-30T00:54:16.815Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Torchbearers",
+    "content": "Invictus Invictus 10 4 4 4 +3 +3",
+    "flavor": "Thrown Cabbage - Attack Roll",
+    "rolls": [
+      {
+        "total": 10,
+        "formula": "1d20 + 3 + 3"
+      }
+    ]
+  },
+  {
+    "id": "sxz87LAWm2WcctQZ",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729657303,
+    "time": "2026-09-30T00:54:17.303Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Torchbearers",
+    "content": "Thrown Tomato Attack A ripe tomato, thrown hard from the back of the crowd. Weapon Natural Action 20/60 ft Proficient",
+    "title": "Thrown Tomato - Attack"
+  },
+  {
+    "id": "nrmAOG8DP1YdJSq1",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729658400,
+    "time": "2026-09-30T00:54:18.400Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Torchbearers",
+    "content": "Invictus Invictus 25 19 19 19 +3 +3",
+    "flavor": "Thrown Tomato - Attack Roll",
+    "rolls": [
+      {
+        "total": 25,
+        "formula": "1d20 + 3 + 3"
+      }
+    ]
+  },
+  {
+    "id": "ikoiaswwGNXnV6Lg",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729659842,
+    "time": "2026-09-30T00:54:19.842Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Torchbearers",
+    "content": "Weapon 5 2 +3 Bludgeoning 5",
+    "flavor": "Thrown Tomato - Damage Roll",
+    "rolls": [
+      {
+        "total": 5,
+        "formula": "1d4 + 3"
+      }
+    ]
+  },
+  {
+    "id": "P3Znb2mMS872nP5G",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1790729685730,
+    "time": "2026-09-30T00:54:45.730Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Robert",
+    "alias": "Invictus",
+    "content": "24 17 17 17 +4 +3",
+    "flavor": "Strength (Athletics) Check",
+    "rolls": [
+      {
+        "total": 24,
+        "formula": "1d20 + 4 + 3"
+      }
+    ]
+  },
+  {
+    "id": "1alB4S1dMxrpyeHd",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1790729724286,
+    "time": "2026-09-30T00:55:24.286Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "Caltrops Save • Damage Roll On Save Half Damage 1 +1 Piercing 1",
+    "flavor": "Caltrops - Damage Roll",
+    "rolls": [
+      {
+        "total": 1,
+        "formula": "1"
+      }
+    ]
+  },
+  {
+    "id": "zvFvNp41xYXOHUWz",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729725244,
+    "time": "2026-09-30T00:55:25.244Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "11 11 11 11",
+    "flavor": "Dexterity Saving Throw",
+    "rolls": [
+      {
+        "total": 11,
+        "formula": "1d20 + 0 + 0"
+      }
+    ]
+  },
+  {
+    "id": "eEK0sEiondxnVTUN",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1790729738468,
+    "time": "2026-09-30T00:55:38.468Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "Entangle Save Grasping plants sprout from the ground in a 20-foot square within range. For the duration, these plants turn the ground in the area into Difficult Terrain. They disappear when the spell ends.Each creature (other than you) in the area when you cast the spell must succeed on a Strength saving throw or have the Restrained condition until the spell ends. A Restrained creature can take an action to make a DC 14 Strength (Athletics) check against your spell save DC. On a success, it frees itself from the grasping plants and is no longer Restrained by them. 1st Level Conjuration Concentration V, S Action 1 Minute 90 ft 20 ft Cube Jetten 15 11 11 11 +1 +3 Gren 8 9 9 9 -1 Greenrest Mob — Farmhands 18 15 15 15 +3",
+    "title": "Entangle - Save"
+  },
+  {
+    "id": "Cvm5Q8QXTDNO5kFH",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729769907,
+    "time": "2026-09-30T00:56:09.907Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Jetten Elisedil",
+    "content": "Entangle Save Grasping plants sprout from the ground in a 20-foot square within range. For the duration, these plants turn the ground in the area into Difficult Terrain. They disappear when the spell ends.Each creature (other than you) in the area when you cast the spell must succeed on a Strength saving throw or have the Restrained condition until the spell ends. A Restrained creature can take an action to make a DC 14 Strength (Athletics) check against your spell save DC. On a success, it frees itself from the grasping plants and is no longer Restrained by them. 1st Level Conjuration Concentration V, S Action 1 Minute 90 ft 20 ft Cube Greenrest Mob — Farmhands 16 13 13 13 +3",
+    "title": "Entangle - Save"
+  },
+  {
+    "id": "VZ2O3LzKqailPG6f",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729773952,
+    "time": "2026-09-30T00:56:13.952Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "16 13 13 13 +3",
+    "flavor": "Strength Saving Throw",
+    "rolls": [
+      {
+        "total": 16,
+        "formula": "1d20 + 3"
+      }
+    ]
+  },
+  {
+    "id": "wmrADgM6BX9q2JQj",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1790729790574,
+    "time": "2026-09-30T00:56:30.574Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "15 11 11 11 +1 +3",
+    "flavor": "Strength Saving Throw",
+    "rolls": [
+      {
+        "total": 15,
+        "formula": "1d20 + 1 + 3"
+      }
+    ]
+  },
+  {
+    "id": "KnX98fjwKmJGvmYj",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1790729799199,
+    "time": "2026-09-30T00:56:39.199Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "8 9 9 9 -1",
+    "flavor": "Strength Saving Throw",
+    "rolls": [
+      {
+        "total": 8,
+        "formula": "1d20 - 1"
+      }
+    ]
+  },
+  {
+    "id": "e99WzrTePgZpYhui",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790729810620,
+    "time": "2026-09-30T00:56:50.620Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Greenrest Mob — Farmhands",
+    "content": "18 15 15 15 +3",
+    "flavor": "Strength Saving Throw",
+    "rolls": [
+      {
+        "total": 18,
+        "formula": "1d20 + 3"
+      }
+    ]
+  },
+  {
+    "id": "VNNDjqJRELeK3eIn",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790730625353,
+    "time": "2026-09-30T01:10:25.353Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Gren Greenmantle",
+    "content": "Hypnotic Pattern Save You create a twisting pattern of colors in a 30-foot Cube within range. The pattern appears for a moment and vanishes. Each creature in the area who can see the pattern must succeed on a Wisdom saving throw or have the Charmed condition for the duration. While Charmed, the creature has the Incapacitated condition and a Speed of 0.The spell ends for an affected creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor. Materials a pinch of confetti 3rd Level Illusion Concentration S, M Action 1 Minute 120 ft 30 ft Cube Pudgy 7 5 5 5 +2 Invictus 21 15 15 15 +3 +1 +2",
+    "title": "Hypnotic Pattern - Save"
+  },
+  {
+    "id": "5CzvUBJ1DYsdZfPq",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790730630698,
+    "time": "2026-09-30T01:10:30.698Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Pudgy",
+    "content": "7 5 5 5 +2",
+    "flavor": "Wisdom Saving Throw",
+    "rolls": [
+      {
+        "total": 7,
+        "formula": "1d20 + 0 + 2"
+      }
+    ]
+  },
+  {
+    "id": "38s4iqNLfdPvlUxS",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790730652456,
+    "time": "2026-09-30T01:10:52.456Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Invictus",
+    "content": "21 15 15 15 +3 +1 +2",
+    "flavor": "Wisdom Saving Throw",
+    "rolls": [
+      {
+        "total": 21,
+        "formula": "1d20 + 0 + 3 + 1 + 2"
+      }
+    ]
+  },
+  {
+    "id": "6x5TIDklVfnt6GXC",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1790731236910,
+    "time": "2026-09-30T01:20:36.910Z",
+    "style": 1,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "whisper": false,
+    "authorName": "Matt the DM",
+    "alias": "Matt the DM",
+    "content": "Echoes of HalruaaA D&D 2024 campaign, levels 1 to 10+. Forgotten Realms, 1492 DR. Weekly on Foundry.A hundred years ago, the most magical kingdom in the world saved itself from the end of the world — and left everyone who didn't matter behind.Your great-grandparents were the ones who didn't matter. They sealed themselves into the mines of the Wall while the sky burned, and there they stayed. You were born under stone. So were your parents. The sky is a thing from stories.Five years ago, the mountain shook. The kingdom came back.Nobody knows what came back with it.Now the wards on the door have gone dark, three scouts haven't returned, and someone has to go out. That's you. You are the first people in a century to walk out of the Hearth and into a country where the wine is still in the casks, the fields are still in rows, and the streets are full of people who aren't quite there.What it is: Exploration of a strange, half-returned land. Plenty of fights — against things the blue fire left behind and things the returned kingdom brought with it. A mystery that unfolds through what you find, not what you're told. And, eventually, the question of who gets to decide what Halruaa becomes.What you need to know going in: Only the one-page handout. The rest you'll find, fight, or loot.What we're playing: Descendants of the left-behind, level 1, 2024 rules, Player's Handbook and Acrana Unleashed books. Combat-forward, exploration-heavy, roleplay welcome but never required. Come ready to be the first ones out the door."
+  }
+]

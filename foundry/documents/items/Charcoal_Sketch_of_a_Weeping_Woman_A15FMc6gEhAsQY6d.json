@@ -1,0 +1,60 @@
+{
+  "name": "Charcoal Sketch of a Weeping Woman",
+  "type": "loot",
+  "img": "icons/sundries/scrolls/scroll-plain-tan.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>A loose leaf of paper, the charcoal smudged from handling: a woman beneath — or becoming — a great pale tree, her face buried in her hands. Her hair and the branches are drawn as one. It is very good, and it is not finished.</em></p><p>Beneath, in a tired hand:</p><p>\"I sketched her so I would stop seeing her face.\"</p>",
+      "chat": ""
+    },
+    "price": {
+      "value": 1,
+      "denomination": "sp"
+    },
+    "source": {
+      "custom": "",
+      "rules": "2024",
+      "revision": 1
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "rarity": "",
+    "properties": [],
+    "type": {
+      "value": "gear",
+      "subtype": ""
+    },
+    "identifier": "parchment"
+  },
+  "effects": [],
+  "flags": {
+    "dnd5e": {}
+  },
+  "folder": "l74jP8iVTBjy67Sd",
+  "_stats": {
+    "exportSource": null,
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1786109549109,
+    "modifiedTime": 1786109608249,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_id": "A15FMc6gEhAsQY6d",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "_key": "!items!A15FMc6gEhAsQY6d"
+}

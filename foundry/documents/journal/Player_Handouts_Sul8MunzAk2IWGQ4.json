@@ -1,0 +1,495 @@
+{
+  "name": "Player Handouts",
+  "folder": "VQIbehh9eXDVwnpX",
+  "ownership": {
+    "default": 2,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "_id": "Sul8MunzAk2IWGQ4",
+  "pages": [
+    {
+      "type": "text",
+      "name": "Daggerford",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><img src=\"worlds/the-broken-heart-of-greenrest/assets/handouts/silver-gauntlet-tavern-interior.jpg\" alt=\"The Silver Gauntlet tavern interior\" style=\"max-width:100%;border-radius:4px;margin-bottom:0.75em\"><p class=\"lead\">Every road out of Daggerford starts with a last drink at the Gauntlet.</p><p>Daggerford is a walled market town where the <strong>Trade Way</strong> fords the River Delimbiyr — caravan dust and ferry bells, farmland and honest trade, the duke's keep watching from its hill. Everything moving between Waterdeep and the south passes through its gates — and sooner or later, past the <strong>Silver Gauntlet</strong>.</p><p>The tavern stands hard by the southern gate, named for the great gauntlet set into the flagstones at the heart of the common room — an open, armored hand of pale silver stone, fingers spread wide, big enough to lay a table on (nobody ever has). The story changes with the teller — a militia captain's surety against a tab he never came back to settle, a duke's champion's wager, a memorial to a knight drowned at the ford — but the custom never does: travelers riding south stoop and rub its knuckles for luck on the way out the door, and a hundred years of hands have polished the pale stones bright as a mirror. Regulars walk around it without thinking; only strangers tread on the Gauntlet.</p><h2 class=\"spaced\">The adventurers' tavern</h2><p>Caravan masters hire their guards here. Sellswords between contracts hold the corner tables. The wall by the hearth is scratched and inked with the marks of companies that drank here before setting out — some famous, most forgotten. If you're outfitting an expedition, this is where you learn which outfitter is honest, which ford is washed out, and which rumor has already gotten three parties killed.</p><p>It is also, famously, <em>the last of everything</em>: the last proper market, the last farrier, the last soft bed and cold ale before the Trade Way runs south out of civilized lands. Whatever you forgot, buy it in Daggerford tonight — or learn to live without it on the road.</p></div></section>",
+        "format": 1
+      },
+      "ownership": {
+        "default": 2,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 100,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786196079081,
+        "modifiedTime": 1786196079588,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_id": "R5ebPGm1umNXFmaO",
+      "_key": "!journal.pages!Sul8MunzAk2IWGQ4.R5ebPGm1umNXFmaO"
+    },
+    {
+      "type": "image",
+      "name": "The Village of Greenrest",
+      "src": "worlds/the-broken-heart-of-greenrest/assets/maps/map-greenrest-01.jpg",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "category": null,
+      "sort": 1100,
+      "ownership": {
+        "default": 2,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786196079082,
+        "modifiedTime": 1786196079589,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_id": "9LzEpTF6dKRqDd7C",
+      "_key": "!journal.pages!Sul8MunzAk2IWGQ4.9LzEpTF6dKRqDd7C"
+    },
+    {
+      "type": "text",
+      "name": "First Sight of Greenrest",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><div class=\"readaloud\"><p>The trees thin, the trail climbs one last rise, and the forest lets you go — the mist simply <em>ends</em>, burned off in clean gold sunlight. Below you, cradled in green meadows under a cloudless sky, sits the village of Greenrest, and after so many dripping days beneath the canopy it looks almost too tidy to be true. Slate roofs cluster snug around a market square, chimney-smoke rises straight up, orchards and hedged fields quilt the slopes down to a flat, silver-blue lake — birdsong, cut hay, woodsmoke, and the plain, startling relief of open sky. To your right an old stone watchtower keeps the height, a worn path spilling from its foot down to the road. Only one thing snags the eye: at the very heart of the village, alone in all that green, stands a single great tree gone grey and sickly — the one wrong note in an otherwise perfect song.</p></div></div></section>",
+        "format": 1
+      },
+      "sort": 200,
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": 2,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786196079085,
+        "modifiedTime": 1786196079588,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_id": "4lKriTUSmlyIdB37",
+      "_key": "!journal.pages!Sul8MunzAk2IWGQ4.4lKriTUSmlyIdB37"
+    },
+    {
+      "type": "image",
+      "name": "The View from the Hill",
+      "src": "worlds/the-broken-heart-of-greenrest/assets/handouts/greenrest-arrival-vista.jpg",
+      "image": {
+        "caption": "Greenrest from the hilltop road — the watchtower on the height at right, the lake beyond, and the lone grey tree in the central square."
+      },
+      "sort": 1000,
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "category": null,
+      "ownership": {
+        "default": 2,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786196079086,
+        "modifiedTime": 1786196079589,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_id": "d64IpbrUOhKT8UOS",
+      "_key": "!journal.pages!Sul8MunzAk2IWGQ4.d64IpbrUOhKT8UOS"
+    },
+    {
+      "type": "text",
+      "name": "The Broken Heart",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><p class=\"lead\">Everything you've pieced together about the Broken Heart — and the road south to find it.</p><div class=\"readaloud\"><p>You live in Daggerford. Through your own digging you've cobbled together a map to the Broken Heart — a relic shattered into four shards, hidden in the Misty Forest: days south down the Trade Way, then east off the road. A dragon, a hag coven, a cult of Shar, and something prowling a lost shrine each sit on one. Only one village lies close enough to hunt from: Greenrest. So you leave home behind and start the long trek south.</p></div><h2 class=\"spaced\">Daggerford — Home</h2><p>A walled market town on the Sword Coast, where the Trade Way fords the River Delimbiyr — caravan dust, farmland, a duke's keep on the hill. The last real comfort before the road turns wild. It's home, and it's where you pieced this together.</p><h2 class=\"spaced\">The Map</h2><p>There was never one map — a bought scrap, a caravanner's story, a line copied from a temple ledger, a rumor chased three towns over. Stitched together, they all point at the same thing: four shards, scattered through the Misty Forest. Gather them, and the Broken Heart is yours.</p><h2 class=\"spaced\">The Four Shards</h2><p>Your digging turned up where they went — and what sits on each one now:</p><ul><li><strong>The Lost Shrine.</strong> A shard lost in the dark below an abandoned shrine. Every account agrees on one detail: something prowls the depths.</li><li><strong>The Green Dragon's Lair.</strong> A young green dragon keeps a shard as the prize of its hoard. It won't part with it kindly.</li><li><strong>The Temple of Shar.</strong> Worshippers of the Lady of Loss hold a shard and are putting it to some purpose of their own. No one you asked cared to talk long.</li><li><strong>The Hag Coven.</strong> Hags in the Moor feed their coven magic with a shard. Bargain at your own risk.</li></ul><h2 class=\"spaced\">Greenrest — Your Staging Ground</h2><p>All four sites cluster in wild country southeast of the last friendly walls, and there's no living out of a saddle for a job this size. One village sits dead-center of the spread: Greenrest — the only roof, market, and bed for days in any direction. Little is known about it; the Misty Forest has always been the realm of fey and fog. Regardless: south down the Trade Way, then east into the trees — and make Greenrest your base.</p></div></section>",
+        "format": 1
+      },
+      "ownership": {
+        "default": 2,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 400,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786196079091,
+        "modifiedTime": 1786196079588,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_id": "h6AUQlfmVKZz8wn3",
+      "_key": "!journal.pages!Sul8MunzAk2IWGQ4.h6AUQlfmVKZz8wn3"
+    },
+    {
+      "type": "text",
+      "name": "The Full Cask",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><img src=\"worlds/the-broken-heart-of-greenrest/assets/handouts/greenrest-buildings/the-beard-and-barrel.jpg\" alt=\"The Full Cask\" style=\"max-width:100%;border-radius:4px;margin-bottom:0.75em\"><p>Down a short lane off the square sits the Full Cask, Greenrest's brewhouse, where the valley's endless barley becomes ale. Great oak vats and fermenting tuns crowd a timber hall warmed by a glowing brick furnace, the whole place thick and sweet with the smell of malt and woodsmoke. Through the wide loading door you can see the gold of grain-fields that never seem to fail, and a hoist waits to haul the next load up to the mash. A mug of the Full Cask's nut-brown ale is the quiet pride of the village — rich, honeyed, and, true to the name, never once in short supply.</p></div></section>",
+        "format": 1
+      },
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 600,
+      "ownership": {
+        "default": 3,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786196079092,
+        "modifiedTime": 1790816103585,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_id": "MmlgC6p6bXLBfCAf",
+      "_key": "!journal.pages!Sul8MunzAk2IWGQ4.MmlgC6p6bXLBfCAf"
+    },
+    {
+      "type": "text",
+      "name": "The Church of the Earthmother",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><img src=\"worlds/the-broken-heart-of-greenrest/assets/handouts/greenrest-buildings/church-of-the-earthmother.jpg\" alt=\"The Church of the Earthmother\" style=\"max-width:100%;border-radius:4px;margin-bottom:0.75em\"><p>Across the square rises the one building grander than a village this size should be able to raise: a great church of grey dressed stone, its bell-tower crowned with a golden sunburst, star-set windows glinting above a walled churchyard of leaning headstones. Ask a villager and they will say, with quiet pride, that Greenrest built it stone by stone in thanks — generations of gratitude for harvests that never fail. Yet the Earthmother is a humble goddess of field and furrow, honoured elsewhere in open granges and garland-hung barns, not soaring naves and gilded spires. Beautiful as it is, something about its scale sits faintly wrong: a plain farming god given a cathedral fit for a lord, in a valley too poor to have built it.</p></div></section>",
+        "format": 1
+      },
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 500,
+      "ownership": {
+        "default": 2,
+        "EtG3ba47F3LHz0QC": 3,
+        "fsPwfDarpkUyzlhz": 2
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786196079093,
+        "modifiedTime": 1787705484622,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_id": "7KUcdIEKUen5hgQu",
+      "_key": "!journal.pages!Sul8MunzAk2IWGQ4.7KUcdIEKUen5hgQu"
+    },
+    {
+      "type": "text",
+      "name": "The Long Rest",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><img src=\"worlds/the-broken-heart-of-greenrest/assets/handouts/greenrest-buildings/the-long-rest.jpg\" alt=\"The Long Rest\" style=\"max-width:100%;border-radius:4px;margin-bottom:0.75em\"><p>Greenrest's inn stands just off the market square — a broad, half-timbered house beneath a steep pale-thatched roof, its great stone chimney trailing woodsmoke into a clear sky. A sunburst worked in stained glass glows above the upper balcony, and long benches spread under the eaves where villagers linger over cider and easy talk. The door stands open and the hearth stays lit; travelers are welcomed like old friends and promised the softest beds and the deepest, most restful sleep in all the valley. After the long road south, it is the warmest and most inviting sight in Greenrest — the obvious place to set down your packs and rest a while.</p></div></section>",
+        "format": 1
+      },
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 700,
+      "ownership": {
+        "default": 2,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786196079094,
+        "modifiedTime": 1786497177849,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_id": "qNOzM97NPGFwiXL5",
+      "_key": "!journal.pages!Sul8MunzAk2IWGQ4.qNOzM97NPGFwiXL5"
+    },
+    {
+      "type": "text",
+      "name": "The Mayor's Tower",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><img src=\"worlds/the-broken-heart-of-greenrest/assets/handouts/greenrest-buildings/mayors-tower.jpg\" alt=\"The Mayor's Tower\" style=\"max-width:100%;border-radius:4px;margin-bottom:0.75em\"><p>High on the rocky crag above the vale stands the Mayor's Tower, a slender spire of pale stone that keeps watch over the whole green valley — the river, the fields, and the small bright roofs of Greenrest far below. A worn stair climbs the cliff to its door, and from those heights, they say, Mayor Oswin Applewhite can see every road that winds toward his valley. It is the oldest stonework here, older than the village itself, and the seat from which the mayor keeps his people's affairs in order. On a clear day its pale twin spires are the very first thing a traveler glimpses when the forest at last lets them go.</p></div></section>",
+        "format": 1
+      },
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 800,
+      "ownership": {
+        "default": 2,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786196079095,
+        "modifiedTime": 1786497209436,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_id": "DZWKwsYoSAjDX36S",
+      "_key": "!journal.pages!Sul8MunzAk2IWGQ4.DZWKwsYoSAjDX36S"
+    },
+    {
+      "type": "text",
+      "name": "Hedgewatch Garrison",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><img src=\"worlds/the-broken-heart-of-greenrest/assets/handouts/greenrest-buildings/eastwatch-garrison.jpg\" alt=\"Hedgewatch Garrison\" style=\"max-width:100%;border-radius:4px;margin-bottom:0.75em\"><p>At the eastern edge of the village stands Hedgewatch Garrison — a stout stone blockhouse behind a timber palisade of sharpened stakes, the falcon banner of the town watch snapping above its gate. In the muster-yard within, the militia drill among archery butts and weapon racks: farmhands and townsfolk who take up spear and bow in their turn to keep Greenrest's fields and the one road safe. It is a harder, plainer place than the cozy village around it, and Constable Warin Holt runs it with a firm and watchful hand. This is where Greenrest keeps its swords — and, when it must, its resolve.</p></div></section>",
+        "format": 1
+      },
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 300,
+      "ownership": {
+        "default": 2,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786196079096,
+        "modifiedTime": 1786497185377,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_id": "BzCwdS8p1uz4dtix",
+      "_key": "!journal.pages!Sul8MunzAk2IWGQ4.BzCwdS8p1uz4dtix"
+    },
+    {
+      "type": "text",
+      "name": "The Sword Coast",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><img src=\"worlds/the-broken-heart-of-greenrest/assets/maps/map-the-sword-coast.jpg\" alt=\"Map of the Sword Coast\" style=\"max-width:100%;border-radius:4px;margin-bottom:0.75em\"><p class=\"lead\">The North as you know it — and the long road south from home.</p><div class=\"readaloud\"><p>This map is the world as you know it. Daggerford sits where the Trade Way fords the Delimbiyr — home, and the last friendly walls. Waterdeep glitters to the north; the Sea of Swords breaks to the west. Your road runs the other way: south down the Trade Way, off the edge of comfort, then east off the road into the Misty Forest where the four shards of the Broken Heart wait — and the village of Greenrest will be your only refuge.</p></div></div></section>",
+        "format": 1
+      },
+      "ownership": {
+        "default": 2,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 900,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786196079097,
+        "modifiedTime": 1786196079589,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_id": "t5rK3qZ7AONJM4j9",
+      "_key": "!journal.pages!Sul8MunzAk2IWGQ4.t5rK3qZ7AONJM4j9"
+    },
+    {
+      "type": "text",
+      "name": "Treasure Map to the Broken Heart",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><img src=\"worlds/the-broken-heart-of-greenrest/assets/maps/treasure-map-broken-heart.jpg\" alt=\"Treasure map to the Broken Heart\" style=\"max-width:100%;border-radius:4px;margin-bottom:0.75em\"><p class=\"lead\">The scrap you cobbled together — and the four X's that started it all.</p><div class=\"readaloud\"><p>No cartographer drew this. A bought scrap, a temple-ledger line, a called-in favor, a rumor chased three towns over — stitched into one map that finally agrees with itself. South of Daggerford, past the Misty Forest, four marks ring the little village of Greenrest: the <strong>Temple of Shar</strong>, a <strong>Hag Coven</strong>, a <strong>Green Dragon's</strong> lair, and a <strong>Lost Shrine</strong> where something prowls the dark. A shard of the Broken Heart waits at each — and Greenrest sits dead-center: your home base for the hunt.</p></div></div></section>",
+        "format": 1
+      },
+      "ownership": {
+        "default": 2,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 1200,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786196079098,
+        "modifiedTime": 1786196079589,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_id": "PUi6G9nSBjUYlUYQ",
+      "_key": "!journal.pages!Sul8MunzAk2IWGQ4.PUi6G9nSBjUYlUYQ"
+    }
+  ],
+  "categories": [],
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1786196065433,
+    "modifiedTime": 1786196065434,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!Sul8MunzAk2IWGQ4"
+}

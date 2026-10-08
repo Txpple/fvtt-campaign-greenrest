@@ -1,0 +1,32 @@
+{
+  "type": "script",
+  "scope": "actor",
+  "name": "Produce Flame",
+  "img": "icons/magic/light/hand-sparks-glow-yellow.webp",
+  "command": "dnd5e.documents.macro.rollItem(\"Produce Flame\", { event })",
+  "flags": {
+    "dnd5e": {
+      "itemMacro": true
+    }
+  },
+  "_id": "KpKqsNdyY034y607",
+  "author": "LVDVg5n3IGEBCWns",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "LVDVg5n3IGEBCWns": 3
+  },
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783285170176,
+    "modifiedTime": 1783285170176,
+    "lastModifiedBy": "LVDVg5n3IGEBCWns",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!macros!KpKqsNdyY034y607"
+}

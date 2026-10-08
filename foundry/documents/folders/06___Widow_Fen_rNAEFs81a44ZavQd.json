@@ -1,0 +1,28 @@
+{
+  "name": "06 - Widow Fen",
+  "type": "Item",
+  "color": "#7a7a3d",
+  "folder": null,
+  "flags": {
+    "world": {
+      "mcpGenerated": false,
+      "createdAt": "2026-08-28T19:03:51.651Z"
+    }
+  },
+  "_id": "rNAEFs81a44ZavQd",
+  "description": "",
+  "sorting": "a",
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1787943831182,
+    "modifiedTime": 1787943831182,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!rNAEFs81a44ZavQd"
+}

@@ -1,0 +1,18 @@
+{
+  "key": "dnd5e.firstRun",
+  "user": null,
+  "value": "false",
+  "_id": "XcvfMN77S2z3lTL2",
+  "_stats": {
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.3",
+    "createdTime": 1790016571416,
+    "modifiedTime": 1790016571416,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!XcvfMN77S2z3lTL2"
+}

@@ -1,0 +1,63 @@
+{
+  "name": "The Long Rest — Oswin Pleads",
+  "pages": [
+    {
+      "type": "image",
+      "name": "The Long Rest — Oswin Pleads",
+      "src": "worlds/the-broken-heart-of-greenrest/assets/art/illustration-oswin-pleads-at-breakfast-2fbdbb0f.webp",
+      "_id": "0edOGLdePdJSLoEk",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.5",
+        "createdTime": 1790524839431,
+        "modifiedTime": 1790524839431,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!JDAwAzG9S7Cugu4P.0edOGLdePdJSLoEk"
+    }
+  ],
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "folder": "kQte19HfIzLie7CE",
+  "_id": "JDAwAzG9S7Cugu4P",
+  "categories": [],
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.5",
+    "createdTime": 1790524839431,
+    "modifiedTime": 1790524839432,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!JDAwAzG9S7Cugu4P"
+}

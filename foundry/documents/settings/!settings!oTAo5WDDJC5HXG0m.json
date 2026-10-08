@@ -1,0 +1,18 @@
+{
+  "key": "fvtt-mod-battleflow.metamagicList",
+  "user": null,
+  "value": "\"Careful Spell, Distant Spell, Empowered Spell, Extended Spell, Heightened Spell, Quickened Spell, Seeking Spell, Subtle Spell, Transmuted Spell, Twinned Spell\"",
+  "_id": "oTAo5WDDJC5HXG0m",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1789309407215,
+    "modifiedTime": 1789309407215,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!oTAo5WDDJC5HXG0m"
+}

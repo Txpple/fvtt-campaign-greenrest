@@ -1,0 +1,63 @@
+{
+  "name": "✦ Title Card",
+  "pages": [
+    {
+      "type": "image",
+      "name": "The Broken Heart of Greenrest",
+      "src": "worlds/the-broken-heart-of-greenrest/assets/ui/titlecard.webp",
+      "ownership": {
+        "default": 2
+      },
+      "_id": "cEG0ABfVUHq7zD1R",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "category": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.5",
+        "createdTime": 1790816503444,
+        "modifiedTime": 1790816503444,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!ZfytD24mgtZJazkq.cEG0ABfVUHq7zD1R"
+    }
+  ],
+  "ownership": {
+    "default": 2,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "_id": "ZfytD24mgtZJazkq",
+  "folder": null,
+  "categories": [],
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.5",
+    "createdTime": 1790816503444,
+    "modifiedTime": 1790816503445,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!ZfytD24mgtZJazkq"
+}

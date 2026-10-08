@@ -1,0 +1,32 @@
+{
+  "type": "script",
+  "scope": "actor",
+  "name": "Vow of Enmity",
+  "img": "icons/magic/unholy/silhouette-robe-evil-glow.webp",
+  "command": "dnd5e.documents.macro.rollItem(\"Vow of Enmity\", { event })",
+  "flags": {
+    "dnd5e": {
+      "itemMacro": true
+    }
+  },
+  "_id": "xzTw7CtnlpGr5ZJR",
+  "author": "iMPHMzzzg1qCN7dy",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "iMPHMzzzg1qCN7dy": 3
+  },
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1787316330211,
+    "modifiedTime": 1787316330212,
+    "lastModifiedBy": "iMPHMzzzg1qCN7dy",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!macros!xzTw7CtnlpGr5ZJR"
+}

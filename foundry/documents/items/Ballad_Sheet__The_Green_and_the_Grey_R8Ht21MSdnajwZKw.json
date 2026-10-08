@@ -1,0 +1,57 @@
+{
+  "name": "Ballad Sheet: The Green and the Grey",
+  "type": "loot",
+  "img": "icons/tools/navigation/map-chart-tan.webp",
+  "system": {
+    "description": {
+      "value": "<p>A folded, much-copied sheet of a very old song — the minstrel Marisel calls it <em>“The Green and the Grey.”</em> The verses tell of a deathless green thing that loved a raven-haired mortal youth and could not let him go when his years ran out; it waited for him past all sense, and waits still. The oldest surviving verse names him only <em>“Corin.”</em> A sad old tune, and nothing more — or so everyone who sings it believes.</p>",
+      "chat": ""
+    },
+    "quantity": 1,
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "rarity": "",
+    "identified": true,
+    "properties": [],
+    "type": {
+      "value": "gear",
+      "subtype": ""
+    },
+    "identifier": "ballad-sheet-the-green-and-the-grey",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "container": null
+  },
+  "folder": "d0YzQsbDfWa7x4kj",
+  "_id": "R8Ht21MSdnajwZKw",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783036245129,
+    "modifiedTime": 1783036629511,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!R8Ht21MSdnajwZKw"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "The Dreamer and Corin",
+  "pages": [
+    {
+      "type": "image",
+      "name": "The Dreamer and Corin",
+      "src": "worlds/the-broken-heart-of-greenrest/assets/handouts/the-dreamer-and-corin.jpg",
+      "image": {
+        "caption": "Her endless spring, and the mortal who would not stay in it."
+      },
+      "_id": "do1Xc5SvLnpo4XaE",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": 2
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1788196721154,
+        "modifiedTime": 1788911468018,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!YXw6GANqx1b55I7i.do1Xc5SvLnpo4XaE"
+    }
+  ],
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "folder": "7v0WU3VZu27OHfA2",
+  "_id": "YXw6GANqx1b55I7i",
+  "categories": [],
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1788196721154,
+    "modifiedTime": 1788968131459,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!YXw6GANqx1b55I7i"
+}

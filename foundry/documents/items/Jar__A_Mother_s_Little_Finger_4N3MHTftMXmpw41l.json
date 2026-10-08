@@ -1,0 +1,57 @@
+{
+  "name": "Jar: A Mother's Little Finger",
+  "type": "loot",
+  "img": "icons/consumables/drinks/wine-amphora-clay-gray.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>A small jar, packed in brine. One item inside. The cipher label is short, and under it someone has drawn — carefully, almost fondly — a tiny flower. The wax on this one has never been broken since it was set.</em></p>",
+      "chat": ""
+    },
+    "quantity": 1,
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "rarity": "",
+    "identified": true,
+    "type": {
+      "value": "junk",
+      "subtype": ""
+    },
+    "identifier": "jar-a-mothers-little-finger",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": []
+  },
+  "folder": "RxxShy6nmWycOcq7",
+  "_id": "4N3MHTftMXmpw41l",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1787965873019,
+    "modifiedTime": 1787965873025,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!4N3MHTftMXmpw41l"
+}

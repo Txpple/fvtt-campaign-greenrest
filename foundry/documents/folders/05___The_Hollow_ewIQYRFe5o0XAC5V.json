@@ -1,0 +1,28 @@
+{
+  "name": "05 - The Hollow",
+  "type": "Scene",
+  "folder": null,
+  "flags": {
+    "world": {
+      "mcpGenerated": false,
+      "createdAt": "2026-07-16T13:42:02.932Z"
+    }
+  },
+  "_id": "ewIQYRFe5o0XAC5V",
+  "description": "",
+  "sorting": "a",
+  "sort": 0,
+  "color": "#3f8fa6",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1784209321312,
+    "modifiedTime": 1786552675958,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!ewIQYRFe5o0XAC5V"
+}

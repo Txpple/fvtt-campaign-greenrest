@@ -1,0 +1,18 @@
+{
+  "key": "fvtt-mod-battleflow.conditionList",
+  "user": null,
+  "value": "\"blinded, invisible, hiding, paralyzed, petrified, poisoned, restrained, stunned, unconscious, frightened, grappled, incapacitated, dodging, charmed\"",
+  "_id": "u34BFCIOfzWq9kQp",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1788636188443,
+    "modifiedTime": 1788636188443,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!u34BFCIOfzWq9kQp"
+}

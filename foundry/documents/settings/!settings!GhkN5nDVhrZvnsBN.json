@@ -1,0 +1,18 @@
+{
+  "key": "core.combatTrackerConfig",
+  "user": null,
+  "value": "{\"resource\":\"\",\"skipDefeated\":false,\"turnMarker\":{\"enabled\":true,\"animation\":\"spin\",\"src\":\"worlds/the-broken-heart-of-greenrest/assets/ui/turn-marker-custom-02.png\",\"disposition\":false}}",
+  "_id": "GhkN5nDVhrZvnsBN",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783522472866,
+    "modifiedTime": 1783527687136,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!GhkN5nDVhrZvnsBN"
+}

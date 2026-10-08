@@ -1,0 +1,28 @@
+{
+  "name": "06 - Widow Fen",
+  "type": "Scene",
+  "folder": null,
+  "flags": {
+    "world": {
+      "mcpGenerated": false,
+      "createdAt": "2026-07-15T19:22:24.174Z"
+    }
+  },
+  "_id": "RbNTVrBPqvr4RBrl",
+  "description": "",
+  "sorting": "a",
+  "sort": 0,
+  "color": "#7a7a3d",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1784143343094,
+    "modifiedTime": 1787878385505,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!RbNTVrBPqvr4RBrl"
+}

@@ -1,0 +1,18 @@
+{
+  "key": "fvtt-mod-miscpatches.teleportList",
+  "user": null,
+  "value": "\"Misty Step, Dimension Door, Moonlight Step, Shadow Step, Arcane Charge\"",
+  "_id": "9UY8aJySgBw7h8xm",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1788636188873,
+    "modifiedTime": 1788636188873,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!9UY8aJySgBw7h8xm"
+}

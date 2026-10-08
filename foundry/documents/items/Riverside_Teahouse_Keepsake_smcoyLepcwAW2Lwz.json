@@ -1,0 +1,57 @@
+{
+  "name": "Riverside Teahouse Keepsake",
+  "type": "loot",
+  "img": "icons/containers/bags/pouch-leather-pink.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>A small bundle, wrapped and re-wrapped in oilcloth so many times the folds have gone soft. Inside: a pressed flower, colorless with age, and a little hand-carved sign, the letters picked out with real care:</em></p><p>\"THE RIVERSIDE TEAHOUSE — SUNLIT WETLANDS — ALL WELCOME.\"</p><p><em>Someone has kept this the way other people keep wedding rings.</em></p>",
+      "chat": ""
+    },
+    "quantity": 1,
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "rarity": "",
+    "identified": true,
+    "type": {
+      "value": "junk",
+      "subtype": ""
+    },
+    "identifier": "riverside-teahouse-keepsake",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": []
+  },
+  "folder": "RxxShy6nmWycOcq7",
+  "_id": "smcoyLepcwAW2Lwz",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1787965873022,
+    "modifiedTime": 1787965873025,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!smcoyLepcwAW2Lwz"
+}

@@ -1,0 +1,18 @@
+{
+  "key": "fvtt-mod-battleflow.reminderList",
+  "user": null,
+  "value": "\"vex, sap, prone, condition, range, effect, sneak, buy\"",
+  "_id": "sKvnUJCNYMkAKIW0",
+  "_stats": {
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1788636188405,
+    "modifiedTime": 1790450097681,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!sKvnUJCNYMkAKIW0"
+}

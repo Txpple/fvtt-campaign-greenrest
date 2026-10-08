@@ -1,0 +1,29 @@
+{
+  "name": "Clear Temp Effects + Full Rest (Scene)",
+  "type": "script",
+  "command": "// Testing utility: strip every TEMPORARY effect (duration'd chips + statuses) from every token\n// actor on the current canvas, then LONG REST every one of them. Batch-deleted per actor in ONE\n// call — an unlinked token's synthetic actor rebuilds its collections on every write, so\n// one-at-a-time deletes throw \"does not exist\" on the second id.\n//\n// ⚠ FULL BOARD RESET, MONSTERS INCLUDED (user's call 2026-08-19). The long rest restores every\n// NPC on the scene as well — spell slots, features, hit dice, hit points, legendary resistances.\n// That is what makes it a reset button, and exactly why it is the wrong button to press in the\n// middle of a fight.\n//\n// ⚠ Two flags are load-bearing, both measured against dnd5e 5.3.3's initiateRest:\n//   dialog:false — longRest() defaults dialog TRUE and would pop one configuration dialog PER\n//                  ACTOR, which on a populated scene is unusable.\n//   chat:false   — one summary beats N rest cards in the log.\n// Long rest also carries newDay:true and exhaustionDelta:-1 from CONFIG.DND5E.restTypes.long\n// (both wanted, both RAW) and does NOT advance the world clock.\n//\n// ⚠ It acts on TOKEN actors, so an unlinked token is rested as its own synthetic actor and the\n// base actor in the sidebar is untouched. That is the correct target — it is what is on the\n// board — but it means \"did it work?\" must be checked on the token, not in the directory.\nif ( !canvas?.scene ) { ui.notifications.warn(\"No active scene.\"); return; }\n\n// Snapshot the actors BEFORE mutating anything: canvas.tokens.placeables is live and a rest\n// redraws tokens (HP bar, status icons). Deduped by uuid because several tokens of one LINKED\n// actor share a single document — an unlinked token's synthetic actor has its own uuid and so\n// is correctly treated as separate.\nconst actors = [];\nconst seen = new Set();\nfor ( const token of canvas.tokens.placeables ) {\n  const actor = token.actor;\n  if ( !actor || seen.has(actor.uuid) ) continue;\n  seen.add(actor.uuid);\n  actors.push(actor);\n}\n\nlet cleared = 0, clearedOn = 0, rested = 0, skipped = 0;\nconst failed = [];\nfor ( const actor of actors ) {\n  try {\n    // Effects first, then the rest: clearing a max-HP or temp-HP effect before resting is what\n    // makes the restored pool the real one rather than the buffed one.\n    // ⚠ statuses.size is NOT redundant: on Foundry 14.365 a bare condition (Prone, Dead — a\n    // status with no duration) reports isTemporary FALSY (measured 2026-08-20), so the filter\n    // alone left every pressed condition standing. A status IS temp state to a reset button.\n    const ids = actor.effects.filter(e => e.isTemporary || e.statuses.size).map(e => e.id);\n    if ( ids.length ) {\n      await actor.deleteEmbeddedDocuments(\"ActiveEffect\", ids);\n      cleared += ids.length;\n      clearedOn += 1;\n    }\n    // ⚠ initiateRest returns UNDEFINED when it bails — a vehicle, or any module vetoing the\n    // dnd5e.preLongRest hook — and an object when it actually rested. Counting a bail as a\n    // success made this summary lie during the build (it said \"long-rested 2 of 2\" for a rest\n    // that had not happened), which is the whole reason the macro reports numbers at all.\n    const result = await actor.longRest({ dialog: false, chat: false });\n    if ( result ) rested += 1;\n    else skipped += 1;\n  } catch(err) {\n    failed.push(actor.name);\n    console.error(\"Clear Temp Effects + Full Rest |\", actor.name, err);\n  }\n}\n\nui.notifications.info(\n  `Battle Flow: cleared ${cleared} temporary effect(s) across ${clearedOn} actor(s), `\n  + `long-rested ${rested} of ${actors.length} on ${canvas.scene.name}.`\n  + (skipped ? ` ${skipped} skipped the rest (vehicle, or a module blocked it).` : \"\")\n  + (failed.length ? ` ${failed.length} FAILED (${failed.join(\", \")}) — see console.` : \"\")\n);",
+  "img": "icons/svg/dice-target.svg",
+  "ownership": {
+    "default": 0,
+    "fsPwfDarpkUyzlhz": 3,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "_id": "8ablqYRiKDOEWLPz",
+  "author": "EtG3ba47F3LHz0QC",
+  "scope": "global",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1786887518450,
+    "modifiedTime": 1787281434549,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!macros!8ablqYRiKDOEWLPz"
+}

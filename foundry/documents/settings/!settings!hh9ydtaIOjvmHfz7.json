@@ -1,0 +1,18 @@
+{
+  "key": "fvtt-mod-lootshelf.requireAdjacency",
+  "user": null,
+  "value": "true",
+  "_id": "hh9ydtaIOjvmHfz7",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1786760377044,
+    "modifiedTime": 1786760377044,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!hh9ydtaIOjvmHfz7"
+}

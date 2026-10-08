@@ -1,0 +1,79 @@
+{
+  "name": "A Dose of Greenrest Tonic",
+  "type": "consumable",
+  "img": "icons/consumables/potions/vial-cork-green.webp",
+  "system": {
+    "description": {
+      "value": "<p>A stoppered clay vial of bitter green cordial, found among the web-wrapped effects of a traveller who never left the temple. The label, in a tidy, careful hand, reads only: <em>“One swallow, seventh-day, as ever. — Selma.”</em></p><p>Whoever drinks a swallow sleeps utterly without dreams for the next seven nights. No apothecary could name any other virtue in it — nor say why anyone would brew such a thing, or take it <em>as ever</em>.</p>",
+      "chat": ""
+    },
+    "type": {
+      "value": "potion",
+      "subtype": ""
+    },
+    "quantity": 1,
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "weight": {
+      "value": 0.5,
+      "units": "lb"
+    },
+    "rarity": "",
+    "identified": true,
+    "uses": {
+      "max": "1",
+      "spent": 0,
+      "recovery": [],
+      "autoDestroy": false
+    },
+    "source": {
+      "rules": "2024",
+      "revision": 1
+    },
+    "activities": {},
+    "identifier": "a-dose-of-greenrest-tonic",
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "damage": {
+      "base": {
+        "types": [],
+        "custom": {
+          "enabled": false
+        },
+        "scaling": {
+          "number": 1
+        }
+      },
+      "replace": false
+    },
+    "properties": []
+  },
+  "folder": "M2YVnwfiY9wdQEVA",
+  "_id": "F5kaUvHBmMIPb8CC",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783220998891,
+    "modifiedTime": 1783221088197,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!F5kaUvHBmMIPb8CC"
+}

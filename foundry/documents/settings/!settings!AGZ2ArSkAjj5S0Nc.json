@@ -1,0 +1,18 @@
+{
+  "key": "fvtt-mod-battleflow.suppressAttackCards",
+  "user": null,
+  "value": "true",
+  "_id": "AGZ2ArSkAjj5S0Nc",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1786797376564,
+    "modifiedTime": 1786941421034,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!AGZ2ArSkAjj5S0Nc"
+}

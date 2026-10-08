@@ -1,0 +1,57 @@
+{
+  "name": "Sheaf of Charcoal Sketches",
+  "type": "loot",
+  "img": "icons/sundries/scrolls/scroll-plain-tan.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>Loose pages, dozens of them — the same woman drawn over and over. Hard-jawed, sharp-eyed, a greatsword across her back; not quite human. Some sketches are careful as portraiture. Others are slashed through hard enough to tear the paper. One is burned at the corner.</em></p><p>On the back of the topmost page, in two different hands:</p><p>\"HER. The one who took our sister. Do not let us forget her face.\"</p>",
+      "chat": ""
+    },
+    "quantity": 1,
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "rarity": "",
+    "identified": true,
+    "type": {
+      "value": "junk",
+      "subtype": ""
+    },
+    "identifier": "sheaf-of-charcoal-sketches",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": []
+  },
+  "folder": "RxxShy6nmWycOcq7",
+  "_id": "8ODA5R7vofrCkLSU",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1787965873007,
+    "modifiedTime": 1788014060760,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!8ODA5R7vofrCkLSU"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "script",
+  "scope": "actor",
+  "name": "Channel Divinity",
+  "img": "icons/magic/fire/projectile-wave-arrow.webp",
+  "command": "dnd5e.documents.macro.rollItem(\"Channel Divinity\", { event })",
+  "flags": {
+    "dnd5e": {
+      "itemMacro": true
+    }
+  },
+  "_id": "weXJieN3m9IpAbre",
+  "author": "iMPHMzzzg1qCN7dy",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "iMPHMzzzg1qCN7dy": 3
+  },
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1787316326280,
+    "modifiedTime": 1787316326281,
+    "lastModifiedBy": "iMPHMzzzg1qCN7dy",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!macros!weXJieN3m9IpAbre"
+}

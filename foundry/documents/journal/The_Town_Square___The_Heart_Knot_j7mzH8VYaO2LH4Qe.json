@@ -1,0 +1,63 @@
+{
+  "name": "The Town Square — The Heart Knot",
+  "pages": [
+    {
+      "type": "image",
+      "name": "The Town Square — The Heart Knot",
+      "src": "worlds/the-broken-heart-of-greenrest/assets/art/illustration-the-heart-knot-f181e362.webp",
+      "_id": "qScDu9LzDgRyj0pT",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.5",
+        "createdTime": 1790524836428,
+        "modifiedTime": 1790524836428,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!j7mzH8VYaO2LH4Qe.qScDu9LzDgRyj0pT"
+    }
+  ],
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "folder": "kQte19HfIzLie7CE",
+  "_id": "j7mzH8VYaO2LH4Qe",
+  "categories": [],
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.5",
+    "createdTime": 1790524836428,
+    "modifiedTime": 1790524836428,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!j7mzH8VYaO2LH4Qe"
+}

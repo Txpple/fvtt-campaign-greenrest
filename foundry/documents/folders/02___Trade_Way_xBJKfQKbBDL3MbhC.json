@@ -1,0 +1,28 @@
+{
+  "name": "02 - Trade Way",
+  "type": "Actor",
+  "color": "#6a9358",
+  "folder": null,
+  "flags": {
+    "world": {
+      "mcpGenerated": true,
+      "createdAt": "2026-07-03T00:25:09.772Z"
+    }
+  },
+  "_id": "xBJKfQKbBDL3MbhC",
+  "description": "",
+  "sorting": "a",
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783038307075,
+    "modifiedTime": 1786552793323,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!xBJKfQKbBDL3MbhC"
+}

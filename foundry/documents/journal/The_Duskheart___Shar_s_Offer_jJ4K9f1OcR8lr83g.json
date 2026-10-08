@@ -1,0 +1,104 @@
+{
+  "name": "The Duskheart — Shar's Offer",
+  "pages": [
+    {
+      "type": "text",
+      "name": "Jetten — Read This First",
+      "text": {
+        "content": "<h2>Jetten — read this first</h2><p><em>The Duskheart has gone cold against your chest. It has never been cold before. Your hand closes around it without you deciding to. You open your mouth, and the voice is yours — but the words are not.</em></p><p><strong>What to do now:</strong></p><ol><li>Don't explain anything to the table. Jetten isn't in control right now. Something is speaking through the Duskheart.</li><li>Turn to the next page.</li><li>Read it out loud to Invictus, slowly, exactly as it is written. Don't add anything, and don't skip anything.</li><li>When you reach the end, stop. The Duskheart is warm again, and Jetten remembers every word he said.</li></ol>",
+        "format": 1
+      },
+      "sort": 100000,
+      "ownership": {
+        "default": 2,
+        "EtG3ba47F3LHz0QC": 3,
+        "LVDVg5n3IGEBCWns": 2
+      },
+      "_id": "6a9wgoJfw503DXU3",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.5",
+        "createdTime": 1790615429183,
+        "modifiedTime": 1790725727869,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!jJ4K9f1OcR8lr83g.6a9wgoJfw503DXU3"
+    },
+    {
+      "type": "image",
+      "name": "The Duskheart — Shar's Offer",
+      "src": "worlds/the-broken-heart-of-greenrest/assets/handouts/duskheart-shar-offer.webp",
+      "sort": 200000,
+      "_id": "5IRB4HwAxdGrPKBy",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.5",
+        "createdTime": 1790615461358,
+        "modifiedTime": 1790615461359,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!jJ4K9f1OcR8lr83g.5IRB4HwAxdGrPKBy"
+    }
+  ],
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "folder": "kQte19HfIzLie7CE",
+  "_id": "jJ4K9f1OcR8lr83g",
+  "categories": [],
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.5",
+    "createdTime": 1790347390885,
+    "modifiedTime": 1790521463210,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!jJ4K9f1OcR8lr83g"
+}

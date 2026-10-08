@@ -1,0 +1,64 @@
+{
+  "name": "Church of the Earthmother — Why It's Stone",
+  "pages": [
+    {
+      "type": "text",
+      "name": "Why It's Stone",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><p class=\"lead\">Why a humble nature-goddess has a grand stone cathedral — the surface answer, the real one, and the crack it hides. The player handout plants the unease; this is what it's for.</p><div class=\"gmnote\"><p><strong>What the villagers say (and the handout plants):</strong> the church is gratitude in stone — generations of thanks for harvests that never fail, poured into finer masonry than a village this size should be able to afford. That's true as far as it goes, and it is meant to sit <em>slightly wrong</em>: the Earthmother is a humble god of granges and gardens, and a poor valley does not raise cathedrals to her.</p><p><strong>The truth:</strong> that impossible plenty is the Dreamer's grief overflowing as good weather and heavy harvests. The church is gratitude architecture funded by a weeping fey and raised over her resting place — a beautiful, expensive monument to a comfortable lie, addressed to a goddess who has never once answered. A rich church to a humble god <em>is</em> Greenrest entire, in stone.</p></div><h3>If a player pulls on the thread</h3><ul><li><strong>Religion / History:</strong> the iconography is subtly wrong for Chauntea — a winged, blossoming figure in the tympanum, star-and-sun motifs, grove-and-fey trappings throughout — closer to the local “Green Lady” than the orthodox Earthmother. A religion-trained PC clocks it as not-quite-Chauntean: the first real crack.</li><li>The altar's offerings and the harvest-rites face the great tree in the square, not the granary.</li><li>Let the grandeur do the work — the handout already makes a thoughtful player uneasy; reward anyone who leans in, but never confirm the secret here.</li></ul></div></section>",
+        "format": 1
+      },
+      "_id": "DMyuSWL9MvdwFptO",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783622089819,
+        "modifiedTime": 1783622089819,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!CYDydKsxPh1obYCi.DMyuSWL9MvdwFptO"
+    }
+  ],
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "folder": "1x1aqmuIbAwqab65",
+  "_id": "CYDydKsxPh1obYCi",
+  "categories": [],
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783622089819,
+    "modifiedTime": 1783622089820,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!CYDydKsxPh1obYCi"
+}

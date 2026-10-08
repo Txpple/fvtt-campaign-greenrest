@@ -1,0 +1,18 @@
+{
+  "key": "dnd5e.disableConcentration",
+  "user": null,
+  "value": "false",
+  "_id": "d3YgSdTco586zknK",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1782928461695,
+    "modifiedTime": 1782928461695,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!d3YgSdTco586zknK"
+}

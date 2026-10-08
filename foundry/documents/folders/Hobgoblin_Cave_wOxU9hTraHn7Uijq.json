@@ -1,0 +1,28 @@
+{
+  "name": "Hobgoblin Cave",
+  "type": "Item",
+  "color": "#6a9358",
+  "folder": "afs0yFs5RsVil75r",
+  "flags": {
+    "world": {
+      "mcpGenerated": true,
+      "createdAt": "2026-07-03T00:55:10.364Z"
+    }
+  },
+  "_id": "wOxU9hTraHn7Uijq",
+  "description": "",
+  "sorting": "a",
+  "sort": 100000,
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783040107611,
+    "modifiedTime": 1783084578098,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!wOxU9hTraHn7Uijq"
+}

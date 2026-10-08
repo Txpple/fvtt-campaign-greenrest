@@ -1,0 +1,44 @@
+{
+  "name": "Silver Gauntlet — Tavern",
+  "mode": 2,
+  "sounds": [
+    {
+      "name": "401_Feast_of_Crispian.mp3",
+      "path": "worlds/the-broken-heart-of-greenrest/assets/audio/401_Feast_of_Crispian.mp3",
+      "volume": 0.4,
+      "repeat": false,
+      "_id": "1xWsD7U1y8K7kB2Y",
+      "channel": "",
+      "playing": false,
+      "sort": 0,
+      "flags": {},
+      "pausedTime": null,
+      "_key": "!playlists.sounds!SjTvvuTHrO6NI4NN.1xWsD7U1y8K7kB2Y"
+    }
+  ],
+  "fade": 2000,
+  "_id": "SjTvvuTHrO6NI4NN",
+  "channel": "music",
+  "playing": false,
+  "folder": null,
+  "sorting": "a",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783017061983,
+    "modifiedTime": 1786191154968,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "seed": 795,
+  "_key": "!playlists!SjTvvuTHrO6NI4NN"
+}

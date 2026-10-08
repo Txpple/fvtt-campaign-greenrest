@@ -1,0 +1,65 @@
+{
+  "name": "The Web of Greenrest",
+  "pages": [
+    {
+      "type": "image",
+      "name": "The Web",
+      "src": "worlds/the-broken-heart-of-greenrest/assets/journal/greenrest-relationship-web.webp",
+      "image": {
+        "caption": "Who holds the town together — drawn from table canon, sessions 1-3. GM reference."
+      },
+      "_id": "kayTOUfhOUlD4xSl",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.5",
+        "createdTime": 1790819402619,
+        "modifiedTime": 1790819402619,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!fiXI2CFOI4TSsf1Y.kayTOUfhOUlD4xSl"
+    }
+  ],
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "_id": "fiXI2CFOI4TSsf1Y",
+  "folder": null,
+  "categories": [],
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.5",
+    "createdTime": 1790819402619,
+    "modifiedTime": 1790819402621,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!fiXI2CFOI4TSsf1Y"
+}

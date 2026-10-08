@@ -1,0 +1,64 @@
+{
+  "name": "Blight Encounter",
+  "pages": [
+    {
+      "type": "text",
+      "name": "Blight Encounter",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><p class=\"lead\">Quick read-aloud for the blight ambush — read at the reveal. Full encounter (stats, tactics, the ranger/gnome reads) in @UUID[JournalEntry.rfb9vfKtJln53vdC.JournalEntryPage.vf0AO4ALl1HgLgzy]{Misty Forest GM Key — Blight Ambush}.</p><div class=\"readaloud\"><p>The clearing that felt like such relief has gone wrong: the birdsong has stopped, and the mist between the trunks hangs perfectly still. Then the underbrush at the treeline rises, and shapes begin pulling themselves upright out of the fog on every side of you — small, dry things of twig and thorn, walking on legs of splintered branch, faces like splitting seed-pods, creeping trunk to trunk toward your half-struck camp. Behind them, from the shadow of the boulders, two greater masses of coiled creeper and rotting leaf-mulch drag themselves off the ground. There are five of them, and they have your rest ringed on every side. And they are already moving in.</p></div></div></section>",
+        "format": 1
+      },
+      "_id": "2jxupAXz4NYHDItt",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783619733348,
+        "modifiedTime": 1783619733348,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!3d1zMpBXxaH1shjz.2jxupAXz4NYHDItt"
+    }
+  ],
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "folder": "1x1aqmuIbAwqab65",
+  "_id": "3d1zMpBXxaH1shjz",
+  "categories": [],
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783619733348,
+    "modifiedTime": 1783619733349,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!3d1zMpBXxaH1shjz"
+}

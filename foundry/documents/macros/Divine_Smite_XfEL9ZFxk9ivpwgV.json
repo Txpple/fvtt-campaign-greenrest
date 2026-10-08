@@ -1,0 +1,32 @@
+{
+  "type": "script",
+  "scope": "actor",
+  "name": "Divine Smite",
+  "img": "icons/skills/melee/strike-flail-destructive-yellow.webp",
+  "command": "dnd5e.documents.macro.rollItem(\"Divine Smite\", { event })",
+  "flags": {
+    "dnd5e": {
+      "itemMacro": true
+    }
+  },
+  "_id": "XfEL9ZFxk9ivpwgV",
+  "author": "iMPHMzzzg1qCN7dy",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "iMPHMzzzg1qCN7dy": 3
+  },
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1787316371050,
+    "modifiedTime": 1787316371051,
+    "lastModifiedBy": "iMPHMzzzg1qCN7dy",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!macros!XfEL9ZFxk9ivpwgV"
+}

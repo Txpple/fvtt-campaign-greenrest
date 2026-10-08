@@ -1,0 +1,4080 @@
+{
+  "name": "The Party",
+  "type": "group",
+  "ownership": {
+    "default": 3,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "_id": "m2iibo7g0b1YFFjQ",
+  "img": "worlds/the-broken-heart-of-greenrest/assets/tokens/the-party-2x2.png",
+  "system": {
+    "currency": {
+      "pp": 3,
+      "gp": 451,
+      "ep": 0,
+      "sp": 35,
+      "cp": 0
+    },
+    "description": {
+      "full": "",
+      "summary": ""
+    },
+    "attributes": {
+      "travel": {
+        "pace": "normal",
+        "paces": {},
+        "speeds": {},
+        "time": 8,
+        "units": "mph"
+      }
+    },
+    "details": {
+      "xp": {}
+    },
+    "members": [
+      {
+        "actor": "3S6v9ShOyAMt8d7P"
+      },
+      {
+        "actor": "ynipTDamO8lCYI80"
+      },
+      {
+        "actor": "97DWKTZ5rwXqKzDX"
+      },
+      {
+        "actor": "dCMYjnrBUrdCqXwo"
+      },
+      {
+        "actor": "mwbIKoq3KRaOx043"
+      },
+      {
+        "actor": "a1RVTLi8waSnalBC"
+      }
+    ],
+    "primaryVehicle": null
+  },
+  "prototypeToken": {
+    "name": "The Party",
+    "displayName": 0,
+    "actorLink": true,
+    "width": 1,
+    "height": 1,
+    "depth": 1,
+    "texture": {
+      "src": "worlds/the-broken-heart-of-greenrest/assets/tokens/the-party-2x2.png",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "attributes.hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": {},
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "items": [
+    {
+      "name": "Silver Kestrel Locket",
+      "type": "equipment",
+      "img": "icons/equipment/neck/pendant-bronze-gem-blue.webp",
+      "system": {
+        "description": {
+          "value": "<p><em>A silver locket on a fine chain, stamped with a diving kestrel. Inside, where a portrait should sit, a letter is folded small. It was never sent.</em></p>",
+          "chat": ""
+        },
+        "price": {
+          "value": 25,
+          "denomination": "gp"
+        },
+        "source": {
+          "custom": "",
+          "rules": "2024",
+          "revision": 1
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "quantity": 1,
+        "weight": {
+          "value": 1,
+          "units": "lb"
+        },
+        "rarity": "",
+        "attunement": "",
+        "attuned": false,
+        "equipped": false,
+        "cover": null,
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "armor": {
+          "value": null,
+          "dex": null
+        },
+        "hp": {
+          "value": null,
+          "max": null,
+          "dt": null,
+          "conditions": ""
+        },
+        "type": {
+          "value": "trinket",
+          "baseItem": ""
+        },
+        "properties": [],
+        "speed": {
+          "value": null,
+          "conditions": "",
+          "units": "ft"
+        },
+        "strength": null,
+        "proficient": null,
+        "activities": {},
+        "identifier": "amulet",
+        "crew": {
+          "value": []
+        }
+      },
+      "effects": [],
+      "flags": {
+        "dnd5e": {}
+      },
+      "_stats": {
+        "exportSource": null,
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786506398337,
+        "modifiedTime": 1787670972933,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "EtG3ba47F3LHz0QC": 3,
+        "fsPwfDarpkUyzlhz": 3
+      },
+      "_id": "PlYrytXwrJYZWNdY",
+      "folder": null,
+      "_key": "!actors.items!m2iibo7g0b1YFFjQ.PlYrytXwrJYZWNdY"
+    },
+    {
+      "name": "Jar of Greenrest Preserves",
+      "type": "consumable",
+      "img": "icons/consumables/food/berries-ration-round-red.webp",
+      "system": {
+        "description": {
+          "value": "<p><em>A stoneware jar sealed under wax: blackberry preserves, put up in Greenrest. Still good.</em></p>",
+          "chat": ""
+        },
+        "price": {
+          "value": 5,
+          "denomination": "sp"
+        },
+        "source": {
+          "custom": "",
+          "rules": "2024",
+          "revision": 1
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "quantity": 6,
+        "weight": {
+          "value": 2,
+          "units": "lb"
+        },
+        "rarity": "",
+        "attunement": "",
+        "attuned": false,
+        "equipped": false,
+        "uses": {
+          "max": "1",
+          "autoDestroy": true,
+          "spent": 0,
+          "recovery": []
+        },
+        "damage": {
+          "base": {
+            "number": null,
+            "denomination": null,
+            "types": [],
+            "custom": {
+              "enabled": false
+            },
+            "scaling": {
+              "number": 1
+            }
+          },
+          "replace": false
+        },
+        "type": {
+          "value": "food",
+          "subtype": ""
+        },
+        "properties": [],
+        "activities": {},
+        "identifier": "rations"
+      },
+      "effects": [],
+      "flags": {
+        "dnd5e": {}
+      },
+      "_stats": {
+        "exportSource": null,
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786506402418,
+        "modifiedTime": 1786506402418,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "EtG3ba47F3LHz0QC": 3,
+        "fsPwfDarpkUyzlhz": 3
+      },
+      "_id": "5B4cPDYrqudULQb4",
+      "folder": null,
+      "_key": "!actors.items!m2iibo7g0b1YFFjQ.5B4cPDYrqudULQb4"
+    },
+    {
+      "name": "Fey Ring Cap",
+      "type": "loot",
+      "img": "worlds/the-broken-heart-of-greenrest/assets/icons/fey-ring-cap.webp",
+      "system": {
+        "description": {
+          "value": "<p>A pale, cool mushroom cap taken from a perfect fairy ring. It does not shrivel or spoil. Hold it a moment and you feel — faintly, wordlessly — that you have stood inside that ring before, and that you were happy there. You have not, and you cannot say why you would think so.</p>",
+          "chat": ""
+        },
+        "quantity": 1,
+        "price": {
+          "value": 0,
+          "denomination": "gp"
+        },
+        "weight": {
+          "value": 0,
+          "units": "lb"
+        },
+        "rarity": "",
+        "identified": true,
+        "properties": [],
+        "type": {
+          "value": "junk",
+          "subtype": ""
+        },
+        "identifier": "fey-ring-cap",
+        "source": {
+          "revision": 1,
+          "rules": "2024"
+        },
+        "unidentified": {
+          "description": ""
+        },
+        "container": null
+      },
+      "effects": [],
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "EtG3ba47F3LHz0QC": 3,
+        "fsPwfDarpkUyzlhz": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786506404802,
+        "modifiedTime": 1786506404802,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "compendiumSource": null,
+        "duplicateSource": "Item.Q8ZpqxiZU7FdVllM",
+        "exportSource": null
+      },
+      "_id": "NeSW0a9h5ZCc3khD",
+      "folder": null,
+      "_key": "!actors.items!m2iibo7g0b1YFFjQ.NeSW0a9h5ZCc3khD"
+    },
+    {
+      "name": "Everbloom Petal",
+      "type": "loot",
+      "img": "icons/magic/nature/leaf-glow-green.webp",
+      "system": {
+        "description": {
+          "value": "<p>A single spring blossom, dew still beading on its petals, plucked from a hollow that was blooming in the wrong season. It never wilts and never quite loses its warmth — as though it is holding onto a summer afternoon that ended a very long time ago. It is worth nothing, and it will outlast everyone who carries it.</p>",
+          "chat": ""
+        },
+        "quantity": 1,
+        "price": {
+          "value": 0,
+          "denomination": "gp"
+        },
+        "weight": {
+          "value": 0,
+          "units": "lb"
+        },
+        "rarity": "",
+        "identified": true,
+        "properties": [],
+        "type": {
+          "value": "junk",
+          "subtype": ""
+        },
+        "identifier": "everbloom-petal",
+        "source": {
+          "revision": 1,
+          "rules": "2024"
+        },
+        "unidentified": {
+          "description": ""
+        },
+        "container": null
+      },
+      "effects": [],
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "EtG3ba47F3LHz0QC": 3,
+        "fsPwfDarpkUyzlhz": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786506406713,
+        "modifiedTime": 1786506406713,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "compendiumSource": null,
+        "duplicateSource": "Item.L0KVk7cq1YT2u06k",
+        "exportSource": null
+      },
+      "_id": "vOBEsJUugr50blgK",
+      "folder": null,
+      "_key": "!actors.items!m2iibo7g0b1YFFjQ.vOBEsJUugr50blgK"
+    },
+    {
+      "name": "Charcoal Sketch of a Weeping Woman",
+      "type": "loot",
+      "img": "icons/sundries/scrolls/scroll-plain-tan.webp",
+      "system": {
+        "description": {
+          "value": "<p><em>A loose leaf of paper, the charcoal smudged from handling: a woman beneath — or becoming — a great pale tree, her face buried in her hands. Her hair and the branches are drawn as one. It is very good, and it is not finished.</em></p><p>Beneath, in a tired hand:</p><p>\"I sketched her so I would stop seeing her face.\"</p>",
+          "chat": ""
+        },
+        "price": {
+          "value": 1,
+          "denomination": "sp"
+        },
+        "source": {
+          "custom": "",
+          "rules": "2024",
+          "revision": 1
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "quantity": 1,
+        "weight": {
+          "value": 0,
+          "units": "lb"
+        },
+        "rarity": "",
+        "properties": [],
+        "type": {
+          "value": "gear",
+          "subtype": ""
+        },
+        "identifier": "parchment"
+      },
+      "effects": [],
+      "flags": {
+        "dnd5e": {}
+      },
+      "_stats": {
+        "exportSource": null,
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786506408436,
+        "modifiedTime": 1786506408436,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "EtG3ba47F3LHz0QC": 3,
+        "fsPwfDarpkUyzlhz": 3
+      },
+      "_id": "90pFslsPagBWgohl",
+      "folder": null,
+      "_key": "!actors.items!m2iibo7g0b1YFFjQ.90pFslsPagBWgohl"
+    },
+    {
+      "name": "Marn's Journal",
+      "type": "loot",
+      "img": "icons/sundries/books/book-worn-brown.webp",
+      "system": {
+        "description": {
+          "value": "<p><em>A rain-stiffened journal wrapped in oilskin. Water has ruined most of it; five entries survive.</em></p><hr><p>\"Greenrest is the kindest town I have known. The mayor fed us for nothing and would take nothing. But four nights running we have all had the same dream — a woman weeping under a white tree. All five of us, the same woman. The apothecary sells a tonic so you won't dream at all. Sera took it and was fine. Maybe we will when we get back.\"</p><p>\"Started our search through the four possible ruins on Sera's map — the relic is in one of them, we're sure. The stories all describe the same prize; it can only be in one of them. We voted. The caves.\"</p><p>\"We were wrong, or we were early. It is no shrine — it is a catacomb, cut deep under the hill, the dead laid in rows in the walls. And they did not stay in them. They came up at us with unholy weapons. Aldous's wounds closed, but he did not mend. Edda would not leave him. We three made for the surface. Gods forgive us.\"</p><p>\"Camped at some old temple in the woods. Something is stalking us. I took a nap and I slept normal — dreams are OK now. Now I'm on watch. Cats keep circling the light. They sit beyond the light and do not eat what they kill. Sera says we make for the village at first light.\"</p><p><em>The last entry is a hasty scrawl, the pen dragged across the page:</em></p><p><strong>\"They're here! Time to arms!\"</strong></p>",
+          "chat": ""
+        },
+        "price": {
+          "value": 25,
+          "denomination": "gp"
+        },
+        "source": {
+          "custom": "",
+          "rules": "2024",
+          "revision": 1
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "quantity": 1,
+        "weight": {
+          "value": 5,
+          "units": "lb"
+        },
+        "rarity": "",
+        "properties": [],
+        "type": {
+          "value": "gear",
+          "subtype": ""
+        },
+        "identifier": "book"
+      },
+      "effects": [],
+      "flags": {
+        "dnd5e": {}
+      },
+      "_stats": {
+        "exportSource": null,
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786506410666,
+        "modifiedTime": 1786506410666,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "EtG3ba47F3LHz0QC": 3,
+        "fsPwfDarpkUyzlhz": 3
+      },
+      "_id": "dapYDxdeq4zpTHwQ",
+      "folder": null,
+      "_key": "!actors.items!m2iibo7g0b1YFFjQ.dapYDxdeq4zpTHwQ"
+    },
+    {
+      "name": "Sera's Map of the Four Ruins",
+      "type": "loot",
+      "img": "icons/tools/navigation/map-chart-tan.webp",
+      "system": {
+        "description": {
+          "value": "<p><em>A traveler's map of the Misty Forest, creased and rain-spotted. Four ruin sites are inked in a confident hand: a cave-mouth in the hills, a deep wood, a ruined temple, a drowned fen.</em></p><p>Beneath them, underlined twice:</p><p><strong>\"Four ruins. One prize. One in four — and no way to know which but to walk in and look.\"</strong></p><p><em>A smaller hand has added, later and less steadily:</em> \"A game of roulette, and we only get to spin it the once at a time. Three of these are cold stone and whatever has moved into it. The fourth is the rest of our lives.\"</p><p><em>The caves are circled — and then struck through.</em></p>",
+          "chat": ""
+        },
+        "price": {
+          "value": 1,
+          "denomination": "gp"
+        },
+        "source": {
+          "custom": "",
+          "rules": "2024",
+          "revision": 1
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "quantity": 1,
+        "weight": {
+          "value": 0,
+          "units": "lb"
+        },
+        "rarity": "",
+        "properties": [],
+        "type": {
+          "value": "gear",
+          "subtype": ""
+        },
+        "identifier": "map"
+      },
+      "effects": [],
+      "flags": {
+        "dnd5e": {}
+      },
+      "_stats": {
+        "exportSource": null,
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786506412697,
+        "modifiedTime": 1786506412697,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "EtG3ba47F3LHz0QC": 3,
+        "fsPwfDarpkUyzlhz": 3
+      },
+      "_id": "1iVtzCYclfXMkwhS",
+      "folder": null,
+      "_key": "!actors.items!m2iibo7g0b1YFFjQ.1iVtzCYclfXMkwhS"
+    },
+    {
+      "name": "Bolts",
+      "system": {
+        "description": {
+          "value": "<p><em><strong>Storage:</strong> @UUID[Compendium.dnd-players-handbook.equipment.Item.phbagCaseCrossbo]{Case}</em></p><p>@UUID[Compendium.dnd-players-handbook.equipment.Item.phbagAmmunitionV]{Ammunition} is required by a weapon that has the Ammunition property. A weapon’s description specifies the type of ammunition used by the weapon. The Ammunition table lists the different types and the amount you get when you buy them. The table also lists the item that is typically used to store each type; storage must be bought separately.</p>",
+          "chat": ""
+        },
+        "price": {
+          "value": 1,
+          "denomination": "gp"
+        },
+        "source": {
+          "custom": "",
+          "rules": "2024",
+          "revision": 1
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "quantity": 11,
+        "weight": {
+          "value": 0.075,
+          "units": "lb"
+        },
+        "rarity": "",
+        "attunement": "",
+        "attuned": false,
+        "equipped": false,
+        "uses": {
+          "max": "",
+          "autoDestroy": false,
+          "spent": 0,
+          "recovery": []
+        },
+        "damage": {
+          "base": {
+            "number": null,
+            "denomination": 0,
+            "types": [],
+            "custom": {
+              "enabled": false
+            },
+            "scaling": {
+              "number": 1
+            },
+            "bonus": ""
+          },
+          "replace": false
+        },
+        "type": {
+          "value": "ammo",
+          "subtype": "crossbowBolt"
+        },
+        "properties": [],
+        "activities": {},
+        "identifier": "bolts"
+      },
+      "type": "consumable",
+      "img": "icons/weapons/ammunition/arrow-broadhead-white.webp",
+      "effects": [],
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "EtG3ba47F3LHz0QC": 3,
+        "fsPwfDarpkUyzlhz": 3
+      },
+      "flags": {
+        "dnd5e": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786506415083,
+        "modifiedTime": 1788914657950,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "exportSource": null
+      },
+      "_id": "jczxL1Y3jQ4sdRSA",
+      "folder": null,
+      "_key": "!actors.items!m2iibo7g0b1YFFjQ.jczxL1Y3jQ4sdRSA"
+    },
+    {
+      "name": "Marn's Traveler's Clothes",
+      "system": {
+        "description": {
+          "value": "<p>A folded set of road clothes — wool shirt, canvas breeches, a coat with the elbows patched twice over. The cuffs of both sleeves are stained black to the second knuckle with old ink, the kind of stain that never comes out and that the wearer clearly stopped trying to remove.</p><p>Rolled inside the coat is a spare pair of dry socks, still dry.</p>",
+          "chat": ""
+        },
+        "price": {
+          "value": 2,
+          "denomination": "gp"
+        },
+        "source": {
+          "custom": "",
+          "rules": "2024",
+          "revision": 1
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "quantity": 1,
+        "weight": {
+          "value": 4,
+          "units": "lb"
+        },
+        "rarity": "",
+        "attunement": "",
+        "attuned": false,
+        "equipped": false,
+        "cover": null,
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "armor": {
+          "value": null,
+          "dex": null
+        },
+        "hp": {
+          "value": null,
+          "max": null,
+          "dt": null,
+          "conditions": ""
+        },
+        "type": {
+          "value": "clothing",
+          "baseItem": ""
+        },
+        "properties": [],
+        "speed": {
+          "value": null,
+          "conditions": "",
+          "units": "ft"
+        },
+        "strength": null,
+        "proficient": null,
+        "activities": {},
+        "identifier": "clothes-travelers",
+        "crew": {
+          "value": []
+        }
+      },
+      "type": "equipment",
+      "img": "icons/equipment/chest/shirt-collared-yellow.webp",
+      "effects": [],
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "EtG3ba47F3LHz0QC": 3,
+        "fsPwfDarpkUyzlhz": 3
+      },
+      "flags": {
+        "dnd5e": {}
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786506419711,
+        "modifiedTime": 1786506419711,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "exportSource": null
+      },
+      "_id": "grSMC8bt2AfDLNsi",
+      "folder": null,
+      "_key": "!actors.items!m2iibo7g0b1YFFjQ.grSMC8bt2AfDLNsi"
+    },
+    {
+      "name": "Kestrel Company Locket",
+      "type": "equipment",
+      "img": "icons/equipment/neck/pendant-bronze-gem-blue.webp",
+      "system": {
+        "type": {
+          "value": "trinket",
+          "baseItem": ""
+        },
+        "description": {
+          "value": "<p>A silver locket on a short chain, worn close at the throat, stamped with a diving kestrel — the badge of the Kestrel Company. Every member wore one. Inside, room for whatever its owner could not leave behind.</p>",
+          "chat": ""
+        },
+        "price": {
+          "value": 25,
+          "denomination": "gp"
+        },
+        "weight": {
+          "value": 1,
+          "units": "lb"
+        },
+        "rarity": "",
+        "identified": true,
+        "quantity": 2,
+        "activities": {},
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "identifier": "kestrel-company-locket",
+        "source": {
+          "revision": 1,
+          "rules": "2024"
+        },
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "attunement": "",
+        "attuned": false,
+        "equipped": false,
+        "crew": {
+          "value": []
+        },
+        "armor": {
+          "value": null,
+          "dex": null
+        },
+        "proficient": null,
+        "properties": [],
+        "strength": null
+      },
+      "effects": [],
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "EtG3ba47F3LHz0QC": 3,
+        "fsPwfDarpkUyzlhz": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787101200708,
+        "modifiedTime": 1787104981251,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_id": "VNOBrMm0F5Pb1PKe",
+      "folder": null,
+      "_key": "!actors.items!m2iibo7g0b1YFFjQ.VNOBrMm0F5Pb1PKe"
+    },
+    {
+      "name": "Kestrel Company Locket",
+      "type": "equipment",
+      "img": "icons/equipment/neck/pendant-bronze-gem-blue.webp",
+      "system": {
+        "type": {
+          "value": "trinket",
+          "baseItem": ""
+        },
+        "description": {
+          "value": "<p>A silver locket on a short chain, worn close at the throat, stamped with a diving kestrel — the badge of the Kestrel Company. Every member wore one. Inside, room for whatever its owner could not leave behind.</p>",
+          "chat": ""
+        },
+        "price": {
+          "value": 25,
+          "denomination": "gp"
+        },
+        "weight": {
+          "value": 1,
+          "units": "lb"
+        },
+        "rarity": "",
+        "identified": true,
+        "quantity": 1,
+        "activities": {},
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "identifier": "kestrel-company-locket",
+        "source": {
+          "revision": 1,
+          "rules": "2024"
+        },
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "attunement": "",
+        "attuned": false,
+        "equipped": false,
+        "crew": {
+          "value": []
+        },
+        "armor": {
+          "value": null,
+          "dex": null
+        },
+        "proficient": null,
+        "properties": [],
+        "strength": null
+      },
+      "effects": [],
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "EtG3ba47F3LHz0QC": 3,
+        "fsPwfDarpkUyzlhz": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787101200745,
+        "modifiedTime": 1787101200745,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_id": "G5FJAPRBG3W9X0VC",
+      "folder": null,
+      "_key": "!actors.items!m2iibo7g0b1YFFjQ.G5FJAPRBG3W9X0VC"
+    },
+    {
+      "name": "Necrotic Sword",
+      "type": "weapon",
+      "img": "icons/weapons/swords/sword-guard-serrated.webp",
+      "system": {
+        "type": {
+          "value": "natural",
+          "baseItem": ""
+        },
+        "activities": {
+          "FVbf8oZYqxmgsPgK": {
+            "_id": "FVbf8oZYqxmgsPgK",
+            "type": "attack",
+            "sort": 0,
+            "activation": {
+              "type": "action",
+              "value": null,
+              "override": false,
+              "condition": ""
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": []
+            },
+            "description": {
+              "chatFlavor": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false
+            },
+            "effects": [],
+            "range": {
+              "override": false,
+              "units": "self"
+            },
+            "target": {
+              "template": {
+                "contiguous": false,
+                "units": "ft",
+                "type": "",
+                "stationary": false
+              },
+              "affects": {
+                "choice": false,
+                "type": ""
+              },
+              "override": false,
+              "prompt": true
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "attack": {
+              "critical": {
+                "threshold": null
+              },
+              "flat": false,
+              "type": {
+                "value": "melee",
+                "classification": ""
+              },
+              "ability": "str",
+              "bonus": ""
+            },
+            "damage": {
+              "critical": {
+                "bonus": ""
+              },
+              "includeBase": true,
+              "parts": [
+                {
+                  "custom": {
+                    "enabled": false,
+                    "formula": ""
+                  },
+                  "number": 1,
+                  "denomination": 8,
+                  "bonus": "",
+                  "types": [
+                    "necrotic"
+                  ],
+                  "scaling": {
+                    "number": 1
+                  }
+                }
+              ]
+            },
+            "name": "",
+            "img": null,
+            "flags": {},
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            }
+          }
+        },
+        "description": {
+          "value": "<p class=\"feature\">[[/attack extended]]. [[/damage average extended]].</p>",
+          "chat": ""
+        },
+        "identifier": "necrotic-sword",
+        "source": {
+          "revision": 1,
+          "rules": "2024"
+        },
+        "identified": true,
+        "quantity": 1,
+        "weight": {
+          "value": 0,
+          "units": "lb"
+        },
+        "price": {
+          "value": 0,
+          "denomination": "gp"
+        },
+        "rarity": "",
+        "attunement": "",
+        "attuned": false,
+        "equipped": false,
+        "damage": {
+          "base": {
+            "number": 1,
+            "denomination": 8,
+            "types": [
+              "slashing"
+            ],
+            "custom": {
+              "enabled": false
+            },
+            "scaling": {
+              "number": 1
+            },
+            "bonus": ""
+          },
+          "versatile": {
+            "number": null,
+            "denomination": null,
+            "types": [],
+            "custom": {
+              "enabled": false
+            },
+            "scaling": {
+              "number": 1
+            }
+          }
+        },
+        "properties": [],
+        "proficient": null,
+        "range": {
+          "value": null,
+          "long": null,
+          "reach": 5,
+          "units": "ft"
+        },
+        "mastery": "",
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "crew": {
+          "value": []
+        },
+        "ammunition": {},
+        "armor": {}
+      },
+      "_id": "8WIaK1RmfOvfkdq8",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787101288750,
+        "modifiedTime": 1787704418339,
+        "lastModifiedBy": "WjZL43DJHoHpfDrK",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!actors.items!m2iibo7g0b1YFFjQ.8WIaK1RmfOvfkdq8"
+    },
+    {
+      "name": "Marn's Unsent Letter",
+      "type": "loot",
+      "img": "icons/sundries/scrolls/scroll-plain-tan.webp",
+      "system": {
+        "description": {
+          "value": "<p><em>A single sheet folded small enough to live inside a locket — creased sharp, never sealed, never sent. The hand is neat; the margins are smudged by ink-stained fingers.</em></p><hr><p>\"Tess — We are close now. There are four old places in this forest and the prize lies in exactly one of them; the other three are cold stone and whatever has crawled into it. We have Sera's map, and Sera has never been wrong twice. The shrine wasn't a shrine. It was a graveyard! So it is one guess at a time, and we have already spent one. One more ruin — two at the worst — and I am done with this work. I will buy the house by the tannery, the one you liked. Keep well. Do not worry. — M.\"</p>",
+          "chat": ""
+        },
+        "quantity": 1,
+        "weight": {
+          "value": 0,
+          "units": "lb"
+        },
+        "price": {
+          "value": 0,
+          "denomination": "gp"
+        },
+        "rarity": "",
+        "identified": true,
+        "type": {
+          "value": "gear",
+          "subtype": ""
+        },
+        "identifier": "marns-unsent-letter",
+        "source": {
+          "rules": "2024",
+          "revision": 1
+        },
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "properties": []
+      },
+      "folder": "l74jP8iVTBjy67Sd",
+      "_id": "zOr4QMJygH3H4opU",
+      "effects": [],
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "EtG3ba47F3LHz0QC": 3,
+        "fsPwfDarpkUyzlhz": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787704100034,
+        "modifiedTime": 1787704100034,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "compendiumSource": null,
+        "duplicateSource": "Item.CVRD9907mYX3utGc",
+        "exportSource": null
+      },
+      "_key": "!actors.items!m2iibo7g0b1YFFjQ.zOr4QMJygH3H4opU"
+    },
+    {
+      "name": "Acorn",
+      "type": "loot",
+      "system": {
+        "description": {
+          "value": "<p>An ordinary acorn. This one has been generously slobbered on by a squirrel. Allegedly valuable. The squirrel seemed sincere.</p>",
+          "chat": ""
+        },
+        "quantity": 6,
+        "price": {
+          "value": 1,
+          "denomination": "sp"
+        },
+        "weight": {
+          "value": 0,
+          "units": "lb"
+        },
+        "rarity": "",
+        "identified": true,
+        "properties": [],
+        "type": {
+          "value": "junk",
+          "subtype": ""
+        },
+        "identifier": "acorn-with-squirrel-spit",
+        "source": {
+          "revision": 1,
+          "rules": "2024"
+        },
+        "unidentified": {
+          "description": ""
+        },
+        "container": null
+      },
+      "img": "icons/consumables/nuts/hazelnut-acorn-tan-brown.webp",
+      "_id": "zHL0i06urKRVabcO",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787711097747,
+        "modifiedTime": 1788703946665,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!actors.items!m2iibo7g0b1YFFjQ.zHL0i06urKRVabcO"
+    },
+    {
+      "name": "Jar: A Mother's Little Finger",
+      "type": "loot",
+      "img": "icons/consumables/drinks/wine-amphora-clay-gray.webp",
+      "system": {
+        "description": {
+          "value": "<p><em>A small jar, packed in brine. One item inside. The cipher label is short, and under it someone has drawn — carefully, almost fondly — a tiny flower. The wax on this one has never been broken since it was set.</em></p>",
+          "chat": ""
+        },
+        "quantity": 1,
+        "price": {
+          "value": 0,
+          "denomination": "gp"
+        },
+        "weight": {
+          "value": 1,
+          "units": "lb"
+        },
+        "rarity": "",
+        "identified": true,
+        "type": {
+          "value": "junk",
+          "subtype": ""
+        },
+        "identifier": "jar-a-mothers-little-finger",
+        "source": {
+          "revision": 1,
+          "rules": "2024"
+        },
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "properties": []
+      },
+      "effects": [],
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "EtG3ba47F3LHz0QC": 3,
+        "fsPwfDarpkUyzlhz": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1788225621523,
+        "modifiedTime": 1788225621523,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_id": "PDRvQ6MbXACi9NnT",
+      "folder": null,
+      "_key": "!actors.items!m2iibo7g0b1YFFjQ.PDRvQ6MbXACi9NnT"
+    },
+    {
+      "name": "Jar of Mourner's Teeth",
+      "type": "loot",
+      "img": "icons/consumables/drinks/wine-amphora-clay-gray.webp",
+      "system": {
+        "description": {
+          "value": "<p><em>A squat clay jar sealed with grey wax, its label written in a crabbed cipher. The seal has been opened and re-set many times. Inside, should anyone look: teeth — dozens — each one wrapped in a scrap of black cloth, the way a jeweler wraps his best stones.</em></p>",
+          "chat": ""
+        },
+        "quantity": 1,
+        "price": {
+          "value": 0,
+          "denomination": "gp"
+        },
+        "weight": {
+          "value": 1,
+          "units": "lb"
+        },
+        "rarity": "",
+        "identified": true,
+        "type": {
+          "value": "junk",
+          "subtype": ""
+        },
+        "identifier": "jar-of-mourners-teeth",
+        "source": {
+          "revision": 1,
+          "rules": "2024"
+        },
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "properties": []
+      },
+      "effects": [],
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "EtG3ba47F3LHz0QC": 3,
+        "fsPwfDarpkUyzlhz": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1788225791226,
+        "modifiedTime": 1788225791226,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_id": "KCEno2xzCNEmBI2C",
+      "folder": null,
+      "_key": "!actors.items!m2iibo7g0b1YFFjQ.KCEno2xzCNEmBI2C"
+    },
+    {
+      "name": "The Sisters' Notes",
+      "type": "loot",
+      "system": {
+        "description": {
+          "value": "<p><em>A single page pinned to the desk, written in a tidy merchant's hand — in plain Common, as if kept for reference:</em></p><p>\"The heart is broken in four. RED — the barrow. BLUE — ours, below. GREEN, BLACK — not yet found.</p><p>The dryad sleeps in the great tree on Greenrest's square. The heart is hers. Whole, it beats four times. One beat brings back our sister.</p><p>The red piece is moving. It is coming here. We need one beat only — they may keep the other three. Propose partnership. Do not fight.\"</p>",
+          "chat": ""
+        },
+        "quantity": 1,
+        "price": {
+          "value": 0,
+          "denomination": "gp"
+        },
+        "weight": {
+          "value": 0,
+          "units": "lb"
+        },
+        "rarity": "",
+        "identified": true,
+        "properties": [],
+        "type": {
+          "value": "junk",
+          "subtype": ""
+        },
+        "identifier": "chart-of-the-four-chambers",
+        "source": {
+          "revision": 1,
+          "rules": "2024"
+        },
+        "unidentified": {
+          "description": ""
+        },
+        "container": null
+      },
+      "img": "icons/sundries/scrolls/scroll-plain-tan.webp",
+      "effects": [],
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "EtG3ba47F3LHz0QC": 3,
+        "fsPwfDarpkUyzlhz": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1788226193713,
+        "modifiedTime": 1788226193713,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_id": "hvSgAgJ9QLXyTJm5",
+      "folder": null,
+      "_key": "!actors.items!m2iibo7g0b1YFFjQ.hvSgAgJ9QLXyTJm5"
+    },
+    {
+      "name": "The Widows' Ledger",
+      "type": "loot",
+      "img": "icons/sundries/books/book-worn-brown.webp",
+      "system": {
+        "description": {
+          "value": "<p><em>A bill-of-lading book bound in mottled leather, damp-warped but meticulously kept. Every entry is written in the same crabbed cipher — columns of goods, prices, and dates, page after page after page, with a recurring mark that might be a standing stone beside a road. To an untrained eye the rows are noise.</em></p><p><em>The entries simply stop, about half a year ago. Beside the last one, in an irritated, clawed hand, a note in the same cipher — underlined twice.</em></p>",
+          "chat": ""
+        },
+        "quantity": 1,
+        "price": {
+          "value": 0,
+          "denomination": "gp"
+        },
+        "weight": {
+          "value": 2,
+          "units": "lb"
+        },
+        "rarity": "",
+        "identified": true,
+        "type": {
+          "value": "junk",
+          "subtype": ""
+        },
+        "identifier": "the-widows-ledger",
+        "source": {
+          "revision": 1,
+          "rules": "2024"
+        },
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "properties": []
+      },
+      "effects": [],
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "iMPHMzzzg1qCN7dy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1788226622228,
+        "modifiedTime": 1788226622229,
+        "lastModifiedBy": "iMPHMzzzg1qCN7dy",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_id": "RgobzlBo9ZYnCqJo",
+      "folder": null,
+      "_key": "!actors.items!m2iibo7g0b1YFFjQ.RgobzlBo9ZYnCqJo"
+    },
+    {
+      "name": "Jar of Widow's Tears",
+      "type": "loot",
+      "img": "icons/consumables/drinks/wine-amphora-clay-gray.webp",
+      "system": {
+        "description": {
+          "value": "<p><em>A slender glass jar, stoppered and waxed, half-full of clear liquid that clings to the glass a moment too long when tilted. The cipher label has a second line added beneath it in a different, gloating hand. Held to the light, the liquid is very slightly gold, like the last hour of an afternoon.</em></p>",
+          "chat": ""
+        },
+        "quantity": 1,
+        "price": {
+          "value": 0,
+          "denomination": "gp"
+        },
+        "weight": {
+          "value": 1,
+          "units": "lb"
+        },
+        "rarity": "",
+        "identified": true,
+        "type": {
+          "value": "junk",
+          "subtype": ""
+        },
+        "identifier": "jar-of-widows-tears",
+        "source": {
+          "revision": 1,
+          "rules": "2024"
+        },
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "properties": []
+      },
+      "effects": [],
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "iMPHMzzzg1qCN7dy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1788226625607,
+        "modifiedTime": 1788226625607,
+        "lastModifiedBy": "iMPHMzzzg1qCN7dy",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_id": "igLO9gA0s94kGdUT",
+      "folder": null,
+      "_key": "!actors.items!m2iibo7g0b1YFFjQ.igLO9gA0s94kGdUT"
+    },
+    {
+      "name": "Volo's Guide to Monsters (Annotated)",
+      "type": "loot",
+      "img": "icons/sundries/books/book-worn-brown.webp",
+      "system": {
+        "description": {
+          "value": "<p><em>A battered, swamp-swollen copy of</em> Volo's Guide to Monsters<em>, its spine broken to fall open at the chapter on hags. The margins of that chapter are dense with annotation in three distinct hands — spidery, blocky, and small — trading the same verdict line after line:</em></p><p>\"wrong.\"  \"wrong.\"  \"WRONG.\"</p><p><em>And once, beside a passage on the unbreakable bond of a coven of three, in the smallest of the three hands:</em></p><p>\"…fair.\"</p>",
+          "chat": ""
+        },
+        "quantity": 1,
+        "price": {
+          "value": 5,
+          "denomination": "gp"
+        },
+        "weight": {
+          "value": 3,
+          "units": "lb"
+        },
+        "rarity": "",
+        "identified": true,
+        "type": {
+          "value": "junk",
+          "subtype": ""
+        },
+        "identifier": "volos-guide-annotated",
+        "source": {
+          "revision": 1,
+          "rules": "2024"
+        },
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "properties": []
+      },
+      "effects": [],
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "EtG3ba47F3LHz0QC": 3,
+        "fsPwfDarpkUyzlhz": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1788226785163,
+        "modifiedTime": 1788226785163,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_id": "nAD8npqXUa11PYZx",
+      "folder": null,
+      "_key": "!actors.items!m2iibo7g0b1YFFjQ.nAD8npqXUa11PYZx"
+    },
+    {
+      "name": "Sheaf of Charcoal Sketches",
+      "type": "loot",
+      "img": "icons/sundries/scrolls/scroll-plain-tan.webp",
+      "system": {
+        "description": {
+          "value": "<p><em>Loose pages, dozens of them — the same woman drawn over and over. Hard-jawed, sharp-eyed, a greatsword across her back; not quite human. Some sketches are careful as portraiture. Others are slashed through hard enough to tear the paper. One is burned at the corner.</em></p><p>On the back of the topmost page, in two different hands:</p><p>\"HER. The one who took our sister. Do not let us forget her face.\"</p>",
+          "chat": ""
+        },
+        "quantity": 1,
+        "price": {
+          "value": 0,
+          "denomination": "gp"
+        },
+        "weight": {
+          "value": 0,
+          "units": "lb"
+        },
+        "rarity": "",
+        "identified": true,
+        "type": {
+          "value": "junk",
+          "subtype": ""
+        },
+        "identifier": "sheaf-of-charcoal-sketches",
+        "source": {
+          "revision": 1,
+          "rules": "2024"
+        },
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "properties": []
+      },
+      "effects": [],
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "EtG3ba47F3LHz0QC": 3,
+        "fsPwfDarpkUyzlhz": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1788227109090,
+        "modifiedTime": 1788227109090,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_id": "ayZRnCoIR8MTtmCZ",
+      "folder": null,
+      "_key": "!actors.items!m2iibo7g0b1YFFjQ.ayZRnCoIR8MTtmCZ"
+    },
+    {
+      "name": "Riverside Teahouse Keepsake",
+      "type": "loot",
+      "img": "icons/containers/bags/pouch-leather-pink.webp",
+      "system": {
+        "description": {
+          "value": "<p><em>A small bundle, wrapped and re-wrapped in oilcloth so many times the folds have gone soft. Inside: a pressed flower, colorless with age, and a little hand-carved sign, the letters picked out with real care:</em></p><p>\"THE RIVERSIDE TEAHOUSE — SUNLIT WETLANDS — ALL WELCOME.\"</p><p><em>Someone has kept this the way other people keep wedding rings.</em></p>",
+          "chat": ""
+        },
+        "quantity": 1,
+        "price": {
+          "value": 0,
+          "denomination": "gp"
+        },
+        "weight": {
+          "value": 0,
+          "units": "lb"
+        },
+        "rarity": "",
+        "identified": true,
+        "type": {
+          "value": "junk",
+          "subtype": ""
+        },
+        "identifier": "riverside-teahouse-keepsake",
+        "source": {
+          "revision": 1,
+          "rules": "2024"
+        },
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "properties": []
+      },
+      "effects": [],
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "EtG3ba47F3LHz0QC": 3,
+        "fsPwfDarpkUyzlhz": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1788227248869,
+        "modifiedTime": 1788227248869,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_id": "ktABuSaRBerL0Jl3",
+      "folder": null,
+      "_key": "!actors.items!m2iibo7g0b1YFFjQ.ktABuSaRBerL0Jl3"
+    },
+    {
+      "name": "Holy Symbol of Shar, Jet on Silver",
+      "type": "loot",
+      "system": {
+        "description": {
+          "value": "<p><em>A disc of polished jet set into a ring of silver, thumbnail-wide, hung on a black cord. Held up to lamplight the jet gives nothing back at all — a hole in the light rather than a stone in it.</em></p><p><em>Five of them. Identical, and all well made.</em></p>",
+          "chat": ""
+        },
+        "quantity": 5,
+        "price": {
+          "value": 30,
+          "denomination": "gp"
+        },
+        "weight": {
+          "value": 0,
+          "units": "lb"
+        },
+        "rarity": "",
+        "identified": true,
+        "properties": [],
+        "type": {
+          "value": "art",
+          "subtype": ""
+        },
+        "identifier": "holy-symbol-of-shar-jet-on-silver",
+        "source": {
+          "revision": 1,
+          "rules": "2024"
+        },
+        "unidentified": {
+          "description": ""
+        },
+        "container": null
+      },
+      "img": "icons/magic/symbols/circled-gem-pink.webp",
+      "_id": "uNwjO2t9heFX4Cpo",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1788922764607,
+        "modifiedTime": 1788922764607,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!actors.items!m2iibo7g0b1YFFjQ.uNwjO2t9heFX4Cpo"
+    },
+    {
+      "name": "Potion of Poison Resistance",
+      "type": "consumable",
+      "img": "icons/consumables/potions/potion-bottle-labeled-medicine-capped-red-black.webp",
+      "system": {
+        "activities": {
+          "n52xzzYU7CI8sywr": {
+            "type": "utility",
+            "name": "Drink Potion",
+            "_id": "n52xzzYU7CI8sywr",
+            "sort": 0,
+            "activation": {
+              "type": "bonus",
+              "value": null,
+              "override": false,
+              "condition": ""
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": [
+                {
+                  "type": "itemUses",
+                  "value": "1",
+                  "target": "",
+                  "scaling": {}
+                }
+              ]
+            },
+            "description": {
+              "chatFlavor": "",
+              "value": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false,
+              "expiry": null
+            },
+            "effects": [
+              {
+                "_id": "VAndQR2Hu88gg4NF",
+                "level": {},
+                "uuid": null
+              }
+            ],
+            "range": {
+              "override": false,
+              "units": "self",
+              "special": ""
+            },
+            "target": {
+              "template": {
+                "contiguous": false,
+                "units": "ft",
+                "type": "",
+                "stationary": false
+              },
+              "affects": {
+                "choice": false,
+                "count": "",
+                "type": "self",
+                "special": ""
+              },
+              "override": false,
+              "prompt": false
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "roll": {
+              "prompt": false,
+              "visible": false,
+              "name": "",
+              "formula": ""
+            },
+            "img": "",
+            "behaviors": [],
+            "flags": {},
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            }
+          }
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "autoDestroy": true,
+          "max": "1"
+        },
+        "description": {
+          "value": "<p><em>Potion, Uncommon</em></p><p>When you drink this potion, you have Resistance to Poison damage for 1 hour.</p>",
+          "chat": ""
+        },
+        "identifier": "potion-of-poison-resistance",
+        "source": {
+          "revision": 1,
+          "rules": "2024"
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "quantity": 1,
+        "weight": {
+          "value": 0.5,
+          "units": "lb"
+        },
+        "price": {
+          "value": 200,
+          "denomination": "gp"
+        },
+        "attunement": "",
+        "type": {
+          "value": "potion",
+          "subtype": ""
+        },
+        "damage": {
+          "base": {
+            "number": null,
+            "denomination": null,
+            "types": [],
+            "custom": {
+              "enabled": false
+            },
+            "scaling": {
+              "number": 1
+            },
+            "modifiers": []
+          },
+          "replace": false
+        },
+        "properties": [
+          "mgc"
+        ],
+        "rarities": [
+          "uncommon"
+        ],
+        "attuned": false,
+        "equipped": false
+      },
+      "effects": [
+        {
+          "name": "Poison Resistance",
+          "img": "systems/dnd5e/icons/svg/damage/poison.svg",
+          "type": "base",
+          "system": {
+            "changes": [
+              {
+                "key": "system.traits.dr.value",
+                "value": "poison",
+                "priority": null,
+                "type": "add",
+                "phase": "initial",
+                "_id": "SWKU98PVEZKyuOpw",
+                "conditions": "{}",
+                "replacement": ""
+              }
+            ],
+            "origin": {
+              "actor": null,
+              "behavior": null,
+              "effect": null,
+              "item": null,
+              "message": null
+            },
+            "conditions": "{}",
+            "magical": false,
+            "rider": {
+              "statuses": []
+            }
+          },
+          "disabled": false,
+          "duration": {
+            "value": 3600,
+            "units": "seconds",
+            "expiry": "turnStart",
+            "expired": false
+          },
+          "description": "",
+          "origin": null,
+          "tint": "#ffffff",
+          "transfer": false,
+          "statuses": [],
+          "sort": 0,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "coreVersion": "14.368",
+            "systemId": "dnd5e",
+            "systemVersion": "6.0.3",
+            "createdTime": 1790122492795,
+            "modifiedTime": 1790122492795,
+            "lastModifiedBy": "fsPwfDarpkUyzlhz",
+            "exportSource": null
+          },
+          "_id": "VAndQR2Hu88gg4NF",
+          "start": null,
+          "showIcon": 1,
+          "folder": null,
+          "_key": "!actors.items.effects!m2iibo7g0b1YFFjQ.0aArNf8dIy8GFqAO.VAndQR2Hu88gg4NF"
+        }
+      ],
+      "flags": {
+        "dnd5e": {}
+      },
+      "folder": "AYQxwYv4Hclk2frd",
+      "_id": "0aArNf8dIy8GFqAO",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "EtG3ba47F3LHz0QC": 3,
+        "fsPwfDarpkUyzlhz": 3
+      },
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1790122492795,
+        "modifiedTime": 1790122492795,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!actors.items!m2iibo7g0b1YFFjQ.0aArNf8dIy8GFqAO"
+    },
+    {
+      "name": "Staff of Withering",
+      "type": "weapon",
+      "img": "modules/dnd-dungeon-masters-guide/assets/icons/items/staff-of-withering.webp",
+      "system": {
+        "activities": {
+          "fIuLd6JkeCxxkuzy": {
+            "_id": "fIuLd6JkeCxxkuzy",
+            "type": "attack",
+            "sort": 0,
+            "activation": {
+              "type": "action",
+              "value": null,
+              "override": false
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": []
+            },
+            "description": {
+              "value": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false,
+              "expiry": null
+            },
+            "effects": [],
+            "range": {
+              "override": false,
+              "units": "self"
+            },
+            "target": {
+              "template": {
+                "contiguous": false,
+                "units": "ft",
+                "stationary": false
+              },
+              "affects": {
+                "choice": false
+              },
+              "override": false,
+              "prompt": true
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": []
+            },
+            "attack": {
+              "critical": {
+                "threshold": null
+              },
+              "flat": false,
+              "type": {}
+            },
+            "damage": {
+              "critical": {},
+              "includeBase": true,
+              "parts": []
+            },
+            "img": null,
+            "behaviors": [],
+            "flags": {},
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            }
+          },
+          "aV1D7luak106JNQS": {
+            "type": "save",
+            "name": "Damage & Save",
+            "_id": "aV1D7luak106JNQS",
+            "sort": 0,
+            "activation": {
+              "type": "",
+              "value": null,
+              "override": false,
+              "condition": ""
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": [
+                {
+                  "type": "itemUses",
+                  "value": "1",
+                  "target": "",
+                  "scaling": {}
+                }
+              ]
+            },
+            "description": {
+              "chatFlavor": "",
+              "value": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false,
+              "expiry": null
+            },
+            "effects": [
+              {
+                "_id": "x0R9R2vD4quIgYy2",
+                "onSave": false,
+                "uuid": null,
+                "level": {}
+              }
+            ],
+            "range": {
+              "override": false,
+              "units": "self"
+            },
+            "target": {
+              "template": {
+                "contiguous": false,
+                "units": "ft",
+                "type": "",
+                "stationary": false
+              },
+              "affects": {
+                "choice": false,
+                "count": "1",
+                "type": "creature",
+                "special": ""
+              },
+              "override": false,
+              "prompt": false
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "damage": {
+              "parts": [
+                {
+                  "custom": {
+                    "enabled": false,
+                    "formula": ""
+                  },
+                  "number": 2,
+                  "denomination": 10,
+                  "bonus": "",
+                  "types": [
+                    "necrotic"
+                  ],
+                  "scaling": {
+                    "number": 1
+                  },
+                  "modifiers": []
+                }
+              ],
+              "onSave": "full"
+            },
+            "save": {
+              "ability": [
+                "con"
+              ],
+              "dc": {
+                "calculation": "",
+                "formula": "15"
+              },
+              "visible": true
+            },
+            "img": "",
+            "behaviors": [],
+            "flags": {},
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            }
+          }
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [
+            {
+              "period": "dawn",
+              "type": "formula",
+              "formula": "1d3"
+            }
+          ],
+          "max": "3"
+        },
+        "description": {
+          "value": "<p><em>Black bramble-wood, knotted and still faintly damp, its thorns filed flat along the grip where a hand once held it. It lay among the junk in the undercroft rather than on the hoard — whoever carried it into the Wyrmwood never carried it back out.</em></p><hr><p><em>@UUID[Compendium.dnd-players-handbook.equipment.Item.phbafcStaffalsoa]{Staff}, Rare (Requires Attunement)</em></p><p>This staff has 3 charges and regains 1d3 expended charges daily at dawn.</p><p>The staff can be wielded as a magic Quarterstaff. On a hit, it deals damage as a normal Quarterstaff, and you can expend 1 charge to deal an extra 2d10 Necrotic damage to the target and force it to make a DC 15 Constitution saving throw. On a failed save, the target has Disadvantage for 1 hour on any ability check or saving throw that uses Strength or Constitution.</p><section class=\"secret\" id=\"secret-XLCxThjwbGtdndsQ\"><p><strong>Foundry Note</strong></p><p>The <strong>Save</strong> activity includes an Active Effect for tracking the disadvantage.</p></section>",
+          "chat": ""
+        },
+        "identifier": "staff-of-withering",
+        "source": {
+          "revision": 1,
+          "rules": "2024"
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "quantity": 1,
+        "weight": {
+          "value": 4,
+          "units": "lb"
+        },
+        "price": {
+          "value": 4005,
+          "denomination": "gp"
+        },
+        "attunement": "required",
+        "attuned": false,
+        "equipped": false,
+        "armor": {
+          "value": null
+        },
+        "cover": null,
+        "hp": {
+          "value": null,
+          "max": null,
+          "dt": null,
+          "conditions": ""
+        },
+        "type": {
+          "value": "simpleM",
+          "baseItem": "quarterstaff"
+        },
+        "ammunition": {},
+        "damage": {
+          "base": {
+            "number": 1,
+            "denomination": 6,
+            "types": [
+              "bludgeoning"
+            ],
+            "custom": {
+              "enabled": false
+            },
+            "scaling": {
+              "number": 1
+            },
+            "bonus": "",
+            "modifiers": []
+          },
+          "versatile": {
+            "number": null,
+            "denomination": null,
+            "types": [],
+            "custom": {
+              "enabled": false
+            },
+            "scaling": {
+              "number": 1
+            },
+            "bonus": "",
+            "modifiers": []
+          }
+        },
+        "properties": [
+          "mgc",
+          "ver"
+        ],
+        "proficient": null,
+        "range": {
+          "value": null,
+          "long": null,
+          "reach": null,
+          "units": "ft"
+        },
+        "mastery": "topple",
+        "rarities": [
+          "rare"
+        ],
+        "crew": {
+          "value": []
+        }
+      },
+      "effects": [
+        {
+          "name": "Withered",
+          "img": "icons/magic/death/hand-undead-skeleton-fire-pink.webp",
+          "origin": "Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgStaffOfWither",
+          "transfer": false,
+          "_id": "x0R9R2vD4quIgYy2",
+          "type": "base",
+          "system": {
+            "changes": [],
+            "origin": {
+              "actor": null,
+              "behavior": null,
+              "effect": null,
+              "item": null,
+              "message": null
+            },
+            "conditions": "{}",
+            "magical": false,
+            "rider": {
+              "statuses": []
+            }
+          },
+          "disabled": false,
+          "duration": {
+            "value": 3600,
+            "units": "seconds",
+            "expiry": "turnStart",
+            "expired": false
+          },
+          "description": "<p>The target has Disadvantage for 1 hour on any ability check or saving throw that uses Strength or Constitution.</p>",
+          "tint": "#ffffff",
+          "statuses": [],
+          "sort": 0,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "coreVersion": "14.368",
+            "systemId": "dnd5e",
+            "systemVersion": "6.0.3",
+            "createdTime": 1790130592576,
+            "modifiedTime": 1790130592576,
+            "lastModifiedBy": "EtG3ba47F3LHz0QC",
+            "exportSource": null
+          },
+          "start": null,
+          "showIcon": 1,
+          "folder": null,
+          "_key": "!actors.items.effects!m2iibo7g0b1YFFjQ.tasIlCgTOayWXRPK.x0R9R2vD4quIgYy2"
+        }
+      ],
+      "folder": "5p9KrkF39e6vFO4g",
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "activity": [],
+            "effect": []
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1790130592576,
+        "modifiedTime": 1790130673306,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "exportSource": null
+      },
+      "sort": 100000,
+      "ownership": {
+        "default": 0,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "_id": "tasIlCgTOayWXRPK",
+      "_key": "!actors.items!m2iibo7g0b1YFFjQ.tasIlCgTOayWXRPK"
+    },
+    {
+      "name": "Decanter of Endless Water",
+      "type": "equipment",
+      "folder": "U4xmShLy19Ry54zl",
+      "img": "modules/dnd-dungeon-masters-guide/assets/icons/items/decanter-of-endless-water.webp",
+      "system": {
+        "activities": {
+          "kqYptkTCtiFTlZJV": {
+            "type": "utility",
+            "_id": "kqYptkTCtiFTlZJV",
+            "sort": 0,
+            "activation": {
+              "type": "action",
+              "value": null,
+              "override": false,
+              "condition": ""
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": false,
+                "max": "5"
+              },
+              "spellSlot": true,
+              "targets": []
+            },
+            "description": {
+              "chatFlavor": "1 gallon of water",
+              "value": ""
+            },
+            "duration": {
+              "units": "round",
+              "concentration": false,
+              "override": false,
+              "value": "1",
+              "expiry": null
+            },
+            "effects": [],
+            "range": {
+              "override": false,
+              "units": "touch",
+              "special": ""
+            },
+            "target": {
+              "template": {
+                "contiguous": false,
+                "units": "ft",
+                "type": "",
+                "stationary": false
+              },
+              "affects": {
+                "choice": false,
+                "count": "1",
+                "type": "object",
+                "special": "The Decanter of Endless Water"
+              },
+              "override": false,
+              "prompt": true
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "roll": {
+              "prompt": false,
+              "visible": false,
+              "name": "",
+              "formula": ""
+            },
+            "name": "Splash",
+            "img": "",
+            "behaviors": [],
+            "flags": {},
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            }
+          },
+          "PdtjMpg7Bcqa1AVp": {
+            "type": "utility",
+            "sort": 0,
+            "activation": {
+              "type": "action",
+              "value": null,
+              "override": false,
+              "condition": ""
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": false,
+                "max": "5"
+              },
+              "spellSlot": true,
+              "targets": []
+            },
+            "description": {
+              "chatFlavor": "5 gallon of water",
+              "value": ""
+            },
+            "duration": {
+              "units": "round",
+              "concentration": false,
+              "override": false,
+              "value": "1",
+              "expiry": null
+            },
+            "effects": [],
+            "range": {
+              "override": false,
+              "units": "touch",
+              "special": ""
+            },
+            "target": {
+              "template": {
+                "contiguous": false,
+                "units": "ft",
+                "type": "",
+                "stationary": false
+              },
+              "affects": {
+                "choice": false,
+                "count": "1",
+                "type": "object",
+                "special": "The Decanter of Endless Water"
+              },
+              "override": false,
+              "prompt": true
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "roll": {
+              "prompt": false,
+              "visible": false,
+              "formula": "",
+              "name": ""
+            },
+            "name": "Fountain",
+            "_id": "PdtjMpg7Bcqa1AVp",
+            "img": "",
+            "behaviors": [],
+            "flags": {},
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            }
+          },
+          "QObmaE8dWI8pIXFE": {
+            "type": "save",
+            "name": "Geyser",
+            "_id": "QObmaE8dWI8pIXFE",
+            "sort": 0,
+            "activation": {
+              "type": "action",
+              "value": null,
+              "override": false,
+              "condition": ""
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": []
+            },
+            "description": {
+              "chatFlavor": "30 gallons; save vs &Reference[prone]",
+              "value": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false,
+              "expiry": null
+            },
+            "effects": [],
+            "range": {
+              "override": false,
+              "units": "self",
+              "special": ""
+            },
+            "target": {
+              "template": {
+                "contiguous": false,
+                "units": "ft",
+                "type": "line",
+                "size": "30",
+                "width": "1",
+                "count": "",
+                "stationary": false
+              },
+              "affects": {
+                "choice": true,
+                "count": "1",
+                "type": "creatureOrObject",
+                "special": "One creature or object of your choice in the Line"
+              },
+              "override": false,
+              "prompt": true
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "damage": {
+              "parts": [
+                {
+                  "custom": {
+                    "enabled": false,
+                    "formula": ""
+                  },
+                  "number": 1,
+                  "denomination": 4,
+                  "bonus": "",
+                  "types": [
+                    "bludgeoning"
+                  ],
+                  "scaling": {
+                    "number": 1
+                  },
+                  "modifiers": []
+                }
+              ],
+              "onSave": "none"
+            },
+            "save": {
+              "ability": [
+                "str"
+              ],
+              "dc": {
+                "calculation": "",
+                "formula": "13"
+              },
+              "visible": true
+            },
+            "img": "",
+            "behaviors": [],
+            "flags": {},
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            }
+          }
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "description": {
+          "value": "<p><em>A tall flask of green-glazed clay, stoppered with old wax and crusted white with lake lime. Bramblemaw kept it standing upright on its own little heap of coins, apart from everything else — a dragon that likes things that never run out.</em></p><hr><div><p><em>Wondrous Item, Uncommon</em></p></div><p>This stoppered flask sloshes when shaken, as if it contains water. The decanter weighs 2 pounds.</p><p>You can take a Magic action to remove the stopper and issue one of three command words, whereupon an amount of @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgspWaterfresh0]{fresh water} or @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgspWatersalt00]{salt water} (your choice) pours out of the flask. The water stops pouring out at the start of your next turn. Choose from the following command words:</p><div class=\"def-block\"><p><strong>Splash.</strong> The decanter produces 1 gallon of water.</p><p><strong>Fountain.</strong> The decanter produces 5 gallons of water.</p><p><strong>Geyser.</strong> The decanter produces 30 gallons of water that gushes forth in a Line 30 feet long and 1 foot wide. If you’re holding the decanter, you can aim the geyser in one direction (no action required). One creature of your choice in the Line must succeed on a DC 13 Strength saving throw or take 1d4 Bludgeoning damage and have the &amp;Reference[Prone] condition. Instead of a creature, you can target one object in the Line that isn’t being worn or carried and that weighs no more than 200 pounds. The object is knocked over by the geyser.</p></div>",
+          "chat": ""
+        },
+        "identifier": "decanter-of-endless-water",
+        "source": {
+          "revision": 1,
+          "rules": "2024"
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "quantity": 1,
+        "weight": {
+          "value": 2,
+          "units": "lb"
+        },
+        "price": {
+          "value": 400,
+          "denomination": "gp"
+        },
+        "attunement": "",
+        "attuned": false,
+        "equipped": false,
+        "type": {
+          "value": "wondrous",
+          "baseItem": ""
+        },
+        "properties": [
+          "mgc"
+        ],
+        "rarities": [
+          "uncommon"
+        ],
+        "crew": {
+          "value": []
+        },
+        "armor": {
+          "value": null,
+          "dex": null
+        },
+        "proficient": null,
+        "strength": null
+      },
+      "effects": [],
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "activity": [],
+            "effect": []
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1790130597558,
+        "modifiedTime": 1790130677741,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "exportSource": null
+      },
+      "sort": 38300000,
+      "ownership": {
+        "default": 0,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "_id": "gGmDTnPp3C6nNe3X",
+      "_key": "!actors.items!m2iibo7g0b1YFFjQ.gGmDTnPp3C6nNe3X"
+    },
+    {
+      "name": "Driftglobe",
+      "type": "equipment",
+      "folder": "U4xmShLy19Ry54zl",
+      "img": "modules/dnd-dungeon-masters-guide/assets/icons/items/driftglobe.webp",
+      "system": {
+        "activities": {
+          "rbiAoohKOV04cJvK": {
+            "type": "summon",
+            "name": "Hover as Light",
+            "_id": "rbiAoohKOV04cJvK",
+            "sort": 0,
+            "activation": {
+              "type": "action",
+              "value": null,
+              "override": false,
+              "condition": ""
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": []
+            },
+            "description": {
+              "chatFlavor": "",
+              "value": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false,
+              "expiry": null
+            },
+            "effects": [],
+            "range": {
+              "override": false,
+              "units": "ft",
+              "special": "",
+              "value": "60"
+            },
+            "target": {
+              "template": {
+                "contiguous": false,
+                "units": "ft",
+                "type": "",
+                "stationary": false
+              },
+              "affects": {
+                "choice": false,
+                "count": "1",
+                "type": "object",
+                "special": "The Driftglobe"
+              },
+              "override": false,
+              "prompt": true
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "bonuses": {
+              "ac": "",
+              "hd": "",
+              "hp": "",
+              "attackDamage": "",
+              "saveDamage": "",
+              "healing": ""
+            },
+            "creatureSizes": [],
+            "creatureTypes": [],
+            "match": {
+              "attacks": false,
+              "proficiency": false,
+              "saves": false,
+              "disposition": false
+            },
+            "profiles": [
+              {
+                "count": "",
+                "name": "",
+                "_id": "Wdx9GXaSwDA3hdhE",
+                "uuid": "Compendium.dnd-dungeon-masters-guide.actors.Actor.dmgLightDriftglo",
+                "level": {
+                  "min": null,
+                  "max": null
+                },
+                "types": []
+              }
+            ],
+            "summon": {
+              "prompt": true,
+              "mode": ""
+            },
+            "img": "icons/sundries/lights/candle-pillar-lit-yellow.webp",
+            "behaviors": [],
+            "flags": {},
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            }
+          },
+          "cGnutbOwpuVo22AE": {
+            "type": "summon",
+            "name": "Hover as Daylight",
+            "_id": "cGnutbOwpuVo22AE",
+            "sort": 0,
+            "activation": {
+              "type": "action",
+              "value": null,
+              "override": false,
+              "condition": ""
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": [
+                {
+                  "type": "activityUses",
+                  "value": "1",
+                  "scaling": {}
+                }
+              ]
+            },
+            "description": {
+              "chatFlavor": "",
+              "value": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false,
+              "expiry": null
+            },
+            "effects": [],
+            "range": {
+              "override": false,
+              "units": "ft",
+              "special": "",
+              "value": "60"
+            },
+            "target": {
+              "template": {
+                "contiguous": false,
+                "units": "ft",
+                "type": "",
+                "stationary": false
+              },
+              "affects": {
+                "choice": false,
+                "count": "1",
+                "type": "object",
+                "special": "The Driftglobe"
+              },
+              "override": false,
+              "prompt": true
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [
+                {
+                  "period": "dawn",
+                  "type": "recoverAll"
+                }
+              ],
+              "max": "1"
+            },
+            "bonuses": {
+              "ac": "",
+              "hd": "",
+              "hp": "",
+              "attackDamage": "",
+              "saveDamage": "",
+              "healing": ""
+            },
+            "creatureSizes": [],
+            "creatureTypes": [],
+            "match": {
+              "attacks": false,
+              "proficiency": false,
+              "saves": false,
+              "disposition": false
+            },
+            "profiles": [
+              {
+                "count": "",
+                "name": "",
+                "_id": "d6HORa4OEhnlRCHs",
+                "uuid": "Compendium.dnd-dungeon-masters-guide.actors.Actor.dmgDaylightDrift",
+                "level": {
+                  "min": null,
+                  "max": null
+                },
+                "types": []
+              }
+            ],
+            "summon": {
+              "prompt": true,
+              "mode": ""
+            },
+            "img": "icons/magic/light/orb-beams-green.webp",
+            "behaviors": [],
+            "flags": {},
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            }
+          }
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "description": {
+          "value": "<p><em>Found half-buried in the coin-bed below the dais, its glass furred green with lake scum. Wipe it clean and it still wakes to its word, bobbing up to shoulder height as if relieved to be useful again — a lamplighter's light off the Trade Way, most likely, taken from a caravan that never arrived.</em></p><hr><div><p><em>Wondrous Item, Uncommon</em></p></div><p>This small sphere of thick glass weighs 1 pound. If you are within 60 feet of it, you can command it to emanate light equivalent to that of the <em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplLight00000]{Light}</em> or <em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplDaylight00]{Daylight}</em> spell (your choice). Once used, the <em>Daylight</em> effect can’t be used again until the next dawn.</p><p>You can issue another command as a Magic action to make the illuminated globe rise into the air and float no more than 5 feet off the ground. The globe hovers in this way until you or another creature grasps it. If you move more than 60 feet from the hovering globe, it follows you until it is within 60 feet of you. It takes the shortest route to do so. If prevented from moving, the globe sinks gently to the ground and becomes inactive, and its light winks out.</p>",
+          "chat": ""
+        },
+        "identifier": "driftglobe",
+        "source": {
+          "revision": 1,
+          "rules": "2024"
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "quantity": 1,
+        "weight": {
+          "value": 1,
+          "units": "lb"
+        },
+        "price": {
+          "value": 400,
+          "denomination": "gp"
+        },
+        "attunement": "",
+        "attuned": false,
+        "equipped": false,
+        "armor": {
+          "value": null,
+          "dex": null
+        },
+        "cover": null,
+        "hp": {
+          "value": null,
+          "max": null,
+          "dt": null,
+          "conditions": ""
+        },
+        "type": {
+          "value": "wondrous",
+          "baseItem": ""
+        },
+        "properties": [
+          "mgc"
+        ],
+        "strength": null,
+        "proficient": null,
+        "rarities": [
+          "uncommon"
+        ],
+        "crew": {
+          "value": []
+        }
+      },
+      "effects": [],
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "activity": [],
+            "effect": []
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1790130599495,
+        "modifiedTime": 1790130681655,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "exportSource": null
+      },
+      "sort": 11100000,
+      "ownership": {
+        "default": 0,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "_id": "xGHsLauLfDWoGxZh",
+      "_key": "!actors.items!m2iibo7g0b1YFFjQ.xGHsLauLfDWoGxZh"
+    },
+    {
+      "name": "Rival Coin",
+      "type": "equipment",
+      "folder": "U4xmShLy19Ry54zl",
+      "img": "modules/dnd-dungeon-masters-guide/assets/icons/items/rival-coins.webp",
+      "system": {
+        "activities": {
+          "FI7IquuclsxWVjLw": {
+            "type": "save",
+            "name": "Heads",
+            "_id": "FI7IquuclsxWVjLw",
+            "sort": 0,
+            "activation": {
+              "type": "action",
+              "value": null,
+              "override": false,
+              "condition": ""
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": [
+                {
+                  "type": "itemUses",
+                  "value": "1",
+                  "target": "",
+                  "scaling": {}
+                }
+              ]
+            },
+            "description": {
+              "chatFlavor": "",
+              "value": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false,
+              "expiry": null
+            },
+            "effects": [
+              {
+                "_id": "Spy20nvaXnxmIv3K",
+                "onSave": false,
+                "uuid": null,
+                "level": {}
+              }
+            ],
+            "range": {
+              "override": false,
+              "units": "ft",
+              "special": "",
+              "value": "60"
+            },
+            "target": {
+              "template": {
+                "contiguous": false,
+                "units": "ft",
+                "type": "",
+                "stationary": false
+              },
+              "affects": {
+                "choice": false,
+                "count": "1",
+                "type": "creature",
+                "special": "you can see"
+              },
+              "override": false,
+              "prompt": true
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "damage": {
+              "parts": [
+                {
+                  "custom": {
+                    "enabled": false,
+                    "formula": ""
+                  },
+                  "number": 2,
+                  "denomination": 4,
+                  "bonus": "",
+                  "types": [
+                    "psychic"
+                  ],
+                  "scaling": {
+                    "number": 1
+                  },
+                  "modifiers": []
+                }
+              ],
+              "onSave": "half"
+            },
+            "save": {
+              "ability": [
+                "wis"
+              ],
+              "dc": {
+                "calculation": "",
+                "formula": "13"
+              },
+              "visible": true
+            },
+            "img": "",
+            "behaviors": [],
+            "flags": {},
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            }
+          },
+          "r2IQwxX7ugzaTAuF": {
+            "type": "damage",
+            "name": "Tails",
+            "_id": "r2IQwxX7ugzaTAuF",
+            "sort": 0,
+            "activation": {
+              "type": "action",
+              "value": null,
+              "override": false,
+              "condition": ""
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": [
+                {
+                  "type": "itemUses",
+                  "value": "1",
+                  "target": "",
+                  "scaling": {}
+                }
+              ]
+            },
+            "description": {
+              "chatFlavor": "",
+              "value": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false,
+              "expiry": null
+            },
+            "effects": [],
+            "range": {
+              "override": false,
+              "units": "self",
+              "special": ""
+            },
+            "target": {
+              "template": {
+                "contiguous": false,
+                "units": "ft",
+                "type": "",
+                "stationary": false
+              },
+              "affects": {
+                "choice": false,
+                "count": "",
+                "type": "self",
+                "special": ""
+              },
+              "override": false,
+              "prompt": true
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "damage": {
+              "critical": {
+                "allow": false
+              },
+              "parts": [
+                {
+                  "custom": {
+                    "enabled": false,
+                    "formula": ""
+                  },
+                  "number": 1,
+                  "denomination": 4,
+                  "bonus": "",
+                  "types": [
+                    "psychic"
+                  ],
+                  "scaling": {
+                    "number": 1
+                  },
+                  "modifiers": []
+                }
+              ]
+            },
+            "img": "",
+            "behaviors": [],
+            "flags": {},
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            }
+          }
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [
+            {
+              "period": "dawn",
+              "type": "recoverAll"
+            }
+          ],
+          "max": "1"
+        },
+        "description": {
+          "value": "<p><em>A heavy gold coin, worn bright where claws have turned it over and over. Tiamat coils on the heads side; Bahamut spreads his wings on tails. It was set apart from the rest of the hoard on a little pile of its own, Tiamat-side up.</em></p><hr><p><em>Wondrous Item, Common</em></p><p>This gold coin has a creature embossed on each side. The two depicted creatures must be famous rivals or enemies of each other. For example, a <em>Rival Coin</em> might show Iggwilv on one side and Mordenkainen on the other, or Venger on one side and Tiamat on the other. One of these figures is on the “heads” side of the coin, the other on the “tails” side.</p><p>The coin has 1 charge and regains its expended charge daily at dawn. You can take a Magic action to toss the coin, expending its charge. Roll any die ([[/r 1d2]]) to determine whether the coin comes up heads (on an even number) or tails (on an odd number). The roll also determines the effect:</p><p><strong>Heads.</strong> Target one creature you can see within 60 feet of yourself. The target makes a DC 13 Wisdom saving throw. On a failed save, the target takes 2d4 Psychic damage and has Disadvantage on the next attack roll it makes before the end of its next turn. On a successful save, the target takes half as much damage only.</p><p><strong>Tails.</strong> You take 1d4 Psychic damage.</p>",
+          "chat": ""
+        },
+        "identifier": "rival-coin",
+        "source": {
+          "revision": 2,
+          "rules": "2024",
+          "book": "",
+          "page": "",
+          "custom": "",
+          "license": ""
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "quantity": 1,
+        "weight": {
+          "value": 0,
+          "units": "lb"
+        },
+        "price": {
+          "value": 100,
+          "denomination": "gp"
+        },
+        "attunement": "",
+        "attuned": false,
+        "equipped": false,
+        "armor": {
+          "value": null,
+          "dex": null
+        },
+        "cover": null,
+        "hp": {
+          "value": null,
+          "max": null,
+          "dt": null,
+          "conditions": ""
+        },
+        "type": {
+          "value": "wondrous",
+          "baseItem": ""
+        },
+        "properties": [
+          "mgc"
+        ],
+        "strength": null,
+        "proficient": null,
+        "rarities": [
+          "common"
+        ],
+        "crew": {
+          "value": []
+        }
+      },
+      "effects": [
+        {
+          "name": "Disadvantaged",
+          "img": "icons/magic/movement/chevrons-down-yellow.webp",
+          "origin": "Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgRivalCoin0000",
+          "transfer": false,
+          "_id": "Spy20nvaXnxmIv3K",
+          "type": "base",
+          "system": {
+            "changes": [],
+            "origin": {
+              "actor": null,
+              "behavior": null,
+              "effect": null,
+              "item": null,
+              "message": null
+            },
+            "conditions": "{}",
+            "magical": false,
+            "rider": {
+              "statuses": []
+            }
+          },
+          "disabled": false,
+          "duration": {
+            "value": 1,
+            "units": "turns",
+            "expiry": "turnStart",
+            "expired": false
+          },
+          "description": "",
+          "tint": "#ffffff",
+          "statuses": [],
+          "sort": 0,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "coreVersion": "14.368",
+            "systemId": "dnd5e",
+            "systemVersion": "6.0.3",
+            "createdTime": 1790130601483,
+            "modifiedTime": 1790130601483,
+            "lastModifiedBy": "EtG3ba47F3LHz0QC",
+            "exportSource": null
+          },
+          "start": null,
+          "showIcon": 1,
+          "folder": null,
+          "_key": "!actors.items.effects!m2iibo7g0b1YFFjQ.YTP88kS1ZsVJKKyW.Spy20nvaXnxmIv3K"
+        }
+      ],
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "activity": [],
+            "effect": []
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1790130601483,
+        "modifiedTime": 1790130685620,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "exportSource": null
+      },
+      "sort": 32200000,
+      "ownership": {
+        "default": 0,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "_id": "YTP88kS1ZsVJKKyW",
+      "_key": "!actors.items!m2iibo7g0b1YFFjQ.YTP88kS1ZsVJKKyW"
+    },
+    {
+      "name": "Blue Sapphire",
+      "type": "loot",
+      "img": "icons/commodities/gems/gem-faceted-radiant-blue.webp",
+      "system": {
+        "description": {
+          "value": "<p><em>Gemstone, 1,000 GP each</em></p><p>Medium-blue sapphires in an old-fashioned cut, pried from settings that are long gone. Bramblemaw kept them lined up on a stone ledge, sorted by shade.</p>",
+          "chat": ""
+        },
+        "identifier": "gemstone-1000-gp",
+        "source": {
+          "revision": 1,
+          "rules": "2024"
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "quantity": 3,
+        "weight": {
+          "value": 0,
+          "units": "lb"
+        },
+        "price": {
+          "value": 1000,
+          "denomination": "gp"
+        },
+        "properties": [],
+        "type": {
+          "value": "gem",
+          "subtype": ""
+        },
+        "rarities": []
+      },
+      "effects": [],
+      "folder": "SVyCw3C7uAH6U85C",
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1790130603286,
+        "modifiedTime": 1790130691043,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "exportSource": null
+      },
+      "sort": 99610,
+      "ownership": {
+        "default": 0,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "_id": "2I0SFtcdc6oyZjYX",
+      "_key": "!actors.items!m2iibo7g0b1YFFjQ.2I0SFtcdc6oyZjYX"
+    },
+    {
+      "name": "Black Opal",
+      "type": "loot",
+      "img": "icons/commodities/gems/gem-faceted-radiant-blue.webp",
+      "system": {
+        "description": {
+          "value": "<p><em>Gemstone, 1,000 GP each</em></p><p>Dark green, mottled black and shot through with golden flecks — Bramblemaw's own colours. These three lay closest to where the dragon slept.</p>",
+          "chat": ""
+        },
+        "identifier": "gemstone-1000-gp",
+        "source": {
+          "revision": 1,
+          "rules": "2024"
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "quantity": 3,
+        "weight": {
+          "value": 0,
+          "units": "lb"
+        },
+        "price": {
+          "value": 1000,
+          "denomination": "gp"
+        },
+        "properties": [],
+        "type": {
+          "value": "gem",
+          "subtype": ""
+        },
+        "rarities": []
+      },
+      "effects": [],
+      "folder": "SVyCw3C7uAH6U85C",
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1790130604607,
+        "modifiedTime": 1790130692791,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "exportSource": null
+      },
+      "sort": 99610,
+      "ownership": {
+        "default": 0,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "_id": "CMdL12ywqMldQohE",
+      "_key": "!actors.items!m2iibo7g0b1YFFjQ.CMdL12ywqMldQohE"
+    },
+    {
+      "name": "Star Ruby",
+      "type": "loot",
+      "img": "icons/commodities/gems/gem-faceted-radiant-blue.webp",
+      "system": {
+        "description": {
+          "value": "<p><em>Gemstone, 1,000 GP each</em></p><p>Deep red rubies, each holding a white six-rayed star that slides across the stone as it turns in the light.</p>",
+          "chat": ""
+        },
+        "identifier": "gemstone-1000-gp",
+        "source": {
+          "revision": 1,
+          "rules": "2024"
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "quantity": 2,
+        "weight": {
+          "value": 0,
+          "units": "lb"
+        },
+        "price": {
+          "value": 1000,
+          "denomination": "gp"
+        },
+        "properties": [],
+        "type": {
+          "value": "gem",
+          "subtype": ""
+        },
+        "rarities": []
+      },
+      "effects": [],
+      "folder": "SVyCw3C7uAH6U85C",
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1790130606138,
+        "modifiedTime": 1790130694139,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "exportSource": null
+      },
+      "sort": 99610,
+      "ownership": {
+        "default": 0,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "_id": "HclZutpHyImc7qEK",
+      "_key": "!actors.items!m2iibo7g0b1YFFjQ.HclZutpHyImc7qEK"
+    },
+    {
+      "name": "Fire Opal",
+      "type": "loot",
+      "img": "icons/commodities/gems/gem-faceted-radiant-blue.webp",
+      "system": {
+        "description": {
+          "value": "<p><em>Gemstone, 1,000 GP</em></p><p>A fiery red opal the size of a quail's egg, dimpled with tiny tooth-marks where something once tested whether it was edible.</p>",
+          "chat": ""
+        },
+        "identifier": "gemstone-1000-gp",
+        "source": {
+          "revision": 1,
+          "rules": "2024"
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "quantity": 1,
+        "weight": {
+          "value": 0,
+          "units": "lb"
+        },
+        "price": {
+          "value": 1000,
+          "denomination": "gp"
+        },
+        "properties": [],
+        "type": {
+          "value": "gem",
+          "subtype": ""
+        },
+        "rarities": []
+      },
+      "effects": [],
+      "folder": "SVyCw3C7uAH6U85C",
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1790130607512,
+        "modifiedTime": 1790130695493,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "exportSource": null
+      },
+      "sort": 99610,
+      "ownership": {
+        "default": 0,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "_id": "CSp6tW3FQAXBnAb5",
+      "_key": "!actors.items!m2iibo7g0b1YFFjQ.CSp6tW3FQAXBnAb5"
+    },
+    {
+      "name": "Yellow Sapphire",
+      "type": "loot",
+      "img": "icons/commodities/gems/gem-faceted-radiant-blue.webp",
+      "system": {
+        "description": {
+          "value": "<p><em>Gemstone, 1,000 GP</em></p><p>A fiery yellow-green sapphire, clouded with lake silt until it's polished clean on a sleeve.</p>",
+          "chat": ""
+        },
+        "identifier": "gemstone-1000-gp",
+        "source": {
+          "revision": 1,
+          "rules": "2024"
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "quantity": 1,
+        "weight": {
+          "value": 0,
+          "units": "lb"
+        },
+        "price": {
+          "value": 1000,
+          "denomination": "gp"
+        },
+        "properties": [],
+        "type": {
+          "value": "gem",
+          "subtype": ""
+        },
+        "rarities": []
+      },
+      "effects": [],
+      "folder": "SVyCw3C7uAH6U85C",
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1790130608862,
+        "modifiedTime": 1790130696914,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "exportSource": null
+      },
+      "sort": 99610,
+      "ownership": {
+        "default": 0,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "_id": "dJm4MSkxGfo4ZjeG",
+      "_key": "!actors.items!m2iibo7g0b1YFFjQ.dJm4MSkxGfo4ZjeG"
+    },
+    {
+      "name": "Aquamarine",
+      "type": "loot",
+      "img": "icons/commodities/gems/gem-faceted-trillion-blue.webp",
+      "system": {
+        "description": {
+          "value": "<p><em>Gemstone, 500 GP</em></p><p>A pale blue-green aquamarine, the exact colour of the water in the flooded hall.</p>",
+          "chat": ""
+        },
+        "identifier": "gemstone500gp",
+        "source": {
+          "revision": 1,
+          "rules": "2024"
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "quantity": 1,
+        "weight": {
+          "value": 0,
+          "units": "lb"
+        },
+        "price": {
+          "value": 500,
+          "denomination": "gp"
+        },
+        "properties": [],
+        "type": {
+          "value": "gem",
+          "subtype": ""
+        },
+        "rarities": []
+      },
+      "effects": [],
+      "folder": "SVyCw3C7uAH6U85C",
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1790130610620,
+        "modifiedTime": 1790130698250,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "exportSource": null
+      },
+      "sort": 99219,
+      "ownership": {
+        "default": 0,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "_id": "cnqU2EGL4CYnuw8e",
+      "_key": "!actors.items!m2iibo7g0b1YFFjQ.cnqU2EGL4CYnuw8e"
+    },
+    {
+      "name": "Jade Bead",
+      "type": "loot",
+      "img": "icons/commodities/gems/gem-faceted-teardrop-blue.webp",
+      "system": {
+        "description": {
+          "value": "<p><em>Gemstone, 100 GP</em></p><p>A carved jade bead, green as new leaves, once strung on a cord that rotted away long ago.</p>",
+          "chat": ""
+        },
+        "identifier": "gemstone100gp",
+        "source": {
+          "revision": 1,
+          "rules": "2024"
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "quantity": 1,
+        "weight": {
+          "value": 0,
+          "units": "lb"
+        },
+        "price": {
+          "value": 100,
+          "denomination": "gp"
+        },
+        "properties": [],
+        "type": {
+          "value": "gem",
+          "subtype": ""
+        },
+        "rarities": []
+      },
+      "effects": [],
+      "folder": "SVyCw3C7uAH6U85C",
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1790130612543,
+        "modifiedTime": 1790130699617,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "exportSource": null
+      },
+      "sort": 99024,
+      "ownership": {
+        "default": 0,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "_id": "QgDnhh3hQgzfWfqI",
+      "_key": "!actors.items!m2iibo7g0b1YFFjQ.QgDnhh3hQgzfWfqI"
+    },
+    {
+      "name": "Crimson Coral",
+      "type": "loot",
+      "img": "icons/commodities/gems/gem-faceted-teardrop-blue.webp",
+      "system": {
+        "description": {
+          "value": "<p><em>Gemstone, 100 GP</em></p><p>A branch of crimson coral, a very long way from any sea. Someone carried it a great distance only to lose it here.</p>",
+          "chat": ""
+        },
+        "identifier": "gemstone100gp",
+        "source": {
+          "revision": 1,
+          "rules": "2024"
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "quantity": 1,
+        "weight": {
+          "value": 0,
+          "units": "lb"
+        },
+        "price": {
+          "value": 100,
+          "denomination": "gp"
+        },
+        "properties": [],
+        "type": {
+          "value": "gem",
+          "subtype": ""
+        },
+        "rarities": []
+      },
+      "effects": [],
+      "folder": "SVyCw3C7uAH6U85C",
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1790130613900,
+        "modifiedTime": 1790130700930,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "exportSource": null
+      },
+      "sort": 99024,
+      "ownership": {
+        "default": 0,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "_id": "1q3RhHIzjn8JOIkc",
+      "_key": "!actors.items!m2iibo7g0b1YFFjQ.1q3RhHIzjn8JOIkc"
+    },
+    {
+      "name": "Spear",
+      "system": {
+        "description": {
+          "value": "",
+          "chat": ""
+        },
+        "price": {
+          "value": 1,
+          "denomination": "gp"
+        },
+        "source": {
+          "custom": "",
+          "rules": "2024",
+          "revision": 1
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "quantity": 1,
+        "weight": {
+          "value": 3,
+          "units": "lb"
+        },
+        "attunement": "",
+        "cover": null,
+        "range": {
+          "value": 20,
+          "long": 60,
+          "units": "ft",
+          "reach": null
+        },
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "damage": {
+          "versatile": {
+            "number": null,
+            "denomination": 0,
+            "bonus": "",
+            "types": [],
+            "custom": {
+              "enabled": false,
+              "formula": ""
+            },
+            "scaling": {
+              "mode": "",
+              "number": null,
+              "formula": ""
+            },
+            "modifiers": []
+          },
+          "base": {
+            "number": 1,
+            "denomination": 6,
+            "types": [
+              "piercing"
+            ],
+            "custom": {
+              "enabled": false
+            },
+            "scaling": {
+              "number": 1
+            },
+            "bonus": "",
+            "modifiers": []
+          }
+        },
+        "armor": {
+          "value": null
+        },
+        "hp": {
+          "value": null,
+          "max": null,
+          "dt": null,
+          "conditions": ""
+        },
+        "type": {
+          "value": "simpleM",
+          "baseItem": "spear"
+        },
+        "properties": [
+          "thr",
+          "ver"
+        ],
+        "proficient": null,
+        "activities": {
+          "HiR3FA2Uc0oOAHU9": {
+            "type": "attack",
+            "activation": {
+              "type": "action",
+              "value": 1,
+              "condition": "",
+              "override": false
+            },
+            "consumption": {
+              "targets": [],
+              "scaling": {
+                "allowed": false,
+                "max": ""
+              },
+              "spellSlot": true
+            },
+            "description": {
+              "chatFlavor": "",
+              "value": ""
+            },
+            "duration": {
+              "concentration": false,
+              "value": "",
+              "units": "inst",
+              "special": "",
+              "override": false,
+              "expiry": null
+            },
+            "effects": [],
+            "range": {
+              "value": "20",
+              "units": "ft",
+              "special": "",
+              "override": false
+            },
+            "target": {
+              "template": {
+                "count": "",
+                "contiguous": false,
+                "type": "",
+                "size": "",
+                "width": "",
+                "height": "",
+                "units": "ft",
+                "stationary": false
+              },
+              "affects": {
+                "count": "",
+                "type": "",
+                "choice": false,
+                "special": ""
+              },
+              "prompt": false,
+              "override": false
+            },
+            "attack": {
+              "ability": "",
+              "bonus": "",
+              "critical": {
+                "threshold": null
+              },
+              "flat": false,
+              "type": {
+                "value": "melee",
+                "classification": "weapon"
+              }
+            },
+            "damage": {
+              "critical": {
+                "bonus": ""
+              },
+              "includeBase": true,
+              "parts": []
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "sort": 0,
+            "_id": "HiR3FA2Uc0oOAHU9",
+            "name": "",
+            "img": "",
+            "flags": {},
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            },
+            "behaviors": []
+          }
+        },
+        "ammunition": {},
+        "mastery": "sap",
+        "identifier": "spear",
+        "crew": {
+          "value": []
+        },
+        "rarities": [],
+        "attuned": false,
+        "equipped": false
+      },
+      "type": "weapon",
+      "folder": "FL1Jee9DzStc7vM3",
+      "img": "modules/dnd-players-handbook/assets/icons/items/spear.webp",
+      "effects": [],
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "WjZL43DJHoHpfDrK": 3
+      },
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "activity": [],
+            "effect": []
+          },
+          "-=riders": null
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": "Actor.3S6v9ShOyAMt8d7P.Item.4WeoyAmHf99KIyGI",
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.5",
+        "createdTime": 1790726783997,
+        "modifiedTime": 1790726783997,
+        "lastModifiedBy": "WjZL43DJHoHpfDrK",
+        "exportSource": null
+      },
+      "_id": "WvgrhnqV04oJKhj4",
+      "_key": "!actors.items!m2iibo7g0b1YFFjQ.WvgrhnqV04oJKhj4"
+    }
+  ],
+  "effects": [],
+  "folder": "kE6tb22Lw13aVuXp",
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.3",
+    "createdTime": 1786111003822,
+    "modifiedTime": 1790123120140,
+    "lastModifiedBy": "DVSDeA29YhlyJV2g",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!actors!m2iibo7g0b1YFFjQ"
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Merchant's Coin-Pouch",
+  "type": "container",
+  "img": "icons/containers/bags/pouch-leather-simple-tan.webp",
+  "system": {
+    "description": {
+      "value": "<p>Coin raided from the caravan — mixed silver and gold, hastily bagged.</p>",
+      "chat": ""
+    },
+    "quantity": 1,
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "rarity": "",
+    "identified": true,
+    "currency": {
+      "gp": 60,
+      "sp": 40
+    },
+    "identifier": "merchants-coin-pouch",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "capacity": {
+      "volume": {
+        "units": "cubicFoot"
+      },
+      "weight": {
+        "units": "lb"
+      }
+    },
+    "properties": []
+  },
+  "folder": "IRI8Gfz0uA2I8cID",
+  "_id": "qyyVOLVQKGOnRxrz",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783040220509,
+    "modifiedTime": 1783040553514,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!qyyVOLVQKGOnRxrz"
+}

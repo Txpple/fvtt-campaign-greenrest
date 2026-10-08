@@ -1,0 +1,57 @@
+{
+  "name": "Carved Wooden Fox",
+  "type": "loot",
+  "img": "modules/dnd-dungeon-masters-guide/assets/icons/items/figurine-of-wondrous-power-ivory-goats.webp",
+  "system": {
+    "description": {
+      "value": "<p>A child's toy: a little fox whittled from pale wood, its edges rubbed soft with age and handling. It should have rotted to nothing long ago — there is no village within a day's walk in any direction — yet it is whole, and faintly warm, as if set down only a moment ago by small hands that never came back for it.</p>",
+      "chat": ""
+    },
+    "quantity": 1,
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "rarity": "",
+    "identified": true,
+    "properties": [],
+    "type": {
+      "value": "junk",
+      "subtype": ""
+    },
+    "identifier": "carved-wooden-fox",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "container": null
+  },
+  "folder": "dCkoCKLcTTG8l8hT",
+  "_id": "huzmudEOBsJ7gt6L",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783089308783,
+    "modifiedTime": 1783090222584,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!huzmudEOBsJ7gt6L"
+}

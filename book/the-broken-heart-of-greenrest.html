@@ -1,0 +1,841 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Broken Heart of Greenrest</title>
+<style>
+  :root{
+    --paper:#fbf7ef; --ink:#2a2420; --ink-soft:#5a4f46; --rule:#c9b99b; --accent:#7a2a2a; --accent-soft:#a8514a;
+    --green:#4f6b3a; --caption:#6b5f55;
+  }
+  @page { size: A4; margin: 22mm 20mm 24mm 20mm;
+    @bottom-center { content: counter(page); font-family: Georgia, "Palatino Linotype", serif; font-size: 10pt; color: #6b5f55; } }
+  @page :first { @bottom-center { content: none; } }
+  html,body{background:var(--paper);color:var(--ink);margin:0;padding:0}
+  body{font-family:"Palatino Linotype","Book Antiqua",Palatino,Georgia,serif;font-size:11.5pt;line-height:1.55;}
+  .page{max-width:760px;margin:0 auto;padding:32px 24px 60px}
+  @media print{ .page{max-width:none;padding:0} }
+  h1,h2,h3,h4{font-family:Georgia,"Palatino Linotype",serif;font-weight:normal;color:var(--ink);margin:0}
+  h1{font-size:34pt;letter-spacing:.02em;line-height:1.1}
+  h2{font-size:22pt;margin-top:2.2em;margin-bottom:.35em;break-after:avoid;page-break-after:avoid}
+  h2 .kicker{display:block;font-size:10.5pt;letter-spacing:.22em;text-transform:uppercase;color:var(--accent);margin-bottom:.45em}
+  h3{font-size:14.5pt;margin-top:1.6em;margin-bottom:.3em;color:var(--accent);break-after:avoid;page-break-after:avoid}
+  p{margin:0 0 .85em;text-align:justify;hyphens:auto;break-inside:avoid;page-break-inside:avoid}
+  p.first::first-letter{font-family:Georgia,serif;font-size:3.1em;float:left;line-height:.85;padding:.06em .08em 0 0;color:var(--accent)}
+  p.lead{font-style:italic;color:var(--ink-soft);text-align:left}
+  blockquote{margin:.9em 1.6em 1.1em;padding-left:.9em;border-left:3px solid var(--rule);color:var(--ink-soft);font-style:italic;break-inside:avoid;page-break-inside:avoid}
+  blockquote p{text-align:left}
+  .aside{margin:1.1em 0 1.2em;padding:.8em 1.1em;background:#f1ebdd;border:1px solid var(--rule);border-radius:4px;font-size:10.6pt;color:var(--ink-soft);break-inside:avoid;page-break-inside:avoid}
+  .aside .t{display:block;font-family:Georgia,serif;font-size:9.5pt;letter-spacing:.2em;text-transform:uppercase;color:var(--accent);margin-bottom:.35em}
+  .aside p{text-align:left;margin-bottom:.5em}
+  .aside p:last-child{margin-bottom:0}
+  figure{margin:1.2em 0 1.4em;break-inside:avoid;page-break-inside:avoid}
+  figure img{width:100%;height:auto;display:block;border-radius:3px}
+  figcaption{font-size:10pt;color:var(--caption);font-style:italic;text-align:center;margin-top:.45em}
+  h2 + figure{margin-top:.6em}
+  .titlepage{text-align:center;padding-top:40px;break-after:page;page-break-after:always}
+  .titlepage .over{font-size:11pt;letter-spacing:.3em;text-transform:uppercase;color:var(--accent);margin-bottom:1.2em}
+  .titlepage h1{margin:.2em 0 .3em}
+  .titlepage .sub{font-style:italic;font-size:14pt;color:var(--ink-soft);margin-bottom:2.2em}
+  .titlepage .epigraph{max-width:440px;margin:0 auto 2em;font-style:italic;color:var(--ink-soft);font-size:11.5pt}
+  .titlepage .who{font-size:10.5pt;color:var(--ink-soft);letter-spacing:.05em;margin-top:2.5em}
+  .titlepage figure{margin:0 0 1.6em}
+  .part{text-align:center;padding-top:120px;break-before:page;page-break-before:always;break-after:page;page-break-after:always}
+  .part .n{font-size:11pt;letter-spacing:.35em;text-transform:uppercase;color:var(--accent);margin-bottom:1em}
+  .part h1{font-size:30pt}
+  .part .sub{font-style:italic;color:var(--ink-soft);margin-top:1em;font-size:12.5pt}
+  .chapter{break-before:page;page-break-before:always}
+  .rule{border:0;border-top:1px solid var(--rule);margin:1.8em auto;width:40%}
+  .rule.double{border-top:3px double var(--rule);width:100%}
+  .personae{display:grid;grid-template-columns:1fr 1fr;gap:18px 22px;margin:1em 0}
+  .persona{display:grid;grid-template-columns:120px 1fr;gap:12px;align-items:start;break-inside:avoid;page-break-inside:avoid}
+  .persona img{width:120px;height:150px;object-fit:cover;object-position:top;border-radius:3px}
+  .persona h4{font-size:12.5pt;color:var(--accent);margin-bottom:.2em}
+  .persona p{font-size:10.4pt;text-align:left;margin-bottom:.4em;line-height:1.45}
+  .cast p{text-align:left;margin-bottom:.5em;font-size:10.8pt}
+  .cast b{color:var(--accent)}
+  .hearts{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:1em 0 1.4em;break-inside:avoid;page-break-inside:avoid}
+  .hearts div{text-align:center;font-size:9.8pt;color:var(--ink-soft)}
+  .hearts img{width:100%;border-radius:4px;margin-bottom:.3em}
+  .hearts b{display:block;color:var(--ink);font-size:10.5pt}
+  .bestiary .entry{display:grid;grid-template-columns:200px 1fr;gap:16px;margin:1.2em 0;padding-bottom:1.1em;border-bottom:1px solid var(--rule);break-inside:avoid;page-break-inside:avoid}
+  .bestiary .entry img{width:200px;border-radius:3px;margin-bottom:6px}
+  .bestiary .entry h3{margin-top:0}
+  .bestiary .entry p{font-size:10.3pt;line-height:1.45;text-align:left}
+  .bestiary .met{font-size:9.6pt;color:var(--accent);letter-spacing:.04em;margin-bottom:.4em}
+  .bestiary blockquote{font-size:10pt;margin:.4em 0 .7em .6em}
+  .bestiary .entry.wide{grid-template-columns:1fr}
+  .bestiary .entry.wide img{width:100%;max-width:520px}
+  .toc{columns:2;column-gap:32px;font-size:10.8pt}
+  .toc p{text-align:left;margin:0 0 .25em;break-inside:avoid}
+  .toc .p{margin-top:.7em;color:var(--accent);letter-spacing:.15em;text-transform:uppercase;font-size:9.5pt}
+  .small{font-size:10pt;color:var(--ink-soft)}
+  em.sp{color:var(--green)}
+  @media (max-width:640px){ .personae,.hearts{grid-template-columns:1fr 1fr} .persona{grid-template-columns:90px 1fr} .persona img{width:90px;height:112px} .bestiary .entry{grid-template-columns:1fr} .bestiary .entry img{width:100%;max-width:320px} .toc{columns:1} }
+</style>
+</head>
+<body>
+<div class="page">
+
+<section class="titlepage">
+  <div class="over">A chronicle of the campaign</div>
+  <h1>The Broken Heart<br>of Greenrest</h1>
+  <div class="sub">Being the true account of four hunters out of Daggerford, a village that never wept, and the thing that slept beneath its square</div>
+  <figure><img src="img/pro-dreamer-and-corin.jpg" alt="The Dreamer and Corin beneath the great tree"></figure>
+  <div class="epigraph">A friendly village. Four ruins. A grief old enough to be mistaken for good weather.</div>
+  <div class="who">Thomas A. Invictus · Morgash the Gravemaker · Gren Greenmantle · Jetten Elisedil<br>Robert · Anthony · Tom · Drew — and Matt behind the screen<br>Nine sessions, summer into autumn of 2026</div>
+</section>
+
+<h2 style="margin-top:0"><span class="kicker">Contents</span></h2>
+<div class="toc">
+  <p>Prologue — What Nobody Knew</p>
+  <p>The Company</p>
+  <p>The Country</p>
+  <p class="p">Part One · The Road South</p>
+  <p>I. First Light on the Trade Way</p>
+  <p>II. The Lure in the Mist</p>
+  <p class="p">Part Two · The Green Valley</p>
+  <p>III. No Crying in Greenrest</p>
+  <p>IV. The Heart Under the Hill</p>
+  <p class="p">Part Three · The Count</p>
+  <p>V. The Long Rest</p>
+  <p>VI. The Widow Fen</p>
+  <p>VII. The Temple of Shar</p>
+  <p>VIII. The Wyrmwood</p>
+  <p class="p">Part Four · The Heart Knot</p>
+  <p>IX. The Heart Knot</p>
+  <p>Epilogue — The First Autumn</p>
+  <p>Afterword — What the Narrator Knew</p>
+  <p class="p">Appendices</p>
+  <p>A. What If…?</p>
+  <p>B. A Bestiary of the Misty Forest</p>
+</div>
+
+<section class="chapter">
+<h2><span class="kicker">Prologue</span>What Nobody Knew</h2>
+
+<p class="first">Long before there was a village, before there was a road, before anyone had thought to call the fog country a forest and draw it on a map, a fey lived in a valley in the Misty Forest. She was an old, deep thing of spring and growing — the kind of power that makes orchards heavy and winters mild without ever meaning to. She has forgotten her own name. Over the thousand years this story spans, she forgot almost everything. The only name left anywhere in her dreaming is <em>Corin</em>.</p>
+
+<p>Corin was a mortal. He came walking out of the fog one morning, raven-haired and laughing at the impossible green of her valley, and she rose out of her orchard to look at him. What followed was the happiest memory anyone ever kept: seasons of him, the valley blooming a little harder every time he smiled, because she willed it so. Picnics. Harvest dances. Silver threading into the black of his hair, one visit at a time, and none in hers.</p>
+
+<p>When she saw the silver she understood, in the way a thing of endless returning spring can understand anything, that he would end. So she offered him the only gift she had. <em>Stay. Stay, and I'll make it summer for you forever. Be as I am. Never end.</em> She said it on the best evening of all of it, with his face in her hands, and he smiled and deflected, and she laughed at that, delighted, and missed it completely. She said it again at dusk with the flowers closing, and this time it was an argument, and she was losing it. He had lived among the fey long enough to see what they become — the slow hollowing, the centuries of drifting, the beautiful creatures that forget their own names. <em>If you take the ending out of me, there's nothing left that you love. A life isn't for keeping. It's for spending. Let me go and spend mine.</em></p>
+
+<p>He walked down the hill toward the fog. She followed him exactly as far as she existed — to the line where her green met the mist — and stopped, because a dryad ends at her valley. The fog took him a step at a time. She never learned what became of him. Old, or happy, or nothing: his story ended somewhere past the fog, and no ending ever came back to her.</p>
+
+<p>So she waited, because she could not do otherwise. The green comes back; the swallows come back; everything comes back, always. Every spring she made more glorious than the last, not from habit but as a signal-fire, a valley visible from far away so it could be found again. Decades of springs. And then there came a spring when even she knew that a mortal's handful of years was long spent — that however his story had gone, it had <em>gone</em>, and she would never know which ending it wore. She broke on the not-knowing.</p>
+
+<p>Fey do not die. Death is a door shut to them; she could not even follow him through that. So she did the only thing left to a creature that cannot die and cannot bear to live: she tore out her own heart and shattered it. It broke into four true pieces, and the burst of it was the single most violent thing this gentle power ever did. The pieces could not die either — a fey heart cannot, and rot is death's business — so, denied the one ending flesh is allowed, they <em>set</em>: grief gone hard, turning in the air to warm, translucent crystal. What came to earth in four far-apart places across the fog country was not gore. It was gemstone with a heart still inside it. The same detonation tore the mists off her valley in a ring, the valley flinging back the fog that took him, one last time, too late — and the clearing it left in the Misty Forest has never closed since. Then, where she stood, she took root. She folded herself into her own tree and went down into sleep, dreaming rather than living, because living had Corin's leaving in it.</p>
+
+<p>Here is the strangeness of it. Her grief had nowhere to go but her magic, and her magic knows only one verb: <em>flourish</em>. Her tears did not poison the valley. They bloomed it. A power of spring, weeping, is a land that cannot stop being fertile, lucky, green. Every soft winter and heavy harvest in the valley for the next thousand years was a tear that fell long ago and was still landing. She was keeping her promise — <em>summer for you forever</em> — to the only thing that never left.</p>
+
+<p>Settlers working south down the Trade Way found it eventually: a wide green valley with no mist in it at all, the best land anyone had ever seen, standing empty. They did not know why the mists parted there and they did not ask. They called the place Greenrest — a green place to rest on a long road — and only the oldest families ever remembered the quieter second reading. They flourished beyond all sense. And they dreamed. Anyone who slept in that valley dreamed of grief, a weeping they could not place, and over the generations the town tied the dreams to the one wrong thing in its paradise: the pale, half-dead tree in the square. They guessed something old was sleeping under it, probably a dryad, and then, being practical people with a good life, they decided to live with it. The apothecary's craft produced a weekly draught that stopped the dreaming. The whole town took it up as plain custom. Within a generation or two the dreams themselves were forgotten, and as far as Greenrest was concerned there was a dead tree, there was a tonic, and life was good.</p>
+
+<p>They prayed to Chauntea, the Earthmother, for the harvest that never failed, and raised her a basilica no farming hamlet has any right to. But the goddess they praised was not the power that fed them, and Chauntea knew it. She knew her name was fixed to a false idol, and that the valley's whole sweet life was drawn from a soul denied its death — the one unnatural thing the Earthmother, above all gods, cannot abide. So she refused. In all Greenrest's history she never called a cleric, never granted a spell, never sent a single miracle. And because she is the gentlest of gods, her refusal looked like nothing at all. It was indistinguishable from the good weather they credited her for.</p>
+
+<p>Nobody in Greenrest knew about the shards. Nobody knew the name Corin. Nobody knew that the treasure-story the passing adventurers chased — <em>the Broken Heart</em>, the last company called it — had anything to do with their tree. There was nothing nefarious in Greenrest, no conspiracy, no kept secret, no cage deliberately tended. It was exactly what it looked like: a lucky, kind, comfortable village that had long ago stopped asking why.</p>
+
+<p>Four hunters came down the Trade Way in the summer of the thousandth year, following a map assembled from a gnome's research toward a relic none of them understood. This is what they did.</p>
+</section>
+
+<section class="chapter">
+<h2><span class="kicker">Dramatis Personae</span>The Company</h2>
+<p class="lead">Four hunters out of Daggerford. Their own griefs were the campaign's fuel — the first night in the valley mirrored each one back at its owner, and the Heart's final arithmetic was built on two of them.</p>
+
+<div class="personae">
+  <div class="persona"><img src="img/pc-thomas.jpg" alt="Thomas A. Invictus">
+    <div><h4>Thomas A. Invictus</h4><p class="small" style="margin:-.1em 0 .45em;color:var(--accent)">Played by Robert</p>
+    <p>Human paladin of Lathander, sworn to the Oath of Vengeance. Twenty-eight, Daggerford born, a scribe in the ledger offices until six months before this story. His wife Ann and their four children were murdered by a man he had been investigating — a clerk selling names and body parts to buyers in the south — and following that trail is what surfaced the legend of the Broken Heart. He carries Oghma's symbol beside Lathander's, knows sign language, and has organised his whole life around finding one name.</p></div></div>
+  <div class="persona"><img src="img/pc-morgash.jpg" alt="Morgash the Gravemaker">
+    <div><h4>Morgash the Gravemaker</h4><p class="small" style="margin:-.1em 0 .45em;color:var(--accent)">Played by Anthony</p>
+    <p>Bone-white orc, fighter, a Battle Master by trade and a gravedigger before that. Lower-City Baldur's Gate; then the Flaming Fist; then the Basilisk Gate, where his company held against the netherbrain and forty became nine, and he dug the graves himself. A caravan guard for hire now, one big score from retirement. The heartbreak he keeps private: a githyanki warrior named Lae'zel, a romance that began over a whetstone and ended with <em>I cannot love someone in this world. Goodbye, my Morgash.</em></p></div></div>
+  <div class="persona"><img src="img/pc-gren.jpg" alt="Gren Greenmantle">
+    <div><h4>Gren Greenmantle</h4><p class="small" style="margin:-.1em 0 .45em;color:var(--accent)">Played by Tom</p>
+    <p>Forest gnome sorcerer, white-bearded, small, suspicious by temperament. Raised in the Misty Forest and sent away to a monastery when the silver-white fire in him surfaced — cast out, in his own words, unwanted and unloved. The village elders pressed an acorn from their heart-oak into his hand the day he left, to be planted when he finds the place he belongs. He found the shard references in an old temple ledger; the party's map is his work. Holds a standing vendetta against will-o'-wisps.</p></div></div>
+  <div class="persona"><img src="img/pc-jetten.jpg" alt="Jetten Elisedil">
+    <div><h4>Jetten Elisedil</h4><p class="small" style="margin:-.1em 0 .45em;color:var(--accent)">Played by Drew</p>
+    <p>Wood elf ranger out of the Chondalwood, one hundred and ten years old, Thomas's childhood friend from the ranch days. His sister died long ago and outliving her never healed; he wears her moonstone on a cord at his throat. A devotee of Sehanine Moonbow, lady of moonlight and dreams, which means he trusts what he sees when he sleeps. On the road to support Thomas, and for no other reason he will admit to.</p></div></div>
+</div>
+
+<h3>Greenrest</h3>
+<div class="cast">
+<p><b>Mayor Oswin Applewhite</b> — warm, fatherly, mayor some fifteen years, never left the valley, never faced an election. Boasts, accurately, that there is no crying in Greenrest.</p>
+<p><b>Selma</b> — the apothecary. Brews the weekly tonic and the potions that are the town's only healing. Does not like change.</p>
+<p><b>Ambrose Featherstone</b> — keeper of the Long Rest, the inn. Gives the party the good rooms and frets over their wounds.</p>
+<p><b>Mother Wend</b> — the elderly dwarf who keeps the Full Larder. Knew all four of their names before they walked in.</p>
+<p><b>Constable Warin Holt</b> — captain of the Hedgewatch, fifty strong. <em>We don't leave the town, and they don't come in here.</em></p>
+<p><b>Coll</b> — the gravedigger. The one man in town who wonders out loud. Sometimes skips his tonic.</p>
+<p><b>Acolyte Enid</b> — the church's devout young keeper. Has never once received a sign from her goddess, and never thought to ask why.</p>
+<p><b>Pip</b> — a halfling child, too young for customs, old enough to like the party. Sees the things adults explain away.</p>
+</div>
+
+<h3>Elsewhere</h3>
+<div class="cast">
+<p><b>The Kestrel Company</b> — Sera Vantree, Marn Tillery, Brakk, Aldous, Edda. The last hunters to try the ruins. Half a year gone; never came home.</p>
+<p><b>Osric, Hesper and Cadoc</b> — three treasure-hunters who found something warm in the dark five centuries ago and could not put it down.</p>
+<p><b>Hazel and Mabel</b> — two green hags of the Widow Fen, sisters, who once were three.</p>
+<p><b>Harrow Vane</b> — high priest of Shar at the temple called the Iris. Has been watching Thomas for years.</p>
+<p><b>Renlow Veck</b> — a Daggerford shipping clerk with a gold signet ring.</p>
+<p><b>Bramblemaw</b> — a young green dragon who cannot explain why its eyes are wet.</p>
+<p><b>Pudgy, Pinenut and Honeysuckle</b> — squirrels.</p>
+<p><b>The Dreamer</b> — called the Green Lady by the town that never saw her. A dryad. Blond, tall, wood-and-blossom. Asleep.</p>
+</div>
+
+<h3>The four shards</h3>
+<div class="hearts">
+  <div><img src="img/heart-grave.jpg" alt="Graveheart"><b>Graveheart</b>arterial red · the Hollow Shrine</div>
+  <div><img src="img/heart-tide.jpg" alt="Tideheart"><b>Tideheart</b>deep water blue · the Widow Fen</div>
+  <div><img src="img/heart-dusk.jpg" alt="Duskheart"><b>Duskheart</b>near-black purple · the Temple of Shar</div>
+  <div><img src="img/heart-thorn.jpg" alt="Thornheart"><b>Thornheart</b>venom green · the Wyrmwood</div>
+</div>
+<p class="small">Each is a piece of clear faceted stone the size of two cupped hands, and each is obviously still a heart: the chambering is there in the crystal, the great vessels sheared off clean. Stone should be cold; these are blood-warm, always. Once every few seconds they beat, and when they beat the light inside moves. They never chip, scratch or break. They have already been broken, and nothing since has been allowed to matter.</p>
+</section>
+
+<section class="chapter">
+<h2><span class="kicker">Maps</span>The Country</h2>
+<figure><img src="img/map-coast-crop.jpg" alt="The Sword Coast around Daggerford and the Misty Forest"><figcaption>Where they started. Daggerford, where the Trade Way fords the Delimbiyr — the last real comfort before the road turns wild to the south. The Misty Forest lies below it, and the High Moor beyond.</figcaption></figure>
+<figure><img src="img/map-treasure-route.jpg" alt="The treasure map, with the party's route"><figcaption>The map Gren assembled from a bought scrap, a caravanner's story, a line copied from a temple ledger and a rumour chased three towns over. The road south, then east off the map's last safe line; and the order the four shards came home.</figcaption></figure>
+<figure><img src="img/map-greenrest.jpg" alt="Greenrest"><figcaption>Greenrest. A village on a lake, ringed by orchards and hedged fields, visibly more prosperous than a village this size has any right to be. The square at its centre, the Long Rest beside it, the Mayor's Tower up the hill, the church, the garrison at the eastern edge — and in the middle of the square, the tree.</figcaption></figure>
+</section>
+
+<section class="part">
+  <div class="n">Part One</div>
+  <h1>The Road South</h1>
+  <div class="sub">In which four strangers leave the last friendly walls behind, a sword chooses a hand, and a village's name arrives before the village does.</div>
+</section>
+
+<section class="chapter">
+<h2><span class="kicker">Chapter I</span>First Light on the Trade Way</h2>
+
+<p class="first">The Silver Gauntlet stood against Daggerford's southern gatehouse, the adventurers' tavern, the last roof in town before the road. Four people sat at one of its tables who did not yet think of themselves as anything so grand as a company.</p>
+
+<figure><img src="img/s1-silver-gauntlet.jpg" alt="The Silver Gauntlet"><figcaption>The Silver Gauntlet, where the map was pieced together over drinks and the four of them agreed, without ever quite saying so, to go.</figcaption></figure>
+
+<p>Morgash spoke first, because Morgash generally did. An orc the colour of old bone, in plate that had seen a war and did not care to discuss it — <em>a situation I don't want to talk about right now</em> — a caravan guard for hire who wanted one big score and then a chair by a fire somewhere for the rest of his life. Gren Greenmantle, a gnome whose beard was white and whose robes were green and gold, had met him defending a town and had healed one of his companions; it was Gren who had found the references in the old temple ledger, Gren who had drawn the map, Gren who had brought them all here. Thomas Invictus was the one the others had come for: a Daggerford native, a scribe until six months ago, a paladin of Lathander now, with a dawn on his breastplate and a psalter in his pack. His wife and his four children had been murdered by thieves he had discovered selling body parts to somebody in the south. Following that trail was what had uncovered the Broken Heart. He suspected necromancy. He wanted a name. And Jetten Elisedil, the elf, who had known Thomas since Thomas was a boy on a ranch — <em>it's your whole life, Thomas; I'm an elf</em> — had come to see him through it.</p>
+
+<p>Morgash heard Thomas's story and swore, plainly, in front of everyone: <em>If there is any connection, they will feel the wrath. You will have your back. Vengeance — I swear it.</em> He would be asked to keep that oath in a way he did not expect, in a stone cell two months later, and he would keep it.</p>
+
+<p>What they knew, they knew from drinks and research: the green dragon was young, a wyrmling maybe, no adult had ever been rumoured; Shar was the goddess of loss and night and forgotten memory, her faithful utterly secretive; Greenrest was a small village nobody on the road could say much about. Lord Hargrove led them to the inn's vault and they divided their stored gear and a thousand gold. Morgash took up a greatsword with a Flaming Fist duty-mark on the blade, from his old company. Then south.</p>
+
+<h3>The Trade Way</h3>
+
+<p>The road was mostly what roads are. Two "couriers" riding north — Pibb and Josk — asked the party to settle a quarrel about whether a horse needs a full night's rest, and Thomas, who knew every legitimate document-dealer in Daggerford by name, read Pibb for a forger inside a sentence; Gren, meanwhile, quietly asked the horses, who reported themselves well-fed from an apple orchard and entirely without menace. The pair huffed off north, unmasked and unhindered. A barefoot halfling priest of Chauntea named Brother Tobin blessed them all and pressed a barley-token on Jetten as a kindred spirit of the wilds, and said a thing none of them would understand for weeks:</p>
+
+<blockquote><p>"The lady's been strange with her gifts of late. Some fields simply cannot fail; others starve a mile off. She doesn't usually play favourites."</p></blockquote>
+
+<div class="aside"><span class="t">What the narrator knows</span><p>Tobin was orthodox enough to have already sensed the wrongness in the south, without knowing its shape. The field that cannot fail was the valley. The Earthmother was not playing favourites; she was refusing a place. The party carried his token all the way to Greenrest and never once thought to look for a dead field on the way in — and there was none to find. The valley was all bloom.</p></div>
+
+<h3>The bridge, and the cave</h3>
+
+<p>Late in the afternoon they came on a merchant's cart overturned on a bridge, one wheel still turning, the crates picked over, fresh blood smeared toward the riverbank. Morgash found a great many booted prints in the blood. The trail led down to an unlit cave, and Jetten went in ahead with elf eyes and heard guttural laughter — a band of hobgoblins around a fire, several of them wounded from their own ambush, a big captain among them. Gren dropped a light on poor darkvision-less Thomas, which complicated Jetten's sneaking considerably. The council was short. Jetten had no love for hobgoblins, as an elf. Thomas would not leave them to take the next traveller on the road. Jetten's first arrow opened the fight.</p>
+
+<p>It was long and scrappy, the way first fights are. An archer's arrow found Morgash early and deep. Thomas's <em>Bane</em> settled on two of them and ruined hobgoblin aim for the rest of the night; Gren's <em>Bless</em> held the line up. A shaman came out of the deeper dark mid-fight with a staff of poison vine, and put Jetten nearly on the floor twice — <em>I'm almost dead</em> — and Jetten put himself back up with a healing word. Morgash, on a night when his dice were ice-cold, turned a miss into a blow that should have ended the captain and then, with a hobgoblin already dying on his blade, said <em>Finally hit something. Finally.</em> Thomas's smite lit the captain like a lamp and Jetten's arrow finished him from across the cave. Gren built a false wall out of nothing, cast from behind it, and burned the shaman down in three volleys of fire. The last warrior, surrounded, took the flat of Morgash's pommel and Gren's roared ultimatum — <em>Surrender or die!</em> — and dropped his sword.</p>
+
+<p>The interrogation went badly for the prisoner. Who sent them? <em>I take no orders from no one but my captain.</em> He looked at the corpse by the fire. <em>…I am captain now.</em> Who had they attacked? Merchants — that was the job. Thomas wanted one more question. Jetten ended it with a shortsword through the eye: <em>Enough, hobgoblin scum.</em></p>
+
+<h3>First Light</h3>
+
+<figure><img src="img/s1-first-light.jpg" alt="Thomas takes up First Light over the dead paladins"><figcaption>The captain's blade was no hobgoblin weapon. Thomas prayed the psalm for the dead over two of Lathander's own, and felt the warmth of his god's approval for the first time on the road.</figcaption></figure>
+
+<p>In the back chamber lay the hobgoblins' victims, dead barely an hour: two well-appointed guards, one of them headless, a high-elf merchant woman in Waterdhavian finery, and her human companion. Thomas knelt by the guards and knew them — paladins of Lathander, his own god. He read the psalm for the dead from his psalter, felt the warm wash of the Dawnfather's approval, and would not touch a single thing that belonged to the faithful. He noticed, too, that the Trade Way is not usually like this: the hobgoblins had seemed <em>driven</em> here from somewhere, scouring land they did not know.</p>
+
+<p>The captain's sword was rose-gold, oddly warm, and holding a little daylight even in the dark. Thomas felt it reach for him the moment he saw it. Over the night's rest it told him its name: <em>First Light</em>, a Dawnbringer's blade consecrated in a temple of Lathander. He would carry it into every ruin in the Misty Forest, and lose it in the one that mattered.</p>
+
+<div class="aside"><span class="t">What the narrator knows</span><p>Two small threads began in this cave and stayed loose. Thomas wanted one more question out of the prisoner and Jetten's blade answered first, so whatever the hobgoblins had been driven from was never learned — though Thomas had noticed it was strange, and said so. And the letter, addressed in a careful hand to someone in Daggerford, rode in Jetten's pack for the rest of the campaign, unopened. The high-elf merchant was somebody in Waterdeep, and somebody was waiting for her. It is a kindness the road never asked of them, and it is still there to be done.</p></div>
+<p>They buried the victims in shallow sword-dug graves with last rites, having briefly considered staking hobgoblin heads along the road as a warning and decided against it, and slept in a clean corner of the cave. Among the recovered goods was a letter, unsealed, addressed to someone in Daggerford. Jetten pocketed it unread. Nobody ever opened it. In the morning, to the east, stood the treeline of the Misty Forest, and the map said to leave the road there.</p>
+</section>
+
+<section class="chapter">
+<h2><span class="kicker">Chapter II</span>The Lure in the Mist</h2>
+
+<p class="first">Thomas pressed Gren about the village before they set out. The gnome had grown up in these woods and had never heard of Greenrest — but Misty Forest settlements are small, secluded and private, and a village unknown even to locals would not be strange. Morgash hauled the wrecked cart off the road before leaving, because it was in the way and he was tidy. Then east, off the map's last safe line.</p>
+
+<p>The forest was Gren's childhood and Jetten's element, and the day's running joke was that neither of them could find their way through it. Trails a little more than deer trails, mist everywhere, small animals watching; Jetten scouted ahead and the ranger and the native gnome wandered, while the Baldur's Gate city orc, who had never been in anything like this, kept pointing Jetten the right direction and was right every time. By noon they knew they were halfway through.</p>
+
+<h3>The clearing</h3>
+
+<p>They stopped to rest in a clearing and the birdsong stopped with them. The mist went still. Jetten and Gren both read it in time, and neither was surprised when five blights pulled themselves out of the treeline — three of twig, two of vine — and ringed the camp. It was over quickly and nobody took a scratch: Jetten killed a vine blight before it ever moved; Morgash halved a twig blight in one slice and found a new trick in himself, a rush of adrenaline that carried him across the clearing to bottle up the far side; Thomas laughed off an entangling vine — <em>you will never be able to catch me</em> — and split the last twig blight with a stroke that found the perfect seam; Gren named his fire, and the woody thing burned twice as well for it. Afterward Gren stood over the ash and said what he would keep saying for the rest of the campaign: <em>These are a corruption of life itself. There's more corruption somewhere. We need to find its source.</em> Thomas opened his senses for fey, fiend and undead and found nothing within reach.</p>
+
+<div class="aside"><span class="t">What the narrator knows</span><p>The blight-source was never found, and it was never in the valley. The valley was the one place in the Misty Forest with no corruption in it at all — only grief, which is different. The fog country around it was the same fey, foggy wild it had always been. Gren was right that something was wrong in the woods. He was looking on the wrong side of the tree-line.</p></div>
+
+<h3>The light in the mist</h3>
+
+<p>Hours more east, and late in the afternoon the mist gave way to bare wet rock, a low grey cliff split by a cleft taller than a man — and a single small light, round and warm as a candle, casting no glow and no shadow, drifting toward them and back. Quicker, then insistent, the way a hand beckons someone who is running out of time. Almost pleading. It slipped into the cave.</p>
+
+<p>Gren, who is kind to fairies, thought one of them might be in distress. Jetten did not think this was Greenrest but was willing to take a quick look. Inside: cold air over the ankles, wet stone, something sweetly rotten. Gren dropped his light on Thomas again. Jetten crept ahead and saw the ambush waiting in the webs before it sprang. <em>How delightful. It was a trap, guys.</em> The dancing light winked out.</p>
+
+<figure><img src="img/s2-broodmother.jpg" alt="Morgash holds the door against the Broodmother"><figcaption>Morgash read the ettercap's nervous glances at a closed door, crossed the hall and put his shoulder to it before anything could come through. Then the Broodmother came through anyway.</figcaption></figure>
+
+<p>What followed was a fight in waves in the dark of a ruined, web-strung hall. Jetten went in blades-first on the ettercap that had lured them and it clawed him and let out a long wail that called the brood. Gren answered with three rays of fire and burned the first one to a crisp; Morgash — whose turn came last, having rolled the worst initiative anyone would see all campaign, minutes after his all-day navigation clinic — read the ettercap's darting looks at a shut door and dashed across the hall to block it. Then the door burst. The Broodmother came through over him, bit deep and poisoned him, and Morgash, poisoned and surrounded, turned a miss into a hit with sheer precision and the patented double back-swing, and swallowed a dose of Keoghtom's ointment to burn the poison out. Broodlings webbed Thomas to the floor; the will-o'-wisp came back, and this time it looked very hostile, and shocked Gren from nowhere and vanished again. Gren stopped trying to hit a thing he could not see and turned his unerring darts of force on the Broodmother instead. Jetten peppered her. Thomas cut himself free and split a broodling clean out of existence. And Gren's last volley of magic missiles dropped the Broodmother where she stood.</p>
+
+<p>The wisp never came back. It fled, not slain. Gren, who had been tricked, made a vow about it and all its kind, and would keep the vow for the rest of his life without ever getting to spend it.</p>
+
+<h3>The ruined temple</h3>
+
+<p>The arena revealed itself in the calm afterward: an ancient elven shrine, webbed and bone-strewn, that the ettercaps had made a feeding hall. Thomas's temple schooling read the stones — statues to fey figures, alms bowls that once held water, a small temple as elven temples are. Gren quietly poured a little water into each empty bowl before burning the webs out. Down a south passage lay a dead fey creature, an elf perhaps, months gone, a dagger still on the body, beside the ettercaps' victim-loot.</p>
+
+<div class="aside"><span class="t">What the narrator knows</span><p>The ruined temple held more than loot. There was a line carved into the lintel — <em>a light, and a road home</em> — that Jetten's glance read only as etchings worn past reading, and beneath the shrine a thin place into the Feywild, which two of Thomas's checks came within a point of finding and did not. That thin place was where the displacer pack had come through. The dead elf in the south passage, months gone with a dagger still on the body, was Goldthorn's last bearer; nobody examined him past a glance. The watchtower above Greenrest, offered plainly as a place to look at the valley from before walking into it, was never climbed. None of it mattered to the ending. All of it was a door left quietly shut by people who had a map and a good reason to hurry, and a story that would have been happy to open any of them.</p></div>
+<p>From the pile came two things that would matter. The first was a gilded scimitar that wanted to speak to Jetten the way First Light had spoken to Thomas — <em>Goldthorn</em>, lost with its bearer to the webs of a hidden temple in the Misty Forest and dormant since, whose fey magic could stir once between dawns into a bloom of clinging faerie light that let nothing hide in shadow. Jetten attuned to it overnight. The second was a stoppered clay vial of bitter green cordial among the web-wrapped effects of a traveller who had never left, its label in a tidy careful hand: <em>One swallow, seventh-day, as ever. — Selma.</em> Thomas read aloud what could be learned of it: whoever drank the swallow slept utterly, without dreams, for seven nights. No apothecary could name any other virtue, nor say why anyone would brew such a thing.</p>
+
+<p>The village's name had found them before the village did. They also took a lantern whose light, they would learn, reveals what does not wish to be seen.</p>
+
+<figure><img src="img/s2-greenrest-vista.jpg" alt="First sight of Greenrest"><figcaption>"The forest lets you go." Two hours east on the third morning, the trail climbed one last rise, and below lay Greenrest under a cloudless sky.</figcaption></figure>
+
+<p>They slept in the cleansed temple, and two hours east the next morning the trees thinned, the trail climbed a last rise, and the forest let them go. Below, cradled in green meadows under a cloudless sky: slate roofs snug around a square, straight chimney smoke, orchards and hedged fields, birdsong, cut hay, woodsmoke. An old stone watchtower on the height to the right. And dead centre in all that green, a single great tree gone grey and sickly — the one wrong note in an otherwise perfect song.</p>
+</section>
+
+<section class="part">
+  <div class="n">Part Two</div>
+  <h1>The Green Valley</h1>
+  <div class="sub">In which a town welcomes them like family, four sleepers dream the same woman, and three treasure-hunters five centuries dead ask them to stay.</div>
+</section>
+
+<section class="chapter">
+<h2><span class="kicker">Chapter III</span>No Crying in Greenrest</h2>
+
+<p class="first">At the trailhead where the path left the forest, Morgash found animal prints circling — two legs, four, six, eight, impossible to say — that turned back into the trees. Whatever it was, it would not approach the town. He said so out loud. Then they went down.</p>
+
+<p>Orchards, flourishing fields, woodsmoke, prosperity; it felt richer than Daggerford. A crowd had gathered before they reached the square, and Mayor Oswin Applewhite came through it to greet them like family coming home. He walked them through the whole of it himself — the Long Rest, where Ambrose kept the inn; the smithy; the church of the Earthmother; his own tower up the hill (<em>the mayor always lives at the top, it's tradition</em>); the square; the brew house; Selma's apothecary; the dockside on the lake; the Full Larder, where Mother Wend already knew all four of their names; the Hedgewatch garrison, fifty strong. Lodging was free. Food was free. Ale was free. <em>We love our guests. You don't have to worry about a penny here.</em></p>
+
+<p>Over supper at the Long Rest the mayor told them what he knew of the Broken Heart, which was what the last visitors had told him: a relic, four ruins, a company of adventurers called the Kestrels who had come through some months back looking for it and never come back. <em>Sadly, life is good here,</em> he said. <em>As long as everything is status quo, I'm happy.</em> And then, as a boast, the line the whole campaign would turn on: <em>There is no crying in Greenrest.</em></p>
+
+<p>Constable Warin Holt cut in on the monster talk, and later, quietly: <em>I think I know the mistakes those adventurers made. Come to the barracks. I don't want to bother Oswin with such things.</em> At the barracks he was plain. His scouts had tracked displacer beasts in the forest for years. They had stalked the Kestrels, waited for a weak moment, and killed them at an old temple south-east of town; the scouts had seen the battle-sign and would not go closer. <em>They've latched onto you like they did the others. They cannot be deterred until their quarry is slain. Kill them first, at a moment of your choosing, at full strength — or come home wounded some night and be jumped.</em> His men defended the town only. <em>We don't leave the town, and they don't come in here.</em></p>
+
+<p>On the inn porch a halfling child named Pip informed Gren that he was taller than him, buddy, and then, unprompted: <em>Did the black cats follow you too?</em> Big black cats with too many legs, seen circling the town when the Kestrels were here and again an hour before this party came out of the trees. He had never told anyone, because he didn't want to bother them. He refused a gold piece on the grounds that he had everything he needed here. And Thomas found the gravedigger, Coll, at the inn — a lifelong local who said <em>it hasn't been right since</em> the Kestrels came through complaining they weren't sleeping well, which had reminded him of being a boy with bad dreams before Selma helped him out. The whole town took the sleep-draught weekly, he confirmed, from childhood — <em>as soon as we're old enough to dream</em>. Thomas took out the vial from the ettercap temple and read Selma's label to the table. Same seventh-day cadence.</p>
+
+<p>It was Gren who decided it. <em>Let's spend the night without drinking the tonic. Something's fishy about this town.</em></p>
+
+<h3>The night of dreams</h3>
+
+<figure><img src="img/s3-night-zero-dream.jpg" alt="The weeping tree-woman"><figcaption>The same visitor came to all four of them: a pale woman shaped like a white tree, hair of leaves and branches, weeping — and her grief bled into each of theirs.</figcaption></figure>
+
+<p>All four dreamed the same figure, and each of them dreamed her differently. Thomas dreamed the murder of his wife and children, and underneath the oath of vengeance found the grief he had built the oath to cover. Morgash dreamed Lae'zel's goodbye in Baldur's Gate — <em>I cannot love someone in this world</em> — and the red dragon that carried her away. Gren dreamed the village elders sending him north, and the suspicion, never confirmed, that it was the fire in him they were sending away: cast out, unwanted, unloved. Jetten dreamed his sister, dead so long ago, and the cruelty of outliving her — and while he dreamed it, eyes open in trance, the moonstone at his throat glowed bright green.</p>
+
+<p>In the morning they compared notes, except for Morgash, who admitted the weeping woman and refused the details. <em>I won't give details about my broken heart.</em> Gren's temple schooling surfaced with perfect clarity: the figure was a dryad — fey, immortal, a life rotated between elf-shape and tree. Thomas connected it at once. <em>The dead tree in the square.</em></p>
+
+<div class="aside"><span class="t">What the narrator knows</span><p>Anyone who slept in Greenrest dreamed of grief, except the villagers, who had taken the tonic weekly for generations and no longer dreamed at all. A private dream belongs to the dreamer; a dream four people can compare at breakfast is someone else's, reaching out. The town had solved this mystery centuries ago by not thinking about it. Nobody in Greenrest had withheld the tonic from the party. It simply never occurred to anyone to press their grandmother's habit on a traveller.</p></div>
+
+<figure><img src="img/s3-gray-tree.jpg" alt="The gray tree in the square"><figcaption>Four guards on a dead tree, with orders from the mayor and the constable: nobody harms it, nobody chips the bark. "It's the one thing that doesn't flourish. Almost like a symbol of our town."</figcaption></figure>
+
+<p>In the square that morning, four watchmen stood posted on the tree. Their orders came from the constable and the mayor: let no one destroy it, let no one chip the bark, watch it. It had always been like this, a guard said, born here; they kept trying to revive it and nothing worked. Jetten looked at it and saw a dead tree. Thomas looked harder and saw a sick one, uncared-for, not quite gone. Morgash said, loudly, that four guards for a dead tree did not add up. Gren said what they were all thinking: <em>It might be her tree. And Selma's drugging the whole town. We talk to the apothecary after.</em></p>
+
+<p>They did not talk to the apothecary after. The hunt took the day.</p>
+<div class="aside"><span class="t">What the narrator knows</span><p>This is the morning the party made up its mind about Greenrest, and it is worth being exact about what it was made up from: a label on a vial, a gravedigger's childhood memory, four guards on a tree, and one night of bad dreams. From those four facts Gren produced <em>Selma's drugging the whole town</em>, and the theory never really left the table. Every one of those facts was true; the conclusion was not, which is the ordinary way a good theory goes wrong. Selma was an honest woman brewing her grandmother's recipe; the guards were reverence and prudence; the town had no idea what it was sitting on. What the party had actually found was a village that <em>did not dream</em> in a valley that gave strangers nightmares — a strangeness in plain sight, and an innocent one. They read a conspiracy into an absence, as anyone might. Warin's whisper — <em>I don't want to bother Oswin with such things</em> — was never followed up at the barracks; it was only the constable's embarrassment about fifty men who could not leave the town, but that, too, would have been worth hearing him say.</p></div>
+
+<h3>The Kestrels' camp</h3>
+
+<p>Warin's line ran south-east to a ruined temple in the woods: a cold firepit, corpses, a chest, a debris pile — the Kestrel Company's last camp. Jetten's eyes picked the first displacer beast out of the fog at a hundred and thirty-five feet, prowling, watching, waiting for them to move. His opening shot slid off the thing's shimmer as if it had never been there, and it howled, and two more came, and then the alpha.</p>
+
+<p>The first round was an education. The beasts stood a step to one side of where they appeared to stand; their tentacles reached further than anyone expected; Gren's thunder washed over them and did nothing at all; even Jetten's faerie fire, the textbook answer, found one beast that shrugged it off. A tentacle crit put Thomas at three hit points and broke his blessing. Jetten was mauled and dropped, and Gren's quiet cure put him back on his feet. Morgash dashed the courtyard, ate the alpha's rends, drank three potions, hit the floor and refused it — his orcish blood stood him up at one hit point — and then killed the first beast with a backswing.</p>
+
+<figure><img src="img/s3-lantern.jpg" alt="Thomas unhoods the Lantern of Revealing"><figcaption>The answer came out of Thomas's memory of old books, and out of the ettercap temple's loot: the Lantern of Revealing. In its light the beasts shrieked and raged, and their displacement burned away.</figcaption></figure>
+
+<p>Then Thomas remembered the lantern. Unhooded, its clear light filled thirty feet, and inside that circle the beasts' after-images tore off them like smoke — they shrieked and raged and, being clever animals, immediately learned the rule and skirmished at the edge of the glow. Thomas swore a vow of enmity, laid a bane on one that could not shake it, and when he hit the second beast with a thunderous smite that hurled it ten feet backward, Morgash's opportunity strike killed it in the air. Gren was the artillery and the medic both, wand and spell and unerring dart all night, because a thing that cannot be seen cannot dodge magic that does not miss. Jetten marked target after target and landed a dagger strike so perfect it went in to the hilt. And the alpha died on Thomas's turn — First Light through the chest, Lathander's light exploding out of its back. Leaderless, the last beast fled into the forest and was never seen again.</p>
+
+<p>The camp held two caches. A crate stamped <em>Full Larder</em> — jars of Greenrest preserves, healing potions, a silver locket with a kestrel on it, a charcoal sketch of a weeping woman, a journal in the chronicler Marn Tillery's hand, and Sera Vantree's map of the four ruins. And the company's own gear in a brush pile: Sera's bow, a maul that never stopped moving, a pearl of power Gren had wanted and could not afford in Wend's shop that morning (<em>glad I didn't buy it</em>), and a suit of plate armour with claw-rents through the breast that had belonged to a shield-bearer named Brakk. They walked back to Greenrest for a safe night, and at the table that night they chose: the caves. The one the townsfolk had pointed the Kestrels toward.</p>
+
+<div class="aside"><span class="t">What the narrator knows</span><p>The pack had come through a thin place at the ruined fey temple deep in the woods — the very shrine the party had cleaned the webs out of. The town had known about it all along; Warin's scouts had tracked it for years, and even Pip had watched it from the hill and counted too many legs. Knowing was all Greenrest could ever do about it. When the party killed it, the welcome, already warm, became open gratitude, and the party became the heroes of the valley. It was the high-water mark. The rest of the campaign would fall from it.</p></div>
+</section>
+
+<section class="chapter">
+<h2><span class="kicker">Chapter IV</span>The Heart Under the Hill</h2>
+
+<p class="first">They never went back to town first. From the Kestrels' camp they read Marn's journal again — <em>It is no shrine. It is a catacomb, cut deep under the hill, the dead laid in rows in the walls. And they did not stay in them</em> — and Morgash made the argument that carried: the Kestrels never got past the dead, so the relic was probably still in there, and this time they knew exactly what was waiting. Thomas said aloud that the shrine was the farthest of the four from Greenrest and that he was nervous about the hags and the temple of Shar. They slept at the camp and went down the shrine road in the morning.</p>
+
+<p>A minaret stuck out of the forest floor with a stair going down inside it. Gren asked a squirrel about it first. <em>No, I don't go down there. That's not where the food is. Weird sounds, weird noises. We don't go down there.</em> He fed it more rations than it could carry anyway and asked it to come and find him if it saw bad guys. <em>That was useless,</em> he said afterward. <em>They never give you any information.</em> Then Gren lit the sun on Thomas's shield, and they went down the spiral.</p>
+
+<p>A statue of living rock at the bottom, robed, taller than a person, worn past recognition — no face, no hands — with an offering basin at its feet. A skeleton impaled on floor spikes that were not part of the original stone. Thomas read the place with a scholar's eye and found nothing he knew: no holy symbol, no scripture, no iconography of any living faith. Five hundred years old and not a scratch on it. The chisel-work was wrong for any tool still in use, far too many small strokes — <em>the work of people with nothing but time</em>. Whoever cut this had not been following a tradition. They were making it up. And the basin had never held an offering. Whoever built it had never brought anything to it.</p>
+
+<h3>The Hollowing</h3>
+
+<p>The catacombs were two doors into the same crypt, and skeletons came out of the first one. They were nothing. Morgash's maul shattered one on the riposte; Jetten's arrow exploded another into pieces. They opened every coffin in the walls afterward and every one was empty, and Gren said a prayer over each.</p>
+
+<p>Behind the next door stood a dead man in the centre of a room of zombies, who pointed his sword and said <em>You will join us.</em> His name had been Aldous, and half a year ago he had been a Kestrel; the locket was still at his throat. He closed through Jetten's entangling vines, hit Morgash with a sword too cold to touch, reached out his fingers — <em>Join me</em> — and drew something out of him. Morgash felt the wound close. Something underneath it did not.</p>
+
+<p>That was the whole of the Hollow's design in a sentence, and the table understood it at once. Every drained hit left permanently less of a person until they got out and slept in a real bed, and there is no real bed in a tomb. Grief, made into a rule. Thomas killed Aldous with First Light and then stood over the body reading Marn's journal in his head — <em>Aldous's wounds closed, but he did not mend. Edda would not leave him</em> — the same words the dungeon had just used for Morgash. He said out loud that he was afraid of having an orc that turned into a wight. He was wrong about the mechanism, as it happens, and nobody ever corrected him, because the fear drove the right decisions.</p>
+
+<p>The talk of undying things drew a thing out of Gren. He showed the others the acorn his elders had pressed into his hand the day they sent him north: from the heart-oak of his warren, still green after all these years, to be planted when he found the place he belonged. <em>I still have not found the place where I belong.</em></p>
+
+<h3>Osric, the Keeper</h3>
+
+<p>The doors opened on a long pillared hall, a platform in the dark at the far end, two more wights, a crowd of skeletons, and a wight on a throne who beckoned them forward. Gren asked if they should come in and parley. <em>Come in.</em> Jetten asked what he had done with Edda. <em>She's here. She's with us. She's happier.</em> Thomas asked why they should not simply destroy him here and now, and Osric, who had managed courteous for five hundred years and did not suffer insolence, told him: <em>I thought you would be interesting, but your insolence irritates me. You will not make a suitable wight. You'll make an excellent zombie.</em></p>
+
+<p>Edda, the caster Marn's journal had promised, froze Jetten where he stood with a word. Morgash closed on her, missed, refused the miss, knocked her flat, and then hit her so hard that the spell broke in her mouth and Jetten was free — the best sequence of the night. Osric worked him over for it, drain after drain, until there was two-thirds of an orc left standing. Then Gren opened the driftglobe the party had carried since the first cave and let it burn as daylight, and the whole room lit, and Osric and Edda shrieked and recoiled from it, and every swing they took for the rest of the fight was made at a disadvantage. A skeletal mage answered cleverly with a sphere of darkness over the globe, and Gren spent his next turn simply carrying the one-pound thing out of the dark by hand. Edda tried to command Morgash and he shook it off, and the maul that had broken her spell broke her too. Thomas held his bane through every drained hit, found a perfect seam in Osric's guard, and when it was time, asked for exactly what he wanted: <em>I don't like this guy. I'm going to chop his head off.</em> The wight's head went up, came down, and rolled down the stairs.</p>
+
+<blockquote><p>"Not so cocky now, are you, Osric." — "You should have talked to us, Osric." — "I hate Osric."</p></blockquote>
+
+<h3>Hesper, the Mortician</h3>
+
+<figure><img src="img/s4-hesper.jpg" alt="Hesper lays her head on the slab"><figcaption>"I am Hesper. I will answer plainly. No riddles, no bargaining. To be honest, I haven't talked to anyone in a very long time. What is your question?"</figcaption></figure>
+
+<p>Through the east doors: a wight on a dais between two zombies, who looked up and did not fight. She saw the blood on them and knew where it was from. <em>That means Osric is finally dead, or you would not be standing in that doorway. He was very old and very tired. I hope he was courteous with you.</em></p>
+
+<p>She told them the origin of everything, in her own words. Three hundred, four hundred, five hundred years ago, she and Osric and Cadoc had been treasure hunters. They found a glowing shard in a cave — <em>warm, beating, the size of two cupped hands</em> — and could not put it down. They brought it here to keep it safe. In time their greed became undeath. They cut the stair so no one else could take it. They cut every way in they knew. And so they stood with the Graveheart, lonely, but it gave them life, and it waited, guarded by Cadoc, for the next body to be prepared as a wight to keep them company. <em>But I'm tired. I don't want to do this anymore.</em></p>
+
+<p>Cadoc, she said, would not speak to them as she did. He was the one closest to it, the one most inured with it; he would only try to kill them. There was no bargaining with Cadoc. The zombies would not hurt them, and would die with her. Morgash asked whether she could undo what the drain had done, and she could not. She told them to take what was in her chest — a bone key for the locked west doors, and a draught of wholeness, the one cure in the world for what the Hollow took — <em>I have no use for either anymore. I'm sure you will need them both.</em> Gren asked how she would like it done. She walked up to the slab and laid her head on it. When it was over both zombies collapsed where they stood, in the same moment, like cut strings.</p>
+
+<div class="aside"><span class="t">What the narrator knows</span><p>Hesper had just killed the party's favourite theory without any of them noticing. They had suspected, since the tonic and the guards on the tree, that Greenrest was behind the dead under the hill. Hesper had dated herself at three to five centuries; the village was younger than that; and had anyone said the word "Greenrest" to her, she would have answered, honestly, <em>I don't know that word.</em> Nobody asked. The kill-shot never fired. The three treasure hunters had never learned what the shard was, either: there is no image of the Dreamer anywhere in the shrine, no name, no story. Everything they carved, they invented, and it was worn past recognition before the town above them was founded.</p></div>
+
+<div class="aside"><span class="t">What the narrator knows</span><p>Hesper was also the first person in the campaign to say the shard's four beats — <em>warm, beating, the size of two cupped hands</em> — and nobody at the altar an hour later thought to connect <em>three greedy treasure-hunters found one warm beating shard</em> with <em>there are three more out there</em>. The Graveheart's own description said it: one chamber of a heart, and a heart has four. It waited in the description for anyone to read closely, and the four ruins stayed a menu for another two sessions before they became a countdown.</p></div>
+<p>Morgash drank the draught, and all the hit points that had not come back came back, and the darkness went out of him. Gren's memory of temple lore offered the rest of them a cure, mostly right: a real bed, not a dungeon floor, would close the drained maximums. <em>Let's charge in,</em> Gren said, <em>because it's time. The clock is ticking.</em></p>
+
+<h3>Cadoc, and the Graveheart</h3>
+
+<p>The west doors, unlocked with Hesper's key, opened on a hooded figure with a scythe wreathed in black fire, a ritual altar, a heap of skeletons with lit eyes — and, mounted in a container on the altar, a large crystalline heart.</p>
+
+<p>Cadoc shot Thomas across the chamber and reached out with the black fire and took sixteen hit points off his ceiling in one touch. Morgash was the engine: closed, refused a miss, knocked the guardian flat, surged, hit twice more. Thomas kept Cadoc's guard sapped and spent his last spell on a smite that burned with an extra die for the undead. Gren, out of his best options, threw bolts of guiding light. The skeletal mage was a menace to the end — darkness again, an ice knife, a volley of missiles that put Morgash on the floor, where his orcish blood stood him back up at one hit point for the second time in two days. The kill came the way the best kills do: Cadoc swung his scythe at Morgash and missed so badly that Morgash's riposte was already coming back, and then the Maul of Momentum came down. <em>The maul crushes his skull.</em></p>
+
+<figure><img src="img/s4-graveheart.jpg" alt="Jetten lifts the Graveheart"><figcaption>Jetten took it, and saw the woman from their dreams close her hands over her chest, and her heart burst.</figcaption></figure>
+
+<p>Jetten took the Graveheart, and the vision fired. A beautiful green woman, glowing, white leaves crowning her head. Crying. As she sobbed she closed her hands over her chest and her heart burst; the pieces scattered into the dark, hardening as they flew; the burst drove the mists back from where she stood in a great ring, baring a green valley beside a beautiful lake. Where she had stood, a tree — grey, lifeless, asleep. A single faint heartbeat, and it was over.</p>
+
+<p>Nobody said the word Greenrest out loud. The grey tree in the vision was the grey tree in the square, and every one of them knew it. They stood in the Hollow's heart, battered, three of the four of them permanently less than they had been that morning, with the first shard of the Broken Heart in their hands and no idea yet that a heart has four chambers.</p>
+</section>
+
+<section class="part">
+  <div class="n">Part Three</div>
+  <h1>The Count</h1>
+  <div class="sub">In which the tree in the square begins to wake, the dreams begin to tell the truth, and a village that never wept starts to dream again.</div>
+</section>
+
+<section class="chapter">
+<h2><span class="kicker">Chapter V</span>The Long Rest</h2>
+
+<p class="first">They walked out of the Hollow into a silence that told them the place was spent. Thomas could not carry his own shield; the party carried it, and Morgash found him a stick for a cane. Jetten made a proper map of the way home, so perfect he could have sold it, and they came to the edge of Greenrest at dusk without a single wrong turn. Warin's scout waved them in as heroes. Word of the displacer pack had spread. Ambrose fed them and would not take coin.</p>
+
+<figure><img src="img/s5-healer.jpg" alt="The healer and the holly"><figcaption>A healer was sent for. She waved holly over Thomas, prayed to Chauntea, and rubbed herbs on his face, and nothing whatever happened.</figcaption></figure>
+
+<p>A healer was sent for Thomas. She waved holly, prayed to Chauntea, rubbed healing herbs on his grey face — and nothing happened, nothing at all. She suggested the church infirmary. It was the first time the party had seen it plainly: no divine magic answers in Greenrest. They put that down to a bad healer.</p>
+
+<div class="aside"><span class="t">What the narrator knows</span><p>There has never been a cleric in Greenrest. No child of the valley has ever knelt and received the Weave. The only cure in town is Selma's — pure herbal alchemy, no god's grace in it, unusually potent because the valley's soil grows healing herbs as impossibly as it grows everything else. Every flask she sells is the Dreamer's gift wearing the Earthmother's name. So is every harvest. So is the tonic.</p></div>
+
+<h3>The first dream</h3>
+
+<p>That night, in real beds, all four of them dreamed together for the first time — one dream, one place, all four of them standing in it. A summer hillside. A raven-haired stranger laughing. A feeling of being adored that was not theirs. She was there and did not see them; when she drifted near and reached out it was <em>through</em> them, at someone else, and she called that someone Corin. <em>Stay this time,</em> she said to the hillside. <em>Stay, and I'll make it summer for you forever.</em> Jetten's moonstone glowed green inside the dream. In the morning the drained maximums had closed and Thomas could nearly stand without the stick.</p>
+
+<p>Over breakfast they interrogated Ambrose, who answered like a man explaining the weather: the tonic was taken weekly like medicine, since childhood; a dead dryad haunted their dreams; Selma brewed it; it had been that way for generations. Thomas faked a relapse, slipped upstairs, and tested the tonic and the food for poison and disease. Both were clean.</p>
+
+<h3>The town day</h3>
+
+<p>They spent the recovery days working the town, and the town answered them the way an honest town does.</p>
+
+<p><b>Selma</b> showed them her wares and explained the recipe — berries, strained apple, a secret garden herb; <em>perfectly harmless, it just stops you dreaming</em> — inherited from the apothecary before her, twenty or thirty years back. The dryad was just "the dreamer." Gren read her carefully and found her honest. They told her the Kestrels' fate, and she opened the silver locket from the camp and found a letter Marn had never sent — <em>four old places… the prize lies in exactly one… the shrine wasn't a shrine. A graveyard</em> — and a house by the tannery in Daggerford where a woman named Tess was waiting for news. Selma promised to have the bodies seen to.</p>
+
+<p><b>Gully</b> the smith repaired Brakk's claw-rent plate overnight in trade for two of the cold black swords from the Hollow, because he wanted to study them. When the plate came back there was a roll-off for it; Morgash and Thomas both rolled abysmally, and Gren, who could not even wear it, rolled high and declared that neither of them deserved it. Thomas took it.</p>
+
+<p><b>Mother Wend</b> sold them kit and told them the valley's story as the valley told it: settled around the tree in a fogless valley, endless summer, fruit four times a year, two years of militia service for everyone, and one demographic tell — no elves or gnomes ever stayed; fey-born never seemed to trust the place. One dwarf had, generations back. That was her.</p>
+
+<p>At <b>the church</b>, Thomas walked the nave with the eye of a man who had grown up in one and found that even the original stonework was all fruits and farming — built for Chauntea by people who did not understand her ways, a grand cathedral for a humble harvest goddess. Acolyte Enid admitted, when asked, that the goddess had never answered a single one of her prayers with a spell. She looked around at the gilded luxury and said <em>I didn't choose this,</em> and showed them the basement on prodding, which held nothing worse than gilded farm tools. In the graveyard a contented mourner told them she'd taken the tonic since she was a girl. People in Greenrest, Morgash observed, all said almost the same thing.</p>
+
+<div class="aside"><span class="t">What the narrator knows</span><p>The church was a clue in stone and the party walked right through it. The relief over the door — a winged, blossoming figure the locals call Chauntea — carries none of the Earthmother's signs: no sheaf, no sun, no rose. It is the Green Lady wearing the Earthmother's name. Grove and fey trappings everywhere, too many, wrong for the goddess. The grandeur is gratitude architecture, raised over generations out of the overflow of a sleeping fey's grief — a building full of worship and empty of divinity. Enid was the purest believer in the wrongest faith, and the silence she had never noticed was a refusal.</p></div>
+
+<p><b>Coll</b> complained he had no work, and admitted that he sometimes skipped his tonic, got the dreams, and went back on it. Gren asked him to skip it again and talk next time. He lit up at the job of taking scouts out for the displacer carcasses and the two lockets on the wights' bodies: <em>Finally, something to do.</em> <b>Pip</b> reported, in passing, the session's sharpest clue, delivered by a child: Selma was nervous and unhappy that the tree was growing.</p>
+
+<p>And <b>Oswin</b>, at his tower, gave them the mayor's-line history and a confession: he and Selma both privately believed the valley's bounty was the dryad's, not Chauntea's — <em>that cleric has never cast a real divine spell in my life</em>. Shown the charcoal sketch of the weeping woman from the Kestrels' crate, he knew her at once, from his own childhood dreams. <em>That's her. That's the dryad.</em> Then he walked them out to the square, and there were buds on the tree. The first new growth in the town's living memory. Double heroes, he called them.</p>
+
+<div class="aside"><span class="t">What the narrator knows</span><p>The town day was the party's best chance to test its theory, and the day the theory tested them instead. Gren read Selma with an honest man's insight and found her honest — and the company, understandably, trusted the roll a little less than they trusted their suspicion. Nobody followed the name <em>Corin</em>, which the dryad had now said aloud to them twice; the dreams would explain it for them soon enough. And Jetten's moonstone had now glowed in two dreams, and he had not asked anyone about it, which is an elf's way. It is the trap suspicion sets for everyone: a party wary of the whole town was, that day, curious about none of it in particular.</p></div>
+<p>Jetten walked past the tree with the Graveheart in his pouch, and it beat harder the closer he came, and softer walking away. They said it out loud to each other afterward. The shard and the tree were one thing.</p>
+
+<p>The second night the dream came again, the same hillside, the same greeting — <em>Corin? Stay this time.</em> And this time Jetten did something nobody had scripted. He held out the Graveheart. Her eyes widened. And the dream cut.</p>
+
+<div class="aside"><span class="t">What the narrator knows</span><p>In a thousand years of dreaming that was the one moment the dream looked back: not her recognising them — she would not see them for three more shards — but her heart recognising a piece of itself. The party would not understand what they had done until the fourth dream, when she said <em>you've been here, in the summer, at the fog, at the breaking. I thought you were memories I hadn't met yet.</em></p></div>
+
+<h3>Longshadow</h3>
+
+<p>They chose the Widow Fen for the second site, because it was closest and Thomas's worry about the hags had faded, and they bought antitoxins because the dragon was for later. On the road out a man-shaped shadow crossed the ground with nothing above it to cast it, and the squirrels, when Gren asked, gave him the name: <em>Longshadow. Flying stag. Feeds on people. Time to hide.</em></p>
+
+<figure><img src="img/s5-longshadow.jpg" alt="Longshadow at the temple ruins"><figcaption>Morgash met the flying stag at the top of its stoop with the Maul of Momentum and killed it in one swing. The squirrels were told immediately.</figcaption></figure>
+
+<p>Longshadow and two lesser perytons came down on them at the old temple ruin. Jetten spent the fight as the flock's favourite meal and lost his concentration twice to their talons; Gren's fire found them twice in the perfect place and the dice mocked him for it; Thomas learned his new plate turned every claw that came at it, and killed the last one on First Light. And Morgash, the moment Longshadow stooped into reach, swung the maul once and killed it in the air — and then, in two turns, gave a complete demonstration of everything a Battle Master is for, and killed the second peryton too.</p>
+
+<p>Gren gave a feather to a squirrel as proof and launched a forest-wide campaign of information. <em>Gren the Mighty has slain Longshadow!</em> Six squirrels came back bearing acorns in tribute. This was not a joke. It would matter.</p>
+</section>
+
+<section class="chapter">
+<h2><span class="kicker">Chapter VI</span>The Widow Fen</h2>
+
+<p class="first">Thomas called a steed out of the fey and rode a thing that was part plant and part horse north-east from the ruin. The ground softened, the muck-smell rose, and the forest gave up at the edge of open black water. Out in the fog stood a great tree with cabins and rope bridges in its crown, lights burning.</p>
+
+<figure><img src="img/s6-fen-first-sight.jpg" alt="The Widow Fen"><figcaption>The Widow Fen, where the forest's edge drowns away toward the moors, and a coven of two hags had made a shard of pure heartbreak into an ingredient.</figcaption></figure>
+
+<p>Morgash read the bullywugs before they read him: fey-born half-frogs, normally keeping to their own society, but these had a purplish-red glow behind the eyes that was not natural. Enthralled. Jetten nocked an arrow.</p>
+
+<figure><img src="img/s6-acid-sphere.jpg" alt="The acid sphere"><figcaption>One spell nearly ended the campaign. All four of them failed to get clear of it; the sage's own warrior died in it; and it kept burning.</figcaption></figure>
+
+<p>The first fight in the swamp almost ended everything. A bullywug bog sage leapt into range and dropped a sphere of acid over all four of them, and all four of them failed to get clear — Gren burned his luck on a second try and failed again. The sage killed one of its own warriors in the blast and hopped up and down, delighted with itself. Then the acid burned on, and Thomas and Jetten both went down. Jetten came back on his own healing word and put Thomas up; Gren's magic missiles killed the sage and he healed Thomas up off the floor again; Morgash carried the melee alone, knocking bullywugs flat with the maul while the others found their feet. When it was over the sage had done six times the damage of its four warriors put together. Jetten produced the trick of the night — a rope into a pocket of nowhere, and the whole party climbed up into it to rest where nothing could follow.</p>
+
+<p>The treetop village was five short fights and one long revelation. Bullywugs on the bridges. Animated brooms, a flying sword, two rugs that tried to smother — the party took six points of damage across all five combats, and Gren, who had whiffed three fights running, snapped the flying sword in half with a critical burst. The rooms were the weight.</p>
+
+<p><b>The Widows' Ledger.</b> Thomas knew the cipher on sight; he had copied it a hundred times in Daggerford. A bill-of-lading book for the delivery of body parts, with a drop-stone marked on the moor path they had walked past that afternoon. The entries stopped six months back — right around when his family died. He said it out loud: <em>This is exactly why I'm on this quest.</em></p>
+
+<p><b>The Sisters' Notes</b>, read aloud by Jetten, reframed the campaign: <em>The heart is broken in four. RED — the barrow. BLUE — ours, below. GREEN, BLACK — not yet found. The dryad sleeps in the great tree on Greenrest's square. The heart is hers. Whole, it beats four times. One beat brings back our sister. Propose partnership. Do not fight.</em> The hags knew they were coming, and the hags knew everything.</p>
+
+<p><b>The grief-jars.</b> Mourner's Teeth. Widow's Tears. A Mother's Little Finger. Thomas stared at the last one — <em>how is that not my wife's finger in the jar?</em> — and Gren checked the teeth and told him, flatly and kindly, that they were adult teeth. Nothing of his children's.</p>
+
+<p><b>The sketches.</b> Dozens of pages of the same hard-jawed, sharp-eyed woman with a greatsword, and on the back: <em>HER. The one who took our sister. Do not let us forget her face.</em> Morgash knew Lae'zel instantly. She had told him once, at a riverside teahouse outside Baldur's Gate, about killing a hag. In an oilcloth wrapped and rewrapped until the folds went soft was a pressed flower and a little carved sign, ALL WELCOME, from that teahouse. Morgash learned that the hags had been drawing his lost love's face for years, and said: <em>That woman was awesome.</em></p>
+
+<h3>The parlour</h3>
+
+<figure><img src="img/s6-hag-parlor.jpg" alt="The hags' parlour"><figcaption>Candlelight where there should be none; a wall of jars floor to ceiling; a table set for three with the tea still steaming; and a little girl in a cage with a finger to her lips.</figcaption></figure>
+
+<p>Down the hollow trunk, past the waterline, was a parlour. Jetten picked the cage's lock with his dagger and the little girl — "Masie" — thanked them, said she had been taken, and started asking questions. How many of you are there? They said you were bringing a stone; do you have the stone? What are your names? Gren read her as wrong. Morgash broke it: the girl walked up and started <em>smelling</em> him, said <em>I smell Lae'zel on you</em>, and he swung, and his hand went straight through her. The illusion dropped and two hags stepped out of the dark.</p>
+
+<p>The offer was made plainly. <em>Not only did she kill our sister — she killed your heart too.</em> Help us gather the Heart; one beat wakes Ethel; the other three are yours. <em>Resurrect the world for all we care. We just need our sister.</em> And for Thomas, the hook with the barb in it: they knew who had supplied them from Daggerford. <em>I don't care about your family. But I know who did it — the same ones who bring us the body parts.</em> Thomas wanted the deal. The price the hags wanted was an unbreakable bond, death for the one who failed; Thomas offered a paladin's oath instead, and Hazel told him what she thought of it: <em>The oath of a vengeance paladin means nothing to me.</em> Jetten refused outright. Gren pushed for something free and got nothing. Hazel called it. <em>These aren't going to bargain with us. Let's kill them, sister, and be done with this.</em></p>
+
+<p>It was not close. Gren looked Hazel in the eye — <em>I did not forget any of my spells</em> — and dropped a fireball into the room so carefully shaped that it burned every animated thing in it and none of his friends. Morgash caught Mabel with a stroke that found the perfect seam, knocked her down twice, and when she blinked away told her <em>no matter where you go, I'm going to find you.</em> Thomas broke Hazel's hex with a smite. Jetten's arrow killed Mabel. Hazel, bloodied and on her knees, was offered surrender, and spat. <em>You just killed my sister. Do you think I'm going to make any deal with you? I'd rather die.</em> Gren tried to hold her for questioning and she shook it off. Morgash asked if he could take her alive, and she looked up at him and said <em>Do it. I have nothing to live for.</em> He smashed her skull, and a blue stone rolled out of her hand as she fell.</p>
+
+<figure><img src="img/s6-hazel.jpg" alt="Hazel would rather die"><figcaption>"You just killed my sister. Do you think I'm going to make any deal with you? I'd rather die."</figcaption></figure>
+<p>The Tideheart showed whoever lifted it the same vision the Graveheart had: the dryad weeping, her heart bursting, the mists driven back. Two of four.</p>
+
+<div class="aside"><span class="t">What the narrator knows</span><p>The drop-stone was marked on the moor path the party had walked past that afternoon. Nobody went back to it. The fen had a lower room whose jar was labelled <em>ours</em> and was never found; an annotated copy of Volo's Guide was looted and never opened. And the name Thomas had crossed the Misty Forest for was in that parlour, in two heads, and the party let the parley collapse into a fight inside three exchanges. The hags had asked for a bond; Thomas had offered an oath; Jetten had refused; and Hazel drew the only conclusion she could. It was a good fight, and a fair one to pick. It was also the moment the campaign's one purchasable truth walked out of reach — though Thomas would find the name anyway, at a shop counter, by keeping the right thing and asking the right person.</p></div>
+<p>Thomas went straight to the jar-wall. Sources, prices, dates, years of them, all in the same hand as the ledger upstairs. Every Daggerford shipment accounted for. These two had been the buyers. And nowhere on that wall was the name of the man who sold. In a cage of packed straw in the corner lay a child's skeleton with MASIE scratched on the chest; the real one had died a long time ago. Among the tea-table loot they kept back one thing from sale: a gilt-framed portrait of a merchant nobody recognised. Jetten thought someone in town might.</p>
+
+<div class="aside"><span class="t">What the narrator knows</span><p>The hags had been the one place in the campaign where the truth could be bought instead of dreamed, and they had died with most of it unsaid. Ethel, their sister, had died near Baldur's Gate at Lae'zel's hand. The partnership they proposed was the first read on who at the table would be tempted to keep the Heart, and Thomas's eyes had gone up. Nobody, hag or hunter, knew what became of Corin past the fog. Nobody ever will.</p></div>
+</section>
+
+<section class="chapter">
+<h2><span class="kicker">Chapter VII</span>The Temple of Shar</h2>
+
+<p class="first">They came home to Greenrest at nightfall with the shops shut and took the inn. Gren claimed a human-sized bed to himself and scattered caltrops in front of the door in case of Pip. And in real beds, with two shards in the house, they dreamed the Summer.</p>
+
+<p>All four of them on the same hillside, high summer, the valley in bloom. A blonde woman under the great tree and a raven-haired man walking up to meet her; the valley bloomed harder every time he smiled. Then a season-montage — never quite winter — with more silver in his hair each visit and none in hers, until the two of them sat under the tree with his silver head on her shoulder, neither smiling, both knowing, and she said it: <em>Stay. I will make it summer for you forever. Be as I am. Never end.</em> Jetten's moonstone glowed as he went into trance. In the morning Jetten's woodcraft put the last piece in: dryads are fey who loved mortals. The dreamer under the tree was the dryad, and this dream was not her grief. It was her offer.</p>
+
+<p>Ambrose met them in the common room to say nobody was eating; everybody was outside. The tree had budded overnight — hundreds of buds and one blossom already open — and a town that had never in living memory seen it bloom stood around it calling it a miracle. The four of them knew it was a count. Gren walked the Tideheart toward the trunk and felt it beat harder, and quieter walking away.</p>
+
+<h3>Breakfast with the mayor</h3>
+
+<p>Oswin took them to a small restaurant off the square for eggs and asked it plain. <em>For fifteen years I never once had to think about that tree. Now it's all anyone talks about. What is it you keep bringing back to our home?</em></p>
+
+<p>It went badly first. Gren pushed on the dryad and on Chauntea's silence; Thomas opened the body-parts trade and got a flat denial — <em>not in this town, sir, not without my knowledge</em>; and the mayor listed the free room and board and the eggs nobody had paid for, and stood up to leave, genuinely angry. <em>It baffles me that you don't trust us when we've done nothing but give our open arms to you.</em> Morgash saved it. He gave the mayor the honest, non-secret version: that beyond the town's edge, where Greenrest doesn't go, there had been evil things, and all the party had been doing was clearing them out so the town could prosper, and the tree had started to recover as they did it. Oswin took that, thanked him for finally being honest, and went off to his tower to think. The hearts stayed unmentioned by vote. Thomas got one more thing out of him before he went: the mayor agreed to skip his next dose of the tonic and compare dreams.</p>
+
+<p>Selma did not like any of it. The town had not dreamed in generations; children started the potion at six; this morning was the first time in her life anyone had reported a dream, and her response was to try to make the potion stronger.</p>
+
+<p>Mother Wend was where the session turned. Shown the gilt-framed portrait, she knew the sitter at once — the green waistcoat, the gold signet ring he liked to show off — and checked her ledgers. <em>Renlow Veck.</em> Came through every couple of months, always paid, took the Fen Trail out with sealed boxes and came back without them. Last seen about six months ago, heading home to Daggerford. Gren read the brass plate on the frame aloud — <em>a gift, with gratitude, for my best customers</em> — and Wend, who had assumed the boxes were apples, was appalled. Her dates and the Widows' Ledger matched to the day. Morgash, with a look that would have made a watchman kneel, secured the arrangement: if Veck ever came back, Wend would delay him and send for the constable.</p>
+
+<p>Thomas said it aloud, at the table, for the first time: <em>I know who was responsible for my family's assassination.</em></p>
+
+<h3>The Iris</h3>
+
+<figure><img src="img/s7-iris.jpg" alt="The Iris at dawn"><figcaption>A great ring of pale stone in an old meadow, four hooded faces watching inward, and at the centre a shut stone eye. A squirrel named Pudgy explained the people in purple robes.</figcaption></figure>
+
+<p>A day's march north, a dreamless camp, and on the second morning: a ring of pale stone in an old meadow, broad steps up from the south, four hooded statues watching inward, and at the centre a disc of stone cut in curved petals meeting at a point, like a shut eye. No door. Nobody to meet them. Stairs cutting down under the stone on the far side. Gren asked the local squirrel, a round one named Pudgy, who reported people in purple robes who lived down the stairs and mostly came out at night, and left a hero-worshipper with a nut. Morgash found no footprints on the stone, and no cobwebs either.</p>
+
+<p>Harrow Vane came up the stair to meet them, and was not surprised. He opened with Thomas's full name and his dead wife's. <em>Thomas Invictus of Daggerford. Ann's husband. You'll forgive me — we've followed you and your work for some time.</em> The pitch came in pieces, and every piece was true. Thomas's power did not come from Lathander; he was an Oath of Vengeance paladin, it came from the oath, and the oath was built out of what had been taken from him. Shar is the Lady of Loss. Thomas had lost, and turned it into power, and that is rare and valuable. <em>We're not asking you to be a supplicant. We're asking you to be a leader. We want you to be a Justiciar of Shar.</em> Yes, they had a piece of the heart — the Duskheart — and yes, it could be part of the bargain. And they had Renlow Veck. <em>He's for you, Thomas.</em></p>
+
+<div class="aside"><span class="t">What the narrator knows</span><p>The Sharrans had had nothing to do with the murders, and said so, and it was true. They had taken Veck within weeks of them, for reasons of their own — which is why the Widows' Ledger stopped: the supplier had been removed. Every cultist in the building had come to Shar the same way, from inside a pain, and been offered oblivion as mercy, and taken it gratefully. And the temple was the campaign's rehearsal for its own ending. It was the one ruin where the party would kill people — mortals with names and reasons, nobody raised or charmed into it, all certain they were right. Whatever the party did here, they would be asked to do again in a village square.</p></div>
+
+<h3>The cell</h3>
+
+<figure><img src="img/s7-morgash-holds.jpg" alt="Morgash holds Thomas back"><figcaption>"He is no friend. He deserves to die, but not here, not now. I told you when I met you that I will be with you, and I will help you get justice."</figcaption></figure>
+
+<p>Veck was bare-chested, wrists bolted to the rock, ragged trousers, the gold signet ring still on his right hand. He started apologising before anyone spoke. Thomas gave his voice thunder and asked why. The confession came out unprompted and complete. It had started with selling names — widows, people with nobody left to come asking. It was only ever money. Then a scribe in the ledger office started pulling threads and would not stop, and Veck went to that scribe's house to frighten him. It went wrong. <em>I know I killed your family,</em> he said, out loud, to the family's husband.</p>
+
+<p>From the doorway, Harrow: <em>That's it, Thomas. Become vengeance. This is what you were meant to do.</em></p>
+
+<p>Morgash stopped him. Bodily — arms locked around the paladin's chest, feet planted, Jetten helping — and with an argument better than the grapple. <em>You are going to allow this guy that you just met, that knew everything you have been going through and never came to help you a single time — now he wants something from you. He is no friend. He deserves to die, but not here, not now. I told you when I met you that I will be with you, and I will help you get justice.</em> Jetten worked the other side: there was more to this than met the eye; Harrow Vane wanted something in return; and this would not bring the family back. Thomas's rage carried him through the hold, and the ogre-strength in his gauntlets broke Morgash's grip.</p>
+
+<p><em>Out of honour, I have to kill this guy. End of story.</em></p>
+
+<figure><img src="img/s7-midnight.jpg" alt="First Light becomes Midnight"><figcaption>The sword did not flare. The warmth went out of it, as if the god himself slunk away — and then the rose-gold ran to ink.</figcaption></figure>
+
+<p>He drove First Light into Veck's chest, and Morgash said, twice, <em>you will regret this</em>. The sword did not flare. The warmth went out of it. The vision of the Lathander paladin he had seen the night he first held it was simply gone — as if the god himself slunk away from him. The rose-gold ran to ink; the blade drank the candlelight and came back black, crackling with a purple light, and it announced its new name: <em>Midnight</em>.</p>
+
+<p>Then Shar took her payment. He reached for his own first name in memory and there was nothing there, and it did not trouble him, because why would it. He was Justiciar Invictus. Asked about it later that night — <em>I don't know what you're talking about. My name's always been Justiciar.</em></p>
+
+<p>Harrow pulled down his robe and showed the Duskheart on a chain against his chest, and named the actual price. <em>Never join it. Never wake the sleeping archfey. The heart must never become whole.</em> Four pieces joined were four true resurrections — the wife, the children — and Shar's magic could stretch it further. All the goddess wanted in exchange was that the archfey under Greenrest, a demigoddess and an old friend of Chauntea and Selûne, stay in loss forever. <em>As long as the daughter of her allies suffers, she is happy.</em></p>
+
+<p>Invictus refused. <em>This man deserved to die, but we still have a job to do, and I can't agree to that.</em> Harrow said that in that case he could not give him the heart, and Invictus put him on the floor with a shield bash and hit him twice with the black sword, and Harrow, unimpressed — <em>did you really think this would be that easy?</em> — spoke a word and was gone. <em>I'll see you downstairs.</em></p>
+
+<div class="aside"><span class="t">What the narrator knows</span><p>Shar knew exactly whose heart was in pieces. Keeping her rivals' friend tortured in grief for eternity was the whole point; every beat of the Heart spent, and every beat stretched, was torment kept flowing. The fifth resurrection was not a kindness. It was a cruelty aimed at Selûne through Selûne's devotee's oldest friend. And the name was not erased from the world — only from him. Everyone else still knew it. Jetten still remembered a boy on a ranch.</p></div>
+
+<div class="aside"><span class="t">What the narrator knows</span><p>Nobody ever opened the Iris. The shut stone eye at the centre of the ring, and the four hooded faces watching it, were passed twice — on the way in and on the way out — with a prisoner and a priest more urgent than a carving. The Daggerford end of Veck's trade — the ledger office, whoever else had known — was left for another day. And none of the three who watched Shar take a man's name asked him afterward what it had been; they let him be Justiciar for a while, which may have been the gentler thing.</p></div>
+<h3>Downstairs</h3>
+
+<p>Before following, Morgash cut the ring finger off Veck's corpse, signet and all, to carry back to Greenrest as proof. Upstairs, three cultists stood up and did not know what to do, and Invictus, holding a black sword, told them to kneel and kiss his hand, and one of them did. <em>My Dark Justiciar. I am here to serve.</em> They would not turn on the high priest, but they let the party walk past.</p>
+
+<p>The temple floor was zealots, enforcers and acolytes, and it got ugly in the middle — a zealot's halberd put Jetten on the floor and Invictus's hands brought him back; an acolyte held Morgash rigid with a word; Gren's second careful fireball killed an acolyte and an enforcer together. The two fireballs did most of the fight. Then Harrow Vane, in the summoning circle on the lower level, was a real high priest: black bursts of necrotic power aimed at Morgash two at a time, an unholy word that stunned Jetten and broke Invictus's bane, a column of flame that put Morgash on the floor and could not keep him there. The party answered with everything they had, and Jetten finished it: Goldthorn took the high priest of Shar at the waist, and his chest fell away from his legs.</p>
+
+<p>Harrow dropped a robe that turned blades, a staff that sharpened spells, and the Duskheart — near-black purple, the light crawling under its surface — which Jetten took and attuned. Its gift was very like Shar: advantage against anything that touched the mind, and, once at dusk, the power to reach into a memory and change it. They stripped the temple of gold and velvet and star-charts with no sun on them, and Invictus bluffed them out past the guards on the entrance floor before anyone worked out what had happened below, and made the road home to Greenrest, where a scout waved them in at the town line. Three of four.</p>
+</section>
+
+<section class="chapter">
+<h2><span class="kicker">Chapter VIII</span>The Wyrmwood</h2>
+
+<p class="first">The third dream broke the whole town open. With three shards in the house, back on the hillside in the mist, the party were not alone this time: other hazy figures stood in the fog around them, watching too. The dryad and the raven-haired man were arguing, and she was losing.</p>
+
+<figure><img src="img/s8-dream-breaking.jpg" alt="The Breaking of the Heart"><figcaption>When she finally gave up, she tore her heart out and ripped it into four — red, blue, green and a blackish purple — and threw the pieces out in four directions.</figcaption></figure>
+
+<blockquote><p>"Stay — stay, and I'll make it summer for you forever. Be as I am. Never end."</p><p>"If you take the ending out of me, there's nothing left that you love. A life isn't for keeping, my dear. It's for spending. Let me go and spend mine."</p></blockquote>
+
+<p>He turned his back and went down the hill. She followed him exactly as far as a line she could not cross and watched the fog take him. Then time ran fast — real autumns, light winters, brief snow on the orchard — and every evening she waited at the fog-line for a man who never came back. When she finally gave up she tore out her heart and ripped it in four and threw the pieces to the four directions, and the shock blew the mist off the valley in a ring, all at once, and where she had stood she folded down into a tree.</p>
+
+<p>Invictus opened the morning with a confession. <em>I'm feeling like this town is deriving some major benefit from this dryad being pulled up in that tree, and I'm afraid that if we set her free it'll destroy this town. I just don't seem to have my same moral compass anymore. Maybe she deserves to be there.</em> Jetten: <em>It's not right to let her remain enslaved, Invictus.</em> Gren pointed out that it was self-inflicted, and that the man had said life is for spending. Invictus let it drop, for now.</p>
+
+<h3>The town that woke up</h3>
+
+<figure><img src="img/s8-the-breaking-game.jpg" alt="The children play The Breaking"><figcaption>In the field beside the Long Rest the children had invented a game that morning: one falls down, and four run away in four directions in red, green, blue and purple shirts. The adults were not happy about it.</figcaption></figure>
+
+<p>Oswin met them downstairs, exhausted and electrified. <em>I saw you. You were on the hill.</em> All four of them, and half the town had seen them too. The waitress had dreamed it and could not sleep — <em>it's almost like the explosion made its way into my mind.</em> Ambrose set down three glasses of orange juice with his hands shaking and walked back to the bar without a word. Invictus gave the mayor the careful version — a vision of something long ago, and the party's suspicion that it had to do with the town's endless summer — and Oswin got there on his own: <em>She was offering him eternal summer, eternal life, and he refused. It seems we might be the beneficiaries of that.</em> He asked whether they had seen those gems before, and was deflected. He would call the elders together that day. He was told, for the first time, about a temple of Shar in the forest whose acolytes were vehemently against freeing the dryad. And Morgash put the finger on the breakfast table. <em>Sir, there's children here. I appreciate what you've done, but that's pretty disgusting.</em></p>
+
+<p>Pip was outside drawing four wedges in the dirt in berry juice: red, blue, purple, green. <em>Those are the gems that I dreamed about. Everybody sees them. I haven't had dreams in so long.</em> Across the field the children were playing The Breaking.</p>
+
+<figure><img src="img/s8-selma-finger.jpg" alt="Selma and the finger"><figcaption>Morgash offered Selma "a piece of jewellery," still on the finger. She dropped it. Then she gave him a potion of superior healing on the house, and it saved Invictus's life two hours later.</figcaption></figure>
+
+<p>Selma was not good. Her potions were not working; she was trying a double dose; and she had dreamed too — <em>I saw the mist. I saw it roll out like a tide. The whole town is dreaming again.</em> They bought poison resistance and fire breath from her for the dragon, and Morgash offered her a piece of jewellery, still attached, so she could rest assured the body-part trader was not coming back. She dropped it, and thanked him, and gave him a potion of superior healing on the house. Gren muttered about aiding and abetting on the way out.</p>
+
+<h3>The squirrels</h3>
+
+<figure><img src="img/s8-squirrels.jpg" alt="The squirrels bow to Gren the Mighty"><figcaption>"Oh, it's the mighty warlord of the wood! All of the squirrels throughout the entire forest know of the great Gren." Pudgy wore Longshadow's feather behind his head.</figcaption></figure>
+
+<p>South-west along Sera's map to a forest lake, and a temple sunk half into it. Three squirrels came out to meet Gren: Pudgy from the Iris, with one of Longshadow's feathers fixed behind his head, and his friends Pinenut and Honeysuckle. Gren demanded proper obeisance and all three bowed. Their intelligence was sound — <em>the big green one sleeps at the far end on the shiny warm thing; the water's bad, don't drink it</em> — and they volunteered to come in and guard him.</p>
+
+<figure><img src="img/s8-wyrmwood.jpg" alt="The drowned temple of the Wyrmwood"><figcaption>The Wyrmwood's lair was not a cave but a drowned temple older than anything in the valley, a processional causeway standing in green water with a throne dais at its far end.</figcaption></figure>
+
+<p>Honeysuckle found a secret door in a fountain face; Pudgy squeezed through a collapsed tunnel and came back forty minutes later to report a hallway on the far side — <em>you are a mighty Gren, how did you know?</em> A shambling mound came straight at them and crumbled at Jetten's feet, a mound of shambling vegetables. A horned druid with unearthly green eyes — <em>must serve the master</em> — and a crocodile too big for its doorway came next; the crocodile got Invictus in its jaws twice and died on the black armour of necrotic fire he had wrapped himself in. Pudgy scratched open the last locked door. In a room of pulleys, one lever was rusted solid and two were freshly oiled, and a pull made a promising sound; Pinenut reported the bar across the dragon's doors was gone. Potions down. <em>Master Gren, be careful. That's where we saw the dragon last time. We'll be right behind you, sir.</em></p>
+
+<h3>Bramblemaw</h3>
+
+<p>Both doors swung open on a long causeway across the water, crocodiles drifting uninterested below, and the dragon resting on the dais at the far end. It spoke in Draconic. <em>Come for my treasure, eh? You'll die instead.</em></p>
+
+<figure><img src="img/s8-first-breath.jpg" alt="Bramblemaw's first breath"><figcaption>The dragon came twenty-five feet up the causeway and breathed. Pinenut, Honeysuckle and Pudgy were standing in front of Gren.</figcaption></figure>
+
+<p>Bramblemaw moved first, came up the causeway, and breathed. Pinenut, Honeysuckle and Pudgy, who had been standing guard in front of their warlord, all died in the first breath. Jetten took the whole of it and lost his mark; Invictus took most of it; Gren, with the Tideheart's help, held. Then the dragon flew back to its perch and the fight was on. Invictus walked into the water, the crocodiles noticed, and he stepped through the mist and out again directly in front of the dragon and put it on its back with his shield; a psychic spike from the dragon's mind dropped Jetten, and Gren's word put him back up. Morgash, with Sera's bow, missed and refused the miss. The dragon flew and Invictus's shield bash floored it again, and it burned the first of its legendary resistances to stay up. Gren cast a careful slow over it and it burned the second. Morgash's maul knocked it down a third time and he hit it four times while it lay there, and it looked bloodied. The dragon's mind-spike put Invictus down, failing a death save on the floor. Gren put him back up. A crocodile-sized counterspell failed against the dragon's next one.</p>
+
+<figure><img src="img/s8-fireball.jpg" alt="Gren's fireball for the squirrels"><figcaption>"This is for Honeysuckle, Pinenut and Pudgy, you son of a—"</figcaption></figure>
+
+<p>Round four, the breath came back, and Jetten and Invictus both went down in it. Morgash poured Selma's potion into Invictus and put him on his feet, then knocked the dragon down a fourth time with the maul sizzling with light. Invictus spent two points of his healing touch to stand Jetten up. The dragon's last pounce found Gren and left him at eight hit points. And Gren, with the last big spell he had, shaped a fireball with every ally excluded and said, as he threw it, <em>This is for Honeysuckle, Pinenut and Pudgy, you son of a —</em>. Bramblemaw made its save and took half. It was enough. The Fireball slew Bramblemaw, and the crocodiles, freed of its hold, swam off into the depths.</p>
+
+<div class="aside"><span class="t">What the narrator knows</span><p>Bramblemaw had never known what the stone was. It had wept over the jewel it hoarded and could not explain why, and could not stop, and was humiliated by strangers seeing it. There was no price that would have bought the shard — not a richer hoard, not a name, not its own life. If even a green dragon, a thing with no softness anywhere in it, broke under the shard, then what was the shard? The party never got to ask. The Thornheart was named for this wood, which grew briar around it the way a body grows scar tissue.</p></div>
+
+<div class="aside"><span class="t">What the narrator knows</span><p>The lair was not finished when they left it. Rooms to the north went unexplored, and the druid who had served the dragon fell to Jetten's arrows with his story untold — what a geas had made him do in the Wyrmwood, and for how long, was never settled either way. Three squirrels lay on the causeway with a feather among them.</p></div>
+<p>Behind a door to the north, a glowing green heart. Invictus took it. It was the exact green of the dragon that had hoarded it, which was either a coincidence or was not; it was warm, and it beat, and it showed him the woman and the burst. It could, once between dawns, press itself to a body dead no more than ten days and give the life back. Gren said immediately: <em>Let's go raise Pudgy.</em> Invictus asked which heart would bring back his family, and was told: the whole one. Four true resurrections, when it is combined — which they could do now, if they only knew how. Gren's arcane sense answered: put them together at the source. At the tree.</p>
+
+<p>The hoard was a decanter of endless water, a staff of withering, a coin with Tiamat's face on it, and ten thousand gold in gems. Invictus said the choice was already made, because the sword had been whispering to him. All four pieces of the Broken Heart were in the party's hands. What to do with them was the only question left.</p>
+</section>
+
+<section class="part">
+  <div class="n">Part Four</div>
+  <h1>The Heart Knot</h1>
+  <div class="sub">In which a squirrel comes back, a goddess makes her last offer, a god answers in the fog, and a village asks four friends for its life.</div>
+</section>
+
+<section class="chapter">
+<h2><span class="kicker">Chapter IX</span>The Heart Knot</h2>
+
+<figure><img src="img/s9-pudgy-lives.jpg" alt="Pudgy lives"><figcaption>"What happened? Oh, my goodness. Did we kill the dragon? Did we beat him?"</figcaption></figure>
+
+<p class="first">The Thornheart's first raising went to Pudgy. Invictus read the stone's promise aloud, still in the dragon's hall — <em>once between dawns, a body dead no more than ten days</em> — and pressed it to the squirrel before anyone could argue for anyone else. Pudgy woke. <em>Did we kill the dragon? Did we beat him?</em> Gren told him that Honeysuckle and Pinenut had not made it, and fed him nuts, and Pudgy asked one thing: <em>Will you promise to bury them outside, please, Master Gren?</em> They slept in the geased druid's camp south of the hall. Jetten did not sleep; he never does.</p>
+
+<h3>The Duskheart speaks</h3>
+
+<figure><img src="img/s9-duskheart-speaks.jpg" alt="The Duskheart speaks through Jetten"><figcaption>Jetten's eyes glazed inky black, and he read Shar's last offer aloud to Invictus, and did not remember saying the words.</figcaption></figure>
+
+<p>In the morning Jetten's eyes went black as ink and he spoke, in a voice that was and was not his, Shar's last offer, verbatim:</p>
+
+<blockquote><p>Invictus. Killing my high priest was regrettable, but it is forgivable. My offer still stands. Take the heart shards and Midnight to the Dreamer's tree. Find the tree's heart knot and plunge the blade into it. Midnight will drain the power from the tree and the shards. The Dreamer will be trapped. Each shard can grant you a resurrection, and the heart of the tree will grant you a fifth. You will win. You will get your family back. The town will win. The Dreamer's summer will remain in Greenrest forever. I will win. My will shall be done. Think carefully, Invictus. This is my last offer.</p></blockquote>
+
+<p>Midnight glowed while he read it and stopped after. <em>The Duskheart took control,</em> Jetten said. <em>I don't remember saying those words. I know I said them, but it wasn't me.</em></p>
+
+<p>Invictus was genuinely torn, and said so. <em>What's one fae versus an entire town?</em> Either way the heart was gone, and his family stayed dead. He admitted the pain was easy to bear now and everything was foggy — <em>I think that's what Shar does for her acolytes. I'm infected by her in some way. Takes the pain away from you.</em> His friends did not let him have it. Jetten: <em>It sounds like a trap. Like a bargain with the devil. It's the evil trying to work its way into you. Don't turn to it.</em> Morgash: <em>It seems very obvious that you will think it's the best thing to do if you are getting everything from this. You lost your bearings when you killed that guy. You lose your vow. And now you're completely lost, my friend.</em> Jetten reminded him that the sword had been First Light once, and Invictus said <em>Oh — I don't even remember that.</em> Morgash: <em>It's not the same sword. Don't lie to yourself.</em> Gren: <em>You haven't done anything wrong. You don't need redemption. But if you do this, you will need redemption.</em></p>
+
+<p>Invictus heard them. <em>I have to rely on my friends here and say I can't take her up on that offer. It just seems like the evil thing to do.</em> He asked to go outside and pray.</p>
+
+<h3>The Dawnfather in the fog</h3>
+
+<figure><img src="img/s9-dawnfather.jpg" alt="The Dawnfather in the fog"><figcaption>"You are not completely lost, my child, but the sword you wield must be left here. Bury it. First Light is gone."</figcaption></figure>
+
+<p>On the lakeshore in the early morning he knelt with the psalter a priest had given him, recited the psalms, held the black sword up to the sky, and begged Lathander to release him from Shar's power. The fog curled away from the water, and the Dawnfather was in it.</p>
+
+<blockquote><p>"You are not completely lost, my child, but the sword you wield must be left here. Bury it. First Light is gone."</p></blockquote>
+
+<p>They dug a hole together and buried Midnight in the ground of the Wyrmwood. Invictus had Gren swear Pudgy to secrecy — <em>What is? I don't know anything. Yes, sir.</em> Honeysuckle and Pinenut were buried by a tree with acorns, a place where a squirrel could come and say hello. Pudgy went ahead to tell the forest their deeds. Invictus took a plain scimitar out of the party's stores and kept his shield, and on the way out said: <em>I hear that buried sword calling to me and screaming. I have to get out of here before I lose my mind.</em></p>
+
+<h3>The fourth dream</h3>
+
+<figure><img src="img/s9-the-asking.jpg" alt="The Asking"><figcaption>The whole town stood in their nightclothes on the bare hill, no mist between them, and for the first time in four dreams the dryad was looking at them.</figcaption></figure>
+
+<p>Late in the morning, crossing Greenrest's limits, Jetten's moonstone lit and all four of them fell into the dream on their feet. The bare hill; the fog close; the tree where she had stood — and the whole town present in their nightclothes, no mist between them: Oswin, Selma, Enid, Ambrose, Warin, Pip. And she looked at them.</p>
+
+<blockquote><p>"You've been here before — in the summer, at the fog, at the breaking. You are the ones holding my heart. I want you to know I forgive him. I forgive Corin. I know he chose to leave me. But he was right. I forgive him. And now, after centuries, I can finally forgive myself for holding on so long, for all of it. I'm asking you, begging you: free me. Bring the hearts to my tree. Find the heart knot. Place them in it, one by one, and I will absorb them. On the fourth, I shall be free. Please, help me. I've been trapped for centuries."</p></blockquote>
+
+<p>As she faded she looked at Invictus and smiled a little. They woke at the town's edge. <em>My vote is to go straight there and do it,</em> Invictus said. <em>I'm feeling a lot more moral clarity now. Hey — what was I thinking before?</em></p>
+
+<h3>The mayor in the road</h3>
+
+<figure><img src="img/s9-oswin-pip.jpg" alt="Oswin and Pip in the road"><figcaption>"I know what you're doing. I saw you in the dream. Please don't do this. We'll do anything."</figcaption></figure>
+
+<p>Oswin met them in the road near the square, out of breath, with Pip beside him. <em>I know what you're doing. I saw you in the dream. Please don't do this. We'll do anything. You don't have to let her go. She's been here the whole time — what's the difference?</em> A key to the city. Live here as long as you want. Free meals for life; Ambrose had already agreed. <em>I'm fond of you all, and that's what makes this so hard. The town will never prosper again. The fog, I'm sure, will come back.</em></p>
+
+<p>Invictus: <em>It's just evil to keep her trapped there. You know that.</em></p>
+
+<p>It was Pip who decided it. <em>I think he's right, Mayor. They need to do what they need to do.</em> And the mayor of Greenrest, who had never once had to think about the tree in fifteen years, looked at a halfling child and said: <em>Oh, Pip. You're right. Very well. I'll tell the guards to stand down. Do what you need to do. I'll go and tell the elders.</em></p>
+
+<div class="aside"><span class="t">What the narrator knows</span><p>Two pleas in one morning, for opposite things, from people the party liked. Hers in the night, his in the road. Both of them were right. Greenrest would die the day the Dreamer did — the winters would get real, the harvests would fail, the mists would return — and every word Oswin said was true, and the party had just dreamed the counter-argument in Corin's own voice. The town did not turn on them because they gathered shards. It turned because it was asked, and refused, and was afraid. The watch stood down. The neighbours did not.</p></div>
+
+<h3>The square</h3>
+
+<figure><img src="img/s9-last-heart.jpg" alt="The last heart"><figcaption>Three mobs came down on the square with pitchforks and cabbages — "They can't take our town away! Stop this!" — and the four hearts went into the knot one per round.</figcaption></figure>
+
+<p>The knot was there in the trunk when they looked for it, a heart-shaped seam in the grey bark, and placing a shard into it took a full turn of concentration — interrupted, start over; absorbed on the placer's next turn. Nobody in the square wanted to kill anybody. Three mobs came anyway: the whole street, the farmhands, the torchbearers. <em>Get them! They can't take our town away! Stop this!</em></p>
+
+<p>Gren went first, as he generally did, and put a hypnotic pattern over the whole street, and the whole street stood and stared at it for the rest of the fight. Jetten began the Duskheart. Invictus gave his voice thunder and told the farmhands to think again, and they paused; Morgash told the torchbearers the same, with a look, and they paused too. Nobody swung. Gren threw a scorching ray into a wall as a warning that impressed no one. The Duskheart went in. Jetten's vines rose out of the cobbles and pinned the torchbearers where they stood. Invictus put his hands up and refused to attack, and was pelted with cabbages and tomatoes for it, every one of which bounced off his plate. Morgash began the Graveheart. Jetten stood between the mob and the tree and beckoned the air to bang every shutter in the square — nobody was impressed by that either. Invictus called a celestial horse out of nothing and mounted it. The Graveheart went in. A pitchfork came at Morgash and his pike came back on the riposte and put a torchbearer down hard, and the club and the sword that followed found gaps in his armour, and he stood there and let them. Gren began the Tideheart. <em>None shall pass!</em> he announced, and tapped a farmhand's knee with the flat of his staff. The Tideheart went in. Invictus rode to the tree, leaned out of the saddle, and pressed the Thornheart into the knot with the words <em>This is for you — and blot out all my iniquities, Lathander</em> — and a tomato took him square in the eye, and he kept his seat. Jetten's vines failed and he threw caltrops and cast the vines again and caught Gren and himself in them.</p>
+
+<p>The Thornheart went in.</p>
+
+<h3>The passing</h3>
+
+<figure><img src="img/s9-dreamer-free.jpg" alt="The Dreamer goes free"><figcaption>"It's stone. It has been stone in your hands for so long — warm and hard — and now it beats inside of me again."</figcaption></figure>
+
+<p>On the fourth heart the knot opened, and the dryad stepped out of the trunk holding the whole heart. Tall, blond, wood-and-blossom, the woman from every dream, in the waking world for the first and last time. She looked at them.</p>
+
+<blockquote><p>"It's stone. It has been stone in your hands for so long, warm and hard, and now it beats inside of me again."</p></blockquote>
+
+<p>She closed her hands around it. The light went out of the facets. The edges lost their shape. It went soft and warm and wet, and by the time she lifted it to her breast it was not a jewel at all. It was a heart — plain, red, ordinary meat, beating in her hands. Because the stone had never been the magic. The stone was the part of her that could not die. She put it back where it belonged. The mob began screaming. The tree went into full bloom — every branch at once, the most alive anything in that valley had ever been — and she was gone.</p>
+
+<div class="aside"><span class="t">What the narrator knows</span><p>She left without giving them anything, and the table noticed. It was on purpose. The Heart's magic was her; when she went, it went; there was nothing left to hand over but the story. Above Harrow Vane there is always somebody, and the order of Shar knows that a Dark Justiciar walked out of its temple and then walked away from the goddess. Midnight is in the ground on a lakeshore, still calling, and only four people and a squirrel know where.</p></div>
+<p>The neighbours walked away muttering and dejected. From somewhere far off and everywhere: <em>Thank you. Thank you so much. I can never repay you.</em> Morgash said <em>Yes, you can. Wait.</em> Pudgy arrived — <em>Oh, boss, I just got back. What happened?</em> — and Gren gave him an acorn, and Pudgy stayed by Gren from that day.</p>
+
+<h3>The mist comes home</h3>
+
+<p>The mists rolled slowly back into the valley. Commoners looked at the four of them, sad and dejected, and would not speak. The elders understood, and could never forgive. Oswin said: <em>Please. Please just go.</em></p>
+
+<p>And Invictus came to, the way a man surfaces from deep water, and said: <em>Thomas. My name is Thomas.</em></p>
+</section>
+
+<section class="chapter">
+<h2><span class="kicker">Epilogue</span>The First Autumn</h2>
+
+<figure><img src="img/ep-first-autumn.jpg" alt="The first autumn in Greenrest"><figcaption>Leaves fell in the square for the first time in living memory. The children had never seen it.</figcaption></figure>
+
+<p class="first">Leaves fell in the square that autumn for the first time in living memory, and the children of Greenrest had never seen it and did not know what to do, and then did. Oswin watched from the steps of his tower. A few families took the Trade Way south for the winter, and it was a real winter. The harvest was smaller. It was also real. And one evening at a sick child's bedside, Acolyte Enid prayed to the Earthmother as she had prayed ten thousand times before, and for the first time in Greenrest's history something answered. Chauntea had forgiven the town. Greenrest had a healer of its own.</p>
+
+<p><b>Morgash</b> found that ten thousand gold in gems was the big score after all. Warin Holt asked him to hold the gate at Hedgewatch, and he stayed — <em>I feel responsible</em> — and in time the town forgave him, and Oswin always stood him breakfast and dinner, and he had a permanent room at the Full Larder.</p>
+
+<p><b>Jetten</b> stayed friends with Thomas and came and went. One evening the moonstone at his throat glowed green for the last time, and he had a real dream of his sister, sent by a fey who owed him, and he said goodbye to her properly. In the morning the stone was milky white.</p>
+
+<figure><img src="img/ep-five-graves.jpg" alt="Thomas at the five graves"><figcaption>He read every name aloud, and then his own, and stayed until dark.</figcaption></figure>
+
+<p><b>Thomas</b> went home. A month later in Daggerford he mended things with the temple of Lathander and walked to the five graves in the walled yard, and read every name aloud, and then his own, and stayed until it was dark. The grief ended there — not the memory, the grief. He became a paladin again, properly, and went wandering with Jetten for some years after, the two of them, slaying evil where they found it.</p>
+
+<p><b>Gren</b> learned that every squirrel in the Misty Forest knew that Gren the Mighty had freed the Green Lady, and his warren, which had sent him away, sent for him, and there was a feast. He came back to Greenrest afterward and planted the Everseed Acorn in the square beside the old tree, and stayed. It grew into a young oak that drops its leaves every autumn, as an oak should. Pudgy became the prophet of a small religion whose members reluctantly tolerate Morgash. Gren's old debt to the orc is paid in acorns, one by the bedside every morning; Morgash steps on them about half the time.</p>
+
+<div style="break-inside:avoid;page-break-inside:avoid"><p>Nobody was wrong enough to make it clean. They freed a soul a thousand years caged, and they turned off a village's good fortune in front of the village, and both of those things are true. Somewhere past the fog, Corin's story ended a long time ago, and nobody will ever know how. But she stopped waiting for it, which is the only ending anyone gets.</p>
+
+<span class="small" style="display:block;text-align:center;margin-top:2em">Played across nine sessions, 7 July to 29 September 2026 — Thomas A. Invictus, Morgash the Gravemaker, Gren Greenmantle, Jetten Elisedil, and the one behind the screen.</span></div>
+</section>
+
+<section class="chapter">
+<h2><span class="kicker">Afterword</span>What the Narrator Knew</h2>
+<p class="lead">A campaign about a grief nobody could see is also, unavoidably, a campaign about what four people chose to look at. These are the narrator's notes gathered in one place — what the company saw, and what stayed just out of view.</p>
+
+<h3>What they did well</h3>
+<p>Credit first, because it is real, and because there is more of it than of anything else. The party found the campaign's opening clues faster than the campaign expected them to. They read Selma's label aloud before they had ever seen the village. They chose, on their first night, to sleep without the tonic — the single most important decision anyone made in nine sessions, and it was made from suspicion alone. Gren named the dryad from a dream on the first morning, and Thomas connected her to the tree in the square inside a minute. Morgash read the displacer prints at the trailhead and said so out loud, and read the bullywugs' glowing eyes before an arrow flew.</p>
+<p>They were as good with people as with prints. Morgash gave Oswin the honest version at a breakfast that was going wrong, and mended it. Jetten kept a portrait back from a sale on a hunch, carried it to a shopkeeper's counter, and it produced the name Thomas had crossed a forest for. Morgash held a friend back from a murder with his arms and an argument, and when the friend chose anyway, stayed his friend. On the lakeshore, with a goddess's last offer on the table and every resurrection in the world in the balance, four people talked a fifth back from it in ten minutes of plain speech. They freed her at the cost of everything the Heart could have given them — and spent the first Thornheart dawn on a squirrel, without being asked twice. Of every door in the last session, that one was the smallest, and it is the one that says most about who they were.</p>
+
+<h3>Threads for the next story</h3>
+<p>A good campaign leaves more behind than it uses. These are the ones still lying in the road, for anyone who goes back that way.</p>
+<div class="cast">
+<p><b>The Traveller's Letter</b> — addressed in a careful hand to someone in Daggerford, still sealed in Jetten's pack. Somebody in Waterdeep is waiting for a merchant who will not come home.</p>
+<p><b>The fey temple</b> — a line on the lintel, <em>a light, and a road home</em>, and beneath the shrine a thin place the displacer pack came through. The watchtower above the valley overlooks both roads to it.</p>
+<p><b>Warin's barracks</b> — "I don't want to bother Oswin with such things." The constable's fuller theory of the Kestrels' end is still his to tell.</p>
+<p><b>Coll's empty plot, and Tess by the tannery</b> — a grave dug for people who never came home, and a woman in Daggerford who never got Marn's letter. Both are one visit from closed.</p>
+<p><b>Hesper's word</b> — the one question nobody put to a five-hundred-year-old woman: <em>Greenrest?</em> She would have said she did not know it, and half a campaign's theory would have gone quiet.</p>
+<p><b>The Widow Fen</b> — a drop-stone on the moor path, a jar marked <em>ours</em> in a lower room, and an annotated Volo's Guide nobody opened.</p>
+<p><b>The Iris</b> — a shut stone eye at the centre of a temple of the Lady of Loss, passed twice with a prisoner and a priest more urgent than a carving. Above Harrow Vane there is always somebody.</p>
+<p><b>The Daggerford ledger office</b> — where a scribe once started pulling threads, and where Veck's other customers may still keep books.</p>
+<p><b>The Wyrmwood</b> — rooms north of the hall unexplored, a druid's story untold, and a black sword in the ground on the lakeshore that has not stopped calling.</p>
+<p><b>Corin</b> — a name said aloud in the first two dreams and never followed. What became of him past the fog is the one thing nobody in this story ever learned. A ballad sheet on the roadside remembers him; so, perhaps, does a raven-haired family somewhere.</p>
+</div>
+
+<p>None of what stayed shut changed the ending. Four hunters came down the Trade Way after a relic and left having given it away; they were asked, twice in one morning, for opposite things by people they liked, and they chose the harder one and lived with the square's silence afterward. A mystery is the sum of what its detectives pick up, and the thing these four picked up, in the end, was a stranger's thousand-year grief, and they carried it home. That is the part worth keeping.</p>
+</section>
+
+<section class="part">
+  <div class="n">Appendix A</div>
+  <h1>What If…?</h1>
+  <div class="sub">The last session was written with six doors in it. The company opened one. These are the other five, as they were prepared — what each would have cost, and what it would have made of each of the four.</div>
+</section>
+
+<section class="chapter">
+<h2><span class="kicker">Appendix A</span>What If…?</h2>
+
+<p class="lead">Both roads — hers and Shar's — needed all four shards at the tree, and every holder had a veto: Morgash held the Graveheart, Gren the Tideheart, Jetten the Duskheart, Invictus the Thornheart. Nobody could do either thing alone, and nobody could take a shard by force. Whatever the company chose, it had to be chosen by talking. That was the design, and it is why the argument on the lakeshore was the scene the whole campaign had been building toward.</p>
+
+<h3>A · Free her — <span class="small">the road taken</span></h3>
+<p>All four hearts into the knot, one at a time, each turning a quarter of the tree gold, with the town objecting in the square as it did. The Dreamer steps out, the crystal gives, and she goes. The Heart goes with her; nobody gets a resurrection. The leaves fall; the fog returns to the valley's rim; Enid's prayer is answered. This is the ending the company chose and the one the chronicle tells, and each of the four's fate is in the Epilogue.</p>
+
+<hr class="rule">
+
+<h3>B · Midnight into the knot</h3>
+<p>Shar's road. Invictus drives the black sword into the heart knot with the four shards at the tree; the blade goes in as if the wood had been waiting for it; the warmth goes out of the bark, out of the shards, and up the steel into his hand. The shards go grey and cold. The blossoms close. The tree stays green, and stops. When he pulls Midnight out it is heavier than it was, and it beats. The Dreamer is trapped under the square forever. The town, which heard her ask, chooses its summer anyway; nobody fights, nobody dies, and Oswin cries with relief and cannot look at the tree. There is a feast, a key to the town, and Invictus is named a friend of Greenrest.</p>
+<div class="cast">
+<p><b>Invictus.</b> A month later, in Daggerford, five graves in a row. He draws Midnight and says their names one at a time, and the ground gives them back. Ann calls him Thomas, the way she always did; he can say all five of their names and still cannot say his own. One morning the youngest asks if he remembers the day he dropped the whole jug of syrup on the kitchen floor, and everyone laughs, and he laughs with them, and he does not remember it, and never will. There are a lot of days like that. But they are at his table, all five of them, and most days that is enough.</p>
+<p><b>Morgash.</b> Word travels — the dragon, the temple, the choice at the tree. Months later a shadow crosses the sun wherever he has ended up: a red dragon, and on its back, Lae'zel. <em>I said I could not love anyone in this world. I have been at war since. I was wrong about you. You can make the tough choices and the sacrifices to save a people when they need to be made. There is a place at my side, my Morgash. I need you. Ride with me.</em> Whether he goes is his to decide. The offer is real, and it is the one thing he wanted more than the chair by the fire.</p>
+<p><b>Gren.</b> The squirrels stop coming. Not one in the whole Wyrmwood will come down a tree for him now. Word reaches the warren and the elders send word back: don't come home. It is the second time they have cast him out, and this time the forest agrees with them; he sealed a fey creature into a tree for good, and nothing that lives under leaves forgets that. The Everseed Acorn went grey in his pocket the day the sword went in. He cannot plant it anywhere now.</p>
+<p><b>Jetten.</b> He does not come to the feast. By the time anyone thinks to look for him he is on the Trade Way going south, and he finds new company, the way elves do eventually. He does not write, and when someone mentions Thomas he changes the subject. The moonstone never glows again. His last words to Invictus, if there is a goodbye at all: <em>You got five. She didn't get one.</em> He means his sister.</p>
+<p><b>Greenrest.</b> The summer never turns. There is no autumn, ever again, and the children grow up without seeing a leaf fall. The town ties harvest ribbons around the scar in the knot. The dreams stop, and Greenrest sleeps well for the first time in a generation. Selma pours the tonic out, and nobody hears her anymore.</p>
+</div>
+
+<hr class="rule">
+
+<h3>C · Walk away with the shards</h3>
+<p>The road that costs nothing and gives nothing. The shards can only be joined at the knot, so keeping them means keeping four separate stones, each with its own small power, and no resurrections for anyone. The company leaves Greenrest with the four hearts in their packs. The town keeps its summer. The tree keeps its buds and never quite blooms. She is not sealed, only left — and wherever they sleep, every night, she asks again. Someday someone else could carry the shards home.</p>
+<div class="cast">
+<p><b>Invictus.</b> Carries the Thornheart and a sword he cannot use. The Duskheart's voice is quiet now — Shar called it her last offer and meant it — but the buried question is not: he crossed a forest for a name, found it, took it, and walked away from both the thing that could have brought his family back and the thing that could have set a stranger free. He has the pain again, undimmed. What he does with it is the whole of the rest of his life.</p>
+<p><b>Morgash.</b> Retires on the dragon's gems, as he always meant to, and finds the chair by the fire is not what he thought. The Graveheart on its cord under his shirt beats a little harder some nights than others, and he knows exactly what it is asking. He held a gate once against a netherbrain. This time he walked away from one.</p>
+<p><b>Gren.</b> The squirrels still come — he did nothing to the Green Lady, after all — but they ask about her, in the way squirrels ask, every time. The acorn stays green in his pocket and he never finds the place to plant it, because the one place that fit was the one he left with her still weeping under it. Pudgy follows him regardless.</p>
+<p><b>Jetten.</b> Sleeps in trance with the Duskheart on his chest and dreams her asking, every night, in his sister's cadence. He was the one who said <em>it's not right to let her remain enslaved</em>, and he was the one who could have made it happen by putting one stone in a knot. The moonstone glows every night, faintly, and he stops looking at it.</p>
+<p><b>Greenrest.</b> Unchanged, which is the point. Lucky, kind, comfortable, dreaming a little now that the tonic has failed, and never quite sure what four strangers took away with them in their packs.</p>
+</div>
+
+<hr class="rule">
+
+<h3>D · The company cannot agree</h3>
+<p>No blades between friends, ever. Both roads need all four shards, so nobody can do either alone, and each holder decides what happens to their own stone. If even one holder will not give theirs up, neither road can be walked, and it ends as C — but the argument is the scene. The one the campaign was built for. On the morning it was played, the split was real: Invictus leaning Shar's way with the sword whispering, Jetten on record against, Gren and Morgash undeclared. It resolved on the lakeshore in about ten minutes of honest talk. Had it not:</p>
+<div class="cast">
+<p><b>Invictus</b> holds the Thornheart, the only stone that can raise the dead on its own. He can keep his veto and keep a squirrel's worth of resurrection every dawn, and nothing else. The friends who held him back in the cell cannot hold his shard; they can only ask.</p>
+<p><b>Morgash</b> holds the Graveheart and has said out loud, twice, <em>you will regret this</em>. He is the one who told Oswin the honest version at breakfast. In a stalemate he is the one most likely to name the price plainly: a woman under the square, or a town above it, and which of us gets to decide for the other.</p>
+<p><b>Gren</b> holds the Tideheart and the standing that comes from being the one person in the company the forest trusts. If the split hardens, he is the one who can walk away from Greenrest and still be welcome under leaves. He is also the one who said <em>if you do this, you will need redemption</em>, and would have to decide whether to keep saying it.</p>
+<p><b>Jetten</b> holds the Duskheart, which is a veto and a temptation in one — see E. He is the company's conscience and Thomas's oldest friend, and in a true deadlock those two things pull opposite ways.</p>
+<p><b>Greenrest</b> waits. The tree keeps its buds. The elders meet. And every night four sleepers in the Long Rest are asked the same question by someone who cannot stop asking it.</p>
+</div>
+
+<hr class="rule">
+
+<h3>E · Jetten uses the Duskheart on Invictus</h3>
+<p>Shar's own shard reaches into a memory once at dusk and changes it. The offer was less than a day old and lasted under ten minutes; Jetten could have erased it or rewritten it, and Invictus would have had one chance to resist. The elf who spoke Shar's words takes them back with Shar's own stone. If it works, Invictus forgets the offer entirely; Shar called it her last and meant it, and Midnight goes quiet. The company remembers what they did to him. He does not.</p>
+<div class="cast">
+<p><b>Invictus</b> walks to the tree with a clear head he did not earn and a sword that has stopped talking. He frees her, probably, and it is a kindness — and the kindness is Shar's, delivered through his best friend's hands, at no cost to the goddess: the memory that hurts, taken. He is the campaign's proof that oblivion-as-mercy works. Somewhere he knows a piece is missing, the way he knew about his name.</p>
+<p><b>Morgash</b> would have argued against it — he is the one who wants Thomas to <em>choose</em>, and said so with his arms around the man's chest — and, outvoted, would have carried it. He does not forget things. He would look at Thomas at the tree and see a man who had been decided for, and think of the Basilisk Gate, and the nine who lived because someone else made the call.</p>
+<p><b>Gren</b> said Shar was the deepest of evils, and here is her shard doing her work on a friend. He would have wanted to be told it was necessary, and would not quite have believed it, and would have watched the acorn in his pocket for a week afterward to see whether it stayed green.</p>
+<p><b>Jetten</b> pays the price the shard was built to extract. He said <em>it's the evil trying to work its way into you</em>, and then used the evil's own instrument on the person he had known longest. The moonstone's last glow, in this ending, is not a gift from a grateful fey; it is Sehanine, lady of dreams, asking her devotee what he did to a man's memory.</p>
+<p><b>Greenrest</b> gets the same morning as A — the leaves, the fog, Enid's answered prayer — and never knows the difference. That is the whole trouble with it.</p>
+</div>
+
+<hr class="rule">
+
+<h3>F · Raise Pudgy before they leave — <span class="small">the road taken</span></h3>
+<p>The Thornheart raises one body a dawn, dead ten days or less, and Invictus held it. Three squirrels lay in the great hall, one of them wearing Longshadow's feather; Honeysuckle and Pinenut would each have needed a dawn of their own, and it had to happen before any Shar's-road ending, since a drained shard raises no one. The company spent the very first raising on Pudgy, without being asked twice. <em>Did we win? Where's Honeysuckle?</em> They buried the other two under a tree with acorns, and a squirrel became a prophet. Of all the doors in the last session, this was the smallest, and it is the one that tells you most about who they were.</p>
+</section>
+
+<section class="part"><div class="n">Appendix B</div><h1>A Bestiary of the Misty Forest</h1><div class="sub">Every creature the company fought, as the world's own Bestiary records it — the narrative only, never the numbers. A page went in only after the thing had been faced.</div></section>
+<section class="chapter bestiary"><h2><span class="kicker">Appendix B</span>A Bestiary of the Misty Forest</h2>
+<div class="entry"><div><figure style="margin:0 0 .6em"><img src="img/bestiary/hobgoblins.jpg" alt="Hobgoblins"></figure></div><div><h3>Hobgoblins</h3><div class="met">Chapter I · the cave below the bridge on the Trade Way</div><p class="lead"><em>Conquerers of Every Horizon</em></p><p>Hobgoblins embody the primal urge to grow and spread, expressing such drives by bending the world to their whims. Lone hobgoblins claim woodland territories and plunder the wilds. In groups, they form hierarchical, martial societies bent on conquering lands and stripping them of resources to serve their expansionist zeal.</p><p>Hobgoblins often subjugate animals, monsters, and destructive Fey—particularly goblins and bugbears—to serve their plans. Hobgoblins might ally with dragons, warlords, the servants of warlike gods, or other powerful creatures that promise them control of new territories. Should hobgoblins bring an entire land to heel, they seek new conquests, venturing across seas, into the Underdark, or to stars and planes of existence beyond.</p><p>Many hobgoblins serve the violent god Maglubiyet, whose hunger for conquest matches their own. Hobgoblin followers of Maglubiyet flourish in the Infinite Battlefield of Acheron, where they endlessly indulge their drive for domination. These war-obsessed hobgoblins employ elaborate tactics and strange weapons, which they sometimes unleash on worlds of the Material Plane.</p></div></div>
+<div class="entry"><div><figure style="margin:0 0 .6em"><img src="img/bestiary/blights.jpg" alt="Twig blights"><figcaption>Twig blights</figcaption></figure><figure style="margin:0 0 .6em"><img src="img/bestiary/blights-2.jpg" alt="A vine blight (left) and a needle blight, with a tree blight looming behind"><figcaption>A vine blight (left) and a needle blight, with a tree blight looming behind</figcaption></figure></div><div><h3>Blights</h3><div class="met">Chapter II · the clearing in the Misty Forest</div><p class="lead"><em>Plants Sprouted from Evil</em></p><blockquote><p>It lives, though it looks dead. In an age long past, someone staked a vampire to the earth on this very spot. The wooden stake was yet green and took root. And so grew the Gulthias Tree, reverberating with primal power.</p><p style="text-align:right"><em>—Belak the Outcast,<br>druid of the Twilight Grove</em></p></blockquote><p>Blights are malicious plants that sprout from deep-rooted evil. Their gnarled forms twist with fearsome features suggestive of human limbs and vicious maws. Blights lurk in ambush amid mundane vegetation and lash out at non-Plant creatures. While blights can act independently, they’re usually motivated by whatever sinister forces spawned them or by wicked creatures with control over nature. The magic that creates blights often affects other vegetation as well, causing brambles, vines, and gnarled trees to overwhelm roads and fields, choke wells and streams, and force animals from their natural habitat. This might make blights the first sign of an oncoming wave of corruption.</p></div></div>
+<div class="entry"><div><figure style="margin:0 0 .6em"><img src="img/bestiary/ettercap.jpg" alt="Ettercap"></figure></div><div><h3>Ettercap</h3><div class="met">Chapter II · the web-halls of the ruined fey temple</div><p class="lead"><em>Venomous Arachnid Abductor</em></p><p>Spiderlike hunters, ettercaps lurk in forested depths and seek prey to drag into their web-choked lairs. These vicious predators have arachnid features and hunched, bipedal frames, and they’re notorious for their venomous bites and ability to shoot out webs to entrap their victims. Ettercaps often hunt in small groups alongside giant spiders and mundane spider swarms.</p><p>Ettercaps frequently overhunt their environment. Left unchecked, ettercaps might fill whole woodlands with their webs and the cocooned remains of past meals, which puts ettercaps in conflict with Fey. Spiteful ettercaps go out of their way to torment and feed on Fey; they prefer to menace those smaller than themselves, like pixies and sprites. They rarely devour other sapient creatures swiftly, preferring to cocoon their captives and terrorize them for days.</p><p>Ettercaps avoid fire, which can quickly burn through their webs and the dead trees where they make their homes.</p></div></div>
+<div class="entry"><div><figure style="margin:0 0 .6em"><img src="img/bestiary/will-o-wisp.jpg" alt="Will-o&#x27;-Wisp"></figure></div><div><h3>Will-o&#x27;-Wisp</h3><div class="met">Chapter II · the lure at the cleft — it escaped, and Gren has not forgotten</div><p class="lead"><em>Guide on the Path to Doom</em></p><p>From a distance, will-o’-wisps look like lanterns bobbing in the dark. Through the windows of abandoned structures or around the bends of treacherous paths, these spirits tempt the curious into peril. Once their prey is vulnerable, will-o’-wisps feed on the life force of those they lay low.</p></div></div>
+<div class="entry"><div><figure style="margin:0 0 .6em"><img src="img/bestiary/displacer-beast.jpg" alt="Displacer Beast"></figure></div><div><h3>Displacer Beast</h3><div class="met">Chapter III · the Kestrels' camp — three beasts and the alpha</div><p class="lead"><em>Deceptive Feline Stalker</em></p><p>A displacer beast resembles a gaunt, six-legged panther with a barbed tentacle sprouting from each of its shoulders. This predator uses innate magic to displace light so it appears to be several feet away from its actual location.</p><blockquote><p>The murderous fury of a displacer beast is fit only for nightmares, of which I’ve been haunted since narrowly escaping one’s ambush. I’m certain that beast stalks me still.</p><p style="text-align:right"><em>—Jen-Ahb, naturalist<br>and displacer beast survivor</em></p></blockquote><p>Displacer beasts hunt not just to feed but because they enjoy killing. Once displacer beasts begin stalking prey, they can’t be deterred until either they or their quarry is slain. While displacer beasts commonly inhabit dense forests, they might pursue travelers across great distances and even into cities or dungeons. More cunning than mere animals, these predators might set ambushes or lie hidden for days to bring down their prey.</p><p>Displacer beasts sometimes pursue prey through portals to other planes of existence. As a result, these predators can be found across the multiverse, particularly on the worlds of the Material Plane, in the Shadowfell, and in the Feywild. These restless hunters can destroy a land’s natural balance and drive other creatures to extinction. As a result, many druid circles and Fey view displacer beasts as deadly threats.</p></div></div>
+<div class="entry"><div><figure style="margin:0 0 .6em"><img src="img/bestiary/skeletons.jpg" alt="Adventurers face an onslaught from all manner of skeletons."><figcaption>Adventurers face an onslaught from all manner of skeletons.</figcaption></figure></div><div><h3>Skeletons</h3><div class="met">Chapter IV · the catacombs of the Hollow Shrine</div><p class="lead"><em>Ossified Evil</em></p><p>Skeletons rise at the summons of necromancers and foul spirits. Whether they’re the remains of the ancient dead or fresh bones bound to morbid ambitions, they commit deathless work for whatever forces reanimated them, often serving as guardians, soldiers, or laborers. In rare cases, skeletons are reanimated but given no particular direction. </p></div></div>
+<div class="entry"><div><figure style="margin:0 0 .6em"><img src="img/bestiary/zombies.jpg" alt="A tiefling tries to hide in the midst of a zombie horde."><figcaption>A tiefling tries to hide in the midst of a zombie horde.</figcaption></figure></div><div><h3>Zombies</h3><div class="met">Chapter IV · the Hollow Shrine, and Hesper's two silent attendants</div><p class="lead"><em>Relentless Reanimated Corpses</em></p><blockquote><p>Then, by a spectacular crack of lightning, the figures came into view, moving slowly toward the village. Over driving winds a voice cried out, “The dead come for Marais d’Tarascon! An army of the walking dead!”</p><p style="text-align:right"><em>—Account of the Night of the Walking Dead</em></p></blockquote><p>Zombies are unthinking, reanimated corpses, often gruesomely marred by decay and lethal traumas. They serve whatever supernatural force animates them—typically evil necromancers or fiendish spirits. Zombies are relentless, merciless, and resilient, and their dead flesh can carry on even after suffering grievous wounds. While they can follow simple orders, they rely on primal drives rather than thought. They fulfill commands by working tirelessly or battering through foes, but they are easily stymied by barriers or unexpected circumstances.</p><p>Zombies are usually created from Humanoid corpses, but the remains of other creatures can also become zombies. Such monstrous zombies might possess the strength they had in life or a measure of their supernatural abilities, but they employ such abilities haphazardly at best.</p></div></div>
+<div class="entry"><div><figure style="margin:0 0 .6em"><img src="img/bestiary/wight.jpg" alt="Wight"></figure></div><div><h3>Wight</h3><div class="met">Chapter IV · Osric, Hesper, Cadoc — and Aldous and Edda of the Kestrel Company</div><p class="lead"><em>Life-Leeching Corpse Warrior</em></p><p>Wights are the withered corpses of relentless warriors whose wickedness sustains them beyond death. Unlike mere zombies, they retain the memories and evil agendas they harbored in life.</p><p>After dying and returning from the grave, a wight continues its villainous ways, but it is now driven by a hunger for life. A wight drains living essence through its attacks. Humanoids slain by a wight’s life-sapping grip reanimate a day later and serve the wight as obedient zombies.</p><p>Wights might return from the dead for a multitude of sinister reasons. </p></div></div>
+<div class="entry"><div><figure style="margin:0 0 .6em"><img src="img/bestiary/peryton.jpg" alt="A peryton&#x27;s humanoid-shaped shadow suggests the monster&#x27;s supernatural origin."><figcaption>A peryton&#x27;s humanoid-shaped shadow suggests the monster&#x27;s supernatural origin.</figcaption></figure></div><div><h3>Peryton</h3><div class="met">Chapter V · Longshadow and two others, at the temple ruin on the road out</div><p class="lead"><em>Winged Heart Hunter</em></p><p>Perytons are monstrous predators that hunt people—particularly humans and elves—in favor of all other prey. With the bodies of mighty avian scavengers and fanged, stag-like heads, perytons use ambush tactics to dive-bomb travelers. Strangely, the shadows they cast resemble humanoid silhouettes. This supernatural oddity lends credence to stories that perytons are cursed humans or elves, or that they arise from carrion birds that feed on the corpses of villains.</p><p>Perytons tear out the hearts of those they slay, carrying the organs back to grisly lairs. This gives rise to numerous superstitions surrounding perytons. </p></div></div>
+<div class="entry"><div><figure style="margin:0 0 .6em"><img src="img/bestiary/bullywugs.jpg" alt="A bullywug warrior"><figcaption>A bullywug warrior</figcaption></figure><figure style="margin:0 0 .6em"><img src="img/bestiary/bullywugs-2.jpg" alt="A bullywug bog sage"><figcaption>A bullywug bog sage</figcaption></figure></div><div><h3>Bullywugs</h3><div class="met">Chapter VI · the Widow Fen — enthralled, with a purplish glow behind the eyes</div><p class="lead"><em>Pompous Frog Folk of the Fens</em></p><blockquote><p>Halt! The toll! All who cross the black water owe the toll!</p><p style="text-align:right"><em>—every bullywug sentry,<br>everywhere, always</em></p></blockquote><p>Bullywugs are frog folk of the deep fens, touched by the Feywild and convinced — each and every one — of their own tremendous importance. They dress in scavenged finery, award one another titles longer than their spears, and conduct the business of their muddy courts with a pomp that would embarrass a royal herald. Laughing at any of this is genuinely dangerous.</p><p>For all the strut, bullywugs know exactly where they stand in the fen's order of things: they serve whatever is bigger and more terrible than they are, and they serve it loudly, hoping to be noticed. A traveler stopped by a bullywug toll-gang should worry less about the frogs than about who collects the tribute.</p><p>Their bog sages are croaking mystics who pull magic up out of the mire itself — mud, mist, and insect swarms answering an amphibian's imperious gesture.</p></div></div>
+<div class="entry"><div><figure style="margin:0 0 .6em"><img src="img/bestiary/animated-objects.jpg" alt="Animated armor"><figcaption>Animated armor</figcaption></figure><figure style="margin:0 0 .6em"><img src="img/bestiary/animated-objects-2.jpg" alt="An animated rug of smothering"><figcaption>An animated rug of smothering</figcaption></figure></div><div><h3>Animated Objects</h3><div class="met">Chapter VI · the hags' treetop village</div><p class="lead"><em>Ordinary Things, Borrowed Wills</em></p><blockquote><p>Sit anywhere you like, dearies. The house does so love company.</p><p style="text-align:right"><em>—a welcome nobody should accept</em></p></blockquote><p>Spellcasters of sufficient craft can pour a sliver of will into the furnishings of their homes, and the result is a household that never sleeps and never stops working. An animated object has no mind of its own — only its instructions, followed with the patience of a thing that has never once been tired.</p><p>Most of the time they are indistinguishable from what they appear to be. A suit of armor stands its post for years; a broom sweeps the same floor at the same hour; a rug lies flat by the hearth, exactly where a guest would warm their feet. The oldest trick in a magician's house is simply this: everything in it is furniture, right up until the moment the door is closed.</p><p>Swords fly, brooms beat, armor marches — but the rug is the one the tales warn about. It waits under the visitor, and folds.</p></div></div>
+<div class="entry"><div><figure style="margin:0 0 .6em"><img src="img/bestiary/green-hags.jpg" alt="A green hag"><figcaption>A green hag</figcaption></figure></div><div><h3>Green Hags</h3><div class="met">Chapter VI · Hazel and Mabel, once three sisters</div><p class="lead"><em>Malicious Fey of Bog and Fen</em></p><blockquote><p>Hags in the moor got hold of a shard and feed their coven magic with it. Bargain at your own risk.</p><p style="text-align:right"><em>—the party's own research,<br>pieced together in Daggerford</em></p></blockquote><p>Green hags are fey crones who make their homes in drowned and rotting places — bogs, fens, and swamps where the water is black and the paths are few. They delight in misery the way gardeners delight in growing things: they cultivate it, harvest it, trade in it. A green hag rarely opens with violence when a bargain will hurt more; her prices sound survivable and never are.</p><p>They are consummate deceivers. A green hag can throw her voice across the water, mimic the cry of a drowning man or the voice of someone dearly missed, and walk unseen when it suits her. What looks like a helpless figure on a distant hummock is often the hag herself, fishing.</p><p>Hags are strongest in threes. A full coven shares magic between its members that none could work alone, and hags grieve a broken coven the way mortals grieve a family — bitterly, endlessly, and with somebody else expected to pay for it.</p></div></div>
+<div class="entry wide"><div><h3>Sharrans</h3><div class="met">Chapter VII · the Iris — Harrow Vane, high priest; zealots, enforcers and acolytes</div><div style="display:grid;grid-template-columns:repeat(4,1fr);gap:8px"><figure style="margin:0"><img src="img/bestiary/sharran-harrow-vane.jpg" alt="Harrow Vane, high priest of the Iris" style="width:100%"><figcaption style="font-size:9pt">Harrow Vane, high priest of the Iris</figcaption></figure><figure style="margin:0"><img src="img/bestiary/sharran-zealot.jpg" alt="A zealot" style="width:100%"><figcaption style="font-size:9pt">A zealot</figcaption></figure><figure style="margin:0"><img src="img/bestiary/sharran-enforcer.jpg" alt="An enforcer" style="width:100%"><figcaption style="font-size:9pt">An enforcer</figcaption></figure><figure style="margin:0"><img src="img/bestiary/sharran-acolyte.jpg" alt="An acolyte" style="width:100%"><figcaption style="font-size:9pt">An acolyte</figcaption></figure></div><p class="lead"><em>The Faithful of the Lady of Loss</em></p><blockquote><p>She does not ask you to love the dark. Only to set down what you are carrying.</p><p style="text-align:right"><em>—the offer, made in<br>a thousand towns</em></p></blockquote><p>Shar is the Lady of Loss, mistress of night, secrets, and forgetting. Her clergy recruit with relief rather than threats: they look for people in the worst part of a grief and offer to take the memory away. Most of the faithful came to her exactly that way and remember the bargain as a kindness. A Sharran is rarely a fanatic. He is usually somebody who was helped, and stayed.</p><p>On that mercy the church builds a doctrine. A grief allowed to run its course is spent and gone; a grief kept open never runs dry. So the order does not heal sorrow — it cultivates it, in itself and in others, and counts the work holy. Sharran houses are built underground or inside old ruins, keep to night hours, and are generally tolerated by neighbours who have no idea what they are.</p><p>The faithful are living folk, never undead; Shar's church has no use for corpses. Its ranks run roughly four ways. <strong>Acolytes</strong> are the newest and do most of the casting — darkness, holding words, guardian spirits. <strong>Zealots</strong> are the devout rank and file, plainly equipped and hard to rout. <strong>Enforcers</strong> are trained soldiers in the order's pay, armed with polearms and blades, who fight like veterans and tend to pick the weakest figure in a line and stay on it. <strong>Priests</strong> are few and dangerous out of all proportion to their number: necrotic magic spent freely, authority over a whole house, and spells enough to simply leave a fight going badly.</p><p>They talk before they draw, and the offer is sincere. Refusing it does not offend them — patience costs the church nothing, and the offer will be made again. They take prisoners for purposes they do not explain. They are hard to intimidate, since a person whose worst memory has already been taken has little left to threaten. And they answer upward, always, to somebody the traveller has not met.</p></div></div>
+<div class="entry"><div><figure style="margin:0 0 .6em"><img src="img/bestiary/shambling-mound.jpg" alt="Shambling Mound"></figure></div><div><h3>Shambling Mound</h3><div class="met">Chapter VIII · the drowned temple of the Wyrmwood</div><p class="lead"><em>Manifestation of Primeval Power</em></p><p>Shambling mounds—also known as “shamblers”—embody the tenacity of the wilderness, seeking only to consume and grow. These masses of vegetation rise up to half again as tall as a human and possess thick limbs and a vague head. As they move through bogs and undergrowth, they ensnare creatures that come within reach. Shambling mounds bury those they catch within their own forms as compost.</p><p>Strange circumstances might give rise to shambling mounds, transforming vegetation into hulks with rudimentary cunning. Such conditions include strikes from magical lightning, nature defending itself, or druidic curses. </p></div></div>
+<div class="entry"><div><figure style="margin:0 0 .6em"><img src="img/bestiary/druid-world.jpg" alt="The Wyrmwood&#x27;s druid"><figcaption>The Wyrmwood&#x27;s druid</figcaption></figure></div><div><h3>Druid</h3><div class="met">Chapter VIII · the geased druid of the Wyrmwood — “must serve the master”</div><p class="lead"><em>Steward and Sage of Nature</em></p><p>Druids use primal magic, traditional teachings, and bonds with animals and eldritch beings to guard the natural world and heal its ills. These magic-users might be recluses devoted to a particular land, or they might be part of a mystic organization. </p></div></div>
+<div class="entry"><div><figure style="margin:0 0 .6em"><img src="img/bestiary/giant-crocodile.jpg" alt="A giant crocodile"><figcaption>A giant crocodile</figcaption></figure></div><div><h3>Giant Crocodile</h3><div class="met">Chapter VIII · the Wyrmwood's flooded hall</div><p class="lead"><em>Ambush Hunters of Deep Water</em></p><p>A giant crocodile is a crocodile grown to enormous size: a huge, thick-hided beast that lumbers on land but swims far faster than it walks, and can stay beneath the water for an hour at a stretch.</p><p>It fights with jaws and tail. The bite clamps down and holds on — anything up to the size of a horse is seized and pinned, able to do little but struggle while the crocodile keeps it. The tail sweeps smaller creatures clean off their feet.</p><p>Giant crocodiles are animals, not monsters: hungry and patient rather than cruel. In the Wyrmwood they drifted through the flooded halls of a sunken temple, indifferent until something stepped into the water. They lay under the green dragon's influence there, and when he died they simply swam away into the deep.</p></div></div>
+<div class="entry"><div><figure style="margin:0 0 .6em"><img src="img/bestiary/green-dragons.jpg" alt="Bramblemaw"><figcaption>Bramblemaw</figcaption></figure></div><div><h3>Green Dragons</h3><div class="met">Chapter VIII · Bramblemaw</div><p class="lead"><em>Dragons of Deceit and Derision</em></p><p>From forbidden forest depths, green dragons whisper evils into the world and manipulate the lives of those who listen. Elusive, conniving, and egotistical, these chromatic dragons patiently prey on the fears of shorter-lived beings, corrupting and isolating them. Green dragons might lurk amid labyrinthine wildernesses for centuries without revealing themselves; even their most devoted followers might know them only as the voice of the woodlands or a whisper in their dreams.</p><p>Despite their might, most green dragons disdain physical violence, viewing combat as servants’ work and preferring to trick foes into dangerous or exploitative scenarios. These dragons collect “baubles” that embody their webs of manipulation and serve as tools of extortion, such as compromising documents, family heirlooms, and sentimental treasures.</p></div></div>
+</section>
+</div></body></html>

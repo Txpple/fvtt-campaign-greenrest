@@ -1,0 +1,18 @@
+{
+  "key": "fvtt-mod-battleflow.damageTimer",
+  "user": null,
+  "value": "24",
+  "_id": "W7A4yiPrwPScmDen",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1787710241060,
+    "modifiedTime": 1787849935527,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!W7A4yiPrwPScmDen"
+}

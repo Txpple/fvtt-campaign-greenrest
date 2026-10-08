@@ -1,0 +1,57 @@
+{
+  "name": "Volo's Guide to Monsters (Annotated)",
+  "type": "loot",
+  "img": "icons/sundries/books/book-worn-brown.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>A battered, swamp-swollen copy of</em> Volo's Guide to Monsters<em>, its spine broken to fall open at the chapter on hags. The margins of that chapter are dense with annotation in three distinct hands — spidery, blocky, and small — trading the same verdict line after line:</em></p><p>\"wrong.\"  \"wrong.\"  \"WRONG.\"</p><p><em>And once, beside a passage on the unbreakable bond of a coven of three, in the smallest of the three hands:</em></p><p>\"…fair.\"</p>",
+      "chat": ""
+    },
+    "quantity": 1,
+    "price": {
+      "value": 5,
+      "denomination": "gp"
+    },
+    "weight": {
+      "value": 3,
+      "units": "lb"
+    },
+    "rarity": "",
+    "identified": true,
+    "type": {
+      "value": "junk",
+      "subtype": ""
+    },
+    "identifier": "volos-guide-annotated",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": []
+  },
+  "folder": "RxxShy6nmWycOcq7",
+  "_id": "efOhIgdJuNiRKwOX",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1787965873014,
+    "modifiedTime": 1787965873024,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!efOhIgdJuNiRKwOX"
+}

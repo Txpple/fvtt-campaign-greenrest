@@ -1,0 +1,28 @@
+{
+  "name": "Hobgoblins",
+  "type": "Item",
+  "color": "#6a9358",
+  "folder": "wOxU9hTraHn7Uijq",
+  "flags": {
+    "world": {
+      "mcpGenerated": true,
+      "createdAt": "2026-07-03T01:01:20.424Z"
+    }
+  },
+  "_id": "GomGW5gxmCQSJTRe",
+  "description": "",
+  "sorting": "a",
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783040477659,
+    "modifiedTime": 1783084580116,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!GomGW5gxmCQSJTRe"
+}

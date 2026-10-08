@@ -1,0 +1,28 @@
+{
+  "name": "09 - Conclusion",
+  "type": "Actor",
+  "color": "#b5577a",
+  "folder": null,
+  "flags": {
+    "world": {
+      "mcpGenerated": false,
+      "createdAt": "2026-09-27T15:03:50.428Z"
+    }
+  },
+  "_id": "uzPJQACjcJQIEmIg",
+  "description": "",
+  "sorting": "a",
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.5",
+    "createdTime": 1790521429744,
+    "modifiedTime": 1790521429744,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!uzPJQACjcJQIEmIg"
+}

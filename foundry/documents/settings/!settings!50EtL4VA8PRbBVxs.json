@@ -1,0 +1,18 @@
+{
+  "key": "fvtt-mod-combatplus.lockMovement",
+  "user": null,
+  "value": "true",
+  "_id": "50EtL4VA8PRbBVxs",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783694343571,
+    "modifiedTime": 1783694343571,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!50EtL4VA8PRbBVxs"
+}

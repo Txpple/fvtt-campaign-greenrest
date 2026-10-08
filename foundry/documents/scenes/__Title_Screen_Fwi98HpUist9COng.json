@@ -1,0 +1,554 @@
+{
+  "name": "✦ Title Screen",
+  "grid": {
+    "size": 100,
+    "type": 0,
+    "alpha": 0,
+    "style": "solidLines",
+    "thickness": 1,
+    "color": "#000000",
+    "distance": 5,
+    "units": "ft"
+  },
+  "padding": 0,
+  "width": 2560,
+  "height": 1600,
+  "navigation": true,
+  "tokenVision": false,
+  "fog": {
+    "mode": 0,
+    "colors": {
+      "explored": null,
+      "unexplored": null
+    }
+  },
+  "environment": {
+    "darknessLevel": 0.5,
+    "globalLight": {
+      "enabled": false,
+      "alpha": 0.5,
+      "bright": false,
+      "color": null,
+      "coloration": 1,
+      "luminosity": 0,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "darknessLock": false,
+    "cycle": true,
+    "base": {
+      "hue": 0,
+      "intensity": 0,
+      "luminosity": 0,
+      "saturation": 0,
+      "shadows": 0
+    },
+    "dark": {
+      "hue": 0.7138888888888889,
+      "intensity": 0,
+      "luminosity": -0.25,
+      "saturation": 0,
+      "shadows": 0
+    }
+  },
+  "weather": "leaves",
+  "playlist": "S591D6YzrBcz9x4j",
+  "journal": "j7mzH8VYaO2LH4Qe",
+  "initial": {
+    "x": 1280,
+    "y": 800,
+    "scale": 0.45
+  },
+  "_id": "Fwi98HpUist9COng",
+  "active": true,
+  "navOrder": 0,
+  "thumb": "worlds/the-broken-heart-of-greenrest/assets/scenes/thumb-Uae70lLAmZViqaTdEM82dA.webp",
+  "shiftX": 0,
+  "shiftY": 0,
+  "initialLevel": "defaultLevel0000",
+  "transition": {
+    "type": null,
+    "duration": 1500,
+    "activeOnly": false
+  },
+  "drawings": [],
+  "tokens": [],
+  "levels": [
+    {
+      "_id": "defaultLevel0000",
+      "name": "Level",
+      "elevation": {
+        "top": 20,
+        "bottom": 0
+      },
+      "background": {
+        "color": "#999999",
+        "src": "worlds/the-broken-heart-of-greenrest/assets/ui/heartknot-heartbeat.webm",
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "foreground": {
+        "src": null,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "fog": {
+        "src": null
+      },
+      "textures": {
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0
+      },
+      "visibility": {
+        "levels": []
+      },
+      "sort": 0,
+      "flags": {},
+      "_key": "!scenes.levels!Fwi98HpUist9COng.defaultLevel0000"
+    }
+  ],
+  "lights": [
+    {
+      "x": 785,
+      "y": 1250,
+      "config": {
+        "dim": 11,
+        "bright": 4,
+        "negative": false,
+        "priority": 0,
+        "alpha": 0.5,
+        "angle": 360,
+        "color": null,
+        "coloration": 1,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "_id": "m4JGZa2kUX2ffS5U",
+      "elevation": 0,
+      "levels": [],
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "hidden": false,
+      "locked": false,
+      "flags": {},
+      "_key": "!scenes.lights!Fwi98HpUist9COng.m4JGZa2kUX2ffS5U"
+    },
+    {
+      "x": 1115,
+      "y": 1250,
+      "config": {
+        "dim": 11,
+        "bright": 4,
+        "negative": false,
+        "priority": 0,
+        "alpha": 0.5,
+        "angle": 360,
+        "color": null,
+        "coloration": 1,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "_id": "5a2tA8W6IYawEmcB",
+      "elevation": 0,
+      "levels": [],
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "hidden": false,
+      "locked": false,
+      "flags": {},
+      "_key": "!scenes.lights!Fwi98HpUist9COng.5a2tA8W6IYawEmcB"
+    },
+    {
+      "x": 1445,
+      "y": 1250,
+      "config": {
+        "dim": 11,
+        "bright": 4,
+        "negative": false,
+        "priority": 0,
+        "alpha": 0.5,
+        "angle": 360,
+        "color": null,
+        "coloration": 1,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "_id": "qzG8kwCz4L9Trc9z",
+      "elevation": 0,
+      "levels": [],
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "hidden": false,
+      "locked": false,
+      "flags": {},
+      "_key": "!scenes.lights!Fwi98HpUist9COng.qzG8kwCz4L9Trc9z"
+    },
+    {
+      "x": 1775,
+      "y": 1250,
+      "config": {
+        "dim": 11,
+        "bright": 4,
+        "negative": false,
+        "priority": 0,
+        "alpha": 0.5,
+        "angle": 360,
+        "color": null,
+        "coloration": 1,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "_id": "S2c6SjU6t3yx8q5W",
+      "elevation": 0,
+      "levels": [],
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "hidden": false,
+      "locked": false,
+      "flags": {},
+      "_key": "!scenes.lights!Fwi98HpUist9COng.S2c6SjU6t3yx8q5W"
+    },
+    {
+      "x": 1290,
+      "y": 790,
+      "config": {
+        "dim": 20,
+        "bright": 7,
+        "negative": false,
+        "priority": 0,
+        "alpha": 0.5,
+        "angle": 360,
+        "color": null,
+        "coloration": 1,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "_id": "iopAaJ6QqPoYVO9C",
+      "elevation": 0,
+      "levels": [],
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "hidden": false,
+      "locked": false,
+      "flags": {},
+      "_key": "!scenes.lights!Fwi98HpUist9COng.iopAaJ6QqPoYVO9C"
+    }
+  ],
+  "notes": [
+    {
+      "entryId": "Sul8MunzAk2IWGQ4",
+      "x": 785,
+      "y": 1250,
+      "iconSize": 200,
+      "texture": {
+        "src": "worlds/the-broken-heart-of-greenrest/assets/ui/btn-duskheart.webp",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "alphaThreshold": 0
+      },
+      "_id": "aMGAc8G6TbJWf0Wm",
+      "author": "EtG3ba47F3LHz0QC",
+      "pageId": null,
+      "elevation": 0,
+      "levels": [],
+      "sort": 2,
+      "locked": false,
+      "fontFamily": "",
+      "fontSize": 32,
+      "textAnchor": 1,
+      "textColor": "#ffffff",
+      "global": true,
+      "flags": {},
+      "text": "Handouts",
+      "_key": "!scenes.notes!Fwi98HpUist9COng.aMGAc8G6TbJWf0Wm"
+    },
+    {
+      "entryId": "nkomyeq2r17gdKZC",
+      "x": 1115,
+      "y": 1250,
+      "text": "What You Know",
+      "iconSize": 200,
+      "global": true,
+      "texture": {
+        "src": "worlds/the-broken-heart-of-greenrest/assets/ui/btn-graveheart.webp",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "alphaThreshold": 0
+      },
+      "_id": "RdUTzYcXGNSzjqSf",
+      "author": "EtG3ba47F3LHz0QC",
+      "pageId": null,
+      "elevation": 0,
+      "levels": [],
+      "sort": 3,
+      "locked": false,
+      "fontFamily": "",
+      "fontSize": 32,
+      "textAnchor": 1,
+      "textColor": "#ffffff",
+      "flags": {},
+      "_key": "!scenes.notes!Fwi98HpUist9COng.RdUTzYcXGNSzjqSf"
+    },
+    {
+      "entryId": "05KQ5Pi32FoRWrQh",
+      "x": 1445,
+      "y": 1250,
+      "text": "Session Diary",
+      "iconSize": 200,
+      "global": true,
+      "texture": {
+        "src": "worlds/the-broken-heart-of-greenrest/assets/ui/btn-thornheart.webp",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "alphaThreshold": 0
+      },
+      "_id": "NmaqiU6atyoRPk0o",
+      "author": "EtG3ba47F3LHz0QC",
+      "pageId": null,
+      "elevation": 0,
+      "levels": [],
+      "sort": 3,
+      "locked": false,
+      "fontFamily": "",
+      "fontSize": 32,
+      "textAnchor": 1,
+      "textColor": "#ffffff",
+      "flags": {},
+      "_key": "!scenes.notes!Fwi98HpUist9COng.NmaqiU6atyoRPk0o"
+    },
+    {
+      "entryId": "xUdHg0J4xbZMKmgC",
+      "x": 1775,
+      "y": 1250,
+      "text": "Backstories",
+      "iconSize": 200,
+      "global": true,
+      "texture": {
+        "src": "worlds/the-broken-heart-of-greenrest/assets/ui/btn-tideheart.webp",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "alphaThreshold": 0
+      },
+      "_id": "F0ptX3Bt9NLeSTNj",
+      "author": "EtG3ba47F3LHz0QC",
+      "pageId": null,
+      "elevation": 0,
+      "levels": [],
+      "sort": 3,
+      "locked": false,
+      "fontFamily": "",
+      "fontSize": 32,
+      "textAnchor": 1,
+      "textColor": "#ffffff",
+      "flags": {},
+      "_key": "!scenes.notes!Fwi98HpUist9COng.F0ptX3Bt9NLeSTNj"
+    }
+  ],
+  "sounds": [],
+  "regions": [],
+  "tiles": [
+    {
+      "texture": {
+        "src": "worlds/the-broken-heart-of-greenrest/assets/ui/landing-vignette.webp",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "x": 1280,
+      "y": 800,
+      "width": 2560,
+      "height": 1600,
+      "sort": 10,
+      "locked": true,
+      "_id": "hWR1jqvBCj23sELx",
+      "elevation": 0,
+      "levels": [],
+      "rotation": 0,
+      "alpha": 0.9,
+      "hidden": false,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "occlusion": {
+        "modes": [],
+        "alpha": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_key": "!scenes.tiles!Fwi98HpUist9COng.hWR1jqvBCj23sELx"
+    },
+    {
+      "texture": {
+        "src": "worlds/the-broken-heart-of-greenrest/assets/ui/landing-title.webp",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "x": 1280,
+      "y": 239,
+      "width": 1400,
+      "height": 288,
+      "sort": 30,
+      "locked": true,
+      "_id": "ZaO9Fq3Z7NL3NOTx",
+      "elevation": 0,
+      "levels": [],
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "occlusion": {
+        "modes": [],
+        "alpha": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "_key": "!scenes.tiles!Fwi98HpUist9COng.ZaO9Fq3Z7NL3NOTx"
+    }
+  ],
+  "walls": [],
+  "playlistSound": null,
+  "journalEntryPage": null,
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {
+    "fvtt-mod-autoexplore": {
+      "enabled": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.5",
+    "createdTime": 1790815660245,
+    "modifiedTime": 1790817499413,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "navName": "",
+  "_key": "!scenes!Fwi98HpUist9COng",
+  "templates": []
+}

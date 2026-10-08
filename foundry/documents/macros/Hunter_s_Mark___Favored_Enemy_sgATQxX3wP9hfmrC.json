@@ -1,0 +1,32 @@
+{
+  "type": "script",
+  "scope": "actor",
+  "name": "Hunter's Mark - Favored Enemy",
+  "img": "icons/skills/targeting/crosshair-scope-sniper-green.webp",
+  "command": "dnd5e.documents.macro.rollItem(\"Hunter's Mark - Favored Enemy\", { event })",
+  "flags": {
+    "dnd5e": {
+      "itemMacro": true
+    }
+  },
+  "_id": "sgATQxX3wP9hfmrC",
+  "author": "LVDVg5n3IGEBCWns",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "LVDVg5n3IGEBCWns": 3
+  },
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1787096473987,
+    "modifiedTime": 1787096473987,
+    "lastModifiedBy": "LVDVg5n3IGEBCWns",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!macros!sgATQxX3wP9hfmrC"
+}

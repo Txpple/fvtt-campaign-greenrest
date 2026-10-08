@@ -1,0 +1,588 @@
+{
+  "name": "Vesper Staff",
+  "type": "weapon",
+  "img": "icons/weapons/staves/staff-simple-gold.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>A staff of black ash capped with a lens of smoked glass. Held up to a light, the lens does not darken the light — it darkens the eye that looks through it.</em></p><p><strong>Staff, very rare (requires attunement by a Cleric, Sorcerer, or Wizard)</strong></p><p>This staff can be wielded as a magic Quarterstaff. You gain a <strong>+2 bonus</strong> to attack rolls and damage rolls made with it. While holding it, you also gain a <strong>+2 bonus</strong> to spell attack rolls and to the saving throw DCs of your spells.</p><p><strong>Spells.</strong> The staff has <strong>10 charges</strong> and regains <strong>1d6 + 4</strong> expended charges daily at dawn. While holding it, you can expend charges to cast one of the following spells from it, using your spell save DC: <em>Darkness</em> (2 charges), <em>Invisibility</em> (2 charges), <em>Dispel Magic</em> (3 charges), or <em>Counterspell</em> (3 charges).</p>",
+      "chat": ""
+    },
+    "quantity": 1,
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "weight": {
+      "value": 4,
+      "units": "lb"
+    },
+    "rarity": "veryRare",
+    "identified": true,
+    "equipped": false,
+    "attunement": "required",
+    "attuned": false,
+    "properties": [
+      "ver",
+      "mgc"
+    ],
+    "type": {
+      "value": "simpleM",
+      "baseItem": "quarterstaff"
+    },
+    "damage": {
+      "base": {
+        "number": 1,
+        "denomination": 6,
+        "types": [
+          "bludgeoning"
+        ],
+        "bonus": "",
+        "scaling": {
+          "mode": "",
+          "number": 1
+        },
+        "custom": {
+          "enabled": false
+        }
+      },
+      "versatile": {
+        "number": 1,
+        "denomination": 8,
+        "types": [
+          "bludgeoning"
+        ],
+        "bonus": "",
+        "scaling": {
+          "mode": "",
+          "number": 1
+        },
+        "custom": {
+          "enabled": false
+        }
+      }
+    },
+    "magicalBonus": "2",
+    "range": {
+      "value": null,
+      "long": null,
+      "units": "ft"
+    },
+    "activities": {
+      "rfAp1tOlJbCWUiqt": {
+        "_id": "rfAp1tOlJbCWUiqt",
+        "type": "attack",
+        "name": "",
+        "img": "",
+        "sort": 0,
+        "description": {},
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "duration": {
+          "units": "inst",
+          "value": "",
+          "override": false,
+          "concentration": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": "ft",
+            "stationary": false
+          },
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "prompt": true,
+          "override": false
+        },
+        "range": {
+          "units": "self",
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": []
+        },
+        "consumption": {
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true
+        },
+        "attack": {
+          "ability": "",
+          "bonus": "",
+          "critical": {
+            "threshold": null
+          },
+          "flat": false,
+          "type": {
+            "value": "melee",
+            "classification": ""
+          }
+        },
+        "damage": {
+          "critical": {
+            "bonus": ""
+          },
+          "includeBase": true,
+          "parts": []
+        },
+        "effects": [],
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        }
+      },
+      "m5QYGd9QiPXWq82l": {
+        "_id": "m5QYGd9QiPXWq82l",
+        "type": "cast",
+        "name": "Darkness",
+        "img": "",
+        "sort": 0,
+        "spell": {
+          "uuid": "Compendium.dnd-players-handbook.spells.Item.phbsplDarkness00",
+          "challenge": {
+            "attack": null,
+            "override": false
+          },
+          "level": 2,
+          "properties": [
+            "vocal",
+            "material"
+          ],
+          "spellbook": true
+        },
+        "activation": {
+          "type": "action",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": false,
+          "targets": [
+            {
+              "type": "itemUses",
+              "value": "2",
+              "target": "",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "range": {
+          "override": false,
+          "units": "self"
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft",
+            "stationary": false
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        }
+      },
+      "nqMFfNWrjCFl1jrx": {
+        "_id": "nqMFfNWrjCFl1jrx",
+        "type": "cast",
+        "name": "Invisibility",
+        "img": "",
+        "sort": 0,
+        "spell": {
+          "uuid": "Compendium.dnd-players-handbook.spells.Item.phbsplInvisibili",
+          "challenge": {
+            "attack": null,
+            "override": false
+          },
+          "level": 2,
+          "properties": [
+            "vocal",
+            "somatic",
+            "material"
+          ],
+          "spellbook": true
+        },
+        "activation": {
+          "type": "action",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": false,
+          "targets": [
+            {
+              "type": "itemUses",
+              "value": "2",
+              "target": "",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "range": {
+          "override": false,
+          "units": "self"
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft",
+            "stationary": false
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        }
+      },
+      "YZC3ZTd6EXJEz4FP": {
+        "_id": "YZC3ZTd6EXJEz4FP",
+        "type": "cast",
+        "name": "Dispel Magic",
+        "img": "",
+        "sort": 0,
+        "spell": {
+          "uuid": "Compendium.dnd-players-handbook.spells.Item.phbsplDispelMagi",
+          "challenge": {
+            "attack": null,
+            "override": false
+          },
+          "level": 3,
+          "properties": [
+            "vocal",
+            "somatic"
+          ],
+          "spellbook": true
+        },
+        "activation": {
+          "type": "action",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": false,
+          "targets": [
+            {
+              "type": "itemUses",
+              "value": "3",
+              "target": "",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "range": {
+          "override": false,
+          "units": "self"
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft",
+            "stationary": false
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        }
+      },
+      "8abeQgu3E9nEUB3c": {
+        "_id": "8abeQgu3E9nEUB3c",
+        "type": "cast",
+        "name": "Counterspell",
+        "img": "",
+        "sort": 0,
+        "spell": {
+          "uuid": "Compendium.dnd-players-handbook.spells.Item.phbsplCounterspe",
+          "challenge": {
+            "attack": null,
+            "override": false
+          },
+          "level": 3,
+          "properties": [
+            "somatic"
+          ],
+          "spellbook": true
+        },
+        "activation": {
+          "type": "reaction",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": false,
+          "targets": [
+            {
+              "type": "itemUses",
+              "value": "3",
+              "target": "",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "range": {
+          "override": false,
+          "units": "self"
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft",
+            "stationary": false
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "recovery": [
+        {
+          "period": "dawn",
+          "type": "formula",
+          "formula": "1d6 + 4"
+        }
+      ],
+      "max": "10"
+    },
+    "identifier": "vesper-staff",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "crew": {
+      "value": []
+    },
+    "ammunition": {},
+    "armor": {},
+    "proficient": null
+  },
+  "folder": "HQ0QPGSivrbQkc6C",
+  "_id": "6pRQPno3cxznWhd9",
+  "effects": [
+    {
+      "name": "Vesper Staff",
+      "img": "icons/weapons/staves/staff-simple-gold.webp",
+      "disabled": false,
+      "transfer": true,
+      "description": "<p>While holding the Vesper Staff: +2 to spell attack rolls and +2 to spell save DCs.</p>",
+      "system": {
+        "changes": [
+          {
+            "key": "system.bonuses.spell.dc",
+            "value": 2,
+            "type": "add",
+            "phase": "initial",
+            "_id": "wNEGE9k7cwHkO5FG",
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.bonuses.msak.attack",
+            "value": 2,
+            "type": "add",
+            "phase": "initial",
+            "_id": "sOTaEwmd2RnkkyPx",
+            "conditions": "{}",
+            "replacement": ""
+          },
+          {
+            "key": "system.bonuses.rsak.attack",
+            "value": 2,
+            "type": "add",
+            "phase": "initial",
+            "_id": "jWvcp6UVyPlF9EV2",
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "magical": true
+      },
+      "_id": "K1xPB94LsOMfddY4",
+      "type": "base",
+      "start": null,
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "origin": null,
+      "tint": "#ffffff",
+      "statuses": [],
+      "showIcon": 1,
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1788549051628,
+        "modifiedTime": 1790016577973,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!items.effects!6pRQPno3cxznWhd9.K1xPB94LsOMfddY4"
+    }
+  ],
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1788548982595,
+    "modifiedTime": 1790016577973,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!6pRQPno3cxznWhd9"
+}

@@ -1,0 +1,18 @@
+{
+  "key": "fvtt-mod-combatplus.selectCombatant",
+  "user": null,
+  "value": "true",
+  "_id": "ZZ7c3W86DyzD5pCu",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783694343742,
+    "modifiedTime": 1783694343742,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!ZZ7c3W86DyzD5pCu"
+}

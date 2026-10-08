@@ -1,0 +1,18 @@
+{
+  "key": "fvtt-mod-battleflow.suppressSpellCards",
+  "user": null,
+  "value": "true",
+  "_id": "shon78ZjEENTc0tW",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1786853351071,
+    "modifiedTime": 1786853351071,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!shon78ZjEENTc0tW"
+}

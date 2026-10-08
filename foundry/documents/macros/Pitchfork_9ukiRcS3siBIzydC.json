@@ -1,0 +1,32 @@
+{
+  "type": "script",
+  "scope": "actor",
+  "name": "Pitchfork",
+  "img": "worlds/the-broken-heart-of-greenrest/assets/icons/pitchfork.png",
+  "command": "dnd5e.documents.macro.rollItem(\"Pitchfork\", { event })",
+  "flags": {
+    "dnd5e": {
+      "itemMacro": true
+    }
+  },
+  "_id": "9ukiRcS3siBIzydC",
+  "author": "fsPwfDarpkUyzlhz",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "fsPwfDarpkUyzlhz": 3
+  },
+  "_stats": {
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.5",
+    "createdTime": 1790728122161,
+    "modifiedTime": 1790728122162,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!macros!9ukiRcS3siBIzydC"
+}

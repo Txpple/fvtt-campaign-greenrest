@@ -1,0 +1,64 @@
+{
+  "name": "Temple Encounter 02",
+  "pages": [
+    {
+      "type": "text",
+      "name": "Temple Encounter 02",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><p class=\"lead\">Quick read-aloud — entering the temple. Full threshold + descent (clues at the mouth, the dark below) in @UUID[JournalEntry.rfb9vfKtJln53vdC.JournalEntryPage.HYkaVSYFJoIhAi3v]{Misty Forest GM Key — The Cave Mouth and the Descent}.</p><div class=\"readaloud\"><p>The cleft breathes as you reach it — a slow roll of cold air across your ankles, wet stone and old smoke and, beneath it, something sweetly rotten. Pale strands of silk cross the opening at odd angles, trembling at the movement of the air and at yours. A few steps in, the cave stops being a cave: rough rock gives way to fitted blocks of dressed stone, squared and set by hands long dead — this place was built, and with care, then sealed and struck from memory. Something was carved deep into these walls once; you can feel the grooves beneath the grime, and you can feel that something later took great pains to claw every image of it away. The grey light of the mist dies behind you, the dark ahead swallows everything, and from somewhere below comes a dry, patient sound — like fingers testing a taut string.</p></div></div></section>",
+        "format": 1
+      },
+      "_id": "xen9OTrT41LS64jw",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1783619742085,
+        "modifiedTime": 1783619742085,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!UngK8IoIUlt1r7X1.xen9OTrT41LS64jw"
+    }
+  ],
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "folder": "1x1aqmuIbAwqab65",
+  "_id": "UngK8IoIUlt1r7X1",
+  "categories": [],
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783619742085,
+    "modifiedTime": 1783619742086,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!UngK8IoIUlt1r7X1"
+}

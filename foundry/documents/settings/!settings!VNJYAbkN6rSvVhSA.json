@@ -1,0 +1,18 @@
+{
+  "key": "fvtt-mod-battleflow.maneuverFolds",
+  "user": null,
+  "value": "\"Precision Attack:precision, Riposte:riposte, Shield Master:interpose, Shield Master:bash, Great Weapon Master:hew, Commander's Strike:command, Tavern Brawler:shove, Crusher:shove, Polearm Master:hew\"",
+  "_id": "VNJYAbkN6rSvVhSA",
+  "_stats": {
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1787710241096,
+    "modifiedTime": 1790520676456,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!VNJYAbkN6rSvVhSA"
+}

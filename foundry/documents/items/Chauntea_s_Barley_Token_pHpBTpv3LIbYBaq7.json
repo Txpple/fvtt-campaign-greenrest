@@ -1,0 +1,57 @@
+{
+  "name": "Chauntea's Barley-Token",
+  "type": "loot",
+  "img": "icons/sundries/flags/banner-symbol-sun-gold-red.webp",
+  "system": {
+    "description": {
+      "value": "<p>A small wooden disc, sanded smooth and stamped with a sheaf of grain — the mark of Chauntea, the Great Mother. Brother Tobin presses one on every traveller he blesses, <em>“for a full belly and a soft road.”</em> It is worth nothing and means a good deal.</p>",
+      "chat": ""
+    },
+    "quantity": 1,
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "rarity": "",
+    "identified": true,
+    "properties": [],
+    "type": {
+      "value": "junk",
+      "subtype": ""
+    },
+    "identifier": "chaunteas-barley-token",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "container": null
+  },
+  "folder": "d0YzQsbDfWa7x4kj",
+  "_id": "pHpBTpv3LIbYBaq7",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783036242096,
+    "modifiedTime": 1783036242096,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!pHpBTpv3LIbYBaq7"
+}

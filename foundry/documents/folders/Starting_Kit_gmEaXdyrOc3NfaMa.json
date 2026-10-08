@@ -1,0 +1,28 @@
+{
+  "name": "Starting Kit",
+  "type": "Item",
+  "folder": "i7QI8f8TnbkZGnuR",
+  "flags": {
+    "world": {
+      "mcpGenerated": true,
+      "createdAt": "2026-07-05T13:20:19.220Z"
+    }
+  },
+  "_id": "gmEaXdyrOc3NfaMa",
+  "description": "",
+  "sorting": "a",
+  "sort": 0,
+  "color": "#c2913f",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1783257617823,
+    "modifiedTime": 1786552848755,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!gmEaXdyrOc3NfaMa"
+}

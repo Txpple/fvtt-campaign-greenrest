@@ -1,0 +1,689 @@
+{
+  "name": "Bestiary",
+  "folder": "VQIbehh9eXDVwnpX",
+  "ownership": {
+    "default": 2,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "_id": "XhUeHKl1bSHDx8lp",
+  "pages": [
+    {
+      "name": "Blights",
+      "type": "text",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><figure style=\"margin:0 0 0.75em\"><img src=\"worlds/the-broken-heart-of-greenrest/assets/journal/twig-blights.png\" alt=\"Twig blights\" style=\"max-width:100%;border-radius:4px\"><figcaption style=\"text-align:center;font-size:0.9em;opacity:0.75\">Twig blights</figcaption></figure><figure style=\"margin:0 0 0.75em\"><img src=\"worlds/the-broken-heart-of-greenrest/assets/journal/vine-blights.png\" alt=\"A vine blight (left) and a needle blight, with a tree blight looming behind\" style=\"max-width:100%;border-radius:4px\"><figcaption style=\"text-align:center;font-size:0.9em;opacity:0.75\">A vine blight (left) and a needle blight, with a tree blight looming behind</figcaption></figure><p class=\"lead\"><em>Plants Sprouted from Evil</em></p><blockquote><p>It lives, though it looks dead. In an age long past, someone staked a vampire to the earth on this very spot. The wooden stake was yet green and took root. And so grew the Gulthias Tree, reverberating with primal power.</p><p style=\"text-align:right\"><em>—Belak the Outcast,<br>druid of the Twilight Grove</em></p></blockquote><p>Blights are malicious plants that sprout from deep-rooted evil. Their gnarled forms twist with fearsome features suggestive of human limbs and vicious maws. Blights lurk in ambush amid mundane vegetation and lash out at non-Plant creatures. While blights can act independently, they’re usually motivated by whatever sinister forces spawned them or by wicked creatures with control over nature. The magic that creates blights often affects other vegetation as well, causing brambles, vines, and gnarled trees to overwhelm roads and fields, choke wells and streams, and force animals from their natural habitat. This might make blights the first sign of an oncoming wave of corruption.</p></div></section>",
+        "format": 1
+      },
+      "ownership": {
+        "default": 2,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "_id": "XeaQ5K8rJX6CxUGq",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 200,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786195001007,
+        "modifiedTime": 1790168007893,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!XhUeHKl1bSHDx8lp.XeaQ5K8rJX6CxUGq"
+    },
+    {
+      "name": "Displacer Beast",
+      "type": "text",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><img src=\"worlds/the-broken-heart-of-greenrest/assets/journal/displacer-beasts.png\" alt=\"\" style=\"max-width:100%;border-radius:4px;margin-bottom:0.75em\"><p class=\"lead\"><em>Deceptive Feline Stalker</em></p><p>A displacer beast resembles a gaunt, six-legged panther with a barbed tentacle sprouting from each of its shoulders. This predator uses innate magic to displace light so it appears to be several feet away from its actual location.</p><blockquote><p>The murderous fury of a displacer beast is fit only for nightmares, of which I’ve been haunted since narrowly escaping one’s ambush. I’m certain that beast stalks me still.</p><p style=\"text-align:right\"><em>—Jen-Ahb, naturalist<br>and displacer beast survivor</em></p></blockquote><p>Displacer beasts hunt not just to feed but because they enjoy killing. Once displacer beasts begin stalking prey, they can’t be deterred until either they or their quarry is slain. While displacer beasts commonly inhabit dense forests, they might pursue travelers across great distances and even into cities or dungeons. More cunning than mere animals, these predators might set ambushes or lie hidden for days to bring down their prey.</p><p>Displacer beasts sometimes pursue prey through portals to other planes of existence. As a result, these predators can be found across the multiverse, particularly on the worlds of the Material Plane, in the Shadowfell, and in the Feywild. These restless hunters can destroy a land’s natural balance and drive other creatures to extinction. As a result, many druid circles and Fey view displacer beasts as deadly threats.</p></div></section>",
+        "format": 1
+      },
+      "ownership": {
+        "default": 2,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "_id": "FWaaFjLlf0xTEiS0",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 400,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786195052250,
+        "modifiedTime": 1790168007894,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!XhUeHKl1bSHDx8lp.FWaaFjLlf0xTEiS0"
+    },
+    {
+      "name": "Ettercap",
+      "type": "text",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><img src=\"worlds/the-broken-heart-of-greenrest/assets/journal/ettercap.png\" alt=\"\" style=\"max-width:100%;border-radius:4px;margin-bottom:0.75em\"><p class=\"lead\"><em>Venomous Arachnid Abductor</em></p><p>Spiderlike hunters, ettercaps lurk in forested depths and seek prey to drag into their web-choked lairs. These vicious predators have arachnid features and hunched, bipedal frames, and they’re notorious for their venomous bites and ability to shoot out webs to entrap their victims. Ettercaps often hunt in small groups alongside giant spiders and mundane spider swarms.</p><p>Ettercaps frequently overhunt their environment. Left unchecked, ettercaps might fill whole woodlands with their webs and the cocooned remains of past meals, which puts ettercaps in conflict with Fey. Spiteful ettercaps go out of their way to torment and feed on Fey; they prefer to menace those smaller than themselves, like pixies and sprites. They rarely devour other sapient creatures swiftly, preferring to cocoon their captives and terrorize them for days.</p><p>Ettercaps avoid fire, which can quickly burn through their webs and the dead trees where they make their homes.</p></div></section>",
+        "format": 1
+      },
+      "ownership": {
+        "default": 2,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "_id": "h8K4q8FsEbToUYkJ",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 600,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786195102858,
+        "modifiedTime": 1790168059721,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!XhUeHKl1bSHDx8lp.h8K4q8FsEbToUYkJ"
+    },
+    {
+      "name": "Hobgoblins",
+      "type": "text",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><img src=\"worlds/the-broken-heart-of-greenrest/assets/journal/hobgoblins.png\" alt=\"\" style=\"max-width:100%;border-radius:4px;margin-bottom:0.75em\"><p class=\"lead\"><em>Conquerers of Every Horizon</em></p><p>Hobgoblins embody the primal urge to grow and spread, expressing such drives by bending the world to their whims. Lone hobgoblins claim woodland territories and plunder the wilds. In groups, they form hierarchical, martial societies bent on conquering lands and stripping them of resources to serve their expansionist zeal.</p><p>Hobgoblins often subjugate animals, monsters, and destructive Fey—particularly goblins and bugbears—to serve their plans. Hobgoblins might ally with dragons, warlords, the servants of warlike gods, or other powerful creatures that promise them control of new territories. Should hobgoblins bring an entire land to heel, they seek new conquests, venturing across seas, into the Underdark, or to stars and planes of existence beyond.</p><p>Many hobgoblins serve the violent god Maglubiyet, whose hunger for conquest matches their own. Hobgoblin followers of Maglubiyet flourish in the Infinite Battlefield of Acheron, where they endlessly indulge their drive for domination. These war-obsessed hobgoblins employ elaborate tactics and strange weapons, which they sometimes unleash on worlds of the Material Plane.</p></div></section>",
+        "format": 1
+      },
+      "ownership": {
+        "default": 2,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "_id": "WYjec5n05lw8yR3f",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 1000,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786195152644,
+        "modifiedTime": 1790171047230,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!XhUeHKl1bSHDx8lp.WYjec5n05lw8yR3f"
+    },
+    {
+      "name": "Will-o'-Wisp",
+      "type": "text",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><img src=\"worlds/the-broken-heart-of-greenrest/assets/journal/will-o-wisp.png\" alt=\"\" style=\"max-width:100%;border-radius:4px;margin-bottom:0.75em\"><p class=\"lead\"><em>Guide on the Path to Doom</em></p><p>From a distance, will-o’-wisps look like lanterns bobbing in the dark. Through the windows of abandoned structures or around the bends of treacherous paths, these spirits tempt the curious into peril. Once their prey is vulnerable, will-o’-wisps feed on the life force of those they lay low.</p></div></section>",
+        "format": 1
+      },
+      "ownership": {
+        "default": 2,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "_id": "TejPeiqrRG0mWviw",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 1600,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786195202104,
+        "modifiedTime": 1790171047231,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!XhUeHKl1bSHDx8lp.TejPeiqrRG0mWviw"
+    },
+    {
+      "name": "Wight",
+      "type": "text",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><img src=\"modules/dnd-monster-manual/assets/journal-art/wight.webp\" alt=\"\" style=\"max-width:100%;border-radius:4px;margin-bottom:0.75em\"><p class=\"lead\"><em>Life-Leeching Corpse Warrior</em></p><p>Wights are the withered corpses of relentless warriors whose wickedness sustains them beyond death. Unlike mere zombies, they retain the memories and evil agendas they harbored in life.</p><p>After dying and returning from the grave, a wight continues its villainous ways, but it is now driven by a hunger for life. A wight drains living essence through its attacks. Humanoids slain by a wight’s life-sapping grip reanimate a day later and serve the wight as obedient zombies.</p><p>Wights might return from the dead for a multitude of sinister reasons. </p></div></section>",
+        "format": 1
+      },
+      "ownership": {
+        "default": 2,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "_id": "xevE9Cgybw8WwUuR",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 1500,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786565502143,
+        "modifiedTime": 1790171047231,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!XhUeHKl1bSHDx8lp.xevE9Cgybw8WwUuR"
+    },
+    {
+      "name": "Skeletons",
+      "type": "text",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><figure style=\"margin:0 0 0.75em\"><img src=\"modules/dnd-monster-manual/assets/journal-art/skeletons.webp\" alt=\"Adventurers face an onslaught from all manner of skeletons.\" style=\"max-width:100%;border-radius:4px\"><figcaption style=\"text-align:center;font-size:0.9em;opacity:0.75\">Adventurers face an onslaught from all manner of skeletons.</figcaption></figure><p class=\"lead\"><em>Ossified Evil</em></p><p>Skeletons rise at the summons of necromancers and foul spirits. Whether they’re the remains of the ancient dead or fresh bones bound to morbid ambitions, they commit deathless work for whatever forces reanimated them, often serving as guardians, soldiers, or laborers. In rare cases, skeletons are reanimated but given no particular direction. </p></div></section>",
+        "format": 1
+      },
+      "ownership": {
+        "default": 2,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "_id": "NY9CEZZREwigxgaE",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 1400,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786565540226,
+        "modifiedTime": 1790171047231,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!XhUeHKl1bSHDx8lp.NY9CEZZREwigxgaE"
+    },
+    {
+      "name": "Zombies",
+      "type": "text",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><figure style=\"margin:0 0 0.75em\"><img src=\"modules/dnd-monster-manual/assets/journal-art/zombies.webp\" alt=\"A tiefling tries to hide in the midst of a zombie horde.\" style=\"max-width:100%;border-radius:4px\"><figcaption style=\"text-align:center;font-size:0.9em;opacity:0.75\">A tiefling tries to hide in the midst of a zombie horde.</figcaption></figure><p class=\"lead\"><em>Relentless Reanimated Corpses</em></p><blockquote><p>Then, by a spectacular crack of lightning, the figures came into view, moving slowly toward the village. Over driving winds a voice cried out, “The dead come for Marais d’Tarascon! An army of the walking dead!”</p><p style=\"text-align:right\"><em>—Account of the Night of the Walking Dead</em></p></blockquote><p>Zombies are unthinking, reanimated corpses, often gruesomely marred by decay and lethal traumas. They serve whatever supernatural force animates them—typically evil necromancers or fiendish spirits. Zombies are relentless, merciless, and resilient, and their dead flesh can carry on even after suffering grievous wounds. While they can follow simple orders, they rely on primal drives rather than thought. They fulfill commands by working tirelessly or battering through foes, but they are easily stymied by barriers or unexpected circumstances.</p><p>Zombies are usually created from Humanoid corpses, but the remains of other creatures can also become zombies. Such monstrous zombies might possess the strength they had in life or a measure of their supernatural abilities, but they employ such abilities haphazardly at best.</p></div></section>",
+        "format": 1
+      },
+      "ownership": {
+        "default": 2,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "_id": "icm6MvG8Jha1FUgD",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 1700,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786565576212,
+        "modifiedTime": 1790171047231,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!XhUeHKl1bSHDx8lp.icm6MvG8Jha1FUgD"
+    },
+    {
+      "name": "Peryton",
+      "type": "text",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><figure style=\"margin:0 0 0.75em\"><img src=\"modules/dnd-monster-manual/assets/journal-art/peryton.webp\" alt=\"A peryton's humanoid-shaped shadow suggests the monster's supernatural origin.\" style=\"max-width:100%;border-radius:4px\"><figcaption style=\"text-align:center;font-size:0.9em;opacity:0.75\">A peryton's humanoid-shaped shadow suggests the monster's supernatural origin.</figcaption></figure><p class=\"lead\"><em>Winged Heart Hunter</em></p><p>Perytons are monstrous predators that hunt people—particularly humans and elves—in favor of all other prey. With the bodies of mighty avian scavengers and fanged, stag-like heads, perytons use ambush tactics to dive-bomb travelers. Strangely, the shadows they cast resemble humanoid silhouettes. This supernatural oddity lends credence to stories that perytons are cursed humans or elves, or that they arise from carrion birds that feed on the corpses of villains.</p><p>Perytons tear out the hearts of those they slay, carrying the organs back to grisly lairs. This gives rise to numerous superstitions surrounding perytons. </p></div></section>",
+        "format": 1
+      },
+      "ownership": {
+        "default": 2,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "_id": "9WtT22sPsuJWPgQG",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 1100,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787242225071,
+        "modifiedTime": 1790171047231,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!XhUeHKl1bSHDx8lp.9WtT22sPsuJWPgQG"
+    },
+    {
+      "type": "text",
+      "name": "Green Hags",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><figure style=\"margin:0 0 0.75em\"><img src=\"modules/dnd-monster-manual/assets/portraits/green-hag.webp\" alt=\"A green hag\" style=\"max-width:100%;border-radius:4px\"><figcaption style=\"text-align:center;font-size:0.9em;opacity:0.75\">A green hag</figcaption></figure><p class=\"lead\"><em>Malicious Fey of Bog and Fen</em></p><blockquote><p>Hags in the moor got hold of a shard and feed their coven magic with it. Bargain at your own risk.</p><p style=\"text-align:right\"><em>—the party's own research,<br>pieced together in Daggerford</em></p></blockquote><p>Green hags are fey crones who make their homes in drowned and rotting places — bogs, fens, and swamps where the water is black and the paths are few. They delight in misery the way gardeners delight in growing things: they cultivate it, harvest it, trade in it. A green hag rarely opens with violence when a bargain will hurt more; her prices sound survivable and never are.</p><p>They are consummate deceivers. A green hag can throw her voice across the water, mimic the cry of a drowning man or the voice of someone dearly missed, and walk unseen when it suits her. What looks like a helpless figure on a distant hummock is often the hag herself, fishing.</p><p>Hags are strongest in threes. A full coven shares magic between its members that none could work alone, and hags grieve a broken coven the way mortals grieve a family — bitterly, endlessly, and with somebody else expected to pay for it.</p></div></section>",
+        "format": 1
+      },
+      "sort": 900,
+      "ownership": {
+        "default": 2,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "_id": "DcwTF9inD0a8OZ9z",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787944056323,
+        "modifiedTime": 1790171047230,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!XhUeHKl1bSHDx8lp.DcwTF9inD0a8OZ9z"
+    },
+    {
+      "type": "text",
+      "name": "Animated Objects",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><figure style=\"margin:0 0 0.75em\"><img src=\"modules/dnd-monster-manual/assets/portraits/animated-armor.webp\" alt=\"Animated armor\" style=\"max-width:100%;border-radius:4px\"><p><span style=\"text-align:center;opacity:0.75;font-size:0.9em\">Animated armor</span></p></figure><figure style=\"margin:0 0 0.75em\"><img src=\"modules/dnd-monster-manual/assets/portraits/animated-rug-of-smothering.webp\" alt=\"An animated rug of smothering\" style=\"max-width:100%;border-radius:4px\"><p><span style=\"text-align:center;opacity:0.75;font-size:0.9em\">An animated rug of smothering</span></p></figure><p class=\"lead\"><em>Ordinary Things, Borrowed Wills</em></p><blockquote><p>Sit anywhere you like, dearies. The house does so love company.</p><p style=\"text-align:right\"><em>—a welcome nobody should accept</em></p></blockquote><p>Spellcasters of sufficient craft can pour a sliver of will into the furnishings of their homes, and the result is a household that never sleeps and never stops working. An animated object has no mind of its own — only its instructions, followed with the patience of a thing that has never once been tired.</p><p>Most of the time they are indistinguishable from what they appear to be. A suit of armor stands its post for years; a broom sweeps the same floor at the same hour; a rug lies flat by the hearth, exactly where a guest would warm their feet. The oldest trick in a magician's house is simply this: everything in it is furniture, right up until the moment the door is closed.</p><p>Swords fly, brooms beat, armor marches — but the rug is the one the tales warn about. It waits under the visitor, and folds.</p></div></section>",
+        "format": 1
+      },
+      "sort": 100,
+      "ownership": {
+        "default": 2,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "_id": "OmoZ5KEWSzflkY8Q",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787944070153,
+        "modifiedTime": 1790168007892,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!XhUeHKl1bSHDx8lp.OmoZ5KEWSzflkY8Q"
+    },
+    {
+      "type": "text",
+      "name": "Bullywugs",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><figure style=\"margin:0 0 0.75em\"><img src=\"modules/dnd-monster-manual/assets/portraits/bullywug-warrior.webp\" alt=\"A bullywug warrior\" style=\"max-width:100%;border-radius:4px\"><p><span style=\"text-align:center;opacity:0.75;font-size:0.9em\">A bullywug warrior</span></p></figure><figure style=\"margin:0 0 0.75em\"><img src=\"modules/dnd-monster-manual/assets/portraits/bullywug-bog-sage.webp\" alt=\"A bullywug bog sage\" style=\"max-width:100%;border-radius:4px\"><p><span style=\"text-align:center;opacity:0.75;font-size:0.9em\">A bullywug bog sage</span></p></figure><p class=\"lead\"><em>Pompous Frog Folk of the Fens</em></p><blockquote><p>Halt! The toll! All who cross the black water owe the toll!</p><p style=\"text-align:right\"><em>—every bullywug sentry,<br>everywhere, always</em></p></blockquote><p>Bullywugs are frog folk of the deep fens, touched by the Feywild and convinced — each and every one — of their own tremendous importance. They dress in scavenged finery, award one another titles longer than their spears, and conduct the business of their muddy courts with a pomp that would embarrass a royal herald. Laughing at any of this is genuinely dangerous.</p><p>For all the strut, bullywugs know exactly where they stand in the fen's order of things: they serve whatever is bigger and more terrible than they are, and they serve it loudly, hoping to be noticed. A traveler stopped by a bullywug toll-gang should worry less about the frogs than about who collects the tribute.</p><p>Their bog sages are croaking mystics who pull magic up out of the mire itself — mud, mist, and insect swarms answering an amphibian's imperious gesture.</p></div></section>",
+        "format": 1
+      },
+      "sort": 300,
+      "ownership": {
+        "default": 2,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "_id": "j9KcLZpJpwZUZJLC",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1787944086288,
+        "modifiedTime": 1790168007894,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!XhUeHKl1bSHDx8lp.j9KcLZpJpwZUZJLC"
+    },
+    {
+      "type": "text",
+      "name": "Sharrans",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><figure style=\"margin:0 0 0.75em\"><img src=\"worlds/the-broken-heart-of-greenrest/assets/journal/sharran-priestess.webp\" alt=\"A priestess of Shar\" style=\"max-width:100%;border-radius:4px\"><p><span style=\"text-align:center;opacity:0.75;font-size:0.9em\">A priestess of Shar</span></p></figure><p class=\"lead\"><em>The Faithful of the Lady of Loss</em></p><blockquote><p>She does not ask you to love the dark. Only to set down what you are carrying.</p><p style=\"text-align:right\"><em>—the offer, made in<br>a thousand towns</em></p></blockquote><p>Shar is the Lady of Loss, mistress of night, secrets, and forgetting. Her clergy recruit with relief rather than threats: they look for people in the worst part of a grief and offer to take the memory away. Most of the faithful came to her exactly that way and remember the bargain as a kindness. A Sharran is rarely a fanatic. He is usually somebody who was helped, and stayed.</p><p>On that mercy the church builds a doctrine. A grief allowed to run its course is spent and gone; a grief kept open never runs dry. So the order does not heal sorrow — it cultivates it, in itself and in others, and counts the work holy. Sharran houses are built underground or inside old ruins, keep to night hours, and are generally tolerated by neighbours who have no idea what they are.</p><p>The faithful are living folk, never undead; Shar's church has no use for corpses. Its ranks run roughly four ways. <strong>Acolytes</strong> are the newest and do most of the casting — darkness, holding words, guardian spirits. <strong>Zealots</strong> are the devout rank and file, plainly equipped and hard to rout. <strong>Enforcers</strong> are trained soldiers in the order's pay, armed with polearms and blades, who fight like veterans and tend to pick the weakest figure in a line and stay on it. <strong>Priests</strong> are few and dangerous out of all proportion to their number: necrotic magic spent freely, authority over a whole house, and spells enough to simply leave a fight going badly.</p><p>They talk before they draw, and the offer is sincere. Refusing it does not offend them — patience costs the church nothing, and the offer will be made again. They take prisoners for purposes they do not explain. They are hard to intimidate, since a person whose worst memory has already been taken has little left to threaten. And they answer upward, always, to somebody the traveller has not met.</p></div></section>",
+        "format": 1
+      },
+      "sort": 1300,
+      "ownership": {
+        "default": 2,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "_id": "wa3h4CBRHFMNKTkJ",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1788968089265,
+        "modifiedTime": 1790171047231,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!XhUeHKl1bSHDx8lp.wa3h4CBRHFMNKTkJ"
+    },
+    {
+      "name": "Shambling Mound",
+      "type": "text",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><img src=\"modules/dnd-monster-manual/assets/journal-art/shambling-mound.webp\" alt=\"\" style=\"max-width:100%;border-radius:4px;margin-bottom:0.75em\"><p class=\"lead\"><em>Manifestation of Primeval Power</em></p><p>Shambling mounds—also known as “shamblers”—embody the tenacity of the wilderness, seeking only to consume and grow. These masses of vegetation rise up to half again as tall as a human and possess thick limbs and a vague head. As they move through bogs and undergrowth, they ensnare creatures that come within reach. Shambling mounds bury those they catch within their own forms as compost.</p><p>Strange circumstances might give rise to shambling mounds, transforming vegetation into hulks with rudimentary cunning. Such conditions include strikes from magical lightning, nature defending itself, or druidic curses. </p></div></section>",
+        "format": 1
+      },
+      "ownership": {
+        "default": 2,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "_id": "aaef63AU3q3LbKUH",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 1200,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1790168007585,
+        "modifiedTime": 1790171047231,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!XhUeHKl1bSHDx8lp.aaef63AU3q3LbKUH"
+    },
+    {
+      "name": "Druid",
+      "type": "text",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><img src=\"modules/dnd-monster-manual/assets/journal-art/druid.webp\" alt=\"\" style=\"max-width:100%;border-radius:4px;margin-bottom:0.75em\"><p class=\"lead\"><em>Steward and Sage of Nature</em></p><p>Druids use primal magic, traditional teachings, and bonds with animals and eldritch beings to guard the natural world and heal its ills. These magic-users might be recluses devoted to a particular land, or they might be part of a mystic organization. </p></div></section>",
+        "format": 1
+      },
+      "ownership": {
+        "default": 2,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "_id": "gnXmdktQ3qmoJFHQ",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 500,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1790168059354,
+        "modifiedTime": 1790168059720,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!XhUeHKl1bSHDx8lp.gnXmdktQ3qmoJFHQ"
+    },
+    {
+      "name": "Green Dragons",
+      "type": "text",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><figure style=\"margin:0 0 0.75em\"><img src=\"worlds/the-broken-heart-of-greenrest/assets/art/portrait-bramblemaw.webp\" alt=\"Bramblemaw of the Wyrmwood\" style=\"max-width:100%;border-radius:4px\"><figcaption style=\"text-align:center;font-size:0.9em;opacity:0.75\">Bramblemaw of the Wyrmwood</figcaption></figure><p class=\"lead\"><em>Dragons of Deceit and Derision</em></p><p>From forbidden forest depths, green dragons whisper evils into the world and manipulate the lives of those who listen. Elusive, conniving, and egotistical, these chromatic dragons patiently prey on the fears of shorter-lived beings, corrupting and isolating them. Green dragons might lurk amid labyrinthine wildernesses for centuries without revealing themselves; even their most devoted followers might know them only as the voice of the woodlands or a whisper in their dreams.</p><p>Despite their might, most green dragons disdain physical violence, viewing combat as servants’ work and preferring to trick foes into dangerous or exploitative scenarios. These dragons collect “baubles” that embody their webs of manipulation and serve as tools of extortion, such as compromising documents, family heirlooms, and sentimental treasures.</p></div></section>",
+        "format": 1
+      },
+      "ownership": {
+        "default": 2,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "_id": "TkUyUsxFKw3m5ole",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 800,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1790168111864,
+        "modifiedTime": 1790171047230,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!XhUeHKl1bSHDx8lp.TkUyUsxFKw3m5ole"
+    },
+    {
+      "type": "text",
+      "name": "Giant Crocodile",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><figure style=\"margin:0 0 0.75em\"><img src=\"worlds/the-broken-heart-of-greenrest/assets/art/portrait-giant-crocodile.webp\" alt=\"A giant crocodile rising from flooded ruins\" style=\"max-width:100%;border-radius:4px\"><figcaption style=\"text-align:center;font-size:0.9em;opacity:0.75\">A giant crocodile</figcaption></figure><p class=\"lead\"><em>Ambush Hunters of Deep Water</em></p><p>A giant crocodile is a crocodile grown to enormous size: a huge, thick-hided beast that lumbers on land but swims far faster than it walks, and can stay beneath the water for an hour at a stretch.</p><p>It fights with jaws and tail. The bite clamps down and holds on — anything up to the size of a horse is seized and pinned, able to do little but struggle while the crocodile keeps it. The tail sweeps smaller creatures clean off their feet.</p><p>Giant crocodiles are animals, not monsters: hungry and patient rather than cruel. In the Wyrmwood they drifted through the flooded halls of a sunken temple, indifferent until something stepped into the water. They lay under the green dragon's influence there, and when he died they simply swam away into the deep.</p></div></section>",
+        "format": 1
+      },
+      "sort": 700,
+      "ownership": {
+        "default": 2,
+        "EtG3ba47F3LHz0QC": 3
+      },
+      "_id": "eYCWA1QUToWVdnYj",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1790170976288,
+        "modifiedTime": 1790171047230,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!XhUeHKl1bSHDx8lp.eYCWA1QUToWVdnYj"
+    }
+  ],
+  "categories": [],
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1786195000639,
+    "modifiedTime": 1786195414982,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!XhUeHKl1bSHDx8lp"
+}

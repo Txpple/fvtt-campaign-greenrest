@@ -1,0 +1,213 @@
+{
+  "name": "The Tideheart",
+  "type": "equipment",
+  "img": "worlds/the-broken-heart-of-greenrest/assets/hearts/tideheart-item.webp",
+  "system": {
+    "description": {
+      "value": "<p>A quarter of a heart, turned to crystal: <strong>deep water blue</strong>, clear and cold, like light coming a long way up through black water. It is the size of two cupped hands, and the chambering and the sheared-off vessels are still there inside the stone like flaws in a gem. It is warm — warmer than the air, which is the wrong thing for something pulled out of a fen — and it beats, slowly, faintly. It does not chip and it does not scratch. It has already been broken.</p><p><strong>The vision.</strong> The Tideheart requires attunement. The first time you hold it, it shows you one thing. A beautiful green woman, glowing white, leaves crowning her head, weeping. She closes her hands over her own chest, and her heart bursts. The pieces scatter into the dark, hardening as they fly. The burst drives the mists back in a great ring, baring a bare green valley next to a beautiful lake. Where she stood, a tree: grey, leafless, asleep. A single faint heartbeat, and it is over.</p><p><strong>While you carry the Tideheart</strong> you have advantage on Constitution saving throws.</p><p>Once between dawns, you can press the shard to your own chest or another's: cold salt water floods the lungs and recedes, and it casts <em>death ward</em> — the shard is the only component needed.</p><p><em>It is one chamber of a heart — and a heart has four. You cannot shake the feeling that, whole, it could do so much more.</em></p>",
+      "chat": ""
+    },
+    "rarity": "legendary",
+    "identified": true,
+    "properties": [
+      "mgc"
+    ],
+    "type": {
+      "value": "trinket",
+      "baseItem": ""
+    },
+    "identifier": "the-tideheart",
+    "source": {
+      "rules": "2024",
+      "revision": 1
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "activities": {
+      "QTeh3WuyNjET4AFX": {
+        "_id": "QTeh3WuyNjET4AFX",
+        "type": "cast",
+        "name": "Death Ward",
+        "img": "",
+        "sort": 0,
+        "spell": {
+          "uuid": "Compendium.dnd-players-handbook.spells.Item.phbsplDeathWard0",
+          "challenge": {
+            "attack": null,
+            "override": false
+          },
+          "level": 4,
+          "properties": [
+            "vocal",
+            "somatic"
+          ],
+          "spellbook": true
+        },
+        "activation": {
+          "type": "action",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": false,
+          "targets": [
+            {
+              "type": "itemUses",
+              "value": "1",
+              "target": "",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "range": {
+          "override": false,
+          "units": "self"
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft",
+            "stationary": false
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "flags": {},
+        "visibility": {
+          "level": {},
+          "requireAttunement": false,
+          "requireIdentification": false,
+          "requireMagic": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "recovery": [
+        {
+          "period": "dawn",
+          "type": "recoverAll"
+        }
+      ],
+      "max": "1"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "attunement": "required",
+    "attuned": false,
+    "equipped": false,
+    "crew": {
+      "value": []
+    },
+    "armor": {
+      "value": null,
+      "dex": null,
+      "magicalBonus": ""
+    },
+    "proficient": null,
+    "strength": null
+  },
+  "folder": "rNAEFs81a44ZavQd",
+  "_id": "biip0RMopCKfIysl",
+  "effects": [
+    {
+      "name": "The Tideheart",
+      "img": "worlds/the-broken-heart-of-greenrest/assets/hearts/tideheart-item.webp",
+      "disabled": false,
+      "transfer": true,
+      "system": {
+        "changes": [
+          {
+            "key": "system.abilities.con.save.roll.mode",
+            "value": 1,
+            "type": "add",
+            "phase": "initial",
+            "_id": "4qNWfpFS6YWZaaDT",
+            "conditions": "{}",
+            "replacement": ""
+          }
+        ],
+        "magical": true
+      },
+      "_id": "iEywWFizM4mZ7zqp",
+      "type": "base",
+      "start": null,
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "statuses": [],
+      "showIcon": 1,
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.368",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.3",
+        "createdTime": 1787966615621,
+        "modifiedTime": 1790016577924,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!items.effects!biip0RMopCKfIysl.iEywWFizM4mZ7zqp"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.368",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1786646943770,
+    "modifiedTime": 1790016577924,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!biip0RMopCKfIysl"
+}

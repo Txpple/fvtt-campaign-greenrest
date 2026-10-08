@@ -1,0 +1,88 @@
+{
+  "name": "Arrows, +1",
+  "type": "consumable",
+  "img": "icons/weapons/ammunition/arrows-broadhead-white.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>Weapon (Ammunition), Uncommon</em></p><p>You have a <strong>+1 bonus</strong> to attack rolls and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.</p><p><em>Seventeen broadhead arrows in a stiffened leather quiver, each shaft ringed with a single band of pale silver below the fletching. They do not rattle against one another the way ordinary arrows do.</em></p>",
+      "chat": ""
+    },
+    "price": {
+      "value": 1,
+      "denomination": "gp"
+    },
+    "source": {
+      "custom": "",
+      "rules": "2024",
+      "revision": 1
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 17,
+    "weight": {
+      "value": 0.05,
+      "units": "lb"
+    },
+    "rarity": "uncommon",
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "uses": {
+      "max": "",
+      "autoDestroy": false,
+      "spent": 0,
+      "recovery": []
+    },
+    "damage": {
+      "base": {
+        "number": null,
+        "denomination": 0,
+        "types": [],
+        "custom": {
+          "enabled": false
+        },
+        "scaling": {
+          "number": 1
+        },
+        "bonus": ""
+      },
+      "replace": false
+    },
+    "type": {
+      "value": "ammo",
+      "subtype": "arrow"
+    },
+    "properties": [
+      "mgc"
+    ],
+    "activities": {},
+    "identifier": "arrows",
+    "magicalBonus": "1"
+  },
+  "effects": [],
+  "flags": {
+    "dnd5e": {}
+  },
+  "folder": "l74jP8iVTBjy67Sd",
+  "_stats": {
+    "exportSource": null,
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1786239307798,
+    "modifiedTime": 1786239314352,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_id": "JXlRQOL04fJs6oeI",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "_key": "!items!JXlRQOL04fJs6oeI"
+}

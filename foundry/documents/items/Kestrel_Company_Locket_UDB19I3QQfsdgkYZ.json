@@ -1,0 +1,74 @@
+{
+  "name": "Kestrel Company Locket",
+  "type": "equipment",
+  "img": "icons/equipment/neck/pendant-bronze-gem-blue.webp",
+  "system": {
+    "type": {
+      "value": "trinket",
+      "baseItem": ""
+    },
+    "description": {
+      "value": "<p>A silver locket on a short chain, worn close at the throat, stamped with a diving kestrel — the badge of the Kestrel Company. Every member wore one. Inside, room for whatever its owner could not leave behind.</p>",
+      "chat": ""
+    },
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "weight": {
+      "value": 1,
+      "units": "lb"
+    },
+    "rarity": "",
+    "identified": true,
+    "quantity": 1,
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": []
+    },
+    "identifier": "kestrel-company-locket",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "crew": {
+      "value": []
+    },
+    "armor": {
+      "value": null,
+      "dex": null
+    },
+    "proficient": null,
+    "properties": [],
+    "strength": null
+  },
+  "folder": "ZvqosDAyyigGrPNk",
+  "_id": "UDB19I3QQfsdgkYZ",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1786670587295,
+    "modifiedTime": 1786671451011,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!UDB19I3QQfsdgkYZ"
+}

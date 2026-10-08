@@ -1,0 +1,63 @@
+{
+  "name": "The Temple of Shar — Veck's Cell",
+  "pages": [
+    {
+      "type": "image",
+      "name": "Veck's Cell",
+      "src": "worlds/the-broken-heart-of-greenrest/assets/handouts/s07-veck-cell.png",
+      "_id": "TdBthE2YMRIjqtwP",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": 2
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1788445799985,
+        "modifiedTime": 1788916185876,
+        "lastModifiedBy": "fsPwfDarpkUyzlhz",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!hLRHaPIDUSwzB0Hk.TdBthE2YMRIjqtwP"
+    }
+  ],
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "_id": "hLRHaPIDUSwzB0Hk",
+  "folder": "7v0WU3VZu27OHfA2",
+  "categories": [],
+  "sort": 200000,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1788445799985,
+    "modifiedTime": 1788968131460,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!hLRHaPIDUSwzB0Hk"
+}

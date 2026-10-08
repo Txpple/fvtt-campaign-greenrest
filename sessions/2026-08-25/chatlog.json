@@ -1,0 +1,4532 @@
+[
+  {
+    "id": "Qc6gbcmVZL0HDmjn",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787700960608,
+    "time": "2026-08-25T23:36:00.608Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "Jar of Greenrest Preserves Food A stoneware jar sealed under wax: blackberry preserves, put up in Greenrest. Still good. Not Equipped"
+  },
+  {
+    "id": "aHGH09ZmYAkJXCLS",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787701165476,
+    "time": "2026-08-25T23:39:25.476Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "Jetten Elisedil takes a long rest.",
+    "flavor": "Long Rest (8 hours, new day)"
+  },
+  {
+    "id": "BA6T8QjCyGv2KLTu",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1787701174357,
+    "time": "2026-08-25T23:39:34.357Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Morgash the Gravemaker takes a long rest and recovers 42 hit points and 3 hit dice.",
+    "flavor": "Long Rest (8 hours, new day)"
+  },
+  {
+    "id": "swKhWWh8TIN78h3v",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787701179066,
+    "time": "2026-08-25T23:39:39.066Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "Gren Greenmantle takes a long rest and recovers 3 hit points.",
+    "flavor": "Long Rest (8 hours, new day)",
+    "rolls": [
+      {
+        "total": 7,
+        "formula": "1d6 + 1"
+      }
+    ]
+  },
+  {
+    "id": "oQdiIleDTLYOGfRB",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787701241758,
+    "time": "2026-08-25T23:40:41.758Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Thomas A. Invictus",
+    "content": "Thomas A. Invictus takes a long rest and recovers 1 hit point.",
+    "flavor": "Long Rest (8 hours, new day)"
+  },
+  {
+    "id": "stQEPinFFOvSFLyo",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787701251949,
+    "time": "2026-08-25T23:40:51.949Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Morgash the Gravemaker",
+    "content": "Morgash the Gravemaker takes a long rest and recovers 5 hit points.",
+    "flavor": "Long Rest (8 hours, new day)"
+  },
+  {
+    "id": "xaAfF3s4wLgxnyic",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1787701383369,
+    "time": "2026-08-25T23:43:03.369Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "",
+    "flavor": "Wisdom (Survival) Check",
+    "rolls": [
+      {
+        "total": 17,
+        "formula": "1d20 + 1 + 2"
+      }
+    ]
+  },
+  {
+    "id": "lzi4ZStR3ys2qFbZ",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787701387806,
+    "time": "2026-08-25T23:43:07.806Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "Mage Armor 1st Level • Abjuration You touch a willing creature who isn’t wearing armor. Until the spell ends, the target’s base AC becomes 13 plus its Dexterity modifier. The spell ends early if the target dons armor. Consume Resource Refund Resource Materials a piece of cured leather V, S, M Action 8 hours Touch 1 willing creature"
+  },
+  {
+    "id": "FevuWMc1JMsejxP3",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787701388431,
+    "time": "2026-08-25T23:43:08.431Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "Druidcraft Transmutation Whispering to the spirits of nature, you create one of the following effects within range.Weather Sensor. You create a Tiny, harmless sensory effect that predicts what the weather will be at your location for the next 24 hours. The effect might manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes for snow, and so on. This effect persists for 1 round.Bloom. You instantly make a flower blossom, a seed pod open, or a leaf bud bloom.Sensory Effect. You create a harmless sensory effect, such as falling leaves, spectral dancing fairies, a gentle breeze, the sound of an animal, or the faint odor of skunk. The effect must fit in a 5-foot Cube.Fire Play. You light or snuff out a candle, a torch, or a campfire. Place Measured Template V, S Action Instantaneous 30 ft"
+  },
+  {
+    "id": "5XFV87xTkbwxnjiD",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787701545874,
+    "time": "2026-08-25T23:45:45.874Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Cartographer's Tools Check",
+    "rolls": [
+      {
+        "total": 25,
+        "formula": "1d20 + 3 + 2"
+      }
+    ]
+  },
+  {
+    "id": "4iDB8o4hT2BioURK",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1787701705470,
+    "time": "2026-08-25T23:48:25.470Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "",
+    "flavor": "Dexterity (Stealth) Check",
+    "rolls": [
+      {
+        "total": 19,
+        "formula": "1d20 + 0"
+      }
+    ]
+  },
+  {
+    "id": "k0pNn9L6WHFj5nH9",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1787701716170,
+    "time": "2026-08-25T23:48:36.170Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "",
+    "flavor": "Wisdom (Survival) Check",
+    "rolls": [
+      {
+        "total": 5,
+        "formula": "1d20 + 1 + 2"
+      }
+    ]
+  },
+  {
+    "id": "U8uWI6pMHd5cf2CO",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787702604952,
+    "time": "2026-08-26T00:03:24.952Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "Jetten Elisedil takes a long rest.",
+    "flavor": "Long Rest (8 hours, new day)"
+  },
+  {
+    "id": "1r0uM0ciO3nZV3yA",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787702639257,
+    "time": "2026-08-26T00:03:59.257Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Matt the DM",
+    "content": "No Longer Hollowed Whatever the dark took out of you, you feel it settle back. Gren Greenmantle — restored to 26/26Morgash the Gravemaker — restored to 48/48Thomas A. Invictus — restored to 16/36"
+  },
+  {
+    "id": "lU7myYeDC6KyjoYo",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1787702922430,
+    "time": "2026-08-26T00:08:42.430Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Weapon Mastery Feature Your training with weapons allows you to use the mastery properties of three kinds of Simple or Martial weapons of your choice. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.When you reach certain Fighter levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Fighter Features table."
+  },
+  {
+    "id": "3qo2GO95yi4ebTLu",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1787702926353,
+    "time": "2026-08-26T00:08:46.353Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Weapon Mastery Feature Your training with weapons allows you to use the mastery properties of three kinds of Simple or Martial weapons of your choice. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.When you reach certain Fighter levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Fighter Features table."
+  },
+  {
+    "id": "hGszUzjhQofoWho4",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1787702969180,
+    "time": "2026-08-26T00:09:29.180Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Great Weapon Master General Feat You gain the following benefits.Ability Score Increase. Increase your Strength score by 1, to a maximum of 20.Heavy Weapon Mastery. When you hit a creature with a weapon that has the Heavy property as part of the Attack action on your turn, you can cause the weapon to deal extra damage to the target. The extra damage equals your Proficiency Bonus.Hew. Immediately after you score a Critical Hit with a Melee weapon or reduce a creature to 0 Hit Points with one, you can make one attack with the same weapon as a Bonus Action. Damage Trigger When you hit a creature with a weapon that has the Heavy property as part of the Attack action on your turn Strength 13+"
+  },
+  {
+    "id": "Hyr5u7LWPqBgBkGm",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1787702977742,
+    "time": "2026-08-26T00:09:37.742Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "",
+    "flavor": "Charisma (Deception) Check",
+    "rolls": [
+      {
+        "total": 13,
+        "formula": "1d20 + 2 - 2"
+      }
+    ]
+  },
+  {
+    "id": "mWHSmsXVNojqB1Af",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787703052187,
+    "time": "2026-08-26T00:10:52.187Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Thomas A. Invictus",
+    "content": "Detect Poison and Disease 1st Level • Divination For the duration, you sense the location of poisons, poisonous or venomous creatures, and magical contagions within 30 feet of yourself. You sense the kind of poison, creature, or contagion in each case.The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a thin sheet of lead. Place Measured Template Consume Resource Refund Resource Materials a yew leaf Concentration Ritual V, S, M Action 10 minutes Self 30 ft emanation"
+  },
+  {
+    "id": "TLr6MTnAhqp1m6vn",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787703201898,
+    "time": "2026-08-26T00:13:21.898Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "Gren Greenmantle takes a long rest.",
+    "flavor": "Long Rest (8 hours, new day)"
+  },
+  {
+    "id": "40dji0AgeQDyY5Hc",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787703213678,
+    "time": "2026-08-26T00:13:33.678Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "Mage Armor 1st Level • Abjuration You touch a willing creature who isn’t wearing armor. Until the spell ends, the target’s base AC becomes 13 plus its Dexterity modifier. The spell ends early if the target dons armor. Consume Resource Refund Resource Materials a piece of cured leather V, S, M Action 8 hours Touch 1 willing creature"
+  },
+  {
+    "id": "zB84JPxQJa5X6R1X",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787703578960,
+    "time": "2026-08-26T00:19:38.960Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "Subtle Spell Metamagic Option Cost: 1 Sorcery PointWhen you cast a spell, you can spend 1 Sorcery Point to cast it without any Verbal, Somatic, or Material components, except Material components that are consumed by the spell or that have a cost specified in the spell. Consume Resource Refund Resource Trigger When you cast a spell"
+  },
+  {
+    "id": "bDumtkS5h5jlMRTu",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787703613908,
+    "time": "2026-08-26T00:20:13.908Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "",
+    "flavor": "Wisdom (Insight) Check",
+    "rolls": [
+      {
+        "total": 14,
+        "formula": "1d20 + 1d4 + 1 + 2 + 1"
+      }
+    ]
+  },
+  {
+    "id": "qpZCZsoaPAyfEt79",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704020452,
+    "time": "2026-08-26T00:27:00.452Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "Silver Kestrel Locket Trinket A silver locket on a fine chain, stamped with a diving kestrel. Inside, where a portrait should sit, a letter is folded small. It was never sent. Not Equipped Not Proficient"
+  },
+  {
+    "id": "OPPSABGJSN1rw77E",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704028948,
+    "time": "2026-08-26T00:27:08.948Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "Silver Kestrel Locket Trinket A silver locket on a fine chain, stamped with a diving kestrel. Inside, where a portrait should sit, a letter is folded small. It was never sent. Not Equipped Not Proficient"
+  },
+  {
+    "id": "S951fMUvuNhUQUy4",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704034805,
+    "time": "2026-08-26T00:27:14.805Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "Silver Kestrel Locket Trinket A silver locket on a fine chain, stamped with a diving kestrel. Inside, where a portrait should sit, a letter is folded small. It was never sent. Not Equipped Not Proficient"
+  },
+  {
+    "id": "S5eXpaI0gUNRrfMq",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787704038258,
+    "time": "2026-08-26T00:27:18.258Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "The Party",
+    "content": "Silver Kestrel Locket Trinket A silver locket on a fine chain, stamped with a diving kestrel. Inside, where a portrait should sit, a letter is folded small. It was never sent. Not Equipped Not Proficient"
+  },
+  {
+    "id": "nTqolrDVERtxAp7M",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787704038385,
+    "time": "2026-08-26T00:27:18.385Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "The Party",
+    "content": "Silver Kestrel Locket Trinket A silver locket on a fine chain, stamped with a diving kestrel. Inside, where a portrait should sit, a letter is folded small. It was never sent. Not Equipped Not Proficient"
+  },
+  {
+    "id": "agZoNWAnNKS521vx",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704038420,
+    "time": "2026-08-26T00:27:18.420Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "Kestrel Company Locket Trinket A silver locket on a short chain, worn close at the throat, stamped with a diving kestrel — the badge of the Kestrel Company. Every member wore one. Inside, room for whatever its owner could not leave behind. Not Equipped Not Proficient"
+  },
+  {
+    "id": "qiaI5BSRfVvqCAG4",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704045011,
+    "time": "2026-08-26T00:27:25.011Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "Kestrel Company Locket Trinket A silver locket on a short chain, worn close at the throat, stamped with a diving kestrel — the badge of the Kestrel Company. Every member wore one. Inside, room for whatever its owner could not leave behind. Not Equipped Not Proficient"
+  },
+  {
+    "id": "HfrKzcGBzTfXQILG",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704049453,
+    "time": "2026-08-26T00:27:29.453Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "Kestrel Company Locket Trinket A silver locket on a short chain, worn close at the throat, stamped with a diving kestrel — the badge of the Kestrel Company. Every member wore one. Inside, room for whatever its owner could not leave behind. Not Equipped Not Proficient"
+  },
+  {
+    "id": "fE6mBsvGCXzV6MZA",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704052795,
+    "time": "2026-08-26T00:27:32.795Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "Kestrel Company Locket Trinket A silver locket on a short chain, worn close at the throat, stamped with a diving kestrel — the badge of the Kestrel Company. Every member wore one. Inside, room for whatever its owner could not leave behind. Not Equipped Not Proficient"
+  },
+  {
+    "id": "f0fFxP4ykADNRu7E",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704054606,
+    "time": "2026-08-26T00:27:34.606Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "Kestrel Company Locket Trinket A silver locket on a short chain, worn close at the throat, stamped with a diving kestrel — the badge of the Kestrel Company. Every member wore one. Inside, room for whatever its owner could not leave behind. Not Equipped Not Proficient"
+  },
+  {
+    "id": "IWdlzvHiGGejKJqL",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704055998,
+    "time": "2026-08-26T00:27:35.998Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "Kestrel Company Locket Trinket A silver locket on a short chain, worn close at the throat, stamped with a diving kestrel — the badge of the Kestrel Company. Every member wore one. Inside, room for whatever its owner could not leave behind. Not Equipped Not Proficient"
+  },
+  {
+    "id": "bES46o9L87zHrKeE",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787704057386,
+    "time": "2026-08-26T00:27:37.386Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "The Party",
+    "content": "Sera's Map of the Four Ruins Adventuring Gear A traveler's map of the Misty Forest, creased and rain-spotted. Four ruin sites are inked in a confident hand: a cave-mouth in the hills, a deep wood, a ruined temple, a drowned fen.Beneath them, underlined twice:\"Four ruins. One prize. One in four — and no way to know which but to walk in and look.\"A smaller hand has added, later and less steadily: \"A game of roulette, and we only get to spin it the once at a time. Three of these are cold stone and whatever has moved into it. The fourth is the rest of our lives.\"The caves are circled — and then struck through."
+  },
+  {
+    "id": "osTiNkgyzppZHJ0d",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787704057584,
+    "time": "2026-08-26T00:27:37.584Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "The Party",
+    "content": "Sera's Map of the Four Ruins Adventuring Gear A traveler's map of the Misty Forest, creased and rain-spotted. Four ruin sites are inked in a confident hand: a cave-mouth in the hills, a deep wood, a ruined temple, a drowned fen.Beneath them, underlined twice:\"Four ruins. One prize. One in four — and no way to know which but to walk in and look.\"A smaller hand has added, later and less steadily: \"A game of roulette, and we only get to spin it the once at a time. Three of these are cold stone and whatever has moved into it. The fourth is the rest of our lives.\"The caves are circled — and then struck through."
+  },
+  {
+    "id": "KDxejjnCri7uibz8",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704058430,
+    "time": "2026-08-26T00:27:38.430Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "Kestrel Company Locket Trinket A silver locket on a short chain, worn close at the throat, stamped with a diving kestrel — the badge of the Kestrel Company. Every member wore one. Inside, room for whatever its owner could not leave behind. Not Equipped Not Proficient"
+  },
+  {
+    "id": "2iGAhmON80fFH8OD",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704060233,
+    "time": "2026-08-26T00:27:40.233Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "Kestrel Company Locket Trinket A silver locket on a short chain, worn close at the throat, stamped with a diving kestrel — the badge of the Kestrel Company. Every member wore one. Inside, room for whatever its owner could not leave behind. Not Equipped Not Proficient"
+  },
+  {
+    "id": "KRj09nvpCXyWPjNg",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704063339,
+    "time": "2026-08-26T00:27:43.339Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "Kestrel Company Locket Trinket A silver locket on a short chain, worn close at the throat, stamped with a diving kestrel — the badge of the Kestrel Company. Every member wore one. Inside, room for whatever its owner could not leave behind. Not Equipped Not Proficient"
+  },
+  {
+    "id": "M0ODB9ujRiP7pvgQ",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704065324,
+    "time": "2026-08-26T00:27:45.324Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "Kestrel Company Locket Trinket A silver locket on a short chain, worn close at the throat, stamped with a diving kestrel — the badge of the Kestrel Company. Every member wore one. Inside, room for whatever its owner could not leave behind. Not Equipped Not Proficient"
+  },
+  {
+    "id": "VZRUt9s8R5dPH7Ke",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704066844,
+    "time": "2026-08-26T00:27:46.844Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "Silver Kestrel Locket Trinket A silver locket on a fine chain, stamped with a diving kestrel. Inside, where a portrait should sit, a letter is folded small. It was never sent. Not Equipped Not Proficient"
+  },
+  {
+    "id": "LA0MAmY841vpOHC2",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704071852,
+    "time": "2026-08-26T00:27:51.852Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "Marn's Traveler's Clothes Clothing A folded set of road clothes — wool shirt, canvas breeches, a coat with the elbows patched twice over. The cuffs of both sleeves are stained black to the second knuckle with old ink, the kind of stain that never comes out and that the wearer clearly stopped trying to remove.Rolled inside the coat is a spare pair of dry socks, still dry. Not Equipped Not Proficient"
+  },
+  {
+    "id": "fdLxmcXXMy5aBoYP",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704077829,
+    "time": "2026-08-26T00:27:57.829Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "Silver Kestrel Locket Trinket A silver locket on a fine chain, stamped with a diving kestrel. Inside, where a portrait should sit, a letter is folded small. It was never sent. Not Equipped Not Proficient"
+  },
+  {
+    "id": "t6M3fPCpvV2pMMfe",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704078880,
+    "time": "2026-08-26T00:27:58.880Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "Marn's Traveler's Clothes Clothing A folded set of road clothes — wool shirt, canvas breeches, a coat with the elbows patched twice over. The cuffs of both sleeves are stained black to the second knuckle with old ink, the kind of stain that never comes out and that the wearer clearly stopped trying to remove.Rolled inside the coat is a spare pair of dry socks, still dry. Not Equipped Not Proficient"
+  },
+  {
+    "id": "0TI8saYBhRuS3YI1",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704084737,
+    "time": "2026-08-26T00:28:04.737Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "Sera's Studded Leather Light Armor Armor (Light)Supple dark leather, close-fitted to a slight frame, the studs blackened so they won't catch the light. A bracer-guard is stitched to the left forearm, worn shiny where a bowstring has slapped it a few thousand times.Someone let the seams out at the shoulders, badly, with the wrong colour thread — the work of a person mending their own kit by firelight rather than paying a leatherworker to do it properly. 12 AC Not Equipped Not Proficient"
+  },
+  {
+    "id": "MTTw6rjxNdr7FmTc",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704086763,
+    "time": "2026-08-26T00:28:06.763Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "Periapt of Wound Closure Wondrous Item Wondrous Item, Uncommon (Requires Attunement)A battlefield chirurgeon sold it upon retiring, swearing that in thirty years of war she never lost a patient who wore it.While wearing this pendant, you gain the following benefits.Life Preservation. Whenever you make a Death Saving Throw, you can change a roll of 9 or lower to a 10, turning a failed save into a successful one.Natural Healing Boost. Whenever you roll a Hit Point Die to regain Hit Points, double the number of Hit Points it restores. Attunement Required Not Equipped Not Proficient"
+  },
+  {
+    "id": "6exetPavHRQECAfN",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704088453,
+    "time": "2026-08-26T00:28:08.453Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "Kestrel Company Locket Trinket A silver locket on a short chain, worn close at the throat, stamped with a diving kestrel — the badge of the Kestrel Company. Every member wore one. Inside, room for whatever its owner could not leave behind. Not Equipped Not Proficient"
+  },
+  {
+    "id": "zh6t7zbbQKNnXyQB",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704092283,
+    "time": "2026-08-26T00:28:12.283Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "Kestrel Company Locket Trinket A silver locket on a short chain, worn close at the throat, stamped with a diving kestrel — the badge of the Kestrel Company. Every member wore one. Inside, room for whatever its owner could not leave behind. Not Equipped Not Proficient"
+  },
+  {
+    "id": "kqqmeUqEmtv7Bzzw",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704098094,
+    "time": "2026-08-26T00:28:18.094Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "Kestrel Company Locket Trinket A silver locket on a short chain, worn close at the throat, stamped with a diving kestrel — the badge of the Kestrel Company. Every member wore one. Inside, room for whatever its owner could not leave behind. Not Equipped Not Proficient"
+  },
+  {
+    "id": "D0bPZk64W5wvmdKz",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704099260,
+    "time": "2026-08-26T00:28:19.260Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "Silver Kestrel Locket Trinket A silver locket on a fine chain, stamped with a diving kestrel. Inside, where a portrait should sit, a letter is folded small. It was never sent. Not Equipped Not Proficient"
+  },
+  {
+    "id": "UnxvI3sOzowsJV6G",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787704100578,
+    "time": "2026-08-26T00:28:20.578Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Party Stash",
+    "content": "Matt the DM added 1 × Marn's Unsent Letter to The Party."
+  },
+  {
+    "id": "shHg6AT5ZKluuKZv",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787704111793,
+    "time": "2026-08-26T00:28:31.793Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "The Party",
+    "content": "Marn's Unsent Letter Adventuring Gear A single sheet folded small enough to live inside a locket — creased sharp, never sealed, never sent. The hand is neat; the margins are smudged by ink-stained fingers.\"Tess — We are close now. There are four old places in this forest and the prize lies in exactly one of them; the other three are cold stone and whatever has crawled into it. We have Sera's map, and Sera has never been wrong twice. The shrine wasn't a shrine. It was a graveyard! So it is one guess at a time, and we have already spent one. One more ruin — two at the worst — and I am done with this work. I will buy the house by the tannery, the one you liked. Keep well. Do not worry. — M.\""
+  },
+  {
+    "id": "uL43C0OtmDqZr6IF",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787704112103,
+    "time": "2026-08-26T00:28:32.103Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "The Party",
+    "content": "Marn's Unsent Letter Adventuring Gear A single sheet folded small enough to live inside a locket — creased sharp, never sealed, never sent. The hand is neat; the margins are smudged by ink-stained fingers.\"Tess — We are close now. There are four old places in this forest and the prize lies in exactly one of them; the other three are cold stone and whatever has crawled into it. We have Sera's map, and Sera has never been wrong twice. The shrine wasn't a shrine. It was a graveyard! So it is one guess at a time, and we have already spent one. One more ruin — two at the worst — and I am done with this work. I will buy the house by the tannery, the one you liked. Keep well. Do not worry. — M.\""
+  },
+  {
+    "id": "WjDtP4riq5ZuQyAk",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787704119500,
+    "time": "2026-08-26T00:28:39.500Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "The Party",
+    "content": "Marn's Unsent Letter Adventuring Gear A single sheet folded small enough to live inside a locket — creased sharp, never sealed, never sent. The hand is neat; the margins are smudged by ink-stained fingers.\"Tess — We are close now. There are four old places in this forest and the prize lies in exactly one of them; the other three are cold stone and whatever has crawled into it. We have Sera's map, and Sera has never been wrong twice. The shrine wasn't a shrine. It was a graveyard! So it is one guess at a time, and we have already spent one. One more ruin — two at the worst — and I am done with this work. I will buy the house by the tannery, the one you liked. Keep well. Do not worry. — M.\""
+  },
+  {
+    "id": "psnmCYUtCAtDl7wf",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704121102,
+    "time": "2026-08-26T00:28:41.102Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "Marn's Unsent Letter Adventuring Gear A single sheet folded small enough to live inside a locket — creased sharp, never sealed, never sent. The hand is neat; the margins are smudged by ink-stained fingers.\"Tess — We are close now. There are four old places in this forest and the prize lies in exactly one of them; the other three are cold stone and whatever has crawled into it. We have Sera's map, and Sera has never been wrong twice. The shrine wasn't a shrine. It was a graveyard! So it is one guess at a time, and we have already spent one. One more ruin — two at the worst — and I am done with this work. I will buy the house by the tannery, the one you liked. Keep well. Do not worry. — M.\""
+  },
+  {
+    "id": "29zjwqYFLBYlwDdk",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704202102,
+    "time": "2026-08-26T00:30:02.102Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "Brakk's Plate Armor, Claw-Rent Adventuring Gear Ruined plate — cannot be worn as armour in this condition.A full suit of plate, built for a broad, short frame and kept well before the end: the joints still run smooth, the straps and buckles are sound, and the greaves, gauntlets and helm have barely a scratch on them.The breastplate is another matter. Three parallel rents run down it, shoulder to hip, each wide enough to put a hand through. The steel did not dent or buckle the way plate is supposed to fail — it is sheared clean through, in three even lines, and the left pauldron has been torn off its mounting entirely and is missing.Everything below the ruin is salvageable. A working armourer with a forge, a few days, and a supply of good steel could cut out the wrecked plate, beat new sections to match, and make the suit whole again — it would want a proper smith and a proper price, not a field repair.Until then it is 65 pounds of very good steel with a hole in the front of it."
+  },
+  {
+    "id": "QTGUdkjUrsERtdtf",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704208740,
+    "time": "2026-08-26T00:30:08.740Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "Brakk's Plate Armor, Claw-Rent Adventuring Gear Ruined plate — cannot be worn as armour in this condition.A full suit of plate, built for a broad, short frame and kept well before the end: the joints still run smooth, the straps and buckles are sound, and the greaves, gauntlets and helm have barely a scratch on them.The breastplate is another matter. Three parallel rents run down it, shoulder to hip, each wide enough to put a hand through. The steel did not dent or buckle the way plate is supposed to fail — it is sheared clean through, in three even lines, and the left pauldron has been torn off its mounting entirely and is missing.Everything below the ruin is salvageable. A working armourer with a forge, a few days, and a supply of good steel could cut out the wrecked plate, beat new sections to match, and make the suit whole again — it would want a proper smith and a proper price, not a field repair.Until then it is 65 pounds of very good steel with a hole in the front of it."
+  },
+  {
+    "id": "8S6hYmTnviBEKOPU",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704210614,
+    "time": "2026-08-26T00:30:10.614Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "Sera's Map of the Four Ruins Adventuring Gear A traveler's map of the Misty Forest, creased and rain-spotted. Four ruin sites are inked in a confident hand: a cave-mouth in the hills, a deep wood, a ruined temple, a drowned fen.Beneath them, underlined twice:\"Four ruins. One prize. One in four — and no way to know which but to walk in and look.\"A smaller hand has added, later and less steadily: \"A game of roulette, and we only get to spin it the once at a time. Three of these are cold stone and whatever has moved into it. The fourth is the rest of our lives.\"The caves are circled — and then struck through."
+  },
+  {
+    "id": "wLwtjyUYGUeXkknF",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704212573,
+    "time": "2026-08-26T00:30:12.573Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "Brakk's Plate Armor, Claw-Rent Adventuring Gear Ruined plate — cannot be worn as armour in this condition.A full suit of plate, built for a broad, short frame and kept well before the end: the joints still run smooth, the straps and buckles are sound, and the greaves, gauntlets and helm have barely a scratch on them.The breastplate is another matter. Three parallel rents run down it, shoulder to hip, each wide enough to put a hand through. The steel did not dent or buckle the way plate is supposed to fail — it is sheared clean through, in three even lines, and the left pauldron has been torn off its mounting entirely and is missing.Everything below the ruin is salvageable. A working armourer with a forge, a few days, and a supply of good steel could cut out the wrecked plate, beat new sections to match, and make the suit whole again — it would want a proper smith and a proper price, not a field repair.Until then it is 65 pounds of very good steel with a hole in the front of it."
+  },
+  {
+    "id": "Ar2BZ28LcBnzUo9S",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704418281,
+    "time": "2026-08-26T00:33:38.281Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Party Stash",
+    "content": "Tom removed 1 × Necrotic Sword from The Party."
+  },
+  {
+    "id": "8vDLCSLtZBEzPJua",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704418872,
+    "time": "2026-08-26T00:33:38.872Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Party Stash",
+    "content": "Tom removed 1 × Necrotic Sword from The Party."
+  },
+  {
+    "id": "DOUTQFDfLWWFpohD",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787704426181,
+    "time": "2026-08-26T00:33:46.181Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Party Stash",
+    "content": "Matt the DM removed 1 × Brakk's Plate Armor, Claw-Rent from The Party."
+  },
+  {
+    "id": "cc9WBYuVOZxaTQW1",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704432015,
+    "time": "2026-08-26T00:33:52.015Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "Marn's Unsent Letter Adventuring Gear A single sheet folded small enough to live inside a locket — creased sharp, never sealed, never sent. The hand is neat; the margins are smudged by ink-stained fingers.\"Tess — We are close now. There are four old places in this forest and the prize lies in exactly one of them; the other three are cold stone and whatever has crawled into it. We have Sera's map, and Sera has never been wrong twice. The shrine wasn't a shrine. It was a graveyard! So it is one guess at a time, and we have already spent one. One more ruin — two at the worst — and I am done with this work. I will buy the house by the tannery, the one you liked. Keep well. Do not worry. — M.\""
+  },
+  {
+    "id": "eyQfaVAontZG3vMS",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704668791,
+    "time": "2026-08-26T00:37:48.791Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "Periapt of Wound Closure Wondrous Item Wondrous Item, Uncommon (Requires Attunement)A battlefield chirurgeon sold it upon retiring, swearing that in thirty years of war she never lost a patient who wore it.While wearing this pendant, you gain the following benefits.Life Preservation. Whenever you make a Death Saving Throw, you can change a roll of 9 or lower to a 10, turning a failed save into a successful one.Natural Healing Boost. Whenever you roll a Hit Point Die to regain Hit Points, double the number of Hit Points it restores. Attunement Required Not Equipped Not Proficient"
+  },
+  {
+    "id": "sHsNM1HwkhX9Ku0G",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704821796,
+    "time": "2026-08-26T00:40:21.796Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Party Stash",
+    "content": "Gren Greenmantle withdrew 1 pp 5 gp from The Party."
+  },
+  {
+    "id": "osU4w2TnbMxVDtzP",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787704834640,
+    "time": "2026-08-26T00:40:34.640Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Party Stash",
+    "content": "Matt the DM added coin to The Party: +12 gp, +5 sp."
+  },
+  {
+    "id": "CRoEspy8KzVv1GRI",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704834845,
+    "time": "2026-08-26T00:40:34.845Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Loot Shelf",
+    "content": "The Party sold 1 × Marn's Light Crossbow to Mother Wend for 12 gp 5 sp."
+  },
+  {
+    "id": "eBsLI0Bdva5bvkWE",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787704835048,
+    "time": "2026-08-26T00:40:35.048Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Party Stash",
+    "content": "Matt the DM removed 1 × Marn's Light Crossbow from The Party."
+  },
+  {
+    "id": "cFyzA3MHUhebb5ZK",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704855144,
+    "time": "2026-08-26T00:40:55.144Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Loot Shelf",
+    "content": "Gren Greenmantle bought 1 × Caltrops from Mother Wend for 1 gp."
+  },
+  {
+    "id": "Hk1954BoohmwumRn",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704860154,
+    "time": "2026-08-26T00:41:00.154Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Loot Shelf",
+    "content": "Gren Greenmantle bought 1 × Manacles from Mother Wend for 2 gp."
+  },
+  {
+    "id": "gyJgADsTuXrmCZoK",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704862879,
+    "time": "2026-08-26T00:41:02.879Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Loot Shelf",
+    "content": "Gren Greenmantle bought 1 × Candle from Mother Wend for 1 cp."
+  },
+  {
+    "id": "DCob27PDK08fNB6i",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787704863096,
+    "time": "2026-08-26T00:41:03.096Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Party Stash",
+    "content": "Matt the DM removed 1 × Traveller's Letter from The Party."
+  },
+  {
+    "id": "LhqbNVZLbMFy7fki",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787704873452,
+    "time": "2026-08-26T00:41:13.452Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Party Stash",
+    "content": "Matt the DM removed 1 × Brakk's Plate Armor, Claw-Rent from The Party."
+  },
+  {
+    "id": "qHVvTmxuQTXoe5Z7",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704880333,
+    "time": "2026-08-26T00:41:20.333Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Loot Shelf",
+    "content": "Gren Greenmantle bought 1 × Waterskin from Mother Wend for 2 sp."
+  },
+  {
+    "id": "zTkHF1mbVvt3XkRv",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704884713,
+    "time": "2026-08-26T00:41:24.713Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Loot Shelf",
+    "content": "Gren Greenmantle bought 1 × Bottle, Glass from Mother Wend for 2 gp."
+  },
+  {
+    "id": "45ATrQTnJ3iMKyCD",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704890807,
+    "time": "2026-08-26T00:41:30.807Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Loot Shelf",
+    "content": "Gren Greenmantle bought 1 × Flask from Mother Wend for 2 cp."
+  },
+  {
+    "id": "2Xc1kCpY36NrWZZP",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704903569,
+    "time": "2026-08-26T00:41:43.569Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Loot Shelf",
+    "content": "Gren Greenmantle bought 1 × Vial from Mother Wend for 1 gp."
+  },
+  {
+    "id": "LTMDm9JfY9CgTU1a",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787704974425,
+    "time": "2026-08-26T00:42:54.425Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Party Stash",
+    "content": "Matt the DM added coin to The Party: +5 gp."
+  },
+  {
+    "id": "zlNWHhOvcAK20aL1",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704974592,
+    "time": "2026-08-26T00:42:54.592Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Loot Shelf",
+    "content": "The Party sold 1 × Sera's Shortsword to Mother Wend for 5 gp."
+  },
+  {
+    "id": "9RyLmqKdFlmstydU",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787704974858,
+    "time": "2026-08-26T00:42:54.858Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Party Stash",
+    "content": "Matt the DM removed 1 × Sera's Shortsword from The Party."
+  },
+  {
+    "id": "jaEBRTWAIOU4Hm4V",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787704978867,
+    "time": "2026-08-26T00:42:58.867Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Party Stash",
+    "content": "Matt the DM added coin to The Party: +5 gp."
+  },
+  {
+    "id": "f6SnFpXrSiQMGPxb",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704979005,
+    "time": "2026-08-26T00:42:59.005Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Loot Shelf",
+    "content": "The Party sold 1 × Maul to Mother Wend for 5 gp."
+  },
+  {
+    "id": "JEWrbjsc599EEPDl",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787704979330,
+    "time": "2026-08-26T00:42:59.330Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Party Stash",
+    "content": "Matt the DM removed 1 × Maul from The Party."
+  },
+  {
+    "id": "0Ip04bcBZ6Bknf3f",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787704983540,
+    "time": "2026-08-26T00:43:03.540Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Party Stash",
+    "content": "Matt the DM added coin to The Party: +5 sp."
+  },
+  {
+    "id": "FCvwJsNhZOEBiSym",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704983684,
+    "time": "2026-08-26T00:43:03.684Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Loot Shelf",
+    "content": "The Party sold 1 × Sickle to Mother Wend for 5 sp."
+  },
+  {
+    "id": "sJMRwAqfdWsr93Zq",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787704983986,
+    "time": "2026-08-26T00:43:03.986Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Party Stash",
+    "content": "Matt the DM removed 1 × Sickle from The Party."
+  },
+  {
+    "id": "CUuGg8OeVAdbCQO7",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787704985128,
+    "time": "2026-08-26T00:43:05.128Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Loot Shelf",
+    "content": "Jetten Elisedil bought 1 × Ball Bearings from Mother Wend for 1 gp."
+  },
+  {
+    "id": "NrCC7cydYTsFRZu4",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787704989960,
+    "time": "2026-08-26T00:43:09.960Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Party Stash",
+    "content": "Gren Greenmantle took 1 × Dagger from The Party."
+  },
+  {
+    "id": "mVlVvuVelHxkkLtS",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787705008448,
+    "time": "2026-08-26T00:43:28.448Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Party Stash",
+    "content": "Matt the DM added coin to The Party: +22 gp, +5 sp."
+  },
+  {
+    "id": "3MCiNxKggZ2c8LLG",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787705008596,
+    "time": "2026-08-26T00:43:28.596Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Loot Shelf",
+    "content": "The Party sold 1 × Sera's Studded Leather to Mother Wend for 22 gp 5 sp."
+  },
+  {
+    "id": "tpGIUPKOHcj84HZk",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787705008878,
+    "time": "2026-08-26T00:43:28.878Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Party Stash",
+    "content": "Matt the DM removed 1 × Sera's Studded Leather from The Party."
+  },
+  {
+    "id": "vXiZcJzrdTIZmn78",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1787705010913,
+    "time": "2026-08-26T00:43:30.913Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Party Stash",
+    "content": "Thomas A. Invictus withdrew 1 gp from The Party."
+  },
+  {
+    "id": "hncBaetVLn0Tm3q5",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787705029393,
+    "time": "2026-08-26T00:43:49.393Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Party Stash",
+    "content": "Matt the DM added coin to The Party: +5 gp."
+  },
+  {
+    "id": "XOh9MUA68HMjS1zn",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787705029534,
+    "time": "2026-08-26T00:43:49.534Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Loot Shelf",
+    "content": "The Party sold 1 × Shield to Mother Wend for 5 gp."
+  },
+  {
+    "id": "4oSiYLCsbBa0uStK",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787705029849,
+    "time": "2026-08-26T00:43:49.849Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Party Stash",
+    "content": "Matt the DM removed 1 × Shield from The Party."
+  },
+  {
+    "id": "WOhgRNgUTjZ9iBnL",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1787705054489,
+    "time": "2026-08-26T00:44:14.489Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Party Stash",
+    "content": "Thomas A. Invictus deposited 1 gp into The Party."
+  },
+  {
+    "id": "bYasIS03Fn7RWQwa",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787705138020,
+    "time": "2026-08-26T00:45:38.020Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Loot Shelf",
+    "content": "Jetten Elisedil bought 1 × Caltrops from Mother Wend for 1 gp."
+  },
+  {
+    "id": "Nfumr3bp1fVhcZ0p",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787705208572,
+    "time": "2026-08-26T00:46:48.572Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Loot Shelf",
+    "content": "Gren Greenmantle bought 1 × Three-dragon ante from Mother Wend for 1 gp."
+  },
+  {
+    "id": "XJw1DNDlc7pdqsRs",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787705821838,
+    "time": "2026-08-26T00:57:01.838Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "",
+    "flavor": "Wisdom (Insight) Check",
+    "rolls": [
+      {
+        "total": 5,
+        "formula": "1d20 + 1 + 2 + 1"
+      }
+    ]
+  },
+  {
+    "id": "J4nw6Noo17cqgzDm",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787705831100,
+    "time": "2026-08-26T00:57:11.100Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "16",
+    "flavor": "Heroic Inspiration — the reroll",
+    "rolls": [
+      {
+        "total": 16,
+        "formula": "1d20 + 1 + 2 + 1"
+      }
+    ]
+  },
+  {
+    "id": "Y2zMgH5PWVYmvWQa",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787705831168,
+    "time": "2026-08-26T00:57:11.168Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "D20 Fold — Heroic Inspiration Heroic Inspiration — the roll is patched Gren Greenmantle spends Heroic Inspiration 5 → 16 — the roll now totals 16."
+  },
+  {
+    "id": "DMQzsJpMHnIzfrvP",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1787706577453,
+    "time": "2026-08-26T01:09:37.453Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "",
+    "flavor": "Intelligence (Investigation) Check (Advantage)",
+    "rolls": [
+      {
+        "total": 21,
+        "formula": "2d20adv + 2 + 2 - 2"
+      }
+    ]
+  },
+  {
+    "id": "FRYibMgsjUKOSK0o",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787706715846,
+    "time": "2026-08-26T01:11:55.846Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "The Graveheart Trinket A quarter of a heart, turned to deep red crystal. The size of two cupped hands, the sheared-off vessels still visible like flaws in a gem. It is warm to the touch. It beats — faintly, once every few seconds, light pulsing through the facets. It cannot be chipped or scratched. It has already been broken.The vision. The Graveheart requires attunement. The first time you hold it, it shows you one thing. A beautiful green woman, glowing white, leaves crowning her head, weeping. She closes her hands over her own chest, and her heart bursts. The pieces scatter into the dark, hardening as they fly. The burst drives the mists back in a great ring, baring a bare green valley next to a beautiful lake. Where she stood, a tree: grey, leafless, asleep. A single faint heartbeat, and it is over.While you carry the Graveheart you have advantage on Charisma saving throws.Once between dawns, you can press the shard to the chest of a creature that has died within the last minute: the heart gives one full, warm beat, and it casts revivify — the shard is the only component needed.It is one chamber of a heart — and a heart has four. You cannot shake the feeling that, whole, it could do so much more. Attunement Required Not Equipped Not Proficient"
+  },
+  {
+    "id": "1KobfHllwbwDxa5G",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787706727364,
+    "time": "2026-08-26T01:12:07.364Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "The Party",
+    "content": "The Graveheart Trinket A quarter of a heart, turned to deep red crystal. The size of two cupped hands, the sheared-off vessels still visible like flaws in a gem. It is warm to the touch. It beats — faintly, once every few seconds, light pulsing through the facets. It cannot be chipped or scratched. It has already been broken.The vision. The Graveheart requires attunement. The first time you hold it, it shows you one thing. A beautiful green woman, glowing white, leaves crowning her head, weeping. She closes her hands over her own chest, and her heart bursts. The pieces scatter into the dark, hardening as they fly. The burst drives the mists back in a great ring, baring a bare green valley next to a beautiful lake. Where she stood, a tree: grey, leafless, asleep. A single faint heartbeat, and it is over.While you carry the Graveheart you have advantage on Charisma saving throws.Once between dawns, you can press the shard to the chest of a creature that has died within the last minute: the heart gives one full, warm beat, and it casts revivify — the shard is the only component needed.It is one chamber of a heart — and a heart has four. You cannot shake the feeling that, whole, it could do so much more. Attunement Required Not Equipped Not Proficient"
+  },
+  {
+    "id": "qsMRTis6VUSi6mpi",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787706727432,
+    "time": "2026-08-26T01:12:07.432Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "The Party",
+    "content": "The Graveheart Trinket A quarter of a heart, turned to deep red crystal. The size of two cupped hands, the sheared-off vessels still visible like flaws in a gem. It is warm to the touch. It beats — faintly, once every few seconds, light pulsing through the facets. It cannot be chipped or scratched. It has already been broken.The vision. The Graveheart requires attunement. The first time you hold it, it shows you one thing. A beautiful green woman, glowing white, leaves crowning her head, weeping. She closes her hands over her own chest, and her heart bursts. The pieces scatter into the dark, hardening as they fly. The burst drives the mists back in a great ring, baring a bare green valley next to a beautiful lake. Where she stood, a tree: grey, leafless, asleep. A single faint heartbeat, and it is over.While you carry the Graveheart you have advantage on Charisma saving throws.Once between dawns, you can press the shard to the chest of a creature that has died within the last minute: the heart gives one full, warm beat, and it casts revivify — the shard is the only component needed.It is one chamber of a heart — and a heart has four. You cannot shake the feeling that, whole, it could do so much more. Attunement Required Not Equipped Not Proficient"
+  },
+  {
+    "id": "cnkRuujFrWrrAqeF",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787707165730,
+    "time": "2026-08-26T01:19:25.730Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "Everbloom Petal Junk A single spring blossom, dew still beading on its petals, plucked from a hollow that was blooming in the wrong season. It never wilts and never quite loses its warmth — as though it is holding onto a summer afternoon that ended a very long time ago. It is worth nothing, and it will outlast everyone who carries it."
+  },
+  {
+    "id": "nBwiOsDqsZmRo1Dz",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787707218974,
+    "time": "2026-08-26T01:20:18.974Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "Sera's Map of the Four Ruins Adventuring Gear A traveler's map of the Misty Forest, creased and rain-spotted. Four ruin sites are inked in a confident hand: a cave-mouth in the hills, a deep wood, a ruined temple, a drowned fen.Beneath them, underlined twice:\"Four ruins. One prize. One in four — and no way to know which but to walk in and look.\"A smaller hand has added, later and less steadily: \"A game of roulette, and we only get to spin it the once at a time. Three of these are cold stone and whatever has moved into it. The fourth is the rest of our lives.\"The caves are circled — and then struck through."
+  },
+  {
+    "id": "N8MEx7wanaxNi3EY",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787707240222,
+    "time": "2026-08-26T01:20:40.222Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "Charcoal Sketch of a Weeping Woman Adventuring Gear A loose leaf of paper, the charcoal smudged from handling: a woman beneath — or becoming — a great pale tree, her face buried in her hands. Her hair and the branches are drawn as one. It is very good, and it is not finished.Beneath, in a tired hand:\"I sketched her so I would stop seeing her face.\""
+  },
+  {
+    "id": "VQJs8MYG20fWxixt",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787707255948,
+    "time": "2026-08-26T01:20:55.948Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "Charcoal Sketch of a Weeping Woman Adventuring Gear A loose leaf of paper, the charcoal smudged from handling: a woman beneath — or becoming — a great pale tree, her face buried in her hands. Her hair and the branches are drawn as one. It is very good, and it is not finished.Beneath, in a tired hand:\"I sketched her so I would stop seeing her face.\""
+  },
+  {
+    "id": "Vn4yTRcO7AfvzeMP",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787707272491,
+    "time": "2026-08-26T01:21:12.491Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "Charcoal Sketch of a Weeping Woman Adventuring Gear A loose leaf of paper, the charcoal smudged from handling: a woman beneath — or becoming — a great pale tree, her face buried in her hands. Her hair and the branches are drawn as one. It is very good, and it is not finished.Beneath, in a tired hand:\"I sketched her so I would stop seeing her face.\""
+  },
+  {
+    "id": "4kqPvS5sseIusnml",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787707276027,
+    "time": "2026-08-26T01:21:16.027Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "Marn's Journal Adventuring Gear A rain-stiffened journal wrapped in oilskin. Water has ruined most of it; five entries survive.\"Greenrest is the kindest town I have known. The mayor fed us for nothing and would take nothing. But four nights running we have all had the same dream — a woman weeping under a white tree. All five of us, the same woman. The apothecary sells a tonic so you won't dream at all. Sera took it and was fine. Maybe we will when we get back.\"\"Started our search through the four possible ruins on Sera's map — the relic is in one of them, we're sure. The stories all describe the same prize; it can only be in one of them. We voted. The caves.\"\"We were wrong, or we were early. It is no shrine — it is a catacomb, cut deep under the hill, the dead laid in rows in the walls. And they did not stay in them. They came up at us with unholy weapons. Aldous's wounds closed, but he did not mend. Edda would not leave him. We three made for the surface. Gods forgive us.\"\"Camped at some old temple in the woods. Something is stalking us. I took a nap and I slept normal — dreams are OK now. Now I'm on watch. Cats keep circling the light. They sit beyond the light and do not eat what they kill. Sera says we make for the village at first light.\"The last entry is a hasty scrawl, the pen dragged across the page:\"They're here! Time to arms!\""
+  },
+  {
+    "id": "WXuiB5VApDMLF4md",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787707326360,
+    "time": "2026-08-26T01:22:06.360Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "The Party",
+    "content": "Kestrel Company Locket Trinket A silver locket on a short chain, worn close at the throat, stamped with a diving kestrel — the badge of the Kestrel Company. Every member wore one. Inside, room for whatever its owner could not leave behind. Not Equipped Not Proficient"
+  },
+  {
+    "id": "fTQTYKLSnEaSNHkm",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787707494801,
+    "time": "2026-08-26T01:24:54.801Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "",
+    "flavor": "Intelligence (Nature) Check (Advantage)",
+    "rolls": [
+      {
+        "total": 2,
+        "formula": "2d20adv - 1 + 1"
+      }
+    ]
+  },
+  {
+    "id": "StAPn6osBD3iXdKL",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787707534027,
+    "time": "2026-08-26T01:25:34.027Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Intelligence (Nature) Check",
+    "rolls": [
+      {
+        "total": 10,
+        "formula": "1d20 - 1 + 2"
+      }
+    ]
+  },
+  {
+    "id": "au4UiW72Ymqxjhkz",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787707666942,
+    "time": "2026-08-26T01:27:46.942Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "Jetten Elisedil takes a long rest.",
+    "flavor": "Long Rest (8 hours, new day)"
+  },
+  {
+    "id": "ETRUqqq209iL4w0s",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787708143140,
+    "time": "2026-08-26T01:35:43.140Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "Jetten Elisedil takes a long rest.",
+    "flavor": "Long Rest (8 hours, new day)"
+  },
+  {
+    "id": "My9HNczClak7FR7C",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1787708160304,
+    "time": "2026-08-26T01:36:00.304Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "Thomas A. Invictus takes a long rest.",
+    "flavor": "Long Rest (8 hours, new day)"
+  },
+  {
+    "id": "jpuXll01oLlZOOvC",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1787708220131,
+    "time": "2026-08-26T01:37:00.131Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash",
+    "content": "2",
+    "rolls": [
+      {
+        "total": 2,
+        "formula": "1d20"
+      }
+    ]
+  },
+  {
+    "id": "GbhPHcalCjBEqSA6",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787708227827,
+    "time": "2026-08-26T01:37:07.827Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Party Stash",
+    "content": "Matt the DM added 1 × Plate Armor to The Party."
+  },
+  {
+    "id": "ESSrKzirvUR6IpBH",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1787708228601,
+    "time": "2026-08-26T01:37:08.601Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas",
+    "content": "3",
+    "rolls": [
+      {
+        "total": 3,
+        "formula": "1d20"
+      }
+    ]
+  },
+  {
+    "id": "poODxSFZsg6uCFrN",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787708256409,
+    "time": "2026-08-26T01:37:36.409Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren",
+    "content": "19",
+    "rolls": [
+      {
+        "total": 19,
+        "formula": "1d20"
+      }
+    ]
+  },
+  {
+    "id": "hOJ1YhtSsBxJ6iB1",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1787708307824,
+    "time": "2026-08-26T01:38:27.824Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "The Party",
+    "content": "Plate Armor Heavy Armor 18 AC Stealth Disadvantage Not Equipped Not Proficient"
+  },
+  {
+    "id": "yGXk6TBeYmAFFAE3",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1787708314837,
+    "time": "2026-08-26T01:38:34.837Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "The Party",
+    "content": "Plate Armor Heavy Armor 18 AC Stealth Disadvantage Not Equipped Not Proficient"
+  },
+  {
+    "id": "AhsY2sNFH2IUhrqL",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1787708315011,
+    "time": "2026-08-26T01:38:35.011Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "The Party",
+    "content": "Plate Armor Heavy Armor 18 AC Stealth Disadvantage Not Equipped Not Proficient"
+  },
+  {
+    "id": "aOz08OLXSKdton6s",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1787708335793,
+    "time": "2026-08-26T01:38:55.793Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "The Party",
+    "content": "Plate Armor Heavy Armor 18 AC Stealth Disadvantage Not Equipped Not Proficient"
+  },
+  {
+    "id": "WSKn26i6A4zXjTBH",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1787708335958,
+    "time": "2026-08-26T01:38:55.958Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "The Party",
+    "content": "Plate Armor Heavy Armor 18 AC Stealth Disadvantage Not Equipped Not Proficient"
+  },
+  {
+    "id": "OB5HaauMubq7AN3z",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1787708354107,
+    "time": "2026-08-26T01:39:14.107Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "The Party",
+    "content": "Plate Armor Heavy Armor 18 AC Stealth Disadvantage Not Equipped Not Proficient"
+  },
+  {
+    "id": "6grXhVsJBi7x6CPp",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1787708354284,
+    "time": "2026-08-26T01:39:14.284Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "The Party",
+    "content": "Plate Armor Heavy Armor 18 AC Stealth Disadvantage Not Equipped Not Proficient"
+  },
+  {
+    "id": "f5hv1mzmGkOFMz4M",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1787708377118,
+    "time": "2026-08-26T01:39:37.118Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "The Party",
+    "content": "Plate Armor Heavy Armor 18 AC Stealth Disadvantage Not Equipped Not Proficient"
+  },
+  {
+    "id": "tp64X6FGgp8ZHByH",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1787708407217,
+    "time": "2026-08-26T01:40:07.217Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Party Stash",
+    "content": "Morgash the Gravemaker took 1 × Plate Armor from The Party."
+  },
+  {
+    "id": "Gl8kY28ee9XbiaBS",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1787708422792,
+    "time": "2026-08-26T01:40:22.792Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Party Stash",
+    "content": "Morgash the Gravemaker stashed 1 × Splint Armor in The Party."
+  },
+  {
+    "id": "5D37Qd9JPdX8mcmt",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787708479748,
+    "time": "2026-08-26T01:41:19.748Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Party Stash",
+    "content": "Matt the DM added coin to The Party: +100 gp."
+  },
+  {
+    "id": "eG4wkqKaYfe9s1iH",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787708485875,
+    "time": "2026-08-26T01:41:25.875Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Party Stash",
+    "content": "Matt the DM removed 1 × Splint Armor from The Party."
+  },
+  {
+    "id": "YLGtu2CPq4oXm2Oi",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1787708511413,
+    "time": "2026-08-26T01:41:51.413Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Plate Armor Heavy Armor 18 AC Stealth Disadvantage Equipped Proficient"
+  },
+  {
+    "id": "ic5cCYKL6Z7vxvyh",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1787708518758,
+    "time": "2026-08-26T01:41:58.758Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Party Stash",
+    "content": "Morgash the Gravemaker stashed 1 × Plate Armor in The Party."
+  },
+  {
+    "id": "kb8NjWKqdH6rRRIU",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787708532593,
+    "time": "2026-08-26T01:42:12.593Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Party Stash",
+    "content": "Matt the DM added coin to The Party: +25 gp."
+  },
+  {
+    "id": "JhuwJUKNqiGixW6J",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787708532698,
+    "time": "2026-08-26T01:42:12.698Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Loot Shelf",
+    "content": "The Party sold 1 × Sera's Longbow to Selma for 25 gp."
+  },
+  {
+    "id": "vgrcHeGL08echb5e",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787708533543,
+    "time": "2026-08-26T01:42:13.543Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Party Stash",
+    "content": "Matt the DM removed 1 × Sera's Longbow from The Party."
+  },
+  {
+    "id": "c0q2MYfApZqLvM9m",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1787708554271,
+    "time": "2026-08-26T01:42:34.271Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Party Stash",
+    "content": "Thomas A. Invictus took 1 × Plate Armor from The Party."
+  },
+  {
+    "id": "figTExuSUfln0HE4",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1787708570792,
+    "time": "2026-08-26T01:42:50.792Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "Plate Armor Heavy Armor 18 AC Stealth Disadvantage Not Equipped Proficient"
+  },
+  {
+    "id": "1k1ihJSV6rxwHCq5",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787708612978,
+    "time": "2026-08-26T01:43:32.978Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Party Stash",
+    "content": "Gren Greenmantle withdrew 178 gp from The Party."
+  },
+  {
+    "id": "VNajZClJuvslv69v",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787708630663,
+    "time": "2026-08-26T01:43:50.663Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Party Stash",
+    "content": "Gren Greenmantle withdrew 3 pp from The Party."
+  },
+  {
+    "id": "ZTw7bCuLc96ZGLpo",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787708650340,
+    "time": "2026-08-26T01:44:10.340Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Loot Shelf",
+    "content": "Gren Greenmantle bought 4 × Antitoxin from Selma for 200 gp."
+  },
+  {
+    "id": "9DahTK9DXNYCMsbP",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787708661760,
+    "time": "2026-08-26T01:44:21.760Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Party Stash",
+    "content": "Gren Greenmantle stashed 4 × Antitoxin in The Party."
+  },
+  {
+    "id": "A1MvF0m8IARwGX4K",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787708673659,
+    "time": "2026-08-26T01:44:33.659Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Party Stash",
+    "content": "Gren Greenmantle took 4 × Antitoxin from The Party."
+  },
+  {
+    "id": "wDwsSaWHoaqv7hUA",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787708677768,
+    "time": "2026-08-26T01:44:37.768Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Party Stash",
+    "content": "Gren Greenmantle stashed 4 × Antitoxin in The Party."
+  },
+  {
+    "id": "mARgtFpcqrW6Sh8V",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787708684223,
+    "time": "2026-08-26T01:44:44.223Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Party Stash",
+    "content": "Tom added 4 × Antitoxin (Copy) to The Party."
+  },
+  {
+    "id": "nnXSIhm0SINPGD8p",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787708686761,
+    "time": "2026-08-26T01:44:46.761Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Party Stash",
+    "content": "Tom added 4 × Antitoxin (Copy) (Copy) to The Party."
+  },
+  {
+    "id": "lN9Qxw7n1Z4ZlmRM",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787708688984,
+    "time": "2026-08-26T01:44:48.984Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Party Stash",
+    "content": "Tom added 4 × Antitoxin (Copy) (Copy) (Copy) to The Party."
+  },
+  {
+    "id": "7r5NK5EK3CnWEkGV",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787708691630,
+    "time": "2026-08-26T01:44:51.630Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Party Stash",
+    "content": "Tom removed 1 × Antitoxin from The Party.Tom removed 1 × Antitoxin from The Party."
+  },
+  {
+    "id": "Uvs0BRt6VDaaXJPT",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787708692470,
+    "time": "2026-08-26T01:44:52.470Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Party Stash",
+    "content": "Tom removed 1 × Antitoxin from The Party."
+  },
+  {
+    "id": "g2x3ISpRTNgKpI0n",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787708693802,
+    "time": "2026-08-26T01:44:53.802Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Party Stash",
+    "content": "Tom removed 2 × Antitoxin (Copy) from The Party.Tom removed 1 × Antitoxin (Copy) from The Party."
+  },
+  {
+    "id": "9IIJUzwjTZh8Mo8V",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787708694459,
+    "time": "2026-08-26T01:44:54.459Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Party Stash",
+    "content": "Tom removed 1 × Antitoxin (Copy) from The Party."
+  },
+  {
+    "id": "Xhwy2nBxapF4ultQ",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787708694931,
+    "time": "2026-08-26T01:44:54.931Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Party Stash",
+    "content": "Matt the DM removed 1 × Antitoxin (Copy) (Copy) from The Party."
+  },
+  {
+    "id": "msZMW2D1LACXEsB2",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787708696245,
+    "time": "2026-08-26T01:44:56.245Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Party Stash",
+    "content": "Matt the DM added 1 × Antitoxin (Copy) to The Party."
+  },
+  {
+    "id": "Q3EVbn7iasBqOuxT",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787708698710,
+    "time": "2026-08-26T01:44:58.710Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Party Stash",
+    "content": "Tom removed 1 × Antitoxin (Copy) (Copy) (Copy) from The Party.Tom removed 1 × Antitoxin (Copy) (Copy) (Copy) from The Party."
+  },
+  {
+    "id": "x3cCJMHTTY4xWHBB",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787708699229,
+    "time": "2026-08-26T01:44:59.229Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Party Stash",
+    "content": "Tom removed 1 × Antitoxin (Copy) (Copy) (Copy) from The Party."
+  },
+  {
+    "id": "MrZgCXmRn6zRF4DL",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787708701298,
+    "time": "2026-08-26T01:45:01.298Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Party Stash",
+    "content": "Tom removed 1 × Antitoxin (Copy) (Copy) from The Party.Tom removed 1 × Antitoxin (Copy) (Copy) from The Party."
+  },
+  {
+    "id": "8OWlDEfSYlwtUgwk",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787708705470,
+    "time": "2026-08-26T01:45:05.470Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Party Stash",
+    "content": "Gren Greenmantle took 1 × Antitoxin (Copy) (Copy) (Copy) from The Party."
+  },
+  {
+    "id": "O2ybzE8NmcBz4fYT",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1787708720451,
+    "time": "2026-08-26T01:45:20.451Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Party Stash",
+    "content": "Morgash the Gravemaker took 1 × Antitoxin from The Party."
+  },
+  {
+    "id": "B1GTrg0RZcdaAZ5V",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1787708722928,
+    "time": "2026-08-26T01:45:22.928Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Party Stash",
+    "content": "Thomas A. Invictus took 1 × Antitoxin (Copy) from The Party."
+  },
+  {
+    "id": "N7hj02OAXDmQar1P",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787708730231,
+    "time": "2026-08-26T01:45:30.231Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Party Stash",
+    "content": "Jetten Elisedil took 1 × Antitoxin (Copy) (Copy) from The Party."
+  },
+  {
+    "id": "5CEXA01wHFf4UGiy",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1787708954212,
+    "time": "2026-08-26T01:49:14.212Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "",
+    "flavor": "Wisdom (Survival) Check",
+    "rolls": [
+      {
+        "total": 6,
+        "formula": "1d20 + 1 + 2"
+      }
+    ]
+  },
+  {
+    "id": "ijWuWqi2t1nfSci7",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787708957065,
+    "time": "2026-08-26T01:49:17.065Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Wisdom (Survival) Check",
+    "rolls": [
+      {
+        "total": 24,
+        "formula": "1d20 + 3 + 2"
+      }
+    ]
+  },
+  {
+    "id": "XJRWL37I0DmWiPSH",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787709012094,
+    "time": "2026-08-26T01:50:12.094Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Wisdom (Perception) Check",
+    "rolls": [
+      {
+        "total": 8,
+        "formula": "1d20 + 3 + 2"
+      }
+    ]
+  },
+  {
+    "id": "ITjRyuKOSNeSLRkM",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787709088262,
+    "time": "2026-08-26T01:51:28.262Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "Speak with Animals 1st Level • Divination For the duration, you can comprehend and verbally communicate with Beasts, and you can use any of the Influence action’s skill options with them.Most Beasts have little to say about topics that don’t pertain to survival or companionship, but at minimum, a Beast can give you information about nearby locations and monsters, including whatever it has perceived within the past day. Consume Resource Refund Resource Ritual V, S Action 10 minutes Self Self"
+  },
+  {
+    "id": "q9OW36195Bj0Gi6S",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787709164780,
+    "time": "2026-08-26T01:52:44.780Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "",
+    "flavor": "Intelligence (Nature) Check",
+    "rolls": [
+      {
+        "total": 10,
+        "formula": "1d20 - 1 + 1"
+      }
+    ]
+  },
+  {
+    "id": "xMCK4POMCsi5pA5K",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1787709312642,
+    "time": "2026-08-26T01:55:12.642Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash",
+    "content": "14",
+    "flavor": "Morgash rolls for Initiative!",
+    "rolls": [
+      {
+        "total": 14,
+        "formula": "1d20 + 0"
+      }
+    ]
+  },
+  {
+    "id": "LypDwJBVzgMU0dYu",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787709320258,
+    "time": "2026-08-26T01:55:20.258Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren",
+    "content": "17",
+    "flavor": "Gren rolls for Initiative!",
+    "rolls": [
+      {
+        "total": 17,
+        "formula": "1d20 + 2 + 1"
+      }
+    ]
+  },
+  {
+    "id": "J9xCZmwepGyKS4mq",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787709322413,
+    "time": "2026-08-26T01:55:22.413Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Longshadow",
+    "content": "17",
+    "flavor": "Longshadow rolls for Initiative!",
+    "rolls": [
+      {
+        "total": 17,
+        "formula": "1d20 + 2 + 2"
+      }
+    ]
+  },
+  {
+    "id": "MfbVcFhCHkIn6im2",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787709322413,
+    "time": "2026-08-26T01:55:22.413Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Peryton",
+    "content": "13",
+    "flavor": "Peryton rolls for Initiative!",
+    "rolls": [
+      {
+        "total": 13,
+        "formula": "1d20 + 1 + 2"
+      }
+    ]
+  },
+  {
+    "id": "TM8soGSVd61MXQwp",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787709322413,
+    "time": "2026-08-26T01:55:22.413Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Peryton",
+    "content": "8",
+    "flavor": "Peryton rolls for Initiative!",
+    "rolls": [
+      {
+        "total": 8,
+        "formula": "1d20 + 1 + 2"
+      }
+    ]
+  },
+  {
+    "id": "gotsJrQ1Zsaflxx1",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1787709362173,
+    "time": "2026-08-26T01:56:02.173Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas",
+    "content": "8",
+    "flavor": "Thomas rolls for Initiative!",
+    "rolls": [
+      {
+        "total": 8,
+        "formula": "1d20 + 0"
+      }
+    ]
+  },
+  {
+    "id": "DS1CfqdNYNko2kpn",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787709389111,
+    "time": "2026-08-26T01:56:29.111Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten",
+    "content": "20",
+    "flavor": "Jetten rolls for Initiative!",
+    "rolls": [
+      {
+        "total": 20,
+        "formula": "1d20 + 4 + 3"
+      }
+    ]
+  },
+  {
+    "id": "aOlYp0TSK5f60AFy",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787709561578,
+    "time": "2026-08-26T01:59:21.578Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "Hunter's Mark - Favored Enemy 1st Level • Divination You magically mark one creature you can see within range as your quarry. Until the spell ends, you deal an extra 1d6 Force damage to the target whenever you hit it with an attack roll. You also have Advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it.If the target drops to 0 Hit Points before this spell ends, you can take a Bonus Action to move the mark to a new creature you can see within range.Using a Higher-Level Spell Slot. Your Concentration can last longer with a spell slot of level 3–4 (up to 8 hours) or 5+ (up to 24 hours). Consume Resource Refund Resource Concentration Bonus Action 1 hour 90 ft 1 creature"
+  },
+  {
+    "id": "XjYS0NrQW02Nmgqe",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787709565959,
+    "time": "2026-08-26T01:59:25.959Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "Longbow Martial Ranged • Slow Attack Damage Action Instantaneous 150/600 ft Equipped Proficient"
+  },
+  {
+    "id": "6WYEFRQmsOW8z8SZ",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787709569213,
+    "time": "2026-08-26T01:59:29.213Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Longbow - Attack Roll",
+    "rolls": [
+      {
+        "total": 26,
+        "formula": "1d20 + 4 + 2 + 2"
+      }
+    ]
+  },
+  {
+    "id": "fhTu3h9u5f5KykR3",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787709569476,
+    "time": "2026-08-26T01:59:29.476Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Longbow - Damage Roll",
+    "rolls": [
+      {
+        "total": 8,
+        "formula": "1d8 + 2 + 4"
+      },
+      {
+        "total": 1,
+        "formula": "1d6"
+      }
+    ]
+  },
+  {
+    "id": "TidRIyz7SwyuA3UG",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787709586109,
+    "time": "2026-08-26T01:59:46.109Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "Dread Ambusher Feature You have mastered the art of creating fearsome ambushes, granting you the following benefits.Ambusher’s Leap. At the start of your first turn of each combat, your Speed increases by 10 feet until the end of that turn.Dreadful Strike. When you attack a creature and hit it with a weapon, you can deal an extra 2d6 Psychic damage. You can use this benefit only once per turn, you can use it a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.Initiative Bonus. When you roll Initiative, you can add your Wisdom modifier to the roll. Damage Consume Resource Refund Resource Trigger When you attack and hit a creature with a weapon"
+  },
+  {
+    "id": "34hoT2I7iewJN7al",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787709589516,
+    "time": "2026-08-26T01:59:49.516Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Dread Ambusher - Damage Roll",
+    "rolls": [
+      {
+        "total": 6,
+        "formula": "2d6"
+      }
+    ]
+  },
+  {
+    "id": "X7uUkNi6hrITmD7t",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787709621925,
+    "time": "2026-08-26T02:00:21.925Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "Bless - Fey-Touched 1st Level • Enchantment You bless up to three creatures within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target adds 1d4 to the attack roll or save.Using a Higher-Level Spell Slot. You can target one additional creature for each spell slot level above 1. Consume Resource Refund Resource Concentration Action 1 minute 30 ft 3 creatures"
+  },
+  {
+    "id": "oZP7kthn3qf1eLKD",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787709716774,
+    "time": "2026-08-26T02:01:56.774Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Longshadow",
+    "content": "Gore Natural Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d8 + 4) Piercing damage. If the longshadow moved 30+ feet straight toward the target immediately before the hit, the target takes an extra 9 (2d8) Piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "FlFiKXJZDtlkpwKY",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787709718837,
+    "time": "2026-08-26T02:01:58.837Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Longshadow",
+    "content": "",
+    "flavor": "Gore - Attack Roll",
+    "rolls": [
+      {
+        "total": 9,
+        "formula": "1d20 + 4 + 2"
+      }
+    ]
+  },
+  {
+    "id": "N66lcuVC9WQSRV1b",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787709727539,
+    "time": "2026-08-26T02:02:07.539Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Longshadow",
+    "content": "Flyby Feature The longshadow doesn’t provoke an Opportunity Attack when it flies out of an enemy’s reach. Flies out of an enemy's reach"
+  },
+  {
+    "id": "2LwKJCD7jwFe8YIY",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787709860460,
+    "time": "2026-08-26T02:04:20.460Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Peryton",
+    "content": "Multiattack Feature The peryton makes one Gore attack and one Talons attack. Action Instantaneous Self"
+  },
+  {
+    "id": "o6PnEZlUW0WcuUcG",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787709866134,
+    "time": "2026-08-26T02:04:26.134Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Peryton",
+    "content": "Gore Natural Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage. If the peryton moved 30+ feet straight toward the target immediately before the hit, the target takes an extra 9 (2d8) Piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "fc33xIJEuPk37gKe",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787709867778,
+    "time": "2026-08-26T02:04:27.778Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Peryton",
+    "content": "",
+    "flavor": "Gore - Attack Roll",
+    "rolls": [
+      {
+        "total": 7,
+        "formula": "1d20 + 3 + 2"
+      }
+    ]
+  },
+  {
+    "id": "XomrvRiRS5BhSCqJ",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787709871054,
+    "time": "2026-08-26T02:04:31.054Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Peryton",
+    "content": "Talons Natural Melee Attack Roll: +5, reach 5 ft. Hit: 8 (2d4 + 3) Piercing damage. If the attack reduces a Humanoid target to 0 Hit Points, the peryton kills the target by removing its heart. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "Jo9jNtRxbEdZ7qwZ",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787709872057,
+    "time": "2026-08-26T02:04:32.057Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Peryton",
+    "content": "",
+    "flavor": "Talons - Attack Roll",
+    "rolls": [
+      {
+        "total": 16,
+        "formula": "1d20 + 3 + 2"
+      }
+    ]
+  },
+  {
+    "id": "GeB5BMEGPOHLYj3U",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787709872180,
+    "time": "2026-08-26T02:04:32.180Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Peryton",
+    "content": "",
+    "flavor": "Talons - Damage Roll",
+    "rolls": [
+      {
+        "total": 8,
+        "formula": "2d4 + 3"
+      }
+    ]
+  },
+  {
+    "id": "QOzL7smF6KsvdBDH",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787709872420,
+    "time": "2026-08-26T02:04:32.420Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Jetten Elisedil",
+    "content": "Concentration check Constitution save, DC 10 Jetten Elisedil — concentrating on Hunter's Mark - Favored Enemy Took 8 damage from Peryton's Talons."
+  },
+  {
+    "id": "YCeY4hyCRLNIaJt0",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787709880644,
+    "time": "2026-08-26T02:04:40.644Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Constitution Saving Throw",
+    "rolls": [
+      {
+        "total": 8,
+        "formula": "1d20 + 1"
+      }
+    ]
+  },
+  {
+    "id": "kpfZq0ZhlPConlbQ",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787709883911,
+    "time": "2026-08-26T02:04:43.911Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Battle Flow",
+    "content": "Concentration broken Hunter's Mark - Favored Enemy ends 8 vs DC 10 — Jetten Elisedil loses concentration"
+  },
+  {
+    "id": "RMr0lzsv5wOB3YgJ",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787709913877,
+    "time": "2026-08-26T02:05:13.877Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Peryton",
+    "content": "Multiattack Feature The peryton makes one Gore attack and one Talons attack. Action Instantaneous Self"
+  },
+  {
+    "id": "nzFdUdfG1cmQ3r0f",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787709915287,
+    "time": "2026-08-26T02:05:15.287Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Peryton",
+    "content": "Gore Natural Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage. If the peryton moved 30+ feet straight toward the target immediately before the hit, the target takes an extra 9 (2d8) Piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "xMyCAeuODzFQlne2",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787709916659,
+    "time": "2026-08-26T02:05:16.659Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Peryton",
+    "content": "",
+    "flavor": "Gore - Attack Roll",
+    "rolls": [
+      {
+        "total": 15,
+        "formula": "1d20 + 3 + 2"
+      }
+    ]
+  },
+  {
+    "id": "YWK5e9TiKmevoyxg",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787709917037,
+    "time": "2026-08-26T02:05:17.037Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Peryton",
+    "content": "Talons Natural Melee Attack Roll: +5, reach 5 ft. Hit: 8 (2d4 + 3) Piercing damage. If the attack reduces a Humanoid target to 0 Hit Points, the peryton kills the target by removing its heart. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "hjxuMHADnCJ6ZAxl",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787709917891,
+    "time": "2026-08-26T02:05:17.891Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Peryton",
+    "content": "",
+    "flavor": "Talons - Attack Roll",
+    "rolls": [
+      {
+        "total": 14,
+        "formula": "1d20 + 3 + 2"
+      }
+    ]
+  },
+  {
+    "id": "YKhC3wKr0Opc0RV3",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1787709985345,
+    "time": "2026-08-26T02:06:25.345Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "Javelin Simple Melee • Slow Attack Damage Action Instantaneous 30/120 ft reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "iAZw2rGPvGOUNCNU",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1787709999864,
+    "time": "2026-08-26T02:06:39.864Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "",
+    "flavor": "Javelin - Attack Roll",
+    "rolls": [
+      {
+        "total": 8,
+        "formula": "1d20 + 4 + 2 + 1d4"
+      }
+    ]
+  },
+  {
+    "id": "w05tIy2w0X1VYc5x",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1787710011509,
+    "time": "2026-08-26T02:06:51.509Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "16",
+    "flavor": "Heroic Inspiration — the reroll",
+    "rolls": [
+      {
+        "total": 16,
+        "formula": "1d20 + 4 + 2 + 1d4"
+      }
+    ]
+  },
+  {
+    "id": "fH0eSxPaK22trewP",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1787710011684,
+    "time": "2026-08-26T02:06:51.684Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "D20 Fold — Heroic Inspiration Heroic Inspiration — the miss becomes a hit Thomas A. Invictus spends Heroic Inspiration 8 → 16 vs AC 13 — now hits Peryton"
+  },
+  {
+    "id": "rolpwSya38suegWc",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1787710011755,
+    "time": "2026-08-26T02:06:51.755Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "",
+    "flavor": "Javelin - Damage Roll",
+    "rolls": [
+      {
+        "total": 6,
+        "formula": "1d6 + 4"
+      }
+    ]
+  },
+  {
+    "id": "TwQgdCmHqTXyYNoG",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787710051099,
+    "time": "2026-08-26T02:07:31.099Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "Hunter's Mark 1st Level • Divination You magically mark one creature you can see within range as your quarry. Until the spell ends, you deal an extra 1d6 Force damage to the target whenever you hit it with an attack roll. You also have Advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it.If the target drops to 0 Hit Points before this spell ends, you can take a Bonus Action to move the mark to a new creature you can see within range.Using a Higher-Level Spell Slot. Your Concentration can last longer with a spell slot of level 3–4 (up to 8 hours) or 5+ (up to 24 hours). Consume Resource Refund Resource Concentration V Bonus Action 1 hour 90 ft 1 creature"
+  },
+  {
+    "id": "YHylvPQu2YrCKk8p",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787710054411,
+    "time": "2026-08-26T02:07:34.411Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "Longbow Martial Ranged • Slow Attack Damage Action Instantaneous 150/600 ft Equipped Proficient"
+  },
+  {
+    "id": "DW9W4YZJNYSVJi4y",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787710057483,
+    "time": "2026-08-26T02:07:37.483Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Longbow - Attack Roll",
+    "rolls": [
+      {
+        "total": 24,
+        "formula": "1d20 + 4 + 2 + 2"
+      }
+    ]
+  },
+  {
+    "id": "9DJ2DHmkRJOfk6D1",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787710057570,
+    "time": "2026-08-26T02:07:37.570Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Longbow - Damage Roll",
+    "rolls": [
+      {
+        "total": 9,
+        "formula": "1d8 + 2 + 4"
+      },
+      {
+        "total": 6,
+        "formula": "1d6"
+      }
+    ]
+  },
+  {
+    "id": "AYPjUKyFMbyZuVZX",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787710152046,
+    "time": "2026-08-26T02:09:12.046Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "Innate Sorcery Feature An event in your past left an indelible mark on you, infusing you with simmering magic. As a Bonus Action, you can unleash that magic for 1 minute, during which you gain the following benefits:The spell save DC of your Sorcerer spells increases by 1.You have Advantage on the attack rolls of Sorcerer spells you cast.You can use this feature twice, and you regain all expended uses of it when you finish a Long Rest. Consume Resource Refund Resource Bonus Action Instantaneous Self Self"
+  },
+  {
+    "id": "jFehdc5vOD0mCwAk",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787710164518,
+    "time": "2026-08-26T02:09:24.518Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "Scorching Ray 2nd Level • Evocation You hurl three fiery rays. You can hurl them at one target within range or at several. Make a ranged spell attack for each ray. On a hit, the target takes 2d6 Fire damage.Using a Higher-Level Spell Slot. You create one additional ray for each spell slot level above 2.Total Rays: 3 Attack Damage Consume Resource Refund Resource V, S Action Instantaneous 120 ft"
+  },
+  {
+    "id": "YYZ8slpW9RtaUxuC",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787710172208,
+    "time": "2026-08-26T02:09:32.208Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "",
+    "flavor": "Scorching Ray - Attack Roll (Advantage)",
+    "rolls": [
+      {
+        "total": 30,
+        "formula": "2d20adv + 4 + 2 + 1d4 + 1"
+      }
+    ]
+  },
+  {
+    "id": "OFtRyJTv2w867Os8",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787710172248,
+    "time": "2026-08-26T02:09:32.248Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "",
+    "flavor": "Scorching Ray - Attack Roll (Advantage)",
+    "rolls": [
+      {
+        "total": 31,
+        "formula": "2d20adv + 4 + 2 + 1d4 + 1"
+      }
+    ]
+  },
+  {
+    "id": "wLgkybb4Y1uLVsTH",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787710172259,
+    "time": "2026-08-26T02:09:32.259Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "",
+    "flavor": "Scorching Ray - Damage Roll",
+    "rolls": [
+      {
+        "total": 2,
+        "formula": "2d6"
+      }
+    ]
+  },
+  {
+    "id": "PoUkF9LDjUkMzVbs",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787710172296,
+    "time": "2026-08-26T02:09:32.296Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "",
+    "flavor": "Scorching Ray - Attack Roll (Advantage)",
+    "rolls": [
+      {
+        "total": 30,
+        "formula": "2d20adv + 4 + 2 + 1d4 + 1"
+      }
+    ]
+  },
+  {
+    "id": "vgkPbThLufTYCyEW",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787710172315,
+    "time": "2026-08-26T02:09:32.315Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "",
+    "flavor": "Scorching Ray - Damage Roll",
+    "rolls": [
+      {
+        "total": 11,
+        "formula": "4d6"
+      }
+    ]
+  },
+  {
+    "id": "35NC9vlSd9q6vSHY",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787710172347,
+    "time": "2026-08-26T02:09:32.347Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "",
+    "flavor": "Scorching Ray - Damage Roll",
+    "rolls": [
+      {
+        "total": 6,
+        "formula": "4d6"
+      }
+    ]
+  },
+  {
+    "id": "ytmeI6m0ECvwpuFW",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787710310948,
+    "time": "2026-08-26T02:11:50.948Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Longshadow",
+    "content": "Multiattack Feature The longshadow makes one Gore attack and one Talons attack. Action Instantaneous Self"
+  },
+  {
+    "id": "exJKjyAPGB7GkT2N",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787710312524,
+    "time": "2026-08-26T02:11:52.524Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Longshadow",
+    "content": "Gore Natural Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d8 + 4) Piercing damage. If the longshadow moved 30+ feet straight toward the target immediately before the hit, the target takes an extra 9 (2d8) Piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "uwHBOwrp1Mxv9wsJ",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787710313967,
+    "time": "2026-08-26T02:11:53.967Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Longshadow",
+    "content": "",
+    "flavor": "Gore - Attack Roll",
+    "rolls": [
+      {
+        "total": 17,
+        "formula": "1d20 + 4 + 2"
+      }
+    ]
+  },
+  {
+    "id": "ZJGZWcru6hmHEtXz",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787710314916,
+    "time": "2026-08-26T02:11:54.916Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Longshadow",
+    "content": "",
+    "flavor": "Gore - Damage Roll",
+    "rolls": [
+      {
+        "total": 7,
+        "formula": "1d8 + 4"
+      }
+    ]
+  },
+  {
+    "id": "liZPkqnirCAqJ0sM",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787710315097,
+    "time": "2026-08-26T02:11:55.097Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Jetten Elisedil",
+    "content": "Concentration check Constitution save, DC 10 Jetten Elisedil — concentrating on Hunter's Mark Took 7 damage from Longshadow's Gore."
+  },
+  {
+    "id": "oSp2jbWAEGybV6yL",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787710316171,
+    "time": "2026-08-26T02:11:56.171Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Longshadow",
+    "content": "Talons Natural Melee Attack Roll: +6, reach 5 ft. Hit: 9 (2d4 + 4) Piercing damage. If the attack reduces a Humanoid target to 0 Hit Points, the longshadow kills the target by removing its heart. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "DkDag5zZDR4EcfGI",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787710317250,
+    "time": "2026-08-26T02:11:57.250Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Longshadow",
+    "content": "",
+    "flavor": "Talons - Attack Roll",
+    "rolls": [
+      {
+        "total": 23,
+        "formula": "1d20 + 4 + 2"
+      }
+    ]
+  },
+  {
+    "id": "0CHyW2gcZgr6vJvA",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787710318571,
+    "time": "2026-08-26T02:11:58.571Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Longshadow",
+    "content": "",
+    "flavor": "Talons - Damage Roll",
+    "rolls": [
+      {
+        "total": 8,
+        "formula": "2d4 + 4"
+      }
+    ]
+  },
+  {
+    "id": "WFRF1Paq5VMEV5P1",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787710318934,
+    "time": "2026-08-26T02:11:58.934Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Jetten Elisedil",
+    "content": "Concentration check Constitution save, DC 10 Jetten Elisedil — concentrating on Hunter's Mark Took 8 damage from Longshadow's Talons."
+  },
+  {
+    "id": "p2buR7LPyR4xfI0C",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787710319468,
+    "time": "2026-08-26T02:11:59.468Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Constitution Saving Throw",
+    "rolls": [
+      {
+        "total": 6,
+        "formula": "1d20 + 1"
+      }
+    ]
+  },
+  {
+    "id": "nJC17785inH6ws8d",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787710325172,
+    "time": "2026-08-26T02:12:05.172Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Battle Flow",
+    "content": "Concentration broken Hunter's Mark ends 6 vs DC 10 — Jetten Elisedil loses concentration"
+  },
+  {
+    "id": "dEeyBc68oysTNsje",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787710325890,
+    "time": "2026-08-26T02:12:05.890Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Constitution Saving Throw",
+    "rolls": [
+      {
+        "total": 5,
+        "formula": "1d20 + 1"
+      }
+    ]
+  },
+  {
+    "id": "KmpBKaz5pXBLxMT0",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787710329521,
+    "time": "2026-08-26T02:12:09.521Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Battle Flow",
+    "content": "Concentration broken Hunter's Mark ends 5 vs DC 10 — Jetten Elisedil loses concentration"
+  },
+  {
+    "id": "MgakFruXYViaicka",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1787710365228,
+    "time": "2026-08-26T02:12:45.228Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Maul of Momentum Martial Melee • Topple Weapon (Maul), Rare (Requires Attunement)This weighty maul's head is etched with spiraling grooves that seem to pull it forward mid-swing. In motion, it never wants to stop.You gain a +1 bonus to attack and damage rolls made with this magic weapon.Unstoppable Drive (1/Day). On your turn, you can take one additional action, as the Fighter's Action Surge feature. If you already have Action Surge, you instead gain one extra use of it. Until the end of your next turn, you ignore Difficult Terrain. This property recharges at dawn.Once per turn. You can gain only one additional action on a given turn, whether it comes from this maul or from Action Surge itself — never both on the same turn.When you invoke Unstoppable Drive, the maul's head hums with barely-contained kinetic force, your footfalls crack stone and packed earth, and dust shivers off nearby surfaces — momentum made manifest, and nothing on the battlefield slows you down. Attack Damage Action Instantaneous reach 5 ft Attuned Equipped Proficient"
+  },
+  {
+    "id": "bVgINue6UXnrsdsT",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1787710366916,
+    "time": "2026-08-26T02:12:46.916Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "",
+    "flavor": "Maul of Momentum - Attack Roll",
+    "rolls": [
+      {
+        "total": 26,
+        "formula": "1d20 + 4 + 2 + 1 + 1d4"
+      }
+    ]
+  },
+  {
+    "id": "GSmK7WaePcGX8aUf",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1787710366994,
+    "time": "2026-08-26T02:12:46.994Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "",
+    "flavor": "Maul of Momentum - Damage Roll",
+    "rolls": [
+      {
+        "total": 16,
+        "formula": "2d6 + 4 + 1"
+      }
+    ]
+  },
+  {
+    "id": "DKJ9x3ZiHN1mCIrC",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787710367189,
+    "time": "2026-08-26T02:12:47.189Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Morgash the Gravemaker",
+    "content": "Feat — Great Weapon Master Hew — Morgash the Gravemaker can attack again Longshadow down to 0 HP “Immediately after you score a Critical Hit with a Melee weapon or reduce a creature to 0 Hit Points with one, you can make one attack with the same weapon as a Bonus Action.”Swing Maul of Momentum from the sheet; nothing is automated."
+  },
+  {
+    "id": "oU9WY4W498jAYo38",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787710415080,
+    "time": "2026-08-26T02:13:35.080Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Peryton",
+    "content": "Multiattack Feature The peryton makes one Gore attack and one Talons attack. Action Instantaneous Self"
+  },
+  {
+    "id": "8Mfeg3wsZilnnew1",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787710418567,
+    "time": "2026-08-26T02:13:38.567Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Peryton",
+    "content": "Gore Natural Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage. If the peryton moved 30+ feet straight toward the target immediately before the hit, the target takes an extra 9 (2d8) Piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "TmnLXMrt4nqknzqI",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787710419675,
+    "time": "2026-08-26T02:13:39.675Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Peryton",
+    "content": "",
+    "flavor": "Gore - Attack Roll",
+    "rolls": [
+      {
+        "total": 6,
+        "formula": "1d20 + 3 + 2"
+      }
+    ]
+  },
+  {
+    "id": "g0ViGTlbwa7h6Jn2",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787710420177,
+    "time": "2026-08-26T02:13:40.177Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Peryton",
+    "content": "Talons Natural Melee Attack Roll: +5, reach 5 ft. Hit: 8 (2d4 + 3) Piercing damage. If the attack reduces a Humanoid target to 0 Hit Points, the peryton kills the target by removing its heart. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "yOD2yF5F6iozAj0e",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787710421159,
+    "time": "2026-08-26T02:13:41.159Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Peryton",
+    "content": "",
+    "flavor": "Talons - Attack Roll",
+    "rolls": [
+      {
+        "total": 11,
+        "formula": "1d20 + 3 + 2"
+      }
+    ]
+  },
+  {
+    "id": "lK22idRl3ij1yTbO",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787710444204,
+    "time": "2026-08-26T02:14:04.204Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Peryton",
+    "content": "Multiattack Feature The peryton makes one Gore attack and one Talons attack. Action Instantaneous Self"
+  },
+  {
+    "id": "lUPMxM3dgc1GcC5e",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787710445804,
+    "time": "2026-08-26T02:14:05.804Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Peryton",
+    "content": "Gore Natural Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage. If the peryton moved 30+ feet straight toward the target immediately before the hit, the target takes an extra 9 (2d8) Piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "LwEE11tsydWOrdUz",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787710447086,
+    "time": "2026-08-26T02:14:07.086Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Peryton",
+    "content": "",
+    "flavor": "Gore - Attack Roll",
+    "rolls": [
+      {
+        "total": 8,
+        "formula": "1d20 + 3 + 2"
+      }
+    ]
+  },
+  {
+    "id": "m4a0TdDS7aSS9nYS",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787710448225,
+    "time": "2026-08-26T02:14:08.225Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Peryton",
+    "content": "Talons Natural Melee Attack Roll: +5, reach 5 ft. Hit: 8 (2d4 + 3) Piercing damage. If the attack reduces a Humanoid target to 0 Hit Points, the peryton kills the target by removing its heart. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "6ngMpx81gSxPQGJE",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787710449266,
+    "time": "2026-08-26T02:14:09.266Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Peryton",
+    "content": "",
+    "flavor": "Talons - Attack Roll",
+    "rolls": [
+      {
+        "total": 16,
+        "formula": "1d20 + 3 + 2"
+      }
+    ]
+  },
+  {
+    "id": "3U8YIjqDqTqpEn2l",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1787710495997,
+    "time": "2026-08-26T02:14:55.997Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "First Light Martial Melee • Sap A dawnbringer's blade, consecrated in a temple of Lathander at the hour of first light — its fuller inlaid with rose-gold that catches the faintest dawn.In a righteous hand its edge kindles with the pale fire of morning, cutting not with steel but with light. A paladin of the Morninglord carried it east down the Trade Way and never came back, and a hobgoblin captain took it as a trophy, blind to the warmth still sleeping in the steel.Once between dawns its bearer may call on the Morninglord's grace, and the blade's light pours into a single companion — a dawnfire courage that no fear can touch, steeling heart and body anew with every breath it burns. Attack Damage Action Instantaneous reach 5 ft Attuned Equipped Proficient"
+  },
+  {
+    "id": "7B3vwI8hmUOx1KEx",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1787710497863,
+    "time": "2026-08-26T02:14:57.863Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "",
+    "flavor": "First Light - Attack Roll",
+    "rolls": [
+      {
+        "total": 23,
+        "formula": "1d20 + 4 + 2 + 1 + 1d4"
+      }
+    ]
+  },
+  {
+    "id": "wefBiovc5PSJWAP7",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1787710497963,
+    "time": "2026-08-26T02:14:57.963Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "",
+    "flavor": "First Light - Damage Roll",
+    "rolls": [
+      {
+        "total": 11,
+        "formula": "1d8 + 4 + 1"
+      }
+    ]
+  },
+  {
+    "id": "jQ49FZxzoIPKqDcf",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787710498342,
+    "time": "2026-08-26T02:14:58.342Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Thomas A. Invictus",
+    "content": "Weapon Mastery — Sap Sap — Peryton at Disadvantage Thomas A. Invictus — First Light “If you hit a creature with this weapon, that creature has Disadvantage on its next attack roll before the start of your next turn.”The chip on Peryton carries the rule; the roll dialog is where it is honoured."
+  },
+  {
+    "id": "gQcVj4qpVDihscmj",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1787710505505,
+    "time": "2026-08-26T02:15:05.505Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "Shield Master General Feat You gain the following benefits.Ability Score Increase. Increase your Strength score by 1, to a maximum of 20.Shield Bash. If you attack a creature within 5 feet of you as part of the Attack action and hit with a Melee weapon, you can immediately bash the target with your Shield if it’s equipped, forcing the target to make a Strength saving throw (DC 8 plus your Strength modifier and Proficiency Bonus). On a failed save, you either push the target 5 feet from you or cause it to have the Prone condition (your choice). You can use this benefit only once on each of your turns.Interpose Shield. If you’re subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you can take a Reaction to take no damage if you succeed on the saving throw and are holding a Shield. DC 14 Strength Saving Throw Strength Saving Throw Trigger If you hit a creature with a Melee weapon within 5 feet of you as part of the Attack action Shield Training"
+  },
+  {
+    "id": "gHblL2gyFrUXSqj7",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787710510587,
+    "time": "2026-08-26T02:15:10.587Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Peryton",
+    "content": "",
+    "flavor": "Strength Saving Throw",
+    "rolls": [
+      {
+        "total": 11,
+        "formula": "1d20 + 3"
+      }
+    ]
+  },
+  {
+    "id": "bpgKs9Wr9hyzomjr",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787710514308,
+    "time": "2026-08-26T02:15:14.308Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Peryton",
+    "content": "Saving Throw — Shield Master Shield Master — Peryton fails 11 vs DC 14 — failed"
+  },
+  {
+    "id": "JdZbrRId8FO8pZ5k",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787710522128,
+    "time": "2026-08-26T02:15:22.128Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Thomas A. Invictus",
+    "content": "Maneuver — Shield Master Shield Master — Thomas A. Invictus knocks Peryton Prone the attacker's choice"
+  },
+  {
+    "id": "CQ4y3Nswii9YiheW",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787710556191,
+    "time": "2026-08-26T02:15:56.191Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "Healing Word 1st Level • Abjuration A creature of your choice that you can see within range regains Hit Points equal to 2d4 plus your spellcasting ability modifier.Using a Higher-Level Spell Slot. The healing increases by 2d4 for each spell slot level above 1. Healing Consume Resource Refund Resource V Bonus Action Instantaneous 60 ft 1 creature"
+  },
+  {
+    "id": "mhpuRCWWWYJ6C2JV",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787710557754,
+    "time": "2026-08-26T02:15:57.754Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Healing Word - Healing Roll",
+    "rolls": [
+      {
+        "total": 8,
+        "formula": "2d4 + 3"
+      }
+    ]
+  },
+  {
+    "id": "EnY11kqiwZBKaam5",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787710581652,
+    "time": "2026-08-26T02:16:21.652Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "Longbow Martial Ranged • Slow Attack Damage Action Instantaneous 150/600 ft Equipped Proficient"
+  },
+  {
+    "id": "fRvWvTdcSLezH9N0",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787710583731,
+    "time": "2026-08-26T02:16:23.731Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Longbow - Attack Roll",
+    "rolls": [
+      {
+        "total": 15,
+        "formula": "1d20 + 4 + 2 + 2"
+      }
+    ]
+  },
+  {
+    "id": "J8v7wQryh37PGU3B",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787710583809,
+    "time": "2026-08-26T02:16:23.809Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Longbow - Damage Roll",
+    "rolls": [
+      {
+        "total": 12,
+        "formula": "1d8 + 2 + 4"
+      }
+    ]
+  },
+  {
+    "id": "JUtEj0oNDqpbLiOi",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787710633350,
+    "time": "2026-08-26T02:17:13.350Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "Longbow Martial Ranged • Slow Attack Damage Action Instantaneous 150/600 ft Equipped Proficient"
+  },
+  {
+    "id": "lwAIoZvg4qryD2oC",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787710638915,
+    "time": "2026-08-26T02:17:18.915Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Longbow - Attack Roll",
+    "rolls": [
+      {
+        "total": 19,
+        "formula": "1d20 + 4 + 2 + 2"
+      }
+    ]
+  },
+  {
+    "id": "oh435vt6p6hORs9O",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787710639013,
+    "time": "2026-08-26T02:17:19.013Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Longbow - Damage Roll",
+    "rolls": [
+      {
+        "total": 8,
+        "formula": "1d8 + 2 + 4"
+      }
+    ]
+  },
+  {
+    "id": "DL8zLZeadsPKB4bf",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787710677197,
+    "time": "2026-08-26T02:17:57.197Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "Fire Bolt Evocation You hurl a mote of fire at a creature or an object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 Fire damage. A flammable object hit by this spell starts burning if it isn’t being worn or carried.Cantrip Upgrade. The damage increases by 1d10 when you reach levels 5 (2d10), 11 (3d10), and 17 (4d10). Attack Damage V, S Action Instantaneous 120 ft 1 creature or object"
+  },
+  {
+    "id": "HZZGxDT0R5D6MKqf",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787710678868,
+    "time": "2026-08-26T02:17:58.868Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "",
+    "flavor": "Fire Bolt - Attack Roll (Advantage)",
+    "rolls": [
+      {
+        "total": 28,
+        "formula": "2d20adv + 4 + 2 + 1d4 + 1"
+      }
+    ]
+  },
+  {
+    "id": "beytbXFZzcIYarl0",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787710686408,
+    "time": "2026-08-26T02:18:06.408Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "",
+    "flavor": "Fire Bolt - Damage Roll",
+    "rolls": [
+      {
+        "total": 2,
+        "formula": "1d10"
+      }
+    ]
+  },
+  {
+    "id": "7wywtXfnFIBFI1LZ",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1787710727980,
+    "time": "2026-08-26T02:18:47.980Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Greataxe Martial Melee • Cleave Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "21NZu7c4OJ6jrdjt",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1787710735136,
+    "time": "2026-08-26T02:18:55.136Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "",
+    "flavor": "Greataxe - Attack Roll (Advantage)",
+    "rolls": [
+      {
+        "total": 25,
+        "formula": "2d20adv + 4 + 2 + 1d4"
+      }
+    ]
+  },
+  {
+    "id": "vDPi0yOoYaODmeJe",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1787710735215,
+    "time": "2026-08-26T02:18:55.215Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "",
+    "flavor": "Greataxe - Damage Roll",
+    "rolls": [
+      {
+        "total": 10,
+        "formula": "1d12 + 4"
+      }
+    ]
+  },
+  {
+    "id": "6nSAAjHaWy8MiEPn",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787710735415,
+    "time": "2026-08-26T02:18:55.415Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Morgash the Gravemaker",
+    "content": "Weapon Mastery — Cleave Cleave — one extra attack available Morgash the Gravemaker — Greataxe “If you hit a creature with a melee attack roll using this weapon, you can make a melee attack roll with the weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapon’s damage, but don’t add your ability modifier to that damage unless that modifier is negative. You can make this extra attack only once per turn.”Press \"Arm the Cleave\" and the next Greataxe damage roll drops the modifier for you; Dismiss to resolve it yourself — or if you've already Cleaved this turn."
+  },
+  {
+    "id": "bgVIGsxCbgP7hDkn",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1787710756700,
+    "time": "2026-08-26T02:19:16.700Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Greataxe Martial Melee • Cleave Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "NeZOm6VSe0Ppi3N7",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1787710779552,
+    "time": "2026-08-26T02:19:39.552Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Maul of Momentum Martial Melee • Topple Weapon (Maul), Rare (Requires Attunement)This weighty maul's head is etched with spiraling grooves that seem to pull it forward mid-swing. In motion, it never wants to stop.You gain a +1 bonus to attack and damage rolls made with this magic weapon.Unstoppable Drive (1/Day). On your turn, you can take one additional action, as the Fighter's Action Surge feature. If you already have Action Surge, you instead gain one extra use of it. Until the end of your next turn, you ignore Difficult Terrain. This property recharges at dawn.Once per turn. You can gain only one additional action on a given turn, whether it comes from this maul or from Action Surge itself — never both on the same turn.When you invoke Unstoppable Drive, the maul's head hums with barely-contained kinetic force, your footfalls crack stone and packed earth, and dust shivers off nearby surfaces — momentum made manifest, and nothing on the battlefield slows you down. Attack Damage Action Instantaneous reach 5 ft Attuned Equipped Proficient"
+  },
+  {
+    "id": "EmlzcbpN3vYRoh6T",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1787710782323,
+    "time": "2026-08-26T02:19:42.323Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "",
+    "flavor": "Maul of Momentum - Attack Roll",
+    "rolls": [
+      {
+        "total": 12,
+        "formula": "1d20 + 4 + 2 + 1 + 1d4"
+      }
+    ]
+  },
+  {
+    "id": "esfohZLWMLg0ajgO",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1787710793573,
+    "time": "2026-08-26T02:19:53.573Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Precision Attack Maneuver When you miss with an attack roll, you can expend one Superiority Die, roll that die, and add it to the attack roll, potentially causing the attack to hit. Bonus Consume Resource Refund Resource Trigger When you miss with an attack roll"
+  },
+  {
+    "id": "1qYkgHPfaCVkIRHs",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1787710793645,
+    "time": "2026-08-26T02:19:53.645Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "2",
+    "flavor": "Precision Attack — the superiority die",
+    "rolls": [
+      {
+        "total": 2,
+        "formula": "1d8"
+      }
+    ]
+  },
+  {
+    "id": "2msNApYBA0sXXe3T",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1787710793746,
+    "time": "2026-08-26T02:19:53.746Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Maneuver — Precision Attack Precision Attack — the miss becomes a hit Morgash the Gravemaker spends a superiority die 12 + 2 = 14 vs AC 13 — now hits Peryton"
+  },
+  {
+    "id": "UdHVaQB90YTHNCUE",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1787710793843,
+    "time": "2026-08-26T02:19:53.843Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "",
+    "flavor": "Maul of Momentum - Damage Roll",
+    "rolls": [
+      {
+        "total": 9,
+        "formula": "2d6 + 4 + 1"
+      }
+    ]
+  },
+  {
+    "id": "OJYvEXjKZpsrOB41",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1787710810576,
+    "time": "2026-08-26T02:20:10.576Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Action Surge Feature You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action, except the Magic action.Once you use this feature, you can't do so again until you finish a Short or Long Rest. Starting at level 17, you can use it twice before a rest but only once on a turn. Consume Resource Refund Resource Special Instantaneous Self Self"
+  },
+  {
+    "id": "01q00K9DiPHcV5qO",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1787710822725,
+    "time": "2026-08-26T02:20:22.725Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Greataxe Martial Melee • Cleave Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "DQZk1pf44pWbOxoL",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1787710824918,
+    "time": "2026-08-26T02:20:24.918Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "",
+    "flavor": "Greataxe - Attack Roll",
+    "rolls": [
+      {
+        "total": 25,
+        "formula": "1d20 + 4 + 2 + 1d4"
+      }
+    ]
+  },
+  {
+    "id": "biok7DfmATUx3lvO",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1787710824990,
+    "time": "2026-08-26T02:20:24.990Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "",
+    "flavor": "Greataxe - Damage Roll",
+    "rolls": [
+      {
+        "total": 11,
+        "formula": "1d12 + 4"
+      }
+    ]
+  },
+  {
+    "id": "QZDEF7dvbGML7mDL",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787710825252,
+    "time": "2026-08-26T02:20:25.252Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Morgash the Gravemaker",
+    "content": "Weapon Mastery — Cleave Cleave — one extra attack available Morgash the Gravemaker — Greataxe “If you hit a creature with a melee attack roll using this weapon, you can make a melee attack roll with the weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapon’s damage, but don’t add your ability modifier to that damage unless that modifier is negative. You can make this extra attack only once per turn.”Press \"Arm the Cleave\" and the next Greataxe damage roll drops the modifier for you; Dismiss to resolve it yourself — or if you've already Cleaved this turn."
+  },
+  {
+    "id": "sTtqo7phwciNiXER",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787710825289,
+    "time": "2026-08-26T02:20:25.289Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Morgash the Gravemaker",
+    "content": "Feat — Great Weapon Master Hew — Morgash the Gravemaker can attack again Peryton down to 0 HP “Immediately after you score a Critical Hit with a Melee weapon or reduce a creature to 0 Hit Points with one, you can make one attack with the same weapon as a Bonus Action.”Swing Greataxe from the sheet; nothing is automated."
+  },
+  {
+    "id": "dtXGrJ5tdk2vs6S1",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1787710846845,
+    "time": "2026-08-26T02:20:46.845Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Greataxe Martial Melee • Cleave Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "3MzGZlZkSeAKMJoq",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1787710848831,
+    "time": "2026-08-26T02:20:48.831Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "",
+    "flavor": "Greataxe - Attack Roll",
+    "rolls": [
+      {
+        "total": 15,
+        "formula": "1d20 + 4 + 2 + 1d4"
+      }
+    ]
+  },
+  {
+    "id": "3Pnbrskxqx6dKHx7",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1787710848940,
+    "time": "2026-08-26T02:20:48.940Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "",
+    "flavor": "Greataxe - Damage Roll",
+    "rolls": [
+      {
+        "total": 4,
+        "formula": "1d12"
+      }
+    ]
+  },
+  {
+    "id": "rHx1954jkn4IkYXt",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787710871851,
+    "time": "2026-08-26T02:21:11.851Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Peryton",
+    "content": "Multiattack Feature The peryton makes one Gore attack and one Talons attack. Action Instantaneous Self"
+  },
+  {
+    "id": "rLFMqf2MXJ4x5XIR",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787710876182,
+    "time": "2026-08-26T02:21:16.182Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Peryton",
+    "content": "Gore Natural Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage. If the peryton moved 30+ feet straight toward the target immediately before the hit, the target takes an extra 9 (2d8) Piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "wFUOkdLJyauBVZKW",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787710877447,
+    "time": "2026-08-26T02:21:17.447Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Peryton",
+    "content": "",
+    "flavor": "Gore - Attack Roll",
+    "rolls": [
+      {
+        "total": 6,
+        "formula": "1d20 + 3 + 2"
+      }
+    ]
+  },
+  {
+    "id": "5RiiStnyLgfOe13n",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787710878031,
+    "time": "2026-08-26T02:21:18.031Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Peryton",
+    "content": "Talons Natural Melee Attack Roll: +5, reach 5 ft. Hit: 8 (2d4 + 3) Piercing damage. If the attack reduces a Humanoid target to 0 Hit Points, the peryton kills the target by removing its heart. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "id": "7PneuLguYlj2tZWe",
+    "author": "fsPwfDarpkUyzlhz",
+    "timestamp": 1787710879282,
+    "time": "2026-08-26T02:21:19.282Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Matt the DM",
+    "alias": "Peryton",
+    "content": "",
+    "flavor": "Talons - Attack Roll",
+    "rolls": [
+      {
+        "total": 12,
+        "formula": "1d20 + 3 + 2"
+      }
+    ]
+  },
+  {
+    "id": "unztssnjosuUzLsK",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1787710898070,
+    "time": "2026-08-26T02:21:38.070Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "First Light Martial Melee • Sap A dawnbringer's blade, consecrated in a temple of Lathander at the hour of first light — its fuller inlaid with rose-gold that catches the faintest dawn.In a righteous hand its edge kindles with the pale fire of morning, cutting not with steel but with light. A paladin of the Morninglord carried it east down the Trade Way and never came back, and a hobgoblin captain took it as a trophy, blind to the warmth still sleeping in the steel.Once between dawns its bearer may call on the Morninglord's grace, and the blade's light pours into a single companion — a dawnfire courage that no fear can touch, steeling heart and body anew with every breath it burns. Attack Damage Action Instantaneous reach 5 ft Attuned Equipped Proficient"
+  },
+  {
+    "id": "OSAOhlZJAdrAEfu9",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1787710899877,
+    "time": "2026-08-26T02:21:39.877Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "",
+    "flavor": "First Light - Attack Roll",
+    "rolls": [
+      {
+        "total": 22,
+        "formula": "1d20 + 4 + 2 + 1 + 1d4"
+      }
+    ]
+  },
+  {
+    "id": "XYeC1MTJoZR0mF0i",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1787710899989,
+    "time": "2026-08-26T02:21:39.989Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "",
+    "flavor": "First Light - Damage Roll",
+    "rolls": [
+      {
+        "total": 13,
+        "formula": "1d8 + 4 + 1"
+      }
+    ]
+  },
+  {
+    "id": "6rbG2LihCNkZXvzE",
+    "author": "iMPHMzzzg1qCN7dy",
+    "timestamp": 1787710904611,
+    "time": "2026-08-26T02:21:44.611Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Robert",
+    "alias": "Thomas A. Invictus",
+    "content": "Shield Master General Feat You gain the following benefits.Ability Score Increase. Increase your Strength score by 1, to a maximum of 20.Shield Bash. If you attack a creature within 5 feet of you as part of the Attack action and hit with a Melee weapon, you can immediately bash the target with your Shield if it’s equipped, forcing the target to make a Strength saving throw (DC 8 plus your Strength modifier and Proficiency Bonus). On a failed save, you either push the target 5 feet from you or cause it to have the Prone condition (your choice). You can use this benefit only once on each of your turns.Interpose Shield. If you’re subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you can take a Reaction to take no damage if you succeed on the saving throw and are holding a Shield. DC 14 Strength Saving Throw Strength Saving Throw Trigger If you hit a creature with a Melee weapon within 5 feet of you as part of the Attack action Shield Training"
+  },
+  {
+    "id": "NO4dCvjS5PQoxo3T",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787710959065,
+    "time": "2026-08-26T02:22:39.065Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren",
+    "content": "6",
+    "rolls": [
+      {
+        "total": 6,
+        "formula": "3d4"
+      }
+    ]
+  },
+  {
+    "id": "T0gmN72uWk0ZstDt",
+    "author": "EtG3ba47F3LHz0QC",
+    "timestamp": 1787710987819,
+    "time": "2026-08-26T02:23:07.819Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "DM Assistant",
+    "alias": "Party Stash",
+    "content": "DM Assistant added 4 × Feather to The Party."
+  },
+  {
+    "id": "fIOvQG404gACNNB4",
+    "author": "WjZL43DJHoHpfDrK",
+    "timestamp": 1787710988264,
+    "time": "2026-08-26T02:23:08.264Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Tom",
+    "alias": "Gren Greenmantle",
+    "content": "Speak with Animals 1st Level • Divination For the duration, you can comprehend and verbally communicate with Beasts, and you can use any of the Influence action’s skill options with them.Most Beasts have little to say about topics that don’t pertain to survival or companionship, but at minimum, a Beast can give you information about nearby locations and monsters, including whatever it has perceived within the past day. Consume Resource Refund Resource Ritual V, S Action 10 minutes Self Self"
+  },
+  {
+    "id": "XqSjxkQ6hScE9csO",
+    "author": "EtG3ba47F3LHz0QC",
+    "timestamp": 1787711098796,
+    "time": "2026-08-26T02:24:58.796Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "DM Assistant",
+    "alias": "Party Stash",
+    "content": "DM Assistant added 6 × Acorn with Squirrel Spit to The Party."
+  },
+  {
+    "id": "2DCK9oGWzzTXpAeR",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787711123535,
+    "time": "2026-08-26T02:25:23.535Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "Jetten Elisedil takes a short rest.",
+    "flavor": "Short Rest (1 hour)"
+  },
+  {
+    "id": "x2QMHSewnTt9Fpne",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1787711143285,
+    "time": "2026-08-26T02:25:43.285Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Morgash the Gravemaker",
+    "content": "Morgash the Gravemaker takes a short rest.",
+    "flavor": "Short Rest (1 hour)"
+  },
+  {
+    "id": "LSM6eQLIV5sgDBW7",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787711150579,
+    "time": "2026-08-26T02:25:50.579Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Roll Hit Dice",
+    "rolls": [
+      {
+        "total": 2,
+        "formula": "max(1,1d10 + 1)"
+      }
+    ]
+  },
+  {
+    "id": "JEPnE5PKg1JeVc5M",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787711190139,
+    "time": "2026-08-26T02:26:30.139Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Roll Hit Dice",
+    "rolls": [
+      {
+        "total": 3,
+        "formula": "max(1,1d10 + 1)"
+      }
+    ]
+  },
+  {
+    "id": "Co4wdUkQ3G5Pb1fk",
+    "author": "LVDVg5n3IGEBCWns",
+    "timestamp": 1787711196046,
+    "time": "2026-08-26T02:26:36.046Z",
+    "style": 0,
+    "isRoll": true,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Andrew",
+    "alias": "Jetten Elisedil",
+    "content": "",
+    "flavor": "Roll Hit Dice",
+    "rolls": [
+      {
+        "total": 10,
+        "formula": "max(1,1d10 + 1)"
+      }
+    ]
+  },
+  {
+    "id": "p3GC1UsLMIQh1dy8",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1787711322754,
+    "time": "2026-08-26T02:28:42.754Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Party Stash",
+    "content": "Morgash the Gravemaker took 1 × The Graveheart from The Party."
+  },
+  {
+    "id": "mFrwlVBkOsTC1BeB",
+    "author": "DVSDeA29YhlyJV2g",
+    "timestamp": 1787711326415,
+    "time": "2026-08-26T02:28:46.415Z",
+    "style": 0,
+    "isRoll": false,
+    "whisperCount": 0,
+    "blind": false,
+    "authorName": "Anthony",
+    "alias": "Party Stash",
+    "content": "Morgash the Gravemaker took 1 × Periapt of Wound Closure from The Party."
+  }
+]

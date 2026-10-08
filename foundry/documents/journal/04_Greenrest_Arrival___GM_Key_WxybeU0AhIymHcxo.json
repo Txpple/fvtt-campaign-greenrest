@@ -1,0 +1,216 @@
+{
+  "name": "04 Greenrest Arrival — GM Key",
+  "pages": [
+    {
+      "type": "text",
+      "name": "GM Overview",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><p class=\"lead\">Retroactive key for the party's first day in Greenrest (played 2026-08-11, session 3): the welcome, the town cast as met, the tonic revealed, the night-zero dreams, the gray tree — and the displacer interlude resolved at the Kestrel camp. What's written here is table canon now; run the town against it.</p><div class=\"grid-2\"><div><h3>The Day As Played</h3><ul><li><strong>Arrival:</strong> down the hill from the tree line; crowd gathers; Oswin's tour</li><li><strong>Base:</strong> the Long Rest, free lodging and meals — no charge, ever</li><li><strong>Shopping:</strong> the Full Larder (Mother Wend); three 400 gp magic items sold</li><li><strong>Intel:</strong> Pip (the black cats), Warrenholt (the Kestrel briefing), Coll (the tonic)</li><li><strong>Night zero:</strong> tonic REFUSED — all four dreams fired; dryad identified next morning</li><li><strong>Afternoon:</strong> displacer pack destroyed at the old temple camp; camp looted</li></ul></div><div><h3>Standing Rules of the Town</h3><ul><li>Guests are free; the town is warm, genuine, and volunteers nothing</li><li>Everyone takes Selma's tonic every seventh day, from childhood (\"as soon as we're old enough to dream\")</li><li>Nobody cries in Greenrest — Oswin says so as a boast</li><li>The garrison (~50, East Watch) defends the town ONLY; nothing beyond the fields</li><li>Four guards on the gray tree at all times, on the mayor's and constable's standing orders</li></ul></div></div><h2 class=\"spaced\">Where the Party Left It</h2><p>Back in the Long Rest after the fight, resting safe. Next stop declared at the table: <strong>Selma's apothecary</strong> (they believe she is drugging the town) and then <strong>the caves</strong> — the ruin the townsfolk once pointed the Kestrel Company toward. Marn's Journal and Sera's Map of the Four Ruins sit in the party stash, unread.</p><div class=\"gmnote\"><p><strong>What the party knows vs. suspects:</strong> KNOWN — the dream-woman is a dryad; the whole town drinks a dream-suppressing tonic weekly; the Kestrel Company died to displacer beasts at the old temple; the tree is guarded by standing order. SUSPECTED (said aloud) — the dryad is bound to the gray tree; Selma is \"drugging the whole town\"; Oswin is \"a devil in disguise\" (Gren); the town's free generosity is bait (Thomas). Nothing about the Dreamer, the shards' true nature, or the town's actual sin has surfaced.</p></div></div></section>",
+        "format": 1
+      },
+      "_id": "Vs6mgQmFhL8qIpN6",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786537904099,
+        "modifiedTime": 1786537904099,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!WxybeU0AhIymHcxo.Vs6mgQmFhL8qIpN6"
+    },
+    {
+      "type": "text",
+      "name": "The Cast — As Met",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><p class=\"lead\">Every named local the party has now met, and exactly what each one gave away. This is the canon of first impressions — keep their voices consistent.</p><h2 class=\"spaced\">Mayor Oswin Applewhite</h2><p>Met in the square, arms wide, \"like family coming home.\" Gave the full tour personally. Canon from his own mouth: mayor ~15 years, born here, never left (\"no desire to — this place is perfect\"); no elections, \"the town just sort of votes whoever wants to do the bureaucracy\"; trade is with \"select partners,\" no advertising, syrups and preserves the export; the Kestrel Company came months ago hunting the Broken Heart, got directions, supplies, and hospitality, and never came back; <em>\"There is no crying here\"</em> — said as a selling point. Warm, unhurried, genuinely fond. Gren privately called him a devil in disguise; nothing at the table contradicted the warmth.</p><h2 class=\"spaced\">Constable Warrenholt</h2><p>Runs the East Watch. Cut into the monster talk at the inn, then <strong>whispered</strong>: <em>\"I think I know the mistakes those adventurers made. Come to the barracks — I don't want to bother Oswin with such things.\"</em> At the garrison he delivered the full displacer briefing (scouts, the stalk-and-wait pattern, the old temple, \"kill them first, at full strength, at a moment of your choosing\") and pointed them north. Hard line: <em>\"We don't leave the town, and they don't come in here — they're not our problem.\"</em> He is now the party's side-channel away from the mayor's ears — decide what else he knows before they cash the rest of that whisper.</p><h2 class=\"spaced\">Pip</h2><p>Halfling child, inn porch, root beer. Taller than Gren and proud of it. Freely gave the campaign's best intel: <strong>big black cats with too many legs</strong> circled the town when the Kestrels were here and again an hour before this party emerged — <em>\"I didn't tell anybody because I don't want to bother them.\"</em> Refused a gold piece (\"I honestly don't need gold\"). Volunteered that he eavesdrops on the adults. On the tonic: <em>\"All I know is my mommy takes my medicine.\"</em> Wants adventure; is now the party's informant. Decide whether the town notices. <em>⟨Retcon 2026-08-25 (owner): his session-3 tip that Selma \"doesn't shut up\" about the Broken Heart is VOID — nobody in town knows the Heart (plot §3.2). If a player quotes it back: Pip is a small eavesdropper who mixed up which adult retold the Kestrels' relic-talk; Selma, asked, points at the mayor — he's the one who spoke with them.⟩</em></p><h2 class=\"spaced\">Ambrose</h2><p>Barman of the Long Rest. Everything on the house — \"we love our guests.\" No hard liquor (\"just not our style\"). Big glass for the big guy, small glass for Gren. Explained spellcasting etiquette when Thomas asked about casting indoors. Friendly, unremarkable — so far.</p><h2 class=\"spaced\">Mother Wend</h2><p>The Full Larder. Knew all four names before they entered (\"this town is small and we love to talk\"). Buys back at half. Sold the three 400 gp items (Gauntlets of Ogre Power, Bracers of Archery, Wand of Magic Missiles) and kept the <strong>Pearl of Power</strong> on the shelf — Gren wanted it and went broke first; the party then got one free from the Kestrel camp (\"Hey, good thing you didn't buy it\"). Won't sell what's in her private inventory: \"if it's in my inventory somewhere, it's not for sale.\"</p><h2 class=\"spaced\">Coll</h2><p>The gravedigger (the plot doc's chosen voice for the Kestrel warning — he delivered). Lifelong local, parents in the south cottage. Quietly: <em>\"It hasn't been right since\"</em> the Kestrels — they complained of bad dreams, which reminded him of his own childhood bad dreams <strong>before Selma \"helped him out.\"</strong> Confirmed the whole town takes the tonic weekly from childhood. Ended apologizing for himself: \"maybe I'm crazy.\" He is the town's one visible crack — handle with care.</p><h2 class=\"spaced\">Selma — NOT YET MET</h2><div class=\"gmnote\"><p>The apothecary. The party knows: her name is on the tonic label (\"One swallow, seventh-day, as ever. — Selma\"), she brews for the whole town, and she sells potions (the party is nearly dry on healing). They arrive BELIEVING she drugs the town. Her scene opens session 4 — decide her manner, what she admits about the tonic, and her potion stock before Tuesday. <em>⟨Amended 2026-08-25 (owner retcon): she does NOT know the Broken Heart — see Pip's entry above and plot §3.2.⟩</em></p></div></div></section>",
+        "format": 1
+      },
+      "_id": "WPDy4KYbF5QqBFkH",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786537904099,
+        "modifiedTime": 1787670262391,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!WxybeU0AhIymHcxo.WPDy4KYbF5QqBFkH"
+    },
+    {
+      "type": "text",
+      "name": "The Tonic, the Dreams & the Gray Tree",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><p class=\"lead\">The night-zero engine fired exactly as designed: the party refused the tonic, and all four dreams landed. Everything here is now established at the table.</p><h2 class=\"spaced\">The Tonic — What Surfaced</h2><ul><li>Thomas's dose (hidden-temple find, a fey wanderer's effects) was re-read aloud: <em>\"One swallow, seventh-day, as ever. — Selma.\"</em></li><li>Coll: bad dreams as a boy until Selma helped; the Kestrels complained of bad dreams too.</li><li>Town protocol (Coll + Pip + ambient): everyone drinks it every seventh day, starting in childhood — \"as soon as we're old enough to dream.\" Pip's mother administers his.</li><li>Thomas flagged the known lore: no virtue but dreamless sleep; sleeping dreamless long-term \"has serious health effects\" (his in-character claim — decide if that's true here).</li><li>Gren's call, party-binding: <em>\"Let's spend the night without drinking the tonic.\"</em> They intend to KEEP dreaming.</li></ul><h2 class=\"spaced\">The Four Dreams — As Delivered</h2><p>One visitor in all four: a beautiful pale woman on a hill, hair the leaves and branches of a white tree, weeping; her grief pours into the sleeper and finds their own.</p><ul><li><strong>Thomas:</strong> the murder of his wife and children — gone from the mortal world forever, never to be gotten back; under the Oath of Vengeance, only grief.</li><li><strong>Morgash:</strong> Baldur's Gate; his pledge to Lae'zel and her goodbye — <em>\"I cannot love someone in this world. I must go fight and destroy my queen… Goodbye, my Morgash. I will remember you\"</em> — the red dragon, the dark sky, the loneliness of being left. <strong>He withheld all of this from the party</strong> (\"I won't give details about my broken heart\").</li><li><strong>Gren:</strong> the elders sending him from his Misty Forest village — \"to explore the world\" — and the question underneath: was it the spellfire? Cast out, unwanted, unloved, still loving the village.</li><li><strong>Jetten:</strong> dreamed IN TRANCE, eyes open, <strong>his moonstone necklace glowing bright green throughout</strong> — his sister, dead long ago, and the elf's curse of outliving her. He has not yet asked why the necklace glowed. Neither has anyone else.</li></ul><h2 class=\"spaced\">The Morning After</h2><p>Gren's natural-20 Religion (22) + Thomas's 20: the woman is a <strong>dryad</strong> — fey, immortal, rotating between elf-form and tree. Thomas publicly connected dryad ↔ the town's one dying tree. Morgash earned an inspiration for his square speech: <em>\"Life is not perfect.\"</em></p><h2 class=\"spaced\">The Gray Tree</h2><ul><li>Four guards posted at all times; orders from the constable AND the mayor: let no one destroy it, let no one <strong>chip the bark</strong>, report anything that happens to it.</li><li>Guard canon: born here, \"this tree has always been like this\"; the town constantly tries to revive it and nothing works; \"almost like a symbol of our town — the one thing that doesn't flourish.\" The grass around it is vibrant.</li><li>Checks: Jetten's Nature said \"dead tree\" (a 2, twice); Thomas (15) saw sick-not-dead, per <em>Volo's Guide to the Arboretum</em>.</li><li>Morgash loudly flagged the guard math in the square. The town heard.</li></ul><div class=\"gmnote\"><p><strong>If someone chips the bark:</strong> undecided. Decide before session 4 — the party has the phrase and at least one of them will test it eventually.</p></div></div></section>",
+        "format": 1
+      },
+      "_id": "rfJ6rPbEuLZ9qSiX",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786537904099,
+        "modifiedTime": 1786537904099,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!WxybeU0AhIymHcxo.rfJ6rPbEuLZ9qSiX"
+    },
+    {
+      "type": "text",
+      "name": "The Displacer Interlude — Resolved",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><p class=\"lead\">The plot doc's displacer interlude ran 2026-08-11 at the Former Adventurers' Camp (southeast of town, on the shrine road) and is RESOLVED. Outcome ledger below; the camp is now a looted, cleared site.</p><h2 class=\"spaced\">As Run</h2><ul><li>Party chose the constable's option: hunt the pack fresh, at the camp, before any ruin. The telegraphs that fired: trailhead prints (Morgash), Pip's black cats, Warrenholt's briefing. The un-fired town beats (restless horses, the uneaten sheep kill) are moot now.</li><li>Force: 3× displacer beast + the alpha (the off-map difficulty-dial beast WAS deployed). Opening: Jetten spotted the watcher at 135 ft (Perception 25); the howl summoned the rest; the party was encircled at the courtyard.</li><li>The <strong>Lantern of Revealing ruling played out as designed</strong> (\"light anchors the wound\"): unhooded via Thomas's mid-fight Arcana 23, it stripped Displacement inside 30 ft; the beasts learned by the next round and skirmished at the glow's edge. This is now table canon.</li><li>Counters as predicted: Magic Missile carried the damage race; Faerie Fire was TRIED and failed (the one beast in the cube passed its Dex save); Graze chipped; Avoidance blanked Shatter twice and Web twice.</li><li>Casualty math: Jetten dropped (revived by Subtle Cure Wounds), Morgash to 0 (Relentless Endurance), Thomas to 3 HP off a tentacle crit. Nobody stayed down.</li></ul><h2 class=\"spaced\">Kill Ledger</h2><ul><li>Beast #1 — Morgash (Precision Attack backswing).</li><li>Beast #2 — Morgash (opportunity strike as Thomas's Thunderous Smite hurled it back). \"Excellently played.\"</li><li>Alpha — Thomas (First Light through the chest, Lathander flare).</li><li>Beast #3 — fled leaderless when the alpha died. <strong>✅ RESOLVED (owner, 2026-08-17): GONE FOR GOOD</strong> — no echo, no return; the wrap narration (\"the threat is eradicated\") is literal truth. The GM-only Feywild-origin seed (the session-2 thin place) survives as origin lore only — it is not a survivor hook.</li></ul><h2 class=\"spaced\">The Camp After</h2><p>Both caches looted to the party stash (crate stamped \"Full Larder\" + the brush pile): the Kestrel personal effects (Sera's arms and map, Marn's journal and crossbow, Brakk's claw-rent plate, the locket, the sketch of a weeping woman), Maul of Momentum (→ Morgash, unattuned), Pearl of Power, 2× Greater Healing, 17× +1 arrows, 74 gp, preserves, Fey Ring Cap, Everbloom Petal. <strong>Marn's Journal and Sera's Map remain unread by the party — ✅ full owner-authored text is written on both world items, safe to open from home any time.</strong> The camp itself holds nothing further unless something new moves in; the session-4 march to the caves passes it.</p></div></section>",
+        "format": 1
+      },
+      "_id": "MSzBSrmKNhRrJtBQ",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786537904099,
+        "modifiedTime": 1787063470689,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!WxybeU0AhIymHcxo.MSzBSrmKNhRrJtBQ"
+    },
+    {
+      "type": "text",
+      "name": "Threads Into Session 4",
+      "text": {
+        "content": "<section class=\"mcp-journal\"><div class=\"wrap\"><p class=\"lead\">The open ends the arrival day left behind, in rough order of how hard they'll pull.</p><ul><li><strong>Selma.</strong> First declared stop. The party arrives convinced she drugs the town, armed with the label and Coll's story — and needing to buy healing potions from her at the same time. <em>Canon 2026-08-18 (innocent-town retcon): there is no conspiracy to uncover. She sells tonic and potions to anyone who asks and shares the elders' vague old knowledge (something sleeps at the tree, probably a dryad; the tonic keeps its sorrow out) if asked kindly. The scene is a conversation, not a wall. ⟨Amended 2026-08-25 (owner): she does NOT know the visitors' relic legend at all — Pip's session-3 tip is retconned void; the party brings the Broken Heart to her counter, never the reverse.⟩</em></li><li><strong>The caves.</strong> The chosen first ruin (= the Hollow Shrine; <strong>✅ build COMPLETE</strong> — five scenes under <code>05 - The Hollow</code>, encounters and treasure placed; see the 05 GM Key). \"That's where the town folk were going to\" — the same direction the town pointed the Kestrels. The march runs <strong>southeast</strong>, past the Kestrels' looted camp, into the hills toward the High Moor (the treasure-map handout is the geographic authority).</li><li><strong>Marn's Journal + Sera's Map.</strong> In the party stash, unread; Tom said he'll read from home this week. <strong>✅ Full text is written on both world items</strong> — safe whenever he opens them.</li><li><strong>Warrenholt's whisper.</strong> \"The mistakes those adventurers made\" — half-cashed. He gave the tactical briefing; whatever else the barracks conversation holds is undefined.</li><li><strong>Jetten's moonstone necklace</strong> glowed through his dream and nobody has asked why. It will come up.</li><li><strong>Morgash's withheld dream.</strong> The party knows he saw the woman and nothing else. In-party asymmetry to play.</li><li><strong>Pip the informant.</strong> Eager, unpaid, invisible to the adults — and a child the town might start watching.</li><li><strong>The bark.</strong> \"Don't let anybody chip the bark\" is now a player-known phrase. Have an answer.</li><li><strong>Housekeeping:</strong> ✅ long-rest cleanup DONE 2026-08-17 (all four rested in-app; sheets verified — full slots and HP, stale Bless/Bane/Hunter's Mark and Prone effects expired; Gren's wand at 4/7 is deliberate, don't \"fix\" it). ✅ Jetten's level-4 choice resolved (+2 DEX ASI, on the sheet). Still live: remind Anthony the <strong>Maul of Momentum needs attunement</strong> (he has a free slot).</li></ul></div></section>",
+        "format": 1
+      },
+      "_id": "k9jL6BsmPFtTrSRQ",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3",
+        "createdTime": 1786537904099,
+        "modifiedTime": 1787670272133,
+        "lastModifiedBy": "EtG3ba47F3LHz0QC",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!WxybeU0AhIymHcxo.k9jL6BsmPFtTrSRQ"
+    }
+  ],
+  "ownership": {
+    "default": 0,
+    "EtG3ba47F3LHz0QC": 3
+  },
+  "folder": "IrBgFpR2iymTG05P",
+  "_id": "WxybeU0AhIymHcxo",
+  "categories": [],
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1786537904099,
+    "modifiedTime": 1786537904102,
+    "lastModifiedBy": "EtG3ba47F3LHz0QC",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!WxybeU0AhIymHcxo"
+}

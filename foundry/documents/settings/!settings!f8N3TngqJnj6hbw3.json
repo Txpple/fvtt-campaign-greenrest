@@ -1,0 +1,18 @@
+{
+  "key": "dnd5e.movementAutomation",
+  "user": null,
+  "value": "\"full\"",
+  "_id": "f8N3TngqJnj6hbw3",
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1782928461547,
+    "modifiedTime": 1782928461547,
+    "lastModifiedBy": "fsPwfDarpkUyzlhz",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!settings!f8N3TngqJnj6hbw3"
+}
